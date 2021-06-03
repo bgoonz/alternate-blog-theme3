@@ -36,23 +36,16 @@ His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, E
 
 #### What words of wisdom do you live by?&#xA;&#xA;
 
->  "Be the change that you wish to see in the world."
+"Be the change that you wish to see in the world."
 
-> \<cite>
->
-> ― Mahatma Gandhi
->
-> \</cite>
+\<cite>
+― Mahatma Gandhi
+
+\</cite>
 
 > The world always seems brighter when you’ve just made something that wasn’t there before. Neil Gaiman
 
 As a hobby,  I write, play and record music.
-
-
-
-
-
-
 
 ### Coolest Project:
 

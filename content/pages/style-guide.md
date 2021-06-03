@@ -38,61 +38,7 @@ seo:
 layout: page
 ---
 
-> React.Component · render() · componentDidMount() · props/state · dangerouslySetInnerHTML · React is a JavaScript library for building user interfaces. This guide targets React v15 to v16.
 
-[React](https://reactjs.org/) is a JavaScript library for building user interfaces. This guide targets React v15 to v16.
-
-# React Cheat Sheet
-
-## render
-
-## constructor
-
-## componentWillMount
-
-## componentDidMount
-
-## componentWillReceiveProps
-
-## shouldComponentUpdate
-
-## componentWillUpdate
-
-**✖ this.setState**
-
-## componentDidUpdate
-
-## componentWillUnmount
-
-## setState (function)
-
-## setState (object)
-
-## forceUpdate
-
-## displayName
-
-## Children.map
-
-## Children.forEach
-
-## Children.count
-
-## Children.only
-
-## Children.toArray
-
-## Context (example)
-
-## contextTypes
-
-## childContextTypes
-
-## getChildContext
-
-## [#](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#components)Components
-
-### Components
 
 Use the [React.js jsfiddle](https://jsfiddle.net/reactjs/69z2wepo/) to start hacking. (or the unofficial [jsbin](http://jsbin.com/yafixat/edit?js,output))
 

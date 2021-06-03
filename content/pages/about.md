@@ -30,9 +30,31 @@ seo:
       relativeUrl: true
 layout: page
 ---
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+A passionate Web Developer, Electrical Engineer, Musician & Producer
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+
+
+*   🔭 Contract Web Development **Relational Concepts**
+
+*   🌱 I'm currently learning **React/Redux, Python, Java, Express, jQuery**
+
+*   👯 I'm looking to collaborate on [Any web audio or open source educational tools.](https://goofy-euclid-1cd736.netlify.app/core-site/index.html)
+
+*   🤝 I'm looking for help with [Learning React](https://github.com/bgoonz/React-Practice)
+
+*   👨‍💻 All of my projects are available at <https://bgoonz.github.io/>
+
+*   📝 I regularly write articles on [medium](https://bryanguner.medium.com/) && [Web-Dev-Resource-Hub](https://web-dev-resource-hub.netlify.app/)
+
+*   💬 Ask me about **Anything:**
+
+*   📫 How to reach me [**bryan.guner@gmail.com**](mailto:bryan.guner@gmail.com)
+
+*   ⚡ Fun fact **I played Bamboozle Music Festival at the Meadowlands Stadium Complex when I was 14.**
+
+*   ****
+
+### i really like music 🎧
 
 #### What words of wisdom do you live by?&#xA;&#xA;
 
@@ -40,13 +62,11 @@ His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, E
 
 **― Mahatma Gandhi**
 
-***
 
-> The world always seems brighter when you’ve just made something that wasn’t there before. Neil Gaiman
 
-As a hobby,  I write, play and record music.
+## As a hobby,  I write, play and record music.
 
-### Coolest Project:
+##### Coolest Project:
 
 Successfully completed and delivered a platform to digitize a guitar signal and perform filtering before executing frequency & time domain analysis to track a current performance against prerecorded performance.
 

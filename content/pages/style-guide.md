@@ -242,16 +242,3 @@ See: [Typechecking with PropTypes](https://reactjs.org/docs/typechecking-with-p
 
 #### Required
 
-### Basic types
-
-### Required types
-
-### Elements
-
-### Enumerables (oneOf)
-
-### Arrays and objects
-
-Use .array\[Of], .object\[Of], .instanceOf, .shape.
-
-### Custom validation

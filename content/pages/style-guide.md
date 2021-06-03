@@ -40,18 +40,6 @@ layout: page
 
 
 
-Use the [React.js jsfiddle](https://jsfiddle.net/reactjs/69z2wepo/) to start hacking. (or the unofficial [jsbin](http://jsbin.com/yafixat/edit?js,output))
-
-### Import multiple exports
-
-### Properties
-
-Use this.props to access properties passed to the component.
-
-See: [Properties](https://reactjs.org/docs/tutorial.html#using-props)
-
-### States
-
 Use states (this.state) to manage dynamic data.
 
 With [Babel](https://babeljs.io/) you can use [proposal-class-fields](https://github.com/tc39/proposal-class-fields) and get rid of constructor

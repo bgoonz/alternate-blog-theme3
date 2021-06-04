@@ -1,8 +1,6 @@
 ---
 title: Bryan Guner Blog Backup
-subtitle: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries.
+subtitle: Just incase i irreperably damage my main blog site!
 excerpt: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries. The Shrines of Ise have been celebrated as the prototype of

@@ -1,5 +1,5 @@
 ---
-title: Fox Village In Japan
+title: Bryan Guner Blog Backup
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.

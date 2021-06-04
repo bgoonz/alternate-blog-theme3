@@ -1,8 +1,6 @@
 ---
-title: Fox Village In Japan
-subtitle: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries.
+title: Bryan Guner Blog Backup
+subtitle: Just incase I irreparably damage my main blog site!
 excerpt: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries. The Shrines of Ise have been celebrated as the prototype of
@@ -12,7 +10,7 @@ excerpt: >-
 date: '2020-01-11'
 thumb_img_path: images/10.jpg
 thumb_img_alt: A red fox sitting on a meadow
-content_img_path: /images/space.gif
+content_img_path: /images/back.jpeg
 seo:
   title: Fox Village In Japan
   description: >-
@@ -47,19 +45,98 @@ seo:
       relativeUrl: true
 layout: post
 ---
+[Data Structures Website](https://trusting-dijkstra-4d3b17.netlify.app/)
 
-Apparently, Japan is covered in magical and irresistibly cute animal sanctuaries. **The Shrines of Ise** have been celebrated as the prototype of Japanese architecture. Largely of wood, traditional housing and many temple buildings see the use of tatami mats and sliding doors that break down the distinction between rooms and indoor and outdoor space.
+*   [Web-Dev-Quizzes](https://web-dev-interview-prep-quiz-website.netlify.app/intro-js2.html)
 
-> The fox never found a better messenger than himself.
+*   [Recursion](https://zen-lamport-5aab2c.netlify.app/)
 
-As the programming of <a title="Japan" href="http://en.wikipedia.org/wiki/Japan" target="_blank">Japan’s</a> traditional culture gradually weakened from 1945 on, individual Japanese began to exercise some personal choice in their private lives. But the newly mandated freedoms had a minimal effect on a number of key institutions.
+*   [React Documentation Site](https://csb-ov0d1-bgoonz.vercel.app/)
 
-Japan’s educational, economical and political systems remained hidebound bulwarks of traditional behavior. The politically guided economic system in particular was able to generate enormous power that could be directed with the precision of a laser beam.
+*   [Blogs-from-webdevhub](https://amazing-hodgkin-33aea6.netlify.app/)
 
-Twelve species belong to the monophyletic group of Vulpes genus of **"true foxes"**. Approximately another 25 current or extinct species are always or sometimes called foxes; these foxes are either part of the paraphyletic group of the South American foxes, or of the outlying group, which consists of bat-eared fox, gray fox, and island fox. Foxes are found on every continent except Antarctica. By far the most common and widespread species of fox is the red fox *(Vulpes vulpes)* with about 47 recognized subspecies. 
+*   [Realty Website Demo](https://angry-fermat-dcf5dd.netlify.app/)
 
-> The fox changes his fur but not his habits.
+*   [Best-Prac & Tools](https://boring-heisenberg-f425d8.netlify.app/)
 
-The global distribution of foxes, together with their widespread reputation for cunning, has contributed to their prominence in popular culture and folklore in many societies around the world. The hunting of foxes with packs of hounds, long an established pursuit in Europe, especially in the British Isles, was exported by European settlers to various parts of the New World. { <a title="Fox" href="https://en.wikipedia.org/wiki/Fox" target="_blank">Source</a> }
+*   [site-analysis](https://site-analysis.netlify.app/)
 
-The interaction between Japanese and European art has been significant: for example ukiyo-e prints, which began to be exported in the 19th century in the movement known as Japonism, had a significant influence on the development of modern art in the West, most notably on post-Impressionism. Famous ukiyo-e artists include Hokusai and Hiroshige. The fusion of traditional woodblock printing and Western art led to the creation of manga, a comic book format that is now popular within and outside Japan. Manga-influenced animation for television and film is called anime. Japanese-made video game consoles have been popular since the 1980s. { <a title="Ise Grand Shrine" href="http://en.wikipedia.org/wiki/Ise_Grand_Shrine" target="_blank">Source</a> }
+*   [a/AOpen Notes](https://clever-bartik-b5ba19.netlify.app/)
+
+*   [Iframe Embed Playground](https://code-playground.netlify.app/)
+
+*   [Triggered Effects Guitar Platform](https://condescending-lewin-c96727.netlify.app/)
+
+*   [Live Form](https://determined-dijkstra-666766.netlify.app/)
+
+*   [Interview Questions](https://determined-dijkstra-ee7390.netlify.app/)
+
+*   [Resources Compilation](https://eager-northcutt-456076.netlify.app/)
+
+*   [React Blog Depreciated](https://ecstatic-jang-593fd1.netlify.app/)
+
+*   [MihirBeg.com](https://eloquent-sammet-ba1810.netlify.app/)
+
+*   [Embeded Html Projects](https://embedable-content.netlify.app/)
+
+*   [Cheat Sheets](https://festive-borg-e4d856.netlify.app/)
+
+*   [Early Version Of WebDevHub](https://focused-pasteur-0faac8.netlify.app/)
+
+*   [My Gists](https://gists42.netlify.app/)
+
+*   [DS-Algo-Links](https://gracious-raman-474030.netlify.app/)
+
+*   [Video Chat App](https://happy-mestorf-0f8e75.netlify.app/)
+
+*   [Ciriculumn](https://hungry-shaw-30d504.netlify.app/)
+
+*   [Cheat Sheets](https://inspiring-jennings-d14689.netlify.app/)
+
+*   [Links](https://links4242.netlify.app/)
+
+*   [Medium Articles](https://modest-booth-4e17df.netlify.app/)
+
+*   [NextJS Blog Template](https://modest-torvalds-34afbc.netlify.app/)
+
+*   [React Demo](https://modest-varahamihira-772b59.netlify.app/)
+
+*   [Ecomerce Norwex V1](https://nervous-swartz-0ab2cc.netlify.app/)
+
+*   [Gifs](https://objective-borg-a327cd.netlify.app/)
+
+*   [Excel2HTML](https://pedantic-wing-adbf82.netlify.app/)
+
+*   [Data Structures Site](https://pensive-meitner-1ea8c4.netlify.app/)
+
+*   [Portfolio](https://portfolio42.netlify.app/)
+
+*   [Page Templates](https://priceless-shaw-86ccb2.netlify.app/)
+
+*   [Photo Gallary](https://quizzical-mcnulty-fa09f2.netlify.app/)
+
+*   [Coffee Website](https://relaxed-bhaskara-dc85ec.netlify.app/)
+
+*   [Awesome Resources](https://romantic-hamilton-514b79.netlify.app/)
+
+*   [Cheat Sheets](https://silly-lichterman-b22b5f.netlify.app/)
+
+*   [Link City](https://silly-shirley-ec955e.netlify.app/)
+
+*   [VSCODE Extensions](https://stoic-mccarthy-2c335f.netlify.app/)
+
+*   [webdevhub manual attempt](https://web-dev-resource-hub-manual-deploy.netlify.app/)
+
+*   [Norwex Resources](https://wonderful-pasteur-392fbe.netlify.app/)
+
+*   [idk](https://zen-bhabha-bd046f.netlify.app/)
+
+*   [heroku bare bones template](https://getting-started42.herokuapp.com/)
+
+*   [bad reads](https://bad-reads42.herokuapp.com/)
+
+*   [docusaurus](https://documentation-site-react2.vercel.app/)
+
+*   [stackbit](https://app.stackbit.com/studio/609b2d7c71a5dd0016f36326)
+
+*   [NEW BLOG](https://best-celery-b2d7c.netlify.app/)

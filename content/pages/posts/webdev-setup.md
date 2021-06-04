@@ -1,6 +1,6 @@
 ---
 title: Bryan Guner Blog Backup
-subtitle: Just incase i irreperably damage my main blog site!
+subtitle: Just incase I irreparably damage my main blog site!
 excerpt: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries. The Shrines of Ise have been celebrated as the prototype of

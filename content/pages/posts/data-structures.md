@@ -7,7 +7,7 @@ excerpt: >-
   camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi;
   payment; usb; vr; xr-spatial-tracking"    sandbox="allow-forms allow-modals
   allow-popups allow-presentation allow-same-origin allow-scripts"  ></iframe>
-  -->
+
 date: '2018-01-09'
 thumb_img_path: /images/mental.png
 thumb_img_alt: Icelandic horses

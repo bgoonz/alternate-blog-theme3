@@ -1,9 +1,13 @@
 ---
 title: The Science Of Thought
 excerpt: >-
-  Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
-  It has a population of 325,671 and an area of 103,000 km2 (40,000 sq mi),
-  making it the most sparsely populated country in Europe.
+ <iframe src="https://bgoonz-blog.netlify.app/"
+     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
+     title="react-redux-todo"
+     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+   ></iframe> -->
+
 date: '2018-01-09'
 thumb_img_path: /images/childhood.jpg
 thumb_img_alt: Icelandic horses

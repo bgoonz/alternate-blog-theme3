@@ -132,7 +132,7 @@ models:
           allowfullscreen></iframe>
       - type: string
         name: path_prefix
-        label: Base URL
+        label: videos/
         description: >-
           The base URL of this site. Useful for sites hosted under specific
           path, e.g.: https://www.example.com/my-site/

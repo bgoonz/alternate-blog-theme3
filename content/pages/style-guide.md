@@ -41,6 +41,9 @@ layout: page
 React.js cheatsheet
 ===================
 
+
+
+
 > React.Component - render() - componentDidMount() - props/state - dangerouslySetInnerHTML - React is a JavaScript library for building user interfaces. This guide targets React v15 to v16.
 
 [React](https://reactjs.org/) is a JavaScript library for building user interfaces. This guide targets React v15 to v16.

@@ -7,7 +7,7 @@ excerpt: >-
 date: '2019-04-09'
 thumb_img_path: /images/top-half-mihir.png
 thumb_img_alt: A man standing on a rock cliff overlooking a river
-content_img_path: /images/thoughtful-neptune.PNG
+content_img_path: /images/bowie.PNG
 seo:
   title: Basic Rules For Walking In The Mountains
   description: >-

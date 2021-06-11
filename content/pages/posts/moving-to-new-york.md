@@ -1,5 +1,5 @@
 ---
-title: Few Things I Wish I Knew Before I Moved to New York
+title: The Harmonic Series and The Fourier Transform
 subtitle: A cautionary tale about life in New York
 excerpt: >-
   The City of New York, usually called either New York City (NYC) or simply New
@@ -8,7 +8,7 @@ excerpt: >-
   square miles (784 km2), New York is also the most densely populated major city
   in the United States.
 date: '2018-01-23'
-thumb_img_path: images/5.jpg
+thumb_img_path: /images/sine-wav-bak.gif
 thumb_img_alt: Brooklyn Bridge at daytime
 content_img_path: images/5.jpg
 seo:

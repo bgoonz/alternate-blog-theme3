@@ -1,10 +1,10 @@
 {
-    "title": "Stackbit Fjord Theme",
+    "title": "Web Audio Applications",
     "path_prefix": "/",
     "palette": "yellow",
     "header": {
         "title": "Fjord",
-        "tagline": "Minimal and clean blog theme",
+        "tagline": "Web Audio Applications",
         "logo_img": "/images/FINAL.png",
         "logo_img_alt": "Fjord Logo",
         "background_img": "/images/dtw2.jpg",

@@ -8,7 +8,7 @@ layout: page
      title="react-redux-todo"
      allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
      sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-   ></iframe> -->
+   ></iframe> 
 
 
 Thank you for contacting me! I will get back in touch with you soon.

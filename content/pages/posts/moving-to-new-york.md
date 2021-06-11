@@ -1,5 +1,5 @@
 ---
-title: Few Things I Wish I Knew Before I Moved to New York
+title: The Harmonic Series and The Fourier Transform
 subtitle: A cautionary tale about life in New York
 excerpt: >-
   The City of New York, usually called either New York City (NYC) or simply New

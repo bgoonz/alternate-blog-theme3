@@ -78,7 +78,7 @@
                 "url": "https://github.com/bgoonz",
                 "style": "icon",
                 "icon_class": "github",
-                "new_window": false,
+                "new_window": true,
                 "no_follow": false,
                 "type": "action"
             }

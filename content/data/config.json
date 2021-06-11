@@ -93,5 +93,6 @@
             }
         ]
     },
-    "domain": "https://melodic-lettuce-8d58b.netlify.app"
+    "domain": "https://melodic-lettuce-8d58b.netlify.app",
+    "favicon": "/images/favicon.ico"
 }

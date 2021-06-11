@@ -74,7 +74,7 @@
         "content": "My (now) Depreciated Blog: https://web-dev-resource-hub.netlify.app/",
         "links": [
             {
-                "label": "lorem-ipsum",
+                "label": "Git",
                 "url": "https://github.com/bgoonz",
                 "style": "icon",
                 "icon_class": "github",

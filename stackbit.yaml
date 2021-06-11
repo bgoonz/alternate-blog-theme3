@@ -121,7 +121,7 @@ models:
     fields:
       - type: html
         name: title
-        label: Title
+        label: Embed
         description: Site title
         required: true
       - type: string

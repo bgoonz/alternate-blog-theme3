@@ -8,7 +8,7 @@ excerpt: >-
   square miles (784 km2), New York is also the most densely populated major city
   in the United States.
 date: '2018-01-23'
-thumb_img_path: images/5.jpg
+thumb_img_path: /images/sine-wav-bak.gif
 thumb_img_alt: Brooklyn Bridge at daytime
 content_img_path: images/5.jpg
 seo:

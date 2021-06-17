@@ -41,14 +41,6 @@ layout: page
 React.js cheatsheet
 ===================
 
-<iframe src="https://codesandbox.io/embed/react-redux-todo-urxh4?fontsize=14&hidenavigation=1&theme=dark"
-     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
-     title="react-redux-todo"
-     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-   ></iframe>
-
-
 > React.Component - render() - componentDidMount() - props/state - dangerouslySetInnerHTML - React is a JavaScript library for building user interfaces. This guide targets React v15 to v16.
 
 [React](https://reactjs.org/) is a JavaScript library for building user interfaces. This guide targets React v15 to v16.

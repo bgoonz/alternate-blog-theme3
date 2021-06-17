@@ -1,7 +1,7 @@
 {
     "title": "Web Audio Applications",
     "path_prefix": "/",
-    "palette": "green",
+    "palette": "yellow",
     "header": {
         "title": "Fjord",
         "tagline": "Web Audio Applications",
@@ -71,28 +71,7 @@
         ]
     },
     "footer": {
-        "content": "My (now) Depreciated Blog: https://web-dev-resource-hub.netlify.app/",
-        "links": [
-            {
-                "label": "Git",
-                "url": "https://github.com/bgoonz",
-                "style": "icon",
-                "icon_class": "github",
-                "new_window": true,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            }
-        ]
+        "content": "My (now) Depreciated Blog: https://web-dev-resource-hub.netlify.app/"
     },
-    "domain": "https://melodic-lettuce-8d58b.netlify.app",
-    "favicon": "/images/favicon.ico"
+    "domain": "https://melodic-lettuce-8d58b.netlify.app"
 }

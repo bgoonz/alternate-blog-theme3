@@ -70,21 +70,3 @@ Successfully completed and delivered a platform to digitize a guitar signal and 
 
 # Who I am in Pictures:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

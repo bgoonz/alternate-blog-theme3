@@ -68,18 +68,25 @@ Successfully completed and delivered a platform to digitize a guitar signal and 
 
 *   Implemented the Dynamic Time Warping algorithm in C++ and Python to autonomously activate or adjust guitar effect at multiple pre-designated section of performance.
 
-
-
-
-
-
-
 # Who I am in Pictures:
-
-
 
 ![](/\_static/app-assets/images/mim2.png)
 
-![](/\_static/app-assets/images/bgoon.png)
+
 
 ![](/\_static/app-assets/images/2018-03-30\_21-14-06\_UTC.jpg)
+
+![](/\_static/app-assets/images/2018-03-30\_21-10-30\_UTC.jpg)
+
+![](/\_static/app-assets/images/2019-09-19\_17-34-41\_UTC.jpg)
+
+![](/\_static/app-assets/images/2020-10-01\_12-50-35\_UTC.jpg)
+
+![](/\_static/app-assets/images/2019-09-20\_00-28-07\_UTC\_4.jpg)
+
+![](/\_static/app-assets/images/2019-08-20\_19-47-35\_UTC.jpg)
+
+![](/\_static/app-assets/images/2020-07-31\_20-19-53\_UTC.jpg)
+
+![](/\_static/app-assets/images/2019-06-12\_01-58-13\_UTC.jpg)
+

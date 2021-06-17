@@ -1,9 +1,11 @@
 ---
 title: The Science Of Thought
 excerpt: >-
-  | 
+  Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
+  It has a population of 325,671 and an area of 103,000 km2 (40,000 sq mi),
+  making it the most sparsely populated country in Europe.
 date: '2018-01-09'
-thumb_img_path: /images/mental.png
+thumb_img_path: /images/childhood.jpg
 thumb_img_alt: Icelandic horses
 hide_header: true
 seo:
@@ -40,14 +42,6 @@ layout: post
 ---
 
 **Iceland** Enim nec dui nunc mattis enim ut tellus elementum sagittis. *Felis bibendum ut tristique et egestas quis ipsum suspendisse*. Est pellentesque elit ullamcorper dignissim cras tincidunt lobortis. Orci ac auctor augue mauris. Ut pharetra sit amet aliquam id diam. Lectus arcu bibendum at varius vel pharetra. Id nibh tortor id aliquet lectus proin nibh. Duis ut diam quam nulla porttitor massa id neque aliquam. Feugiat nibh sed pulvinar proin gravida. Dolor purus non enim praesent elementum. Pharetra convallis posuere morbi leo urna molestie. Vulputate enim nulla aliquet porttitor lacus luctus accumsan tortor posuere.
-
-<iframe src="https://bgoonz-blog.netlify.app/"    style="width:100%;
-  height:500px; border:0; border-radius: 4px; overflow:hidden;"   
-  title="react-redux-todo"    allow="accelerometer; ambient-light-sensor;
-  camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi;
-  payment; usb; vr; xr-spatial-tracking"    sandbox="allow-forms allow-modals
-  allow-popups allow-presentation allow-same-origin allow-scripts"  ></iframe>
-
 
 > Iceland, I'm in love with that country, the people are incredible. - Kit Harington
 

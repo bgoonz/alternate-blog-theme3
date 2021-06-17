@@ -32,8 +32,6 @@ layout: page
 ---
 A passionate Web Developer, Electrical Engineer, Musician & Producer
 
-
-
 *   🔭 Contract Web Development **Relational Concepts**
 
 *   🌱 I'm currently learning **React/Redux, Python, Java, Express, jQuery**
@@ -52,7 +50,7 @@ A passionate Web Developer, Electrical Engineer, Musician & Producer
 
 *   ⚡ Fun fact **I played Bamboozle Music Festival at the Meadowlands Stadium Complex when I was 14.**
 
-*   ****
+***
 
 ### i really like music 🎧
 
@@ -62,8 +60,6 @@ A passionate Web Developer, Electrical Engineer, Musician & Producer
 
 **― Mahatma Gandhi**
 
-
-
 ## As a hobby,  I write, play and record music.
 
 ##### Coolest Project:
@@ -71,3 +67,19 @@ A passionate Web Developer, Electrical Engineer, Musician & Producer
 Successfully completed and delivered a platform to digitize a guitar signal and perform filtering before executing frequency & time domain analysis to track a current performance against prerecorded performance.
 
 *   Implemented the Dynamic Time Warping algorithm in C++ and Python to autonomously activate or adjust guitar effect at multiple pre-designated section of performance.
+
+
+
+
+
+
+
+# Who I am in Pictures:
+
+
+
+![](/\_static/app-assets/images/mim2.png)
+
+![](/\_static/app-assets/images/bgoon.png)
+
+![](/\_static/app-assets/images/2018-03-30\_21-14-06\_UTC.jpg)

@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: This is a short page about me and my work
-img_path: /images/music-profile-narrow.png
+img_path: /images/sine-wav-bak-ver.jpg
 seo:
   title: About Me
   description: A page about me and my work

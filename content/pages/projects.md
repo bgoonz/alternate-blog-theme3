@@ -1,6 +1,6 @@
 ---
-title: lorem-ipsum
-subtitle: lorem-ipsum
+title: Projects
+subtitle: Projects
 seo:
 title: ''
 description: ''

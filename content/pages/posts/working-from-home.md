@@ -10,9 +10,6 @@ thumb_img_alt: Home office setup
 content_img_path: images/9.jpg
 seo:
   title: The Advantages and Disadvantages of Working from Home
-  description: >-
-    Work at home parent is an entrepreneur who works from home and integrates
-    parenting into his or her business activities
   extra:
     - name: 'og:type'
       value: article
@@ -40,21 +37,203 @@ seo:
     - name: 'twitter:image'
       value: images/9.jpg
       relativeUrl: true
+  description: "If you store your technical specs, scripts, and other files in\_Drive\_or a\_shared drive, you can access them on any device, anytime. And, if something goes wrong with a file or a build isn’t ready for publishing, you can revert to a previous version."
 layout: post
 ---
 
-**Working from home** convallis aenean et tortor at risus viverra adipiscing at in. Maecenas accumsan lacus vel facilisis volutpat est. Nisl suscipit adipiscing bibendum est ultricies. Nulla facilisi cras fermentum odio eu feugiat pretium. Donec ac odio tempor orci dapibus. Eget velit aliquet sagittis id. Morbi non arcu risus quis varius quam quisque id diam. Facilisis gravida neque convallis a cras semper auctor neque vitae. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Aliquam vestibulum morbi blandit cursus risus. Eget mauris pharetra et ultrices neque ornare.
 
-## Advantages and Disadvantages 
+|
 
-Dignissim diam quis enim lobortis scelerisque. Vitae elementum curabitur vitae nunc. Ultrices neque ornare aenean euismod elementum nisi quis eleifend quam. Et ligula ullamcorper malesuada proin libero nunc consequat interdum. Quam lacus suspendisse faucibus interdum posuere. Bibendum arcu vitae elementum curabitur vitae nunc. Ullamcorper malesuada proin libero nunc. Sit amet risus nullam eget felis eget nunc lobortis. Elementum curabitur vitae nunc sed velit dignissim sodales. Turpis in eu mi bibendum neque egestas congue quisque egestas.
+### 1
 
-> Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do. - Pele
+ |
 
-Fermentum iaculis eu non diam. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Viverra nam libero justo laoreet sit amet cursus. Interdum consectetur libero id faucibus nisl tincidunt eget nullam. Aliquet sagittis id consectetur purus ut. Iaculis eu non diam phasellus. Ipsum dolor sit amet consectetur adipiscing elit duis. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec. Dictum sit amet justo donec enim diam. Ultrices eros in cursus turpis massa tincidunt dui. Adipiscing elit ut aliquam purus sit.
+### Draft and share technical specifications
 
-## Types Of Work
+![""](https://storage.googleapis.com/support-kms-prod/e34cDSA9TNd1pSOKVIDoHSXvGNgDQjcrnOD3 """")
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Felis donec et odio pellentesque diam volutpat. A diam maecenas sed enim ut sem viverra aliquet. Felis eget nunc lobortis mattis aliquam faucibus. Urna cursus eget nunc scelerisque viverra mauris. Pellentesque elit ullamcorper dignissim cras tincidunt lobortis. Ac tincidunt vitae semper quis lectus nulla at volutpat diam. Sapien faucibus et molestie ac feugiat sed lectus vestibulum. Ac turpis egestas sed tempus urna et pharetra pharetra massa. Vitae semper quis lectus nulla. Velit sed ullamcorper morbi tincidunt ornare. A arcu cursus vitae congue mauris. Amet nulla facilisi morbi tempus iaculis urna.
+When you're planning a new website, use Docs to draft all your technical specs. Then, share the specs with your team for feedback so everyone agrees on what needs to be built.
 
-Fermentum iaculis eu non diam. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Viverra nam libero justo laoreet sit amet cursus. Interdum consectetur libero id faucibus nisl tincidunt eget nullam. Aliquet sagittis id consectetur purus ut. Iaculis eu non diam phasellus. Ipsum dolor sit amet consectetur adipiscing elit duis. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec. Dictum sit amet justo donec enim diam. Ultrices eros in cursus turpis massa tincidunt dui. Adipiscing elit ut aliquam purus sit.
+#### Learn how
+
+[Docs](https://support.google.com/a/users/answer/9305987)
+
+![gray bar](https://lh3.googleusercontent.com/WqfSWqvkRw9JIPxQVAWTOnIuqhW70krt6nC0hCMpaZJW786BxwK4xvg0UOUJZVjkU_uN=w700 "gray bar")
+
+ |
+
+|
+
+### 2
+
+ |
+
+### Store and archive files in one place
+
+![""](https://storage.googleapis.com/support-kms-prod/e34cDSA9TNd1pSOKVIDoHSXvGNgDQjcrnOD3 """")
+
+If you store your technical specs, scripts, and other files in Drive or a shared drive, you can access them on any device, anytime. And, if something goes wrong with a file or a build isn't ready for publishing, you can revert to a previous version.
+
+#### Learn how
+
+-   [Drive](https://support.google.com/a/users/answer/9310458)
+-   [Shared drives](https://support.google.com/a/users/answer/9310154)
+
+![gray bar](https://lh3.googleusercontent.com/WqfSWqvkRw9JIPxQVAWTOnIuqhW70krt6nC0hCMpaZJW786BxwK4xvg0UOUJZVjkU_uN=w700 "gray bar")
+
+ |
+
+|
+
+### 3
+
+ |
+
+### Create easy, impactful websites
+
+![""](https://storage.googleapis.com/support-kms-prod/e34cDSA9TNd1pSOKVIDoHSXvGNgDQjcrnOD3 """")
+
+Whether you're setting up an intranet for your company, a project website for your team, or a portal for customers, you can create websites using Sites. It's easy to insert documents, spreadsheets, calendars, and more without complex development work because Sites is integrated with other Google products. If your site is public, you can increase site traffic with [Google My Business](https://www.google.com/business/).
+
+#### Learn how
+
+[Sites](https://support.google.com/a/users/answer/9310491)
+
+![gray bar](https://lh3.googleusercontent.com/WqfSWqvkRw9JIPxQVAWTOnIuqhW70krt6nC0hCMpaZJW786BxwK4xvg0UOUJZVjkU_uN=w700 "gray bar")
+
+ |
+
+|
+
+### 4
+
+ |
+
+### Make your website more engaging
+
+![""](https://storage.googleapis.com/support-kms-prod/e34cDSA9TNd1pSOKVIDoHSXvGNgDQjcrnOD3 """")
+
+Websites compete with one another for visitors, so making your site stand out is important to increase web traffic. With Sites, you can start with a strong visual style by adding colorful images, contrasting themes, and font styles. Increase interactivity by adding features, such as calendars, maps, or YouTube videos. Then, help people find your site in search results by [boosting search engine optimization (SEO)](https://support.google.com/webmasters/answer/40349/).
+
+#### Learn how
+
+[Sites](https://support.google.com/a/users/answer/9310371#2.1)
+
+![gray bar](https://lh3.googleusercontent.com/WqfSWqvkRw9JIPxQVAWTOnIuqhW70krt6nC0hCMpaZJW786BxwK4xvg0UOUJZVjkU_uN=w700 "gray bar")
+
+ |
+
+|
+
+### 5
+
+ |
+
+### Make your website mobile-friendly
+
+![""](https://storage.googleapis.com/support-kms-prod/e34cDSA9TNd1pSOKVIDoHSXvGNgDQjcrnOD3 """")
+
+Many people access websites on their phones, so it's important to make sure your site will run smoothly on different mobile devices. Sites automatically adjusts your website content for different screen sizes and adds functionalities for certain device types, such as tappable phone numbers to make a call. You can also increase mobile traffic with [Google Ads](https://www.google.com/adwords/). On mobile devices, people tend to use fewer and shorter terms, so keep your keywords concise and relevant.
+
+#### Learn how
+
+[Sites](https://support.google.com/a/users/answer/9310371#4.1)
+
+![gray bar](https://lh3.googleusercontent.com/WqfSWqvkRw9JIPxQVAWTOnIuqhW70krt6nC0hCMpaZJW786BxwK4xvg0UOUJZVjkU_uN=w700 "gray bar")
+
+ |
+
+|
+
+### 6
+
+ |
+
+### Build advanced, dynamic websites
+
+![""](https://storage.googleapis.com/support-kms-prod/e34cDSA9TNd1pSOKVIDoHSXvGNgDQjcrnOD3 """")
+
+To create advanced features and scripts, build your web and mobile apps with Google App Engine and Google Cloud Platform. Let site visitors sign in with their email accounts, save form responses to a database, create content management systems, and more. Develop new features without affecting the live site through Cloud Platform's revision control. Preview your changes and compare site versions, then choose the changes you want to launch.
+
+#### Learn how
+
+-   [App Engine](https://cloud.google.com/appengine/)
+-   [Google Cloud Platform](https://cloud.google.com/)
+
+![gray bar](https://lh3.googleusercontent.com/WqfSWqvkRw9JIPxQVAWTOnIuqhW70krt6nC0hCMpaZJW786BxwK4xvg0UOUJZVjkU_uN=w700 "gray bar")
+
+ |
+
+|
+
+### 7
+
+ |
+
+### Share prototypes with remote teams or clients
+
+![""](https://storage.googleapis.com/support-kms-prod/e34cDSA9TNd1pSOKVIDoHSXvGNgDQjcrnOD3 """")
+
+If you work with international teams or clients, use Google Meet to hold impromptu video meetings. [Share](https://support.google.com/a/users/answer/9308856) your screen to show early drafts and get feedback before publishing.
+
+#### Learn how
+
+[Google Meet](https://support.google.com/a/users/answer/9302870#1.1)
+
+![gray bar](https://lh3.googleusercontent.com/WqfSWqvkRw9JIPxQVAWTOnIuqhW70krt6nC0hCMpaZJW786BxwK4xvg0UOUJZVjkU_uN=w700 "gray bar")
+
+ |
+
+|
+
+### 8
+
+ |
+
+### Track team progress and schedules
+
+![""](https://storage.googleapis.com/support-kms-prod/e34cDSA9TNd1pSOKVIDoHSXvGNgDQjcrnOD3 """")
+
+When your team is working on a complex project, it can be difficult for everyone to keep up with changing deadlines, people's progress, and the latest updates. Track feature assignments or launch deadlines using shared project plans and schedules in Sheets. Everyone can directly update their progress in real time, no matter where they are in the world.
+
+#### Learn how
+
+[Sheets](https://support.google.com/a/users/answer/9310193)
+
+![gray bar](https://lh3.googleusercontent.com/WqfSWqvkRw9JIPxQVAWTOnIuqhW70krt6nC0hCMpaZJW786BxwK4xvg0UOUJZVjkU_uN=w700 "gray bar")
+
+ |
+
+|
+
+### 9
+
+ |
+
+### Keep everyone in the loop with an email list
+
+![""](https://storage.googleapis.com/support-kms-prod/e34cDSA9TNd1pSOKVIDoHSXvGNgDQjcrnOD3 """")
+
+If you want to share prototypes and status updates with your team, use Groups to set up an email list. Then, you can reach everyone with a single email address.
+
+#### Learn how
+
+[Groups](https://support.google.com/a/users/answer/9303222)
+
+![gray bar](https://lh3.googleusercontent.com/WqfSWqvkRw9JIPxQVAWTOnIuqhW70krt6nC0hCMpaZJW786BxwK4xvg0UOUJZVjkU_uN=w700 "gray bar")
+
+ |
+
+|
+
+### 10
+
+ |
+
+### Collect and analyze visitor feedback
+
+![""](https://storage.googleapis.com/support-kms-prod/e34cDSA9TNd1pSOKVIDoHSXvGNgDQjcrnOD3 """")
+
+Want to get insights from customers so you can improve their overall website experience? Create an online survey to gauge site satisfaction and embed it in your website using Forms. Or, use [Google Analytics](https://support.google.com/a/users/answer/9308837) to analyze visitor traffic, so you can improve marketing campaigns and site reliability.
+
+ |

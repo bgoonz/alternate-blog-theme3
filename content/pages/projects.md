@@ -10,7 +10,7 @@ type: stackbit_page_meta
 layout: page
 ---
 
-<br>
+<br><br>
 <br>
 <br>
 <br>
@@ -33,12 +33,7 @@ layout: page
 <br>
 <br>
 <br>
-<iframe src="https://codesandbox.io/embed/nav-bar-examples-forked-izhl5?fontsize=14&hidenavigation=1&theme=dark"
-     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
-     title="Nav Bar Examples (forked)"
-     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-   ></iframe>
+
 <br>
 
 <br>
@@ -65,7 +60,9 @@ layout: page
 <h2> Resource Archive</h2>
 
 <iframe src="https://resourcerepo2.netlify.app/" height="800px" width="1600px" scrolling="no" frameborder="no"
-  loading="lazy" allowtransparency="true" allowfullscreen="true" style="width:1060px; overflow:auto;"></iframe>
+  loading="lazy" allowtransparency="true" allowfullscreen="true" title="YouTube video
+        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+        encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
@@ -77,8 +74,10 @@ layout: page
 
 <br>
 
-<iframe src="https://lambda-resources.netlify.app/" height="800px" width="1600px" scrolling="no" frameborder="no"
-  loading="lazy" allowtransparency="true" allowfullscreen="true" style="width:1060px; overflow:auto;"></iframe>
+<iframe class="inner" src="https://lambda-resources.netlify.app/" height="800px" width="1600px" scrolling="no"
+  frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" title="YouTube video
+        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+        encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
@@ -99,7 +98,9 @@ layout: page
 <br>
 
 <iframe src="https://devtools42.netlify.app/" height="800px" width="1600px" scrolling="no" frameborder="no"
-  loading="lazy" allowtransparency="true" allowfullscreen="true" style="width:1060px; overflow:auto;"></iframe>
+  loading="lazy" allowtransparency="true" allowfullscreen="true" title="YouTube video
+        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+        encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
@@ -108,8 +109,10 @@ layout: page
 <br>
 
 <br>
-<iframe src="https://ternary42.netlify.app/" height="800px" width="1600px" scrolling="no" frameborder="no"
-  loading="lazy" allowtransparency="true" allowfullscreen="true" style="width:1060px; overflow:auto;"></iframe>
+<iframe src="https://ternary42.netlify.app/" height="800px" width="600px!important" scrolling="no" frameborder="no"
+  loading="lazy" allowtransparency="true" allowfullscreen="true" title="YouTube video
+        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+        encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
@@ -120,7 +123,9 @@ layout: page
 <br>
 
 <iframe src="https://githtmlpreview.netlify.app/" height="800px" width="1600px" scrolling="no" frameborder="no"
-  loading="lazy" allowtransparency="true" allowfullscreen="true" style="width:1060px; overflow:auto;"></iframe>
+  loading="lazy" allowtransparency="true" allowfullscreen="true" title="YouTube video
+        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+        encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
@@ -131,7 +136,9 @@ layout: page
 <br>
 
 <iframe src="https://determined-dijkstra-ee7390.netlify.app/" height="800px" width="1600px" scrolling="no"
-  frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
+  frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" title="YouTube video
+        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+        encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
@@ -140,11 +147,11 @@ layout: page
 <br>
 
 <br>
-
-
 
 <iframe src="https://web-dev-interview-prep-quiz-website.netlify.app/" height="800px" width="1600px" scrolling="no"
-  frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
+  frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" title="YouTube video
+        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+        encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
@@ -157,7 +164,9 @@ layout: page
 <br>
 
 <iframe src="https://fourm-builder-gui.netlify.app/" height="800px" width="1600px" scrolling="no" frameborder="no"
-  loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
+  loading="lazy" allowtransparency="true" allowfullscreen="true" title="YouTube video
+        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+        encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
@@ -166,3 +175,7 @@ layout: page
 <br>
 
 <br>
+<iframe src="https://ds-algo-official.netlify.app/" height="800px" width="1600px" scrolling="no" frameborder="no"
+  loading="lazy" allowtransparency="true" allowfullscreen="true" title="YouTube video
+        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+        encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

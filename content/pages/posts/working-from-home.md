@@ -37,6 +37,7 @@ seo:
     - name: 'twitter:image'
       value: images/9.jpg
       relativeUrl: true
+  description: "If you store your technical specs, scripts, and other files in\_Drive\_or a\_shared drive, you can access them on any device, anytime. And, if something goes wrong with a file or a build isn’t ready for publishing, you can revert to a previous version."
 layout: post
 ---
 

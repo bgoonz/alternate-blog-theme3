@@ -10,9 +10,6 @@ thumb_img_alt: Home office setup
 content_img_path: images/9.jpg
 seo:
   title: The Advantages and Disadvantages of Working from Home
-  description: >-
-    Work at home parent is an entrepreneur who works from home and integrates
-    parenting into his or her business activities
   extra:
     - name: 'og:type'
       value: article

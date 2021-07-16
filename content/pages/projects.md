@@ -67,7 +67,7 @@ on <a href="https://codepen.io">CodePen</a>.
 
 <br>
 
-<iframe src="https://lambda-resources.netlify.app/" height="800px" width="1600px" scrolling="no" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
+<iframe src="https://lambda-resources.netlify.app/" height="800px" width="1600px" scrolling="no" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" style="width:100%; overflow:auto;"></iframe>
 
 <br>
 

@@ -87,7 +87,7 @@ on <a href="https://codepen.io">CodePen</a>.
 
 <br>
 
-<iframe src="https://devtools42.netlify.app/" height="800px" width="1600px" scrolling="no" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
+<iframe src="https://devtools42.netlify.app/" height="800px" width="1600px" scrolling="no" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" style="width:100%; overflow:auto;"></iframe>
 
 <br>
 
@@ -96,7 +96,7 @@ on <a href="https://codepen.io">CodePen</a>.
 <br>
 
 <br>
-<iframe src="https://ternary42.netlify.app/" height="800px" width="1600px" scrolling="no" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
+<iframe src="https://ternary42.netlify.app/" height="800px" width="1600px" scrolling="no" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" style="width:100%; overflow:auto;"></iframe>
 
 <br>
 
@@ -106,7 +106,7 @@ on <a href="https://codepen.io">CodePen</a>.
 
 <br>
 
-<iframe src="https://githtmlpreview.netlify.app/" height="800px" width="1600px" scrolling="no" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
+<iframe src="https://githtmlpreview.netlify.app/" height="800px" width="1600px" scrolling="no" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" style="width:100%; overflow:auto;"></iframe>
 
 <br>
 

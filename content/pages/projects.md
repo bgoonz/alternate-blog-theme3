@@ -126,7 +126,7 @@ on <a href="https://codepen.io">CodePen</a>.
 
 <br>
 
-style="width:100%; overflow:auto;"
+
 
 <iframe src="https://web-dev-interview-prep-quiz-website.netlify.app/" height="800px" width="1600px" scrolling="no" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
 

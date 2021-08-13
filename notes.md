@@ -1,34 +1,3 @@
-# ✨ Fjord Nextjs Theme ✨
-
-This is Stackbit's "Fjord" theme built with [Next.js](https://nextjs.org/) and
-powered by content stored in files.
-
-Click the button below to create a new website from this theme using Stackbit:
-
-<p align="center">
-  <a href="https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/fjord-nextjs&utm_source=theme-readme&utm_medium=referral&utm_campaign=stackbit_themes"><img alt="Create with Stackbit" src="https://assets.stackbit.com/badge/create-with-stackbit.svg"/></a>
-</p>
-
-[Live Site Demo](https://themes.stackbit.com/demos/fjord/)
-
-<img src="https://themes.stackbit.com/images/fjord-demo-1024x768.png" width="600">
-
-The theme can be used to create a static website that is hosted by a serverless
-deployment platform such as [Netlify](https://www.netlify.com). The contents of
-the website are stored in git with the rest of the site's code.
-
-When deploying the website, [Sourcebit](https://github.com/stackbithq/sourcebit)
-reads the site's contents from files and provides it to Next.js. Once Next.js
-finishes generating the static website, [Netlify](https://www.netlify.com) pushes
-the static files to its CDN.
-
-[Sourcebit](https://github.com/stackbithq/sourcebit) and its plugins, specifically
-[`sourcebit-source-filesystem`](https://github.com/stackbithq/sourcebit-source-filesystem)
-and [`sourcebit-target-next`](https://github.com/stackbithq/sourcebit-target-next),
-are used to read the site's contents from files, normalize it, and provide it to
-Next.js pages. It also sets up live updates in development mode allowing you to
-update the content files and instantly see your updates in the browser.
-
 
 ## Quick Start 🏎
 

@@ -1,12 +1,12 @@
 {
     "title": "Web Audio Applications",
     "path_prefix": "/",
-    "palette": "yellow",
+    "palette": "green",
     "header": {
-        "title": "Fjord",
-        "tagline": "Aux Blog",
+        "title": "Sidebar Blog",
+        "tagline": "Web Audio Applications",
         "logo_img": "/images/FINAL.png",
-        "logo_img_alt": "Fjord Logo",
+        "logo_img_alt": "bgoonz Logo",
         "background_img": "/images/dtw2.jpg",
         "has_nav": true,
         "nav_links": [
@@ -21,7 +21,7 @@
                 "style": "link"
             },
             {
-                "label": "Projects",
+                "label": "Style Guide",
                 "url": "/style-guide",
                 "style": "link"
             },
@@ -71,7 +71,28 @@
         ]
     },
     "footer": {
-        "content": "My (now) Depreciated Blog: https://web-dev-resource-hub.netlify.app/"
+        "content": "My (now) Depreciated Blog: https://web-dev-resource-hub.netlify.app/",
+        "links": [
+            {
+                "label": "Git",
+                "url": "https://github.com/bgoonz",
+                "style": "icon",
+                "icon_class": "github",
+                "new_window": true,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
+                "label": "tools",
+                "url": "#",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
+        ]
     },
-    "domain": "https://melodic-lettuce-8d58b.netlify.app"
+    "domain": "https://bgoonz-blog-v3-0.netlify.app/",
+    "favicon": "/images/favicon.ico"
 }

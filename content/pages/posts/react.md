@@ -275,7 +275,12 @@ Consider this ticking clock example:
 
 [**Try it on CodePen**](https://reactjs.org/redirect-to-codepen/rendering-elements/update-rendered-element)
 
-\  <iframe src="https://codepen.io/bgoonz/pen/eYRmvNy?editors=0010" frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled"  loading="lazy" allowtransparency="true" allowfullscreen="true" ></iframe>It calls \[ReactDOM.render()]\(\<https://reactjs.org/docs/react-dom.html#render>) every second from a \[setInterval()]\(\<https://developer.mozilla.org/en-US/docs/Web/API/WindowTimers/setInterval>) callback.
+
+
+
+
+
+It calls \[ReactDOM.render()]\(\<https://reactjs.org/docs/react-dom.html#render>) every second from a \[setInterval()]\(\<https://developer.mozilla.org/en-US/docs/Web/API/WindowTimers/setInterval>) callback.
 
 > Note:In practice, most React apps only call ReactDOM.render() once. In the next sections we will learn how such code gets encapsulated into stateful components.We recommend that you don't skip topics because they build on each other.
 

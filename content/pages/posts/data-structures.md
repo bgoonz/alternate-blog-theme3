@@ -111,16 +111,6 @@ This section has moved here: <https://facebook.github.io/create-react-app/docs/
 
 This section has moved here: <https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify>
 
-
-
-
-
-
-
-
-
-
-
 # Getting Startednpx create-react-app my-appcd my-appnpm startnpx create-react-app my-appnpm init react-app my-appyarn create react-app my-appnpx create-react-app my-app --template \[template-name]npx create-react-app my-app --template typescriptnpx create-react-app my-app --use-npmmy-app├── README.md├── node_modules├── package.json├── .gitignore├── public│   ├── favicon.ico│   ├── index.html│   ├── logo192.png│   ├── logo512.png│   ├── manifest.json│   └── robots.txt└── src    ├── App.css    ├── App.js    ├── App.test.js    ├── index.css    ├── index.js    ├── logo.svg    ├── serviceWorker.js    └── setupTests.jscd my-app&#xA;&#xA;
 
 Create React App is an officially supported way to create single-page React applications. It offers a modern build setup with no configuration.
@@ -129,7 +119,7 @@ Create React App is an officially supported way to create single-page React appl
 
 > If you've previously installed create-react-app globally via npm install -g create-react-app, we recommend you uninstall the package using npm uninstall -g create-react-app or yarn global remove create-react-app to ensure that npx always uses the latest version.
 
-*(*[*npx*](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)* comes with npm 5.2+ and higher, see *[*instructions for older npm versions*](https://gist.github.com/gaearon/4064d3c23a77c74a3614c498a8bb1c5f)*)*
+*(*[*npx*](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)\* comes with npm 5.2+ and higher, see [*instructions for older npm versions*](https://gist.github.com/gaearon/4064d3c23a77c74a3614c498a8bb1c5f))\*
 
 Then open <http://localhost:3000/> to see your app.
 
@@ -151,7 +141,7 @@ To create a new app, you may choose one of the following methods:
 
 ### npx[#](https://create-react-app.dev/docs/getting-started#npx)
 
-*(*[*npx*](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)* comes with npm 5.2+ and higher, see *[*instructions for older npm versions*](https://gist.github.com/gaearon/4064d3c23a77c74a3614c498a8bb1c5f)*)*
+*(*[*npx*](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)\* comes with npm 5.2+ and higher, see [*instructions for older npm versions*](https://gist.github.com/gaearon/4064d3c23a77c74a3614c498a8bb1c5f))\*
 
 ### npm[#](https://create-react-app.dev/docs/getting-started#npm)
 
@@ -215,12 +205,6 @@ The build is minified and the filenames include the hashes.
 
 Your app is ready to be deployed.
 
-
-
-
-
-
-
 # Folder Structuremy-app/  README.md  node_modules/  package.json  public/    index.html    favicon.ico  src/    App.css    App.js    App.test.js    index.css    index.js    logo.svg&#xA;&#xA;
 
 After creation, your project should look like this:
@@ -240,14 +224,6 @@ Only files inside public can be used from public/index.html. Read instruction
 You can, however, create more top-level directories. They will not be included in the production build so you can use them for things like documentation.
 
 If you have Git installed and your project is not part of a larger repository, then a new repository will be initialized resulting in an additional top-level .git directory.
-
-
-
-
-
-
-
-
 
 # Developing Components in Isolationnpx -p @storybook/cli sb initnpm install --save react-styleguidistyarn add react-styleguidist   "scripts": {+    "styleguide": "styleguidist server",+    "styleguide:build": "styleguidist build",     "start": "react-scripts start",npm run styleguide&#xA;&#xA;
 
@@ -305,10 +281,6 @@ Learn more about React Styleguidist:
 
 *   [Documentation](https://react-styleguidist.js.org/docs/getting-started.html)
 
-
-
-
-
 # Using HTTPS in Developmentset HTTPS=true&\&npm start($env:HTTPS = "true") -and (npm start)HTTPS=true npm startHTTPS=true SSL_CRT_FILE=cert.crt SSL_KEY_FILE=cert.key npm startCopy{  "start": "HTTPS=true react-scripts start"}&#xA;&#xA;
 
 > Note: this feature is available with react-scripts@0.4.0 and higher.
@@ -337,8 +309,6 @@ To avoid having to set the environment variable each time, you can either includ
 
 Or you can create a .env file with HTTPS=true set. [Learn more about environment variables in CRA](https://create-react-app.dev/docs/adding-custom-environment-variables).
 
-
-
 # Adding a Stylesheet.Button {  padding: 20px;}*import* React, { Component } *from* 'react';*import* './Button.css'; *// Tell webpack that Button.js uses these stylesclass* Button *extends* Component {  render() {    *// You can use them as regular CSS styles*    *return* \<div className="Button" />;  }}&#xA;&#xA;
 
 This project setup uses [webpack](https://webpack.js.org/) for handling all assets. webpack offers a custom way of “extending” the concept of import beyond JavaScript. To express that a JavaScript file depends on a CSS file, you need to **import the CSS from the JavaScript file**:
@@ -352,3 +322,41 @@ This project setup uses [webpack](https://webpack.js.org/) for handling all as
 In development, expressing dependencies this way allows your styles to be reloaded on the fly as you edit them. In production, all CSS files will be concatenated into a single minified .css file in the build output.
 
 If you are concerned about using webpack-specific semantics, you can put all your CSS right into src/index.css. It would still be imported from src/index.js, but you could always remove that import if you later migrate to a different build tool.
+
+
+
+
+
+
+
+# Adding Images, Fonts, and Files*import* React *from* 'react';*import* logo *from* './logo.png'; *// Tell webpack this JS file uses this image*console.log(logo); *// /logo.84287d09.pngfunction* Header() {  *// Import result is the URL of your image*  *return* \<img src={logo} alt="Logo" />;}*export* *default* Header;.Logo {  background-image: url(./logo.png);}*import* { ReactComponent *as* Logo } *from* './logo.svg';*function* App() {  *return* (    \<div>      {*/\* Logo is an actual React component \*/*}      \<Logo />    \</div>  );}&#xA;&#xA;
+
+With webpack, using static assets like images and fonts works similarly to CSS.
+
+You can **import a file right in a JavaScript module**. This tells webpack to include that file in the bundle. Unlike CSS imports, importing a file gives you a string value. This value is the final path you can reference in your code, e.g. as the src attribute of an image or the href of a link to a PDF.
+
+To reduce the number of requests to the server, importing images that are less than 10,000 bytes returns a [data URI](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Data_URIs) instead of a path. This applies to the following file extensions: bmp, gif, jpg, jpeg, and png. SVG files are excluded due to [#1153](https://github.com/facebook/create-react-app/issues/1153). You can control the 10,000 byte threshold by setting the IMAGE_INLINE_SIZE_LIMIT environment variable as documented in our [advanced configuration](https://create-react-app.dev/docs/advanced-configuration).
+
+Here is an example:
+
+This ensures that when the project is built, webpack will correctly move the images into the build folder, and provide us with correct paths.
+
+This works in CSS too:
+
+webpack finds all relative module references in CSS (they start with ./) and replaces them with the final paths from the compiled bundle. If you make a typo or accidentally delete an important file, you will see a compilation error, like when you import a non-existent JavaScript module. The final filenames in the compiled bundle are generated by webpack from content hashes. If the file content changes in the future, webpack will give it a different name in production so you don’t need to worry about long-term caching of assets.
+
+Please be advised that this is also a custom feature of webpack.
+
+**It is not required for React** but many people enjoy it (and React Native uses a similar mechanism for images).
+
+An alternative way of handling static assets is described in the next section.
+
+## Adding SVGs[#](https://create-react-app.dev/docs/adding-images-fonts-and-files#adding-svgs)
+
+> Note: this feature is available with react-scripts@2.0.0 and higher, and react@16.3.0 and higher.
+
+One way to add SVG files was described in the section above. You can also import SVGs directly as React components. You can use either of the two approaches. In your code it would look like this:
+
+This is handy if you don't want to load SVG as a separate file. Don't forget the curly braces in the import! The ReactComponent import name is significant and tells Create React App that you want a React component that renders an SVG, rather than its filename.
+
+> **Tip:** The imported SVG React Component accepts a title prop along with other props that a svg element accepts. Use this prop to add an accessible title to your svg component.

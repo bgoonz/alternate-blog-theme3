@@ -126,7 +126,7 @@ It displays a heading saying "Hello, world!" on the page.
 
 [**Try it on CodePen**](https://reactjs.org/redirect-to-codepen/hello-world)
 
-<iframe src="https://codepen.io/bgoonz/pen/wveBJBM>
+<iframe src="https://codepen.io/bgoonz/pen/wveBJBM"></iframe>
 
 Click the link above to open an online editor. Feel free to make some changes, and see how they affect the output. Most pages in this guide will have editable examples like this one.
 

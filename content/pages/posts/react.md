@@ -814,9 +814,7 @@ Additionally, it renders the BoilingVerdict for the current input value.
 
 [**Try it on CodePen**](https://codepen.io/gaearon/pen/ZXeOBm?editors=0010)
 
-<iframe src="https://codepen.io/bgoonz/pen/zYzxZoL?editors=0010>
-
-# Adding a Second Input
+<iframe src="https://codepen.io/bgoonz/pen/zYzxZoL?editors=0010"></iframe># Adding a Second Input
 
 Our new requirement is that, in addition to a Celsius input, we provide a Fahrenheit input, and they are kept in sync.
 
@@ -826,9 +824,7 @@ We can now change the Calculator to render two separate temperature inputs:
 
 [**Try it on CodePen**](https://codepen.io/gaearon/pen/jGBryx?editors=0010)
 
-<iframe src="https://codepen.io/bgoonz/pen/QWgwpGv?editors=0010>
-
-We have two inputs now, but when you enter the temperature in one of them, the other doesn't update. This contradicts our requirement: we want to keep them in sync.
+<iframe src="https://codepen.io/bgoonz/pen/QWgwpGv?editors=0010"></iframe>We have two inputs now, but when you enter the temperature in one of them, the other doesn't update. This contradicts our requirement: we want to keep them in sync.
 
 We also can't display the BoilingVerdict from Calculator. The Calculator doesn't know the current temperature because it is hidden inside the TemperatureInput.
 

@@ -176,9 +176,7 @@ In the example below, we embed the result of calling a JavaScript function, for
 
 [**Try it on CodePen**](https://reactjs.org/redirect-to-codepen/introducing-jsx)
 
-<iframe src="https://codepen.io/bgoonz/pen/oNwgZgm>
-
-We split JSX over multiple lines for readability. While it isn't required, when doing this, we also recommend wrapping it in parentheses to avoid the pitfalls of [automatic semicolon insertion](https://stackoverflow.com/q/2846283).
+<iframe src="https://codepen.io/bgoonz/pen/oNwgZgm"></iframe>We split JSX over multiple lines for readability. While it isn't required, when doing this, we also recommend wrapping it in parentheses to avoid the pitfalls of [automatic semicolon insertion](https://stackoverflow.com/q/2846283).
 
 # JSX is an Expression Too
 
@@ -246,9 +244,7 @@ To render a React element into a root DOM node, pass both to \[ReactDOM.render(
 
 [**Try it on CodePen**](https://reactjs.org/redirect-to-codepen/rendering-elements/render-an-element)
 
-<iframe src="https://codepen.io/bgoonz/pen/mdwyWeb?editors=0010>
-
-It displays "Hello, world" on the page.
+<iframe src="https://codepen.io/bgoonz/pen/mdwyWeb?editors=0010"></iframe>It displays "Hello, world" on the page.
 
 # Updating the Rendered Element
 

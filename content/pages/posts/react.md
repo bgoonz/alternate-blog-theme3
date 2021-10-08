@@ -134,6 +134,8 @@ It displays a heading saying "Hello, world!" on the page.
 </iframe>
 
 
+
+
 Click the link above to open an online editor. Feel free to make some changes, and see how they affect the output. Most pages in this guide will have editable examples like this one.
 
 # How to Read This Guide
@@ -187,6 +189,8 @@ In the example below, we embed the result of calling a JavaScript function, for
   embedding-expressions-jsx</a> by Bryan C Guner (<a href="https://codepen.io/bgoonz">@bgoonz</a>)
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
+
+
 
 We split JSX over multiple lines for readability. While it isn't required, when doing this, we also recommend wrapping it in parentheses to avoid the pitfalls of [automatic semicolon insertion](https://stackoverflow.com/q/2846283).
 
@@ -263,6 +267,8 @@ To render a React element into a root DOM node, pass both to \[ReactDOM.render(
 </iframe>
 
 
+
+
 It displays "Hello, world" on the page.
 
 # Updating the Rendered Element
@@ -282,6 +288,8 @@ Consider this ticking clock example:
   updating-rendered-elements</a> by Bryan C Guner (<a href="https://codepen.io/bgoonz">@bgoonz</a>)
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
+
+
 
 
 It calls \[ReactDOM.render()]\(\<https://reactjs.org/docs/react-dom.html#render>) every second from a \[setInterval()]\(\<https://developer.mozilla.org/en-US/docs/Web/API/WindowTimers/setInterval>) callback.
@@ -338,6 +346,8 @@ For example, this code renders "Hello, Sara" on the page:
 </iframe>
 
 
+
+
 Let's recap what happens in this example:
 
 1.  We call ReactDOM.render() with the \<Welcome name="Sara" /> element.
@@ -368,6 +378,8 @@ For example, we can create an App component that renders Welcome many times:
 </iframe>
 
 
+
+
 Typically, new React apps have a single App component at the very top. However, if you integrate React into an existing app, you might start bottom-up with a small component like Button and gradually work your way to the top of the view hierarchy.
 
 # Extracting Components
@@ -378,7 +390,9 @@ For example, consider this Comment component:
 
 [**Try it on CodePen**](https://reactjs.org/redirect-to-codepen/components-and-props/extracting-components)
 
-<iframe src="https://codepen.io/bgoonz/pen/PojwpzP?editors=0010" frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled"  loading="lazy" allowtransparency="true" allowfullscreen="true" ></iframe>It accepts author (an object), text (a string), and date (a date) as props, and describes a comment on a social media website.
+<iframe src="https://codepen.io/bgoonz/pen/PojwpzP?editors=0010" frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled"  loading="lazy" allowtransparency="true" allowfullscreen="true" ></iframe>
+
+It accepts author (an object), text (a string), and date (a date) as props, and describes a comment on a social media website.
 
 This component can be tricky to change because of all the nesting, and it is also hard to reuse individual parts of it. Let's extract a few components from it.
 
@@ -398,7 +412,9 @@ This lets us simplify Comment even further:
 
 [**Try it on CodePen**](https://reactjs.org/redirect-to-codepen/components-and-props/extracting-components-continued)
 
-<iframe src="https://codepen.io/bgoonz/pen/eYRmvzV?editors=0010" frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled"  loading="lazy" allowtransparency="true" allowfullscreen="true" ></iframe>Extracting components might seem like grunt work at first, but having a palette of reusable components pays off in larger apps. A good rule of thumb is that if a part of your UI is used several times (Button, Panel, Avatar), or is complex enough on its own (App, FeedStory, Comment), it is a good candidate to be extracted to a separate component.
+<iframe src="https://codepen.io/bgoonz/pen/eYRmvzV?editors=0010" frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled"  loading="lazy" allowtransparency="true" allowfullscreen="true" ></iframe>
+
+Extracting components might seem like grunt work at first, but having a palette of reusable components pays off in larger apps. A good rule of thumb is that if a part of your UI is used several times (Button, Panel, Avatar), or is complex enough on its own (App, FeedStory, Comment), it is a good candidate to be extracted to a separate component.
 
 # Props are Read-Only
 
@@ -428,7 +444,9 @@ We can start by encapsulating how the clock looks:
 
 [**Try it on CodePen**](https://codepen.io/gaearon/pen/dpdoYR?editors=0010)
 
-<iframe src="https://codepen.io/bgoonz/pen/powvegw?editors=0010" frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled"  loading="lazy" allowtransparency="true" allowfullscreen="true" ></iframe>However, it misses a crucial requirement: the fact that the Clock sets up a timer and updates the UI every second should be an implementation detail of the Clock.
+<iframe src="https://codepen.io/bgoonz/pen/powvegw?editors=0010" frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled"  loading="lazy" allowtransparency="true" allowfullscreen="true" ></iframe>
+
+However, it misses a crucial requirement: the fact that the Clock sets up a timer and updates the UI every second should be an implementation detail of the Clock.
 
 Ideally we want to write this once and have the Clock update itself:
 
@@ -452,7 +470,9 @@ You can convert a function component like Clock to a class in five steps:
 
 [**Try it on CodePen**](https://codepen.io/gaearon/pen/zKRGpo?editors=0010)
 
-<iframe src="https://codepen.io/bgoonz/pen/eYRmvJV?editors=0010" frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled"  loading="lazy" allowtransparency="true" allowfullscreen="true" ></iframe>Clock is now defined as a class rather than a function.
+<iframe src="https://codepen.io/bgoonz/pen/eYRmvJV?editors=0010" frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled"  loading="lazy" allowtransparency="true" allowfullscreen="true" ></iframe>
+
+Clock is now defined as a class rather than a function.
 
 The render method will be called each time an update happens, but as long as we render \<Clock /> into the same DOM node, only a single instance of the Clock class will be used. This lets us use additional features such as local state and lifecycle methods.
 
@@ -478,7 +498,9 @@ The result looks like this:
 
 [**Try it on CodePen**](https://codepen.io/gaearon/pen/KgQpJd?editors=0010)
 
-<iframe src="https://codepen.io/bgoonz/pen/oNwgZbV?editors=0010" frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled"  loading="lazy" allowtransparency="true" allowfullscreen="true" ></iframe>Next, we'll make the Clock set up its own timer and update itself every second.
+<iframe src="https://codepen.io/bgoonz/pen/oNwgZbV?editors=0010" frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled"  loading="lazy" allowtransparency="true" allowfullscreen="true" ></iframe>
+
+Next, we'll make the Clock set up its own timer and update itself every second.
 
 # Adding Lifecycle Methods to a Class
 
@@ -566,7 +588,9 @@ The FormattedDate component would receive the date in its props and wouldn't
 
 [**Try it on CodePen**](https://codepen.io/gaearon/pen/zKRqNB?editors=0010)
 
-<iframe src="https://codepen.io/bgoonz/pen/GREgWEp?editors=0010" frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled"  loading="lazy" allowtransparency="true" allowfullscreen="true" ></iframe>This is commonly called a "top-down" or "unidirectional" data flow. Any state is always owned by some specific component, and any data or UI derived from that state can only affect components "below" them in the tree.
+<iframe src="https://codepen.io/bgoonz/pen/GREgWEp?editors=0010" frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled"  loading="lazy" allowtransparency="true" allowfullscreen="true" ></iframe>
+
+This is commonly called a "top-down" or "unidirectional" data flow. Any state is always owned by some specific component, and any data or UI derived from that state can only affect components "below" them in the tree.
 
 If you imagine a component tree as a waterfall of props, each component's state is like an additional water source that joins it at an arbitrary point but also flows down.
 
@@ -574,7 +598,9 @@ To show that all components are truly isolated, we can create an App component
 
 [**Try it on CodePen**](https://codepen.io/gaearon/pen/vXdGmd?editors=0010)
 
-<iframe src="https://codepen.io/bgoonz/pen/YzQPZQK?editors=0010" frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled"  loading="lazy" allowtransparency="true" allowfullscreen="true" ></iframe>Each Clock sets up its own timer and updates independently.
+<iframe src="https://codepen.io/bgoonz/pen/YzQPZQK?editors=0010" frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled"  loading="lazy" allowtransparency="true" allowfullscreen="true" ></iframe>
+
+Each Clock sets up its own timer and updates independently.
 
 In React apps, whether a component is stateful or stateless is considered an implementation detail of the component that may change over time. You can use stateless components inside stateful components, and vice versa.
 
@@ -636,7 +662,9 @@ We'll create a Greeting component that displays either of these components dep
 
 [**Try it on CodePen**](https://codepen.io/gaearon/pen/ZpVxNq?editors=0011)
 
-<iframe src="https://codepen.io/bgoonz/pen/mdwyWmJ?editors=0011" frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled"  loading="lazy" allowtransparency="true" allowfullscreen="true" ></iframe>This example renders a different greeting depending on the value of isLoggedIn prop.
+<iframe src="https://codepen.io/bgoonz/pen/mdwyWmJ?editors=0011" frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled"  loading="lazy" allowtransparency="true" allowfullscreen="true" ></iframe>
+
+This example renders a different greeting depending on the value of isLoggedIn prop.
 
 # Element Variables
 
@@ -658,7 +686,9 @@ You may [embed expressions in JSX](https://reactjs.org/docs/introducing-jsx.htm
 
 [**Try it on CodePen**](https://codepen.io/gaearon/pen/ozJddz?editors=0010)
 
-<iframe src="https://codepen.io/bgoonz/pen/VwWYppo?editors=0010" frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled"  loading="lazy" allowtransparency="true" allowfullscreen="true" ></iframe>It works because in JavaScript, true && expression always evaluates to expression, and false && expression always evaluates to false.
+<iframe src="https://codepen.io/bgoonz/pen/VwWYppo?editors=0010" frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled"  loading="lazy" allowtransparency="true" allowfullscreen="true" ></iframe>
+
+It works because in JavaScript, true && expression always evaluates to expression, and false && expression always evaluates to false.
 
 Therefore, if the condition is true, the element right after && will appear in the output. If it is false, React will ignore and skip it.
 
@@ -704,7 +734,9 @@ We include the entire listItems array inside a \<ul> element, and [render i
 
 [**Try it on CodePen**](https://codepen.io/gaearon/pen/GjPyQr?editors=0011)
 
-<iframe src="https://codepen.io/bgoonz/pen/eYRmvvr?editors=0011" frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled"  loading="lazy" allowtransparency="true" allowfullscreen="true" ></iframe>This code displays a bullet list of numbers between 1 and 5.
+<iframe src="https://codepen.io/bgoonz/pen/eYRmvvr?editors=0011" frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled"  loading="lazy" allowtransparency="true" allowfullscreen="true" ></iframe>
+
+This code displays a bullet list of numbers between 1 and 5.
 
 # Basic List Component
 
@@ -718,7 +750,9 @@ Let's assign a key to our list items inside numbers.map() and fix the missin
 
 [**Try it on CodePen**](https://codepen.io/gaearon/pen/jrXYRR?editors=0011)
 
-<iframe src="https://codepen.io/bgoonz/pen/yLXyMMP?editors=0011" frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled"  loading="lazy" allowtransparency="true" allowfullscreen="true" ></iframe># Keys
+<iframe src="https://codepen.io/bgoonz/pen/yLXyMMP?editors=0011" frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled"  loading="lazy" allowtransparency="true" allowfullscreen="true" ></iframe>
+
+# Keys
 
 Keys help React identify which items have changed, are added, or are removed. Keys should be given to the elements inside the array to give the elements a stable identity:
 
@@ -750,7 +784,9 @@ Keys used within arrays should be unique among their siblings. However, they don
 
 [**Try it on CodePen**](https://codepen.io/gaearon/pen/NRZYGN?editors=0010)
 
-<iframe src="https://codepen.io/bgoonz/pen/mdwyWWy?editors=0010" frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled"  loading="lazy" allowtransparency="true" allowfullscreen="true" ></iframe>Keys serve as a hint to React but they don't get passed to your components. If you need the same value in your component, pass it explicitly as a prop with a different name:
+<iframe src="https://codepen.io/bgoonz/pen/mdwyWWy?editors=0010" frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled"  loading="lazy" allowtransparency="true" allowfullscreen="true" ></iframe>
+
+Keys serve as a hint to React but they don't get passed to your components. If you need the same value in your component, pass it explicitly as a prop with a different name:
 
 With the example above, the Post component can read props.id, but not props.key.
 
@@ -762,7 +798,9 @@ JSX allows [embedding any expression](https://reactjs.org/docs/introducing-jsx.
 
 [**Try it on CodePen**](https://codepen.io/gaearon/pen/BLvYrB?editors=0010)
 
-<iframe src="https://codepen.io/bgoonz/pen/JjJoWEw?editors=0010" frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled"  loading="lazy" allowtransparency="true" allowfullscreen="true" ></iframe>Sometimes this results in clearer code, but this style can also be abused. Like in JavaScript, it is up to you to decide whether it is worth extracting a variable for readability. Keep in mind that if the map() body is too nested, it might be a good time to [extract a component](https://reactjs.org/docs/components-and-props.html#extracting-components).
+<iframe src="https://codepen.io/bgoonz/pen/JjJoWEw?editors=0010" frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled"  loading="lazy" allowtransparency="true" allowfullscreen="true" ></iframe>
+
+Sometimes this results in clearer code, but this style can also be abused. Like in JavaScript, it is up to you to decide whether it is worth extracting a variable for readability. Keep in mind that if the map() body is too nested, it might be a good time to [extract a component](https://reactjs.org/docs/components-and-props.html#extracting-components).
 
 # **Forms**
 
@@ -780,7 +818,9 @@ For example, if we want to make the previous example log the name when it is sub
 
 [**Try it on CodePen**](https://codepen.io/gaearon/pen/VmmPgp?editors=0010)
 
-<iframe src="https://codepen.io/bgoonz/pen/rNwayjv?editors=0010" frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled"  loading="lazy" allowtransparency="true" allowfullscreen="true" ></iframe>Since the value attribute is set on our form element, the displayed value will always be this.state.value, making the React state the source of truth. Since handleChange runs on every keystroke to update the React state, the displayed value will update as the user types.
+<iframe src="https://codepen.io/bgoonz/pen/rNwayjv?editors=0010" frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled"  loading="lazy" allowtransparency="true" allowfullscreen="true" ></iframe>
+
+Since the value attribute is set on our form element, the displayed value will always be this.state.value, making the React state the source of truth. Since handleChange runs on every keystroke to update the React state, the displayed value will update as the user types.
 
 With a controlled component, the input's value is always driven by the React state. While this means you have to type a bit more code, you can now pass the value to other UI elements too, or reset it from other event handlers.
 
@@ -856,7 +896,9 @@ Additionally, it renders the BoilingVerdict for the current input value.
 
 [**Try it on CodePen**](https://codepen.io/gaearon/pen/ZXeOBm?editors=0010)
 
-<iframe src="https://codepen.io/bgoonz/pen/zYzxZoL?editors=0010" frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled"  loading="lazy" allowtransparency="true" allowfullscreen="true" ></iframe># Adding a Second Input
+<iframe src="https://codepen.io/bgoonz/pen/zYzxZoL?editors=0010" frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled"  loading="lazy" allowtransparency="true" allowfullscreen="true" ></iframe>
+
+# Adding a Second Input
 
 Our new requirement is that, in addition to a Celsius input, we provide a Fahrenheit input, and they are kept in sync.
 
@@ -866,7 +908,9 @@ We can now change the Calculator to render two separate temperature inputs:
 
 [**Try it on CodePen**](https://codepen.io/gaearon/pen/jGBryx?editors=0010)
 
-<iframe src="https://codepen.io/bgoonz/pen/QWgwpGv?editors=0010" frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled"  loading="lazy" allowtransparency="true" allowfullscreen="true" ></iframe>We have two inputs now, but when you enter the temperature in one of them, the other doesn't update. This contradicts our requirement: we want to keep them in sync.
+<iframe src="https://codepen.io/bgoonz/pen/QWgwpGv?editors=0010" frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled"  loading="lazy" allowtransparency="true" allowfullscreen="true" ></iframe>
+
+We have two inputs now, but when you enter the temperature in one of them, the other doesn't update. This contradicts our requirement: we want to keep them in sync.
 
 We also can't display the BoilingVerdict from Calculator. The Calculator doesn't know the current temperature because it is hidden inside the TemperatureInput.
 

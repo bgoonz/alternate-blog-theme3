@@ -182,7 +182,13 @@ In the example below, we embed the result of calling a JavaScript function, for
 
 [**Try it on CodePen**](https://reactjs.org/redirect-to-codepen/introducing-jsx)
 
-\  <iframe src="https://codepen.io/bgoonz/pen/oNwgZgm" frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled"  loading="lazy" allowtransparency="true" allowfullscreen="true" ></iframe>We split JSX over multiple lines for readability. While it isn't required, when doing this, we also recommend wrapping it in parentheses to avoid the pitfalls of [automatic semicolon insertion](https://stackoverflow.com/q/2846283).
+<iframe height="300" style="width: 100%;" scrolling="no" title="embedding-expressions-jsx" src="https://codepen.io/bgoonz/embed/oNwgZgm?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/bgoonz/pen/oNwgZgm">
+  embedding-expressions-jsx</a> by Bryan C Guner (<a href="https://codepen.io/bgoonz">@bgoonz</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
+
+We split JSX over multiple lines for readability. While it isn't required, when doing this, we also recommend wrapping it in parentheses to avoid the pitfalls of [automatic semicolon insertion](https://stackoverflow.com/q/2846283).
 
 # JSX is an Expression Too
 

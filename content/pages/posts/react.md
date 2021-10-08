@@ -59,12 +59,6 @@ You may also see any lint errors in the console.
 
 ### npm test
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="Untitled" src="https://codepen.io/bgoonz42/embed/oNeveWo?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href="https://codepen.io/bgoonz42/pen/oNeveWo">
-  Untitled</a> by Bryan C Guner (<a href="https://codepen.io/bgoonz42">@bgoonz42</a>)
-  on <a href="https://codepen.io">CodePen</a>.
-</iframe>
-
 
 Launches the test runner in the interactive watch mode.
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.

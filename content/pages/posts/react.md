@@ -405,7 +405,7 @@ This lets us simplify Comment even further:
 
 [**Try it on CodePen**](https://reactjs.org/redirect-to-codepen/components-and-props/extracting-components-continued)
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="hello" src=https://codepen.io/bgoonz/pen/eYRmvzV?editors=0010" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
+<iframe height="300" style="width: 100%;" scrolling="no" title="hello" src=https://codepen.io/bgoonz/embed/eYRmvNy?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
 
 Extracting components might seem like grunt work at first, but having a palette of reusable components pays off in larger apps. A good rule of thumb is that if a part of your UI is used several times (Button, Panel, Avatar), or is complex enough on its own (App, FeedStory, Comment), it is a good candidate to be extracted to a separate component.
 

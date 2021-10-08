@@ -360,7 +360,15 @@ For example, we can create an App component that renders Welcome many times:
 
 [**Try it on CodePen**](https://reactjs.org/redirect-to-codepen/components-and-props/composing-components)
 
-\  <iframe src="https://codepen.io/bgoonz/pen/LYLEWNq?editors=0010" frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled"  loading="lazy" allowtransparency="true" allowfullscreen="true" ></iframe>Typically, new React apps have a single App component at the very top. However, if you integrate React into an existing app, you might start bottom-up with a small component like Button and gradually work your way to the top of the view hierarchy.
+
+<iframe height="300" style="width: 100%;" scrolling="no" title="hello" src="https://codepen.io/bgoonz/embed/LYLEWNq?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/bgoonz/pen/LYLEWNq">
+  hello</a> by Bryan C Guner (<a href="https://codepen.io/bgoonz">@bgoonz</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
+
+
+Typically, new React apps have a single App component at the very top. However, if you integrate React into an existing app, you might start bottom-up with a small component like Button and gradually work your way to the top of the view hierarchy.
 
 # Extracting Components
 

@@ -127,7 +127,7 @@ It displays a heading saying "Hello, world!" on the page.
 
 [**Try it on CodePen**](https://reactjs.org/redirect-to-codepen/hello-world)
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="helloworld" src="https://codepen.io/bgoonz42/embed/WNEeEEV?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+<iframe height="600" style="width: 100%;" scrolling="no" title="helloworld" src="https://codepen.io/bgoonz42/embed/WNEeEEV?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/bgoonz42/pen/WNEeEEV">
   helloworld</a> by Bryan C Guner (<a href="https://codepen.io/bgoonz42">@bgoonz42</a>)
   on <a href="https://codepen.io">CodePen</a>.

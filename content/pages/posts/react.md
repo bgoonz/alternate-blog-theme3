@@ -128,7 +128,7 @@ It displays a heading saying "Hello, world!" on the page.
 [**Try it on CodePen**](https://reactjs.org/redirect-to-codepen/hello-world)
 
 <iframe height="600" style="width: 100%;" scrolling="no" title="helloworld" src="https://codepen.io/bgoonz42/embed/WNEeEEV?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href="https://codepen.io/bgoonz42/pen/WNEeEEV">
+  See the Pen <a href="https://codepen.io/bgoonz42/embed/WNEeEEV">
   helloworld</a> by Bryan C Guner (<a href="https://codepen.io/bgoonz42">@bgoonz42</a>)
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
@@ -185,7 +185,7 @@ In the example below, we embed the result of calling a JavaScript function, for
 [**Try it on CodePen**](https://reactjs.org/redirect-to-codepen/introducing-jsx)
 
 <iframe height="300" style="width: 100%;" scrolling="no" title="embedding-expressions-jsx" src="https://codepen.io/bgoonz/embed/oNwgZgm?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href="https://codepen.io/bgoonz/pen/oNwgZgm">
+  See the Pen <a href="https://codepen.io/bgoonz/embed/oNwgZgm">
   embedding-expressions-jsx</a> by Bryan C Guner (<a href="https://codepen.io/bgoonz">@bgoonz</a>)
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
@@ -261,7 +261,7 @@ To render a React element into a root DOM node, pass both to \[ReactDOM.render(
 [**Try it on CodePen**](https://reactjs.org/redirect-to-codepen/rendering-elements/render-an-element)
 
 <iframe height="300" style="width: 100%;" scrolling="no" title="rendering-elements" src="https://codepen.io/bgoonz/embed/mdwyWeb?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href="https://codepen.io/bgoonz/pen/mdwyWeb">
+  See the Pen <a href="https://codepen.io/bgoonz/embed/mdwyWeb">
   rendering-elements</a> by Bryan C Guner (<a href="https://codepen.io/bgoonz">@bgoonz</a>)
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
@@ -284,7 +284,7 @@ Consider this ticking clock example:
 
 
 <iframe height="300" style="width: 100%;" scrolling="no" title="updating-rendered-elements" src="https://codepen.io/bgoonz/embed/eYRmvNy?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href="https://codepen.io/bgoonz/pen/eYRmvNy">
+  See the Pen <a href="https://codepen.io/bgoonz/embed/eYRmvNy">
   updating-rendered-elements</a> by Bryan C Guner (<a href="https://codepen.io/bgoonz">@bgoonz</a>)
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
@@ -383,7 +383,7 @@ For example, consider this Comment component:
 
 [**Try it on CodePen**](https://reactjs.org/redirect-to-codepen/components-and-props/extracting-components)
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="hello" src=https://codepen.io/bgoonz/pen/PojwpzP?editors=0010" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
+<iframe height="300" style="width: 100%;" scrolling="no" title="hello" src=https://codepen.io/bgoonz/embed/PojwpzP?editors=0010" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
 
 It accepts author (an object), text (a string), and date (a date) as props, and describes a comment on a social media website.
 
@@ -405,7 +405,7 @@ This lets us simplify Comment even further:
 
 [**Try it on CodePen**](https://reactjs.org/redirect-to-codepen/components-and-props/extracting-components-continued)
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="hello" src=https://codepen.io/bgoonz/pen/eYRmvzV?editors=0010" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
+<iframe height="300" style="width: 100%;" scrolling="no" title="hello" src=https://codepen.io/bgoonz/embed/eYRmvzV?editors=0010" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
 
 Extracting components might seem like grunt work at first, but having a palette of reusable components pays off in larger apps. A good rule of thumb is that if a part of your UI is used several times (Button, Panel, Avatar), or is complex enough on its own (App, FeedStory, Comment), it is a good candidate to be extracted to a separate component.
 
@@ -429,15 +429,15 @@ Of course, application UIs are dynamic and change over time. In the [next secti
 
 Consider the ticking clock example from [one of the previous sections](https://reactjs.org/docs/rendering-elements.html#updating-the-rendered-element). In [Rendering Elements](https://reactjs.org/docs/rendering-elements.html#rendering-an-element-into-the-dom), we have only learned one way to update the UI. We call ReactDOM.render() to change the rendered output:
 
-[**Try it on CodePen**](https://codepen.io/gaearon/pen/gwoJZk?editors=0010)
+[**Try it on CodePen**](https://codepen.io/gaearon/embed/gwoJZk?editors=0010)
 
 In this section, we will learn how to make the Clock component truly reusable and encapsulated. It will set up its own timer and update itself every second.
 
 We can start by encapsulating how the clock looks:
 
-[**Try it on CodePen**](https://codepen.io/gaearon/pen/dpdoYR?editors=0010)
+[**Try it on CodePen**](https://codepen.io/gaearon/embed/dpdoYR?editors=0010)
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="hello" src=https://codepen.io/bgoonz/pen/powvegw?editors=0010" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
+<iframe height="300" style="width: 100%;" scrolling="no" title="hello" src=https://codepen.io/bgoonz/embed/powvegw?editors=0010" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
 
 However, it misses a crucial requirement: the fact that the Clock sets up a timer and updates the UI every second should be an implementation detail of the Clock.
 
@@ -461,9 +461,9 @@ You can convert a function component like Clock to a class in five steps:
 
 5.  Delete the remaining empty function declaration.
 
-[**Try it on CodePen**](https://codepen.io/gaearon/pen/zKRGpo?editors=0010)
+[**Try it on CodePen**](https://codepen.io/gaearon/embed/zKRGpo?editors=0010)
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="hello" src=https://codepen.io/bgoonz/pen/eYRmvJV?editors=0010" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
+<iframe height="300" style="width: 100%;" scrolling="no" title="hello" src=https://codepen.io/bgoonz/embed/eYRmvJV?editors=0010" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
 
 Clock is now defined as a class rather than a function.
 
@@ -489,9 +489,9 @@ We will later add the timer code back to the component itself.
 
 The result looks like this:
 
-[**Try it on CodePen**](https://codepen.io/gaearon/pen/KgQpJd?editors=0010)
+[**Try it on CodePen**](https://codepen.io/gaearon/embed/KgQpJd?editors=0010)
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="hello" src=https://codepen.io/bgoonz/pen/oNwgZbV?editors=0010" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
+<iframe height="300" style="width: 100%;" scrolling="no" title="hello" src=https://codepen.io/bgoonz/embed/oNwgZbV?editors=0010" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
 
 Next, we'll make the Clock set up its own timer and update itself every second.
 
@@ -519,7 +519,7 @@ Finally, we will implement a method called tick() that the Clock component w
 
 It will use this.setState() to schedule updates to the component local state:
 
-[**Try it on CodePen**](https://codepen.io/gaearon/pen/amqdNA?editors=0010)
+[**Try it on CodePen**](https://codepen.io/gaearon/embed/amqdNA?editors=0010)
 
 Now the clock ticks every second.
 
@@ -579,9 +579,9 @@ A component may choose to pass its state down as props to its child components:
 
 The FormattedDate component would receive the date in its props and wouldn't know whether it came from the Clock's state, from the Clock's props, or was typed by hand:
 
-[**Try it on CodePen**](https://codepen.io/gaearon/pen/zKRqNB?editors=0010)
+[**Try it on CodePen**](https://codepen.io/gaearon/embed/zKRqNB?editors=0010)
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="hello" src=https://codepen.io/bgoonz/pen/GREgWEp?editors=0010" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
+<iframe height="300" style="width: 100%;" scrolling="no" title="hello" src=https://codepen.io/bgoonz/embed/GREgWEp?editors=0010" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
 
 This is commonly called a "top-down" or "unidirectional" data flow. Any state is always owned by some specific component, and any data or UI derived from that state can only affect components "below" them in the tree.
 
@@ -589,9 +589,9 @@ If you imagine a component tree as a waterfall of props, each component's state 
 
 To show that all components are truly isolated, we can create an App component that renders three \<Clock>s:
 
-[**Try it on CodePen**](https://codepen.io/gaearon/pen/vXdGmd?editors=0010)
+[**Try it on CodePen**](https://codepen.io/gaearon/embed/vXdGmd?editors=0010)
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="hello" src=https://codepen.io/bgoonz/pen/YzQPZQK?editors=0010" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
+<iframe height="300" style="width: 100%;" scrolling="no" title="hello" src=https://codepen.io/bgoonz/embed/YzQPZQK?editors=0010" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
 
 Each Clock sets up its own timer and updates independently.
 
@@ -619,7 +619,7 @@ When using React, you generally don't need to call addEventListener to add lis
 
 When you define a component using an [ES6 class](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Classes), a common pattern is for an event handler to be a method on the class. For example, this Toggle component renders a button that lets the user toggle between "ON" and "OFF" states:
 
-[**Try it on CodePen**](https://codepen.io/gaearon/pen/xEmzGg?editors=0010)
+[**Try it on CodePen**](https://codepen.io/gaearon/embed/xEmzGg?editors=0010)
 
 You have to be careful about the meaning of this in JSX callbacks. In JavaScript, class methods are not [bound](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_objects/Function/bind) by default. If you forget to bind this.handleClick and pass it to onClick, this will be undefined when the function is actually called.
 
@@ -653,9 +653,9 @@ Consider these two components:
 
 We'll create a Greeting component that displays either of these components depending on whether a user is logged in:
 
-[**Try it on CodePen**](https://codepen.io/gaearon/pen/ZpVxNq?editors=0011)
+[**Try it on CodePen**](https://codepen.io/gaearon/embed/ZpVxNq?editors=0011)
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="hello" src=https://codepen.io/bgoonz/pen/mdwyWmJ?editors=0011" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
+<iframe height="300" style="width: 100%;" scrolling="no" title="hello" src=https://codepen.io/bgoonz/embed/mdwyWmJ?editors=0011" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
 
 This example renders a different greeting depending on the value of isLoggedIn prop.
 
@@ -669,7 +669,7 @@ In the example below, we will create a [stateful component](https://reactjs.org
 
 It will render either \<LoginButton /> or \<LogoutButton /> depending on its current state. It will also render a \<Greeting /> from the previous example:
 
-[**Try it on CodePen**](https://codepen.io/gaearon/pen/QKzAgB?editors=0010)
+[**Try it on CodePen**](https://codepen.io/gaearon/embed/QKzAgB?editors=0010)
 
 While declaring a variable and using an if statement is a fine way to conditionally render a component, sometimes you might want to use a shorter syntax. There are a few ways to inline conditions in JSX, explained below.
 
@@ -677,9 +677,9 @@ While declaring a variable and using an if statement is a fine way to conditio
 
 You may [embed expressions in JSX](https://reactjs.org/docs/introducing-jsx.html#embedding-expressions-in-jsx) by wrapping them in curly braces. This includes the JavaScript logical && operator. It can be handy for conditionally including an element:
 
-[**Try it on CodePen**](https://codepen.io/gaearon/pen/ozJddz?editors=0010)
+[**Try it on CodePen**](https://codepen.io/gaearon/embed/ozJddz?editors=0010)
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="hello" src=https://codepen.io/bgoonz/pen/VwWYppo?editors=0010" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
+<iframe height="300" style="width: 100%;" scrolling="no" title="hello" src=https://codepen.io/bgoonz/embed/VwWYppo?editors=0010" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
 
 It works because in JavaScript, true && expression always evaluates to expression, and false && expression always evaluates to false.
 
@@ -703,7 +703,7 @@ In rare cases you might want a component to hide itself even though it was rende
 
 In the example below, the \<WarningBanner /> is rendered depending on the value of the prop called warn. If the value of the prop is false, then the component does not render:
 
-[**Try it on CodePen**](https://codepen.io/gaearon/pen/Xjoqwm?editors=0010)
+[**Try it on CodePen**](https://codepen.io/gaearon/embed/Xjoqwm?editors=0010)
 
 Returning null from a component's render method does not affect the firing of the component's lifecycle methods. For instance componentDidUpdate will still be called.
 
@@ -725,9 +725,9 @@ Below, we loop through the numbers array using the JavaScript \[map()]\(\<htt
 
 We include the entire listItems array inside a \<ul> element, and [render it to the DOM](https://reactjs.org/docs/rendering-elements.html#rendering-an-element-into-the-dom):
 
-[**Try it on CodePen**](https://codepen.io/gaearon/pen/GjPyQr?editors=0011)
+[**Try it on CodePen**](https://codepen.io/gaearon/embed/GjPyQr?editors=0011)
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="hello" src=https://codepen.io/bgoonz/pen/eYRmvvr?editors=0011" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
+<iframe height="300" style="width: 100%;" scrolling="no" title="hello" src=https://codepen.io/bgoonz/embed/eYRmvvr?editors=0011" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
 
 This code displays a bullet list of numbers between 1 and 5.
 
@@ -741,9 +741,9 @@ When you run this code, you'll be given a warning that a key should be provided 
 
 Let's assign a key to our list items inside numbers.map() and fix the missing key issue.
 
-[**Try it on CodePen**](https://codepen.io/gaearon/pen/jrXYRR?editors=0011)
+[**Try it on CodePen**](https://codepen.io/gaearon/embed/jrXYRR?editors=0011)
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="hello" src=https://codepen.io/bgoonz/pen/yLXyMMP?editors=0011" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
+<iframe height="300" style="width: 100%;" scrolling="no" title="hello" src=https://codepen.io/bgoonz/embed/yLXyMMP?editors=0011" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
 
 # Keys
 
@@ -767,7 +767,7 @@ For example, if you [extract](https://reactjs.org/docs/components-and-props.htm
 
 **Example: Correct Key Usage**
 
-[**Try it on CodePen**](https://codepen.io/gaearon/pen/ZXeOGM?editors=0010)
+[**Try it on CodePen**](https://codepen.io/gaearon/embed/ZXeOGM?editors=0010)
 
 A good rule of thumb is that elements inside the map() call need keys.
 
@@ -775,9 +775,9 @@ A good rule of thumb is that elements inside the map() call need keys.
 
 Keys used within arrays should be unique among their siblings. However, they don't need to be globally unique. We can use the same keys when we produce two different arrays:
 
-[**Try it on CodePen**](https://codepen.io/gaearon/pen/NRZYGN?editors=0010)
+[**Try it on CodePen**](https://codepen.io/gaearon/embed/NRZYGN?editors=0010)
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="hello" src=https://codepen.io/bgoonz/pen/mdwyWWy?editors=0010" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
+<iframe height="300" style="width: 100%;" scrolling="no" title="hello" src=https://codepen.io/bgoonz/embed/mdwyWWy?editors=0010" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
 
 Keys serve as a hint to React but they don't get passed to your components. If you need the same value in your component, pass it explicitly as a prop with a different name:
 
@@ -789,9 +789,9 @@ In the examples above we declared a separate listItems variable and included i
 
 JSX allows [embedding any expression](https://reactjs.org/docs/introducing-jsx.html#embedding-expressions-in-jsx) in curly braces so we could inline the map() result:
 
-[**Try it on CodePen**](https://codepen.io/gaearon/pen/BLvYrB?editors=0010)
+[**Try it on CodePen**](https://codepen.io/gaearon/embed/BLvYrB?editors=0010)
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="hello" src=https://codepen.io/bgoonz/pen/JjJoWEw?editors=0010" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
+<iframe height="300" style="width: 100%;" scrolling="no" title="hello" src=https://codepen.io/bgoonz/embed/JjJoWEw?editors=0010" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
 
 Sometimes this results in clearer code, but this style can also be abused. Like in JavaScript, it is up to you to decide whether it is worth extracting a variable for readability. Keep in mind that if the map() body is too nested, it might be a good time to [extract a component](https://reactjs.org/docs/components-and-props.html#extracting-components).
 
@@ -809,9 +809,9 @@ We can combine the two by making the React state be the "single source of truth"
 
 For example, if we want to make the previous example log the name when it is submitted, we can write the form as a controlled component:
 
-[**Try it on CodePen**](https://codepen.io/gaearon/pen/VmmPgp?editors=0010)
+[**Try it on CodePen**](https://codepen.io/gaearon/embed/VmmPgp?editors=0010)
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="hello" src=https://codepen.io/bgoonz/pen/rNwayjv?editors=0010" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
+<iframe height="300" style="width: 100%;" scrolling="no" title="hello" src=https://codepen.io/bgoonz/embed/rNwayjv?editors=0010" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
 
 Since the value attribute is set on our form element, the displayed value will always be this.state.value, making the React state the source of truth. Since handleChange runs on every keystroke to update the React state, the displayed value will update as the user types.
 
@@ -833,7 +833,7 @@ In HTML, \<select> creates a drop-down list. For example, this HTML creates a 
 
 Note that the Coconut option is initially selected, because of the selected attribute. React, instead of using this selected attribute, uses a value attribute on the root select tag. This is more convenient in a controlled component because you only need to update it in one place. For example:
 
-[**Try it on CodePen**](https://codepen.io/gaearon/pen/JbbEzX?editors=0010)
+[**Try it on CodePen**](https://codepen.io/gaearon/embed/JbbEzX?editors=0010)
 
 Overall, this makes it so that \<input type="text">, \<textarea>, and \<select> all work very similarly - they all accept a value attribute that you can use to implement a controlled component.
 
@@ -853,7 +853,7 @@ When you need to handle multiple controlled input elements, you can add a nam
 
 For example:
 
-[**Try it on CodePen**](https://codepen.io/gaearon/pen/wgedvV?editors=0010)
+[**Try it on CodePen**](https://codepen.io/gaearon/embed/wgedvV?editors=0010)
 
 Note how we used the ES6 [computed property name](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/Object_initializer#Computed_property_names) syntax to update the state key corresponding to the given input name:
 
@@ -887,9 +887,9 @@ Next, we will create a component called Calculator. It renders an \<input> th
 
 Additionally, it renders the BoilingVerdict for the current input value.
 
-[**Try it on CodePen**](https://codepen.io/gaearon/pen/ZXeOBm?editors=0010)
+[**Try it on CodePen**](https://codepen.io/gaearon/embed/ZXeOBm?editors=0010)
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="hello" src=https://codepen.io/bgoonz/pen/zYzxZoL?editors=0010" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
+<iframe height="300" style="width: 100%;" scrolling="no" title="hello" src=https://codepen.io/bgoonz/embed/zYzxZoL?editors=0010" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
 
 # Adding a Second Input
 
@@ -899,9 +899,9 @@ We can start by extracting a TemperatureInput component from Calculator. We w
 
 We can now change the Calculator to render two separate temperature inputs:
 
-[**Try it on CodePen**](https://codepen.io/gaearon/pen/jGBryx?editors=0010)
+[**Try it on CodePen**](https://codepen.io/gaearon/embed/jGBryx?editors=0010)
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="hello" src=https://codepen.io/bgoonz/pen/QWgwpGv?editors=0010" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
+<iframe height="300" style="width: 100%;" scrolling="no" title="hello" src=https://codepen.io/bgoonz/embed/QWgwpGv?editors=0010" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
 
 We have two inputs now, but when you enter the temperature in one of them, the other doesn't update. This contradicts our requirement: we want to keep them in sync.
 
@@ -955,7 +955,7 @@ We could have stored the value of both inputs but it turns out to be unnecessary
 
 The inputs stay in sync because their values are computed from the same state:
 
-[**Try it on CodePen**](https://codepen.io/gaearon/pen/WZpxpz?editors=0010)
+[**Try it on CodePen**](https://codepen.io/gaearon/embed/WZpxpz?editors=0010)
 
 Now, no matter which input you edit, this.state.temperature and this.state.scale in the Calculator get updated. One of the inputs gets the value as is, so any user input is preserved, and the other input value is always recalculated based on it.
 
@@ -1005,13 +1005,13 @@ We recommend that such components use the special children prop to pass childr
 
 This lets other components pass arbitrary children to them by nesting the JSX:
 
-[**Try it on CodePen**](https://codepen.io/gaearon/pen/ozqNOV?editors=0010)
+[**Try it on CodePen**](https://codepen.io/gaearon/embed/ozqNOV?editors=0010)
 
 Anything inside the \<FancyBorder> JSX tag gets passed into the FancyBorder component as a children prop. Since FancyBorder renders {props.children} inside a \<div>, the passed elements appear in the final output.
 
 While this is less common, sometimes you might need multiple "holes" in a component. In such cases you may come up with your own convention instead of using children:
 
-[**Try it on CodePen**](https://codepen.io/gaearon/pen/gwZOJp?editors=0010)
+[**Try it on CodePen**](https://codepen.io/gaearon/embed/gwZOJp?editors=0010)
 
 React elements like \<Contacts /> and \<Chat /> are just objects, so you can pass them as props like any other data. This approach may remind you of "slots" in other libraries but there are no limitations on what you can pass as props in React.
 
@@ -1021,11 +1021,11 @@ Sometimes we think about components as being "special cases" of other components
 
 In React, this is also achieved by composition, where a more "specific" component renders a more "generic" one and configures it with props:
 
-[**Try it on CodePen**](https://codepen.io/gaearon/pen/kkEaOZ?editors=0010)
+[**Try it on CodePen**](https://codepen.io/gaearon/embed/kkEaOZ?editors=0010)
 
 Composition works equally well for components defined as classes:
 
-[**Try it on CodePen**](https://codepen.io/gaearon/pen/gwZbYa?editors=0010)
+[**Try it on CodePen**](https://codepen.io/gaearon/embed/gwZbYa?editors=0010)
 
 # So What About Inheritance?
 
@@ -1087,7 +1087,7 @@ Now that we've identified the components in our mock, let's arrange them into a 
 
 # Step 2: Build A Static Version in React
 
-See the Pen [Thinking In React: Step 2](https://codepen.io/gaearon/pen/BwWzwm) on [CodePen](https://codepen.io/).
+See the Pen [Thinking In React: Step 2](https://codepen.io/gaearon/embed/BwWzwm) on [CodePen](https://codepen.io/).
 
 Now that you have your component hierarchy, it's time to implement your app. The easiest way is to build a version that takes your data model and renders the UI but has no interactivity. It's best to decouple these processes because building a static version requires a lot of typing and no thinking, and adding interactivity requires a lot of thinking and not a lot of typing. We'll see why.
 
@@ -1137,7 +1137,7 @@ So finally, our state is:
 
 # Step 4: Identify Where Your State Should Live
 
-See the Pen [Thinking In React: Step 4](https://codepen.io/gaearon/pen/qPrNQZ) on [CodePen](https://codepen.io/).
+See the Pen [Thinking In React: Step 4](https://codepen.io/gaearon/embed/qPrNQZ) on [CodePen](https://codepen.io/).
 
 OK, so we've identified what the minimal set of app state is. Next, we need to identify which component mutates, or *owns*, this state.
 
@@ -1167,7 +1167,7 @@ You can start seeing how your application will behave: set filterText to "bal
 
 # Step 5: Add Inverse Data Flow
 
-See the Pen [Thinking In React: Step 5](https://codepen.io/gaearon/pen/LzWZvb) on [CodePen](https://codepen.io/).
+See the Pen [Thinking In React: Step 5](https://codepen.io/gaearon/embed/LzWZvb) on [CodePen](https://codepen.io/).
 
 So far, we've built an app that renders correctly as a function of props and state flowing down the hierarchy. Now it's time to support data flowing the other way: the form components deep in the hierarchy need to update the state in FilterableProductTable.
 

@@ -436,9 +436,7 @@ The result looks like this:
 
 [**Try it on CodePen**](https://codepen.io/gaearon/pen/KgQpJd?editors=0010)
 
-<iframe src="https://codepen.io/bgoonz/pen/oNwgZbV?editors=0010>
-
-Next, we'll make the Clock set up its own timer and update itself every second.
+<iframe src="https://codepen.io/bgoonz/pen/oNwgZbV?editors=0010"></iframe>Next, we'll make the Clock set up its own timer and update itself every second.
 
 # Adding Lifecycle Methods to a Class
 
@@ -526,9 +524,7 @@ The FormattedDate component would receive the date in its props and wouldn't
 
 [**Try it on CodePen**](https://codepen.io/gaearon/pen/zKRqNB?editors=0010)
 
-<iframe src="https://codepen.io/bgoonz/pen/GREgWEp?editors=0010>
-
-This is commonly called a "top-down" or "unidirectional" data flow. Any state is always owned by some specific component, and any data or UI derived from that state can only affect components "below" them in the tree.
+<iframe src="https://codepen.io/bgoonz/pen/GREgWEp?editors=0010"></iframe>This is commonly called a "top-down" or "unidirectional" data flow. Any state is always owned by some specific component, and any data or UI derived from that state can only affect components "below" them in the tree.
 
 If you imagine a component tree as a waterfall of props, each component's state is like an additional water source that joins it at an arbitrary point but also flows down.
 
@@ -536,9 +532,7 @@ To show that all components are truly isolated, we can create an App component
 
 [**Try it on CodePen**](https://codepen.io/gaearon/pen/vXdGmd?editors=0010)
 
-<iframe src="https://codepen.io/bgoonz/pen/YzQPZQK?editors=0010>
-
-Each Clock sets up its own timer and updates independently.
+<iframe src="https://codepen.io/bgoonz/pen/YzQPZQK?editors=0010"></iframe>Each Clock sets up its own timer and updates independently.
 
 In React apps, whether a component is stateful or stateless is considered an implementation detail of the component that may change over time. You can use stateless components inside stateful components, and vice versa.
 

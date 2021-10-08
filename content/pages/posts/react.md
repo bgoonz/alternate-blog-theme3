@@ -720,9 +720,7 @@ JSX allows [embedding any expression](https://reactjs.org/docs/introducing-jsx.
 
 [**Try it on CodePen**](https://codepen.io/gaearon/pen/BLvYrB?editors=0010)
 
-<iframe src="https://codepen.io/bgoonz/pen/JjJoWEw?editors=0010>
-
-Sometimes this results in clearer code, but this style can also be abused. Like in JavaScript, it is up to you to decide whether it is worth extracting a variable for readability. Keep in mind that if the map() body is too nested, it might be a good time to [extract a component](https://reactjs.org/docs/components-and-props.html#extracting-components).
+<iframe src="https://codepen.io/bgoonz/pen/JjJoWEw?editors=0010"></iframe>Sometimes this results in clearer code, but this style can also be abused. Like in JavaScript, it is up to you to decide whether it is worth extracting a variable for readability. Keep in mind that if the map() body is too nested, it might be a good time to [extract a component](https://reactjs.org/docs/components-and-props.html#extracting-components).
 
 # **Forms**
 
@@ -740,9 +738,7 @@ For example, if we want to make the previous example log the name when it is sub
 
 [**Try it on CodePen**](https://codepen.io/gaearon/pen/VmmPgp?editors=0010)
 
-<iframe src="https://codepen.io/bgoonz/pen/rNwayjv?editors=0010>
-
-Since the value attribute is set on our form element, the displayed value will always be this.state.value, making the React state the source of truth. Since handleChange runs on every keystroke to update the React state, the displayed value will update as the user types.
+<iframe src="https://codepen.io/bgoonz/pen/rNwayjv?editors=0010"></iframe>Since the value attribute is set on our form element, the displayed value will always be this.state.value, making the React state the source of truth. Since handleChange runs on every keystroke to update the React state, the displayed value will update as the user types.
 
 With a controlled component, the input's value is always driven by the React state. While this means you have to type a bit more code, you can now pass the value to other UI elements too, or reset it from other event handlers.
 

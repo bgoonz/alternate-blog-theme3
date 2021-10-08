@@ -594,9 +594,7 @@ We'll create a Greeting component that displays either of these components dep
 
 [**Try it on CodePen**](https://codepen.io/gaearon/pen/ZpVxNq?editors=0011)
 
-<iframe src="https://codepen.io/bgoonz/pen/mdwyWmJ?editors=0011>
-
-This example renders a different greeting depending on the value of isLoggedIn prop.
+<iframe src="https://codepen.io/bgoonz/pen/mdwyWmJ?editors=0011"></iframe>This example renders a different greeting depending on the value of isLoggedIn prop.
 
 # Element Variables
 
@@ -618,9 +616,7 @@ You may [embed expressions in JSX](https://reactjs.org/docs/introducing-jsx.htm
 
 [**Try it on CodePen**](https://codepen.io/gaearon/pen/ozJddz?editors=0010)
 
-<iframe src="https://codepen.io/bgoonz/pen/VwWYppo?editors=0010>
-
-It works because in JavaScript, true && expression always evaluates to expression, and false && expression always evaluates to false.
+<iframe src="https://codepen.io/bgoonz/pen/VwWYppo?editors=0010"></iframe>It works because in JavaScript, true && expression always evaluates to expression, and false && expression always evaluates to false.
 
 Therefore, if the condition is true, the element right after && will appear in the output. If it is false, React will ignore and skip it.
 
@@ -666,9 +662,7 @@ We include the entire listItems array inside a \<ul> element, and [render i
 
 [**Try it on CodePen**](https://codepen.io/gaearon/pen/GjPyQr?editors=0011)
 
-<iframe src="https://codepen.io/bgoonz/pen/eYRmvvr?editors=0011>
-
-This code displays a bullet list of numbers between 1 and 5.
+<iframe src="https://codepen.io/bgoonz/pen/eYRmvvr?editors=0011"></iframe>This code displays a bullet list of numbers between 1 and 5.
 
 # Basic List Component
 
@@ -682,9 +676,7 @@ Let's assign a key to our list items inside numbers.map() and fix the missin
 
 [**Try it on CodePen**](https://codepen.io/gaearon/pen/jrXYRR?editors=0011)
 
-<iframe src="https://codepen.io/bgoonz/pen/yLXyMMP?editors=0011>
-
-# Keys
+<iframe src="https://codepen.io/bgoonz/pen/yLXyMMP?editors=0011"></iframe># Keys
 
 Keys help React identify which items have changed, are added, or are removed. Keys should be given to the elements inside the array to give the elements a stable identity:
 
@@ -716,9 +708,7 @@ Keys used within arrays should be unique among their siblings. However, they don
 
 [**Try it on CodePen**](https://codepen.io/gaearon/pen/NRZYGN?editors=0010)
 
-<iframe src="https://codepen.io/bgoonz/pen/mdwyWWy?editors=0010>
-
-Keys serve as a hint to React but they don't get passed to your components. If you need the same value in your component, pass it explicitly as a prop with a different name:
+<iframe src="https://codepen.io/bgoonz/pen/mdwyWWy?editors=0010"></iframe>Keys serve as a hint to React but they don't get passed to your components. If you need the same value in your component, pass it explicitly as a prop with a different name:
 
 With the example above, the Post component can read props.id, but not props.key.
 

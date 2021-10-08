@@ -127,7 +127,12 @@ It displays a heading saying "Hello, world!" on the page.
 
 [**Try it on CodePen**](https://reactjs.org/redirect-to-codepen/hello-world)
 
-\  <iframe src="https://codepen.io/bgoonz/pen/wveBJBM" frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled"  loading="lazy" allowtransparency="true" allowfullscreen="true" ></iframe>
+<iframe height="300" style="width: 100%;" scrolling="no" title="helloworld" src="https://codepen.io/bgoonz42/embed/WNEeEEV?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/bgoonz42/pen/WNEeEEV">
+  helloworld</a> by Bryan C Guner (<a href="https://codepen.io/bgoonz42">@bgoonz42</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
+
 
 Click the link above to open an online editor. Feel free to make some changes, and see how they affect the output. Most pages in this guide will have editable examples like this one.
 

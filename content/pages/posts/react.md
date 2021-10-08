@@ -277,7 +277,11 @@ Consider this ticking clock example:
 
 
 
-
+<iframe height="300" style="width: 100%;" scrolling="no" title="updating-rendered-elements" src="https://codepen.io/bgoonz/embed/eYRmvNy?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/bgoonz/pen/eYRmvNy">
+  updating-rendered-elements</a> by Bryan C Guner (<a href="https://codepen.io/bgoonz">@bgoonz</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
 
 
 It calls \[ReactDOM.render()]\(\<https://reactjs.org/docs/react-dom.html#render>) every second from a \[setInterval()]\(\<https://developer.mozilla.org/en-US/docs/Web/API/WindowTimers/setInterval>) callback.

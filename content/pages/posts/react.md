@@ -330,7 +330,13 @@ For example, this code renders "Hello, Sara" on the page:
 
 [**Try it on CodePen**](https://reactjs.org/redirect-to-codepen/components-and-props/rendering-a-component)
 
-\  <iframe src="https://codepen.io/bgoonz/pen/QWgwpjd?editors=0010>
+
+<iframe height="300" style="width: 100%;" scrolling="no" title="rendering-component" src="https://codepen.io/bgoonz/embed/QWgwpjd?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/bgoonz/pen/QWgwpjd">
+  rendering-component</a> by Bryan C Guner (<a href="https://codepen.io/bgoonz">@bgoonz</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
+
 
 Let's recap what happens in this example:
 

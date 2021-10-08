@@ -39,6 +39,7 @@ seo:
       value: images/7.jpg
       relativeUrl: true
 layout: post
+content_img_path: /images/react.gif
 ---
 # Getting Started with Create React App&#xA;&#xA;
 

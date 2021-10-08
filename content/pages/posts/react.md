@@ -326,9 +326,7 @@ For example, we can create an App component that renders Welcome many times:
 
 [**Try it on CodePen**](https://reactjs.org/redirect-to-codepen/components-and-props/composing-components)
 
-<iframe src="https://codepen.io/bgoonz/pen/LYLEWNq?editors=0010>
-
-Typically, new React apps have a single App component at the very top. However, if you integrate React into an existing app, you might start bottom-up with a small component like Button and gradually work your way to the top of the view hierarchy.
+<iframe src="https://codepen.io/bgoonz/pen/LYLEWNq?editors=0010"></iframe>Typically, new React apps have a single App component at the very top. However, if you integrate React into an existing app, you might start bottom-up with a small component like Button and gradually work your way to the top of the view hierarchy.
 
 # Extracting Components
 
@@ -338,9 +336,7 @@ For example, consider this Comment component:
 
 [**Try it on CodePen**](https://reactjs.org/redirect-to-codepen/components-and-props/extracting-components)
 
-<iframe src="https://codepen.io/bgoonz/pen/PojwpzP?editors=0010>
-
-It accepts author (an object), text (a string), and date (a date) as props, and describes a comment on a social media website.
+<iframe src="https://codepen.io/bgoonz/pen/PojwpzP?editors=0010"></iframe>It accepts author (an object), text (a string), and date (a date) as props, and describes a comment on a social media website.
 
 This component can be tricky to change because of all the nesting, and it is also hard to reuse individual parts of it. Let's extract a few components from it.
 
@@ -360,9 +356,7 @@ This lets us simplify Comment even further:
 
 [**Try it on CodePen**](https://reactjs.org/redirect-to-codepen/components-and-props/extracting-components-continued)
 
-<iframe src="https://codepen.io/bgoonz/pen/eYRmvzV?editors=0010>
-
-Extracting components might seem like grunt work at first, but having a palette of reusable components pays off in larger apps. A good rule of thumb is that if a part of your UI is used several times (Button, Panel, Avatar), or is complex enough on its own (App, FeedStory, Comment), it is a good candidate to be extracted to a separate component.
+<iframe src="https://codepen.io/bgoonz/pen/eYRmvzV?editors=0010"></iframe>Extracting components might seem like grunt work at first, but having a palette of reusable components pays off in larger apps. A good rule of thumb is that if a part of your UI is used several times (Button, Panel, Avatar), or is complex enough on its own (App, FeedStory, Comment), it is a good candidate to be extracted to a separate component.
 
 # Props are Read-Only
 
@@ -392,9 +386,7 @@ We can start by encapsulating how the clock looks:
 
 [**Try it on CodePen**](https://codepen.io/gaearon/pen/dpdoYR?editors=0010)
 
-<iframe src="https://codepen.io/bgoonz/pen/powvegw?editors=0010>
-
-However, it misses a crucial requirement: the fact that the Clock sets up a timer and updates the UI every second should be an implementation detail of the Clock.
+<iframe src="https://codepen.io/bgoonz/pen/powvegw?editors=0010"></iframe>However, it misses a crucial requirement: the fact that the Clock sets up a timer and updates the UI every second should be an implementation detail of the Clock.
 
 Ideally we want to write this once and have the Clock update itself:
 
@@ -418,9 +410,7 @@ You can convert a function component like Clock to a class in five steps:
 
 [**Try it on CodePen**](https://codepen.io/gaearon/pen/zKRGpo?editors=0010)
 
-<iframe src="https://codepen.io/bgoonz/pen/eYRmvJV?editors=0010>
-
-Clock is now defined as a class rather than a function.
+<iframe src="https://codepen.io/bgoonz/pen/eYRmvJV?editors=0010"></iframe>Clock is now defined as a class rather than a function.
 
 The render method will be called each time an update happens, but as long as we render \<Clock /> into the same DOM node, only a single instance of the Clock class will be used. This lets us use additional features such as local state and lifecycle methods.
 

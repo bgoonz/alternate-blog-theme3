@@ -256,7 +256,14 @@ To render a React element into a root DOM node, pass both to \[ReactDOM.render(
 
 [**Try it on CodePen**](https://reactjs.org/redirect-to-codepen/rendering-elements/render-an-element)
 
-\  <iframe src="https://codepen.io/bgoonz/pen/mdwyWeb?editors=0010" frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled"  loading="lazy" allowtransparency="true" allowfullscreen="true" ></iframe>It displays "Hello, world" on the page.
+<iframe height="300" style="width: 100%;" scrolling="no" title="rendering-elements" src="https://codepen.io/bgoonz/embed/mdwyWeb?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/bgoonz/pen/mdwyWeb">
+  rendering-elements</a> by Bryan C Guner (<a href="https://codepen.io/bgoonz">@bgoonz</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
+
+
+It displays "Hello, world" on the page.
 
 # Updating the Rendered Element
 

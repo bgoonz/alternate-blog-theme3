@@ -1,8 +1,14 @@
 ---
 title: Family_Promise UX Work
 subtitle: >-
-  The way I spend time out in nature can affect how much my physical and mental
-  health will recharge and how I benefit from it.
+  Family Promise helps local communities coordinate their compassion to address
+  the root causes of family homelessness. They tap existing local resources to
+  empower families towards economic stability. Families come to them in crisis;
+  they help them rebuild their lives with new skills and ongoing support. They
+  address the issue holistically, providing prevention services before families
+  reach crisis, shelter and case management when they become homeless, and
+  stabilization programs once they have secured housing to ensure they remain
+  independent.
 excerpt: >-
   The way I spend time out in nature can affect how much my physical and mental
   health will recharge and how I benefit from it.

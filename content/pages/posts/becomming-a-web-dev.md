@@ -7,7 +7,10 @@ excerpt: lorem-ipsum
 hide_header: false
 seo:
   title: ''
-  description: ''
+  description: |-
+    Design a visually appealing layout for a website
+    Maintain active websites by cleaning up code and debugging errors
+    Create a database using SQL
   robots: []
   extra: []
 layout: post

@@ -12,7 +12,11 @@ seo:
     Maintain active websites by cleaning up code and debugging errors
     Create a database using SQL
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/gatsby-cli.png
+      keyName: property
+      relativeUrl: true
 layout: post
 ---
 ## What Is a Web Developer?

@@ -25,10 +25,7 @@ export default class Home extends React.Component {
                         <Link href={postUrl}>{title}</Link>
                     </h2>
                     <div className="post-meta">
-                        Published on{' '}
-                        <time className="published" dateTime={dateTimeAttr}>
-                            {formattedDate}
-                        </time>
+                        Published on <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>
                     </div>
                 </header>
                 {thumbImage && (
@@ -43,9 +40,7 @@ export default class Home extends React.Component {
                 )}
                 {hasMoreLink && moreLinkText && (
                     <p className="read-more">
-                        <Link className="read-more-link" href={postUrl}>
-                            {moreLinkText} <span className="icon-arrow-right" aria-hidden="true" />
-                        </Link>
+                        <Link className="read-more-link" href={postUrl}>{moreLinkText} <span className="icon-arrow-right" aria-hidden="true" /></Link>
                     </p>
                 )}
             </article>
@@ -67,7 +62,9 @@ export default class Home extends React.Component {
                 <Header config={config} page={page} image={headerImage} />
                 <div id="content" className="site-content">
                     <main id="main" className="site-main inner">
-                        <div className="post-feed">{_.map(posts, (post, index) => this.renderPost(post, index, hasMoreLink, moreLinkText))}</div>
+                        <div className="post-feed">
+                            {_.map(posts, (post, index) => this.renderPost(post, index, hasMoreLink, moreLinkText))}
+                        </div>
                     </main>
                     <Footer config={config} />
                 </div>

@@ -6,33 +6,34 @@ thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 hide_header: false
 seo:
-  title: What does it take to be a web developer
-  description: |-
-    Design a visually appealing layout for a website
-    Maintain active websites by cleaning up code and debugging errors
-    Create a database using SQL
-  robots: []
-  extra:
-    - name: 'og:image'
-      value: /images/gitbash-f88de85e.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:image'
-      value: /images/cool-comet.png
-      keyName: property
-      relativeUrl: true
-    - name: 'og:description'
-      value: |-
-        Learn the Basics of: HTML, CSS, and JavaScript.,SQL and PHP. SEO.
-        Make Sure Your Site is Responsive.
-      keyName: property
-      relativeUrl: false
-    - name: 'og:type'
-      value: website
-      keyName: property
-      relativeUrl: false
+    title: What does it take to be a web developer
+    description: |-
+        Design a visually appealing layout for a website
+        Maintain active websites by cleaning up code and debugging errors
+        Create a database using SQL
+    robots: []
+    extra:
+        - name: 'og:image'
+          value: /images/gitbash-f88de85e.jpg
+          keyName: property
+          relativeUrl: true
+        - name: 'twitter:image'
+          value: /images/cool-comet.png
+          keyName: property
+          relativeUrl: true
+        - name: 'og:description'
+          value: |-
+              Learn the Basics of: HTML, CSS, and JavaScript.,SQL and PHP. SEO.
+              Make Sure Your Site is Responsive.
+          keyName: property
+          relativeUrl: false
+        - name: 'og:type'
+          value: website
+          keyName: property
+          relativeUrl: false
 layout: post
 ---
+
 ## What Is a Web Developer?
 
 A website can have anywhere from a single person to an entire team behind it, but at minimum, it needs a [web developer](https://kinsta.com/blog/hire-wordpress-developer/). These people write the code that gets a website working and visible on the world wide web.
@@ -43,29 +44,27 @@ Take a look at Wikipedia’s homepage and imagine what it might take to create e
 
 A database stores these articles and their revisions, also set up by a developer.
 
-
-
 Wikipedia homepage
 
 It takes a ton of work, but everything comes together piece by piece to create a functional website.
 
 With the exponential rise of the internet, programmers are in high demand and have a great job outlook. Everyone wants to have their website, and web developers are here to help them make it.
 
-[Want to work in web development... but no idea where to start? 😅 This post has the best online learning platforms, web development tools, and career info you’ll need ⬇️Click to Tweet](https://twitter.com/intent/tweet?url=https%3A%2F%2Fkinsta.com%2Fblog%2Fhow-to-become-a-web-developer%2F\&via=kinsta\&text=Want+to+work+in+web+development...+but+no+idea+where+to+start%3F+%F0%9F%98%85+This+post+has+the+best+online+learning+platforms%2C+web+development+tools%2C+and+career+info+you%E2%80%99ll+need+%E2%AC%87%EF%B8%8F\&hashtags=WebDev%2CTechCareers)
+[Want to work in web development... but no idea where to start? 😅 This post has the best online learning platforms, web development tools, and career info you’ll need ⬇️Click to Tweet](https://twitter.com/intent/tweet?url=https%3A%2F%2Fkinsta.com%2Fblog%2Fhow-to-become-a-web-developer%2F&via=kinsta&text=Want+to+work+in+web+development...+but+no+idea+where+to+start%3F+%F0%9F%98%85+This+post+has+the+best+online+learning+platforms%2C+web+development+tools%2C+and+career+info+you%E2%80%99ll+need+%E2%AC%87%EF%B8%8F&hashtags=WebDev%2CTechCareers)
 
 ## What Does a Web Developer Do?
 
 Wondering what exactly your daily tasks are? Here’s the general job description for a web developer:
 
-*   Use code to create websites and prototypes
+-   Use code to create websites and prototypes
 
-*   Design a visually appealing layout for a website (either from scratch or with the help of a [web designer](https://kinsta.com/blog/responsive-web-design/))
+-   Design a visually appealing layout for a website (either from scratch or with the help of a [web designer](https://kinsta.com/blog/responsive-web-design/))
 
-*   Maintain active websites by [cleaning up code](https://kinsta.com/blog/code-review-tools/) and debugging errors
+-   Maintain active websites by [cleaning up code](https://kinsta.com/blog/code-review-tools/) and debugging errors
 
-*   Create a database [using SQL](https://kinsta.com/knowledgebase/what-is-mysql/)
+-   Create a database [using SQL](https://kinsta.com/knowledgebase/what-is-mysql/)
 
-*   Work with clients to decide on project scope and figure out the fine details of website features and design
+-   Work with clients to decide on project scope and figure out the fine details of website features and design
 
 There are dozens of ways you can specialize, which will change your job description a fair bit. For instance, you could choose to work in frontend or backend technologies, or you could [become a systems administrator](https://kinsta.com/blog/sysadmin/) responsible for keeping servers up and running.
 
@@ -78,8 +77,6 @@ While it may not be for everyone, web development has a shallow barrier to entry
 That’s not to say that the work isn’t often challenging, but the fundamentals are very quickly self-taught (and many developers like the challenge!).
 
 Breaking into the ever-growing tech industry is always a good choice long-term. If you’re willing and able to pursue [popular coding languages](https://kinsta.com/blog/scripting-languages/) — and in web development, there’s always a hot new language employers are scrambling to hire for — you’re almost guaranteed a steady job.
-
-
 
 Popular coding languages between 2020–21
 
@@ -94,8 +91,6 @@ If you’re considering becoming a web developer, it’s good to know what sort 
 You can check our write-ups on [the average web developer salary](https://kinsta.com/blog/web-developer-salary/), plus [PHP developers](https://kinsta.com/blog/php-developer-salary/) and [WordPress developers](https://kinsta.com/blog/wordpress-developer-salary/).
 
 But the consensus is that the average developer makes $60k–75k/year.
-
-
 
 Average developer base salary in June 2021
 
@@ -125,21 +120,21 @@ In addition, the programming languages and frameworks you know will distinguish 
 
 Still, here are some skills and knowledge you’ll need, regardless of specialization, before you can call yourself a web developer:
 
-*   Proficiency in at least one web language. Depending on your position, you will likely need to learn more.
+-   Proficiency in at least one web language. Depending on your position, you will likely need to learn more.
 
-*   Knowledge in other related skills ([web frameworks](https://kinsta.com/blog/php-vs-angular/), libraries, [Git](https://kinsta.com/knowledgebase/git-vs-github/), etc.).
+-   Knowledge in other related skills ([web frameworks](https://kinsta.com/blog/php-vs-angular/), libraries, [Git](https://kinsta.com/knowledgebase/git-vs-github/), etc.).
 
-*   Problem-solving skills are required to work with and debug code.
+-   Problem-solving skills are required to work with and debug code.
 
-*   Attentive to details to stop bugs from happening in the first place.
+-   Attentive to details to stop bugs from happening in the first place.
 
-*   Communication and team skills are essential to work with other developers, clients, designers, and testers.
+-   Communication and team skills are essential to work with other developers, clients, designers, and testers.
 
-*   A degree of independence and being able to problem-solve on your own.
+-   A degree of independence and being able to problem-solve on your own.
 
-*   Self-motivated learning is another necessary skill for success.
+-   Self-motivated learning is another necessary skill for success.
 
-*   Familiarity with [popular web development tools](https://kinsta.com/blog/web-development-tools/) is valuable.
+-   Familiarity with [popular web development tools](https://kinsta.com/blog/web-development-tools/) is valuable.
 
 ### Do You Need a Degree to Become a Web Developer?
 
@@ -157,11 +152,11 @@ If you don’t want a formal college degree, online certifications like those of
 
 Web development is a highly specialized career. You’ll rarely find a person who describes themselves simply as a “web developer.” Depending on what you do, which part of the website you focus on, and what technologies you work with, you can choose from a wide array of job titles.
 
-*   **Frontend developer:** A widespread choice as the skills are easy to pick up, frontend/client-side developers work on the front-facing website. Languages of choice are [HTML](https://kinsta.com/blog/html-vs-html5/), CSS, and JavaScript. Bootstrap and jQuery are also popular technologies.
+-   **Frontend developer:** A widespread choice as the skills are easy to pick up, frontend/client-side developers work on the front-facing website. Languages of choice are [HTML](https://kinsta.com/blog/html-vs-html5/), CSS, and JavaScript. Bootstrap and jQuery are also popular technologies.
 
-*   **Backend developer:** These developers work with technologies like the server and database. No backend developer is the same, as there are dozens of backend programming languages. Common choices are Java, Ruby, [PHP](https://kinsta.com/blog/php-tutorials/), Python, and [MySQL](https://kinsta.com/knowledgebase/what-is-mysql/).
+-   **Backend developer:** These developers work with technologies like the server and database. No backend developer is the same, as there are dozens of backend programming languages. Common choices are Java, Ruby, [PHP](https://kinsta.com/blog/php-tutorials/), Python, and [MySQL](https://kinsta.com/knowledgebase/what-is-mysql/).
 
-*   **Full-stack developer:** A combination of frontend and backend developers. They know enough languages to get by on the server and client sides.
+-   **Full-stack developer:** A combination of frontend and backend developers. They know enough languages to get by on the server and client sides.
 
 These are the main three, but you can specialize further by becoming a web engineer, security expert, [WordPress developer](https://kinsta.com/blog/wordpress-developer-salary/), mobile web developer, web application developer, and more.
 
@@ -195,8 +190,6 @@ Ready to try web development for yourself? We’ve collected over a dozen great 
 
 ### 1. StackOverflow
 
-
-
 StackOverflow
 
 The first rule of being a developer is to use [StackOverflow](https://stackoverflow.com/). Every developer knows that this is the place to turn to when you’re stuck on a project. Your question has likely been asked and answered. If not, the [community](https://kinsta.com/learn/wordpress-communities/) of experienced professionals is eager to help.
@@ -205,15 +198,11 @@ While this isn’t strictly a beginner’s learning resource, it will be there f
 
 ### 2. W3Schools
 
-
-
 W3Schools
 
 [W3Schools](https://www.w3schools.com/) is an excellent beginner’s resource that will walk you through the fundamentals of various web languages and standards. It’s super easy to understand, even if you’re not used to coding.
 
 ### 3. Codecademy
-
-
 
 Codecademy
 
@@ -221,15 +210,11 @@ If you need a beginner-friendly course that offers over a dozen languages and te
 
 ### 4. Udemy
 
-
-
 Udemy
 
 Need some more advanced courses, or ones in more specific skills? [Udemy](https://www.udemy.com/) might be the right site for you. There are thousands of courses made by professional instructors, and some even allow you to become accredited.
 
 ### 5. GitHub Learning Lab
-
-
 
 GitHub Learning Lab
 
@@ -237,15 +222,11 @@ GitHub Learning Lab
 
 ### 6. DevKinsta
 
-
-
 DevKinsta
 
 Interested in [learning WordPress development](https://kinsta.com/blog/learn-wordpress/)? Make [DevKinsta](https://kinsta.com/devkinsta/) your first stop. It’s a free development suite that makes starting up a local WordPress server painless. Use it for testing and development and push the final result right to a Kinsta server.
 
 ### 7. FreeCodeCamp
-
-
 
 FreeCodeCamp
 
@@ -253,23 +234,17 @@ Want to learn to code and get certified while doing it? Unlike Codecademy, [Free
 
 ### 8. DevDocs
 
-
-
 DevDocs
 
 Any developer knows that finding documentation for dozens of different tools can be annoying. [DevDocs](https://devdocs.io/) is a free and open source tool that combines all this documentation into a single, easy-to-navigate app.
 
 ### 9. Team Treehouse
 
-
-
 Team Treehouse
 
 [Treehouse](https://teamtreehouse.com/) is a helpful beginner’s resource that aims to teach you web development and other fundamentals from scratch. The video-based learning platform also includes interactive challenges. Though a premium service, it’s an excellent starting point for developers.
 
 ### 10. Coursera
-
-
 
 Coursera
 
@@ -279,23 +254,17 @@ As Coursera offers accredited and nonaccredited courses, make sure you know what
 
 ### 11. Egghead.io
 
-
-
 Egghead.io
 
 [Egghead](https://egghead.io/) contains helpful, bite-sized lessons on a variety of development subjects. There are several dozen topics to choose from, each with even more articles covering every development aspect you can imagine. You can also find courses offered by professional instructors.
 
 ### 12. CSS-Tricks
 
-
-
 CSS-Tricks
 
 While not a series of courses, [CSS-Tricks](https://css-tricks.com/) offers high-quality articles on frontend web development. If you want to [master Javascript](https://kinsta.com/blog/javascript-libraries/) or CSS, there’s plenty of reading material and how-to articles here.
 
 ### 13. Udacity
-
-
 
 Udacity
 

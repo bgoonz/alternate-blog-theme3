@@ -6,7 +6,7 @@
 }
 
 .post-header {
-    margin-bottom: 1.3em;
+    margin-bottom: 1.66667em;
 }
 
 .post-title {
@@ -30,7 +30,7 @@
 .post-thumbnail {
     border: 0;
     display: block;
-    margin-bottom: 1.8em;
+    margin-bottom: 2.5em;
 
     img {
         width: 100%;
@@ -42,6 +42,21 @@
     font-size: 1.33333rem;
     line-height: 1.5;
     margin-bottom: 2.5rem;
+}
+
+.post-content {
+    max-width: 750px;
+
+    iframe[src*="vimeo.com"],
+    iframe[src*="youtube.com"] {
+        display: block;
+        margin-bottom: 1.66667rem;
+        margin-top: 1.66667rem;
+
+        &:first-child {
+            margin-top: 0;
+        }
+    }
 }
 
 .read-more-link {
@@ -73,7 +88,7 @@
 
     .post-header,
     .post-thumbnail {
-        margin-bottom: 1.3em;
+        margin-bottom: 1.66667em;
     }
 
     .post-title {
@@ -96,7 +111,7 @@
 
     .post-feed {
         .post {
-            padding-bottom: 1.3em;
+            padding-bottom: 1.66667em;
         }
     }
 }

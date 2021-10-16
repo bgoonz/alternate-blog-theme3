@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: What Is a Web Developer?
 subtitle: lorem-ipsum
 date: '2021-10-16'
 thumb_img_alt: lorem-ipsum

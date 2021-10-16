@@ -7,4 +7,5 @@ seo:
   robots: []
   extra: []
 layout: page
+img_path: /images/gitbash.jpg
 ---

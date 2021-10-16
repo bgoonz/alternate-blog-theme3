@@ -7,5 +7,4 @@ seo:
   robots: []
   extra: []
 layout: page
-img_path: /images/3.png
 ---

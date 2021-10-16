@@ -1,46 +1,47 @@
 ---
 title: Create React App
 excerpt: >-
-  Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
-  It has a population of 325,671 and an area of 103,000 km2 (40,000 sq mi),
-  making it the most sparsely populated country in Europe.
+    Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
+    It has a population of 325,671 and an area of 103,000 km2 (40,000 sq mi),
+    making it the most sparsely populated country in Europe.
 date: '2021-10-08'
 thumb_img_path: /images/react-3c0fc7b1.gif
 thumb_img_alt: Icelandic horses
 hide_header: true
 seo:
-  title: Fragments of Iceland
-  description: Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
-  extra:
-    - name: 'og:type'
-      value: article
-      keyName: property
-    - name: 'og:title'
-      value: Fragments of Iceland
-      keyName: property
-    - name: 'og:description'
-      value: >-
-        Iceland is a Nordic country between the North Atlantic and the Arctic
-        Ocean.
-      keyName: property
-    - name: 'og:image'
-      value: images/7.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Fragments of Iceland
-    - name: 'twitter:description'
-      value: >-
-        Iceland is a Nordic country between the North Atlantic and the Arctic
-        Ocean.
-    - name: 'twitter:image'
-      value: images/7.jpg
-      relativeUrl: true
+    title: Fragments of Iceland
+    description: Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
+    extra:
+        - name: 'og:type'
+          value: article
+          keyName: property
+        - name: 'og:title'
+          value: Fragments of Iceland
+          keyName: property
+        - name: 'og:description'
+          value: >-
+              Iceland is a Nordic country between the North Atlantic and the Arctic
+              Ocean.
+          keyName: property
+        - name: 'og:image'
+          value: images/7.jpg
+          keyName: property
+          relativeUrl: true
+        - name: 'twitter:card'
+          value: summary_large_image
+        - name: 'twitter:title'
+          value: Fragments of Iceland
+        - name: 'twitter:description'
+          value: >-
+              Iceland is a Nordic country between the North Atlantic and the Arctic
+              Ocean.
+        - name: 'twitter:image'
+          value: images/7.jpg
+          relativeUrl: true
 layout: post
 content_img_path: /images/react.gif
 ---
+
 # Getting Started with Create React App&#xA;&#xA;
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -58,7 +59,6 @@ The page will reload when you make changes.
 You may also see any lint errors in the console.
 
 ### npm test
-
 
 Launches the test runner in the interactive watch mode.
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
@@ -113,11 +113,7 @@ This section has moved here: <https://facebook.github.io/create-react-app/docs/
 
 This section has moved here: <https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify>
 
-
-
-
-
-frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled"  loading="lazy" allowtransparency="true" allowfullscreen="true">
+frameborder="no" height="600" style="width: 100%;" scrolling="yes" title="Untitled" loading="lazy" allowtransparency="true" allowfullscreen="true">
 
 # **Hello World**&#xA;&#xA;
 
@@ -132,9 +128,6 @@ It displays a heading saying "Hello, world!" on the page.
   helloworld</a> by Bryan C Guner (<a href="https://codepen.io/bgoonz42">@bgoonz42</a>)
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
-
-
-
 
 Click the link above to open an online editor. Feel free to make some changes, and see how they affect the output. Most pages in this guide will have editable examples like this one.
 
@@ -189,8 +182,6 @@ In the example below, we embed the result of calling a JavaScript function, for
   embedding-expressions-jsx</a> by Bryan C Guner (<a href="https://codepen.io/bgoonz">@bgoonz</a>)
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
-
-
 
 We split JSX over multiple lines for readability. While it isn't required, when doing this, we also recommend wrapping it in parentheses to avoid the pitfalls of [automatic semicolon insertion](https://stackoverflow.com/q/2846283).
 
@@ -266,9 +257,6 @@ To render a React element into a root DOM node, pass both to \[ReactDOM.render(
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
 
-
-
-
 It displays "Hello, world" on the page.
 
 # Updating the Rendered Element
@@ -281,16 +269,11 @@ Consider this ticking clock example:
 
 [**Try it on CodePen**](https://reactjs.org/redirect-to-codepen/rendering-elements/update-rendered-element)
 
-
-
 <iframe height="700" style="width: 100%;" scrolling="no" title="updating-rendered-elements" src="https://codepen.io/bgoonz/embed/eYRmvNy?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/bgoonz/embed/eYRmvNy">
   updating-rendered-elements</a> by Bryan C Guner (<a href="https://codepen.io/bgoonz">@bgoonz</a>)
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
-
-
-
 
 It calls \[ReactDOM.render()]\(\<https://reactjs.org/docs/react-dom.html#render>) every second from a \[setInterval()]\(\<https://developer.mozilla.org/en-US/docs/Web/API/WindowTimers/setInterval>) callback.
 
@@ -338,11 +321,7 @@ For example, this code renders "Hello, Sara" on the page:
 
 [**Try it on CodePen**](https://reactjs.org/redirect-to-codepen/components-and-props/rendering-a-component)
 
-
 <iframe height="700" style="width: 100%;" scrolling="no" title="rendering-component" src="https://codepen.io/bgoonz/embed/QWgwpjd?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
-
-
-
 
 Let's recap what happens in this example:
 
@@ -354,9 +333,7 @@ Let's recap what happens in this example:
 
 4.  React DOM efficiently updates the DOM to match \<h1>Hello, Sara\</h1>.
 
-> Note: Always start component names with a capital letter.React treats components starting with lowercase letters as DOM tags. For example, 
->
->
+> Note: Always start component names with a capital letter.React treats components starting with lowercase letters as DOM tags. For example,
 
 # Composing Components
 
@@ -366,12 +343,8 @@ For example, we can create an App component that renders Welcome many times:
 
 [**Try it on CodePen**](https://reactjs.org/redirect-to-codepen/components-and-props/composing-components)
 
-
 <iframe height="700" style="width: 100%;" scrolling="no" title="hello" src="https://codepen.io/bgoonz/embed/LYLEWNq?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
 </iframe>
-
-
-
 
 Typically, new React apps have a single App component at the very top. However, if you integrate React into an existing app, you might start bottom-up with a small component like Button and gradually work your way to the top of the view hierarchy.
 
@@ -601,9 +574,9 @@ In React apps, whether a component is stateful or stateless is considered an imp
 
 # Handling events with React elements is very similar to handling events on DOM elements. There are some syntax differences:
 
-*   React events are named using camelCase, rather than lowercase.
+-   React events are named using camelCase, rather than lowercase.
 
-*   With JSX you pass a function as the event handler, rather than a string.
+-   With JSX you pass a function as the event handler, rather than a string.
 
 For example, the HTML:
 
@@ -961,21 +934,21 @@ Now, no matter which input you edit, this.state.temperature and this.state.sc
 
 Let's recap what happens when you edit an input:
 
-*   React calls the function specified as onChange on the DOM \<input>. In our case, this is the handleChange method in the TemperatureInput component.
+-   React calls the function specified as onChange on the DOM \<input>. In our case, this is the handleChange method in the TemperatureInput component.
 
-*   The handleChange method in the TemperatureInput component calls this.props.onTemperatureChange() with the new desired value. Its props, including onTemperatureChange, were provided by its parent component, the Calculator.
+-   The handleChange method in the TemperatureInput component calls this.props.onTemperatureChange() with the new desired value. Its props, including onTemperatureChange, were provided by its parent component, the Calculator.
 
-*   When it previously rendered, the Calculator had specified that onTemperatureChange of the Celsius TemperatureInput is the Calculator's handleCelsiusChange method, and onTemperatureChange of the Fahrenheit TemperatureInput is the Calculator's handleFahrenheitChange method. So either of these two Calculator methods gets called depending on which input we edited.
+-   When it previously rendered, the Calculator had specified that onTemperatureChange of the Celsius TemperatureInput is the Calculator's handleCelsiusChange method, and onTemperatureChange of the Fahrenheit TemperatureInput is the Calculator's handleFahrenheitChange method. So either of these two Calculator methods gets called depending on which input we edited.
 
-*   Inside these methods, the Calculator component asks React to re-render itself by calling this.setState() with the new input value and the current scale of the input we just edited.
+-   Inside these methods, the Calculator component asks React to re-render itself by calling this.setState() with the new input value and the current scale of the input we just edited.
 
-*   React calls the Calculator component's render method to learn what the UI should look like. The values of both inputs are recomputed based on the current temperature and the active scale. The temperature conversion is performed here.
+-   React calls the Calculator component's render method to learn what the UI should look like. The values of both inputs are recomputed based on the current temperature and the active scale. The temperature conversion is performed here.
 
-*   React calls the render methods of the individual TemperatureInput components with their new props specified by the Calculator. It learns what their UI should look like.
+-   React calls the render methods of the individual TemperatureInput components with their new props specified by the Calculator. It learns what their UI should look like.
 
-*   React calls the render method of the BoilingVerdict component, passing the temperature in Celsius as its props.
+-   React calls the render method of the BoilingVerdict component, passing the temperature in Celsius as its props.
 
-*   React DOM updates the DOM with the boiling verdict and to match the desired input values. The input we just edited receives its current value, and the other input is updated to the temperature after conversion.
+-   React DOM updates the DOM with the boiling verdict and to match the desired input values. The input we just edited receives its current value, and the other input is updated to the temperature after conversion.
 
 Every update goes through the same steps so the inputs stay in sync.
 
@@ -1075,15 +1048,15 @@ If you look at ProductTable, you'll see that the table header (containing the "
 
 Now that we've identified the components in our mock, let's arrange them into a hierarchy. Components that appear within another component in the mock should appear as a child in the hierarchy:
 
-*   FilterableProductTable
+-   FilterableProductTable
 
-    *   SearchBar
+    -   SearchBar
 
-    *   ProductTable
+    -   ProductTable
 
-        *   ProductCategoryRow
+        -   ProductCategoryRow
 
-        *   ProductRow
+        -   ProductRow
 
 # Step 2: Build A Static Version in React
 
@@ -1111,13 +1084,13 @@ To build your app correctly, you first need to think of the minimal set of mutab
 
 Think of all the pieces of data in our example application. We have:
 
-*   The original list of products
+-   The original list of products
 
-*   The search text the user has entered
+-   The search text the user has entered
 
-*   The value of the checkbox
+-   The value of the checkbox
 
-*   The filtered list of products
+-   The filtered list of products
 
 Let's go through each one and figure out which one is state. Ask three questions about each piece of data:
 
@@ -1131,9 +1104,9 @@ The original list of products is passed in as props, so that's not state. The se
 
 So finally, our state is:
 
-*   The search text the user has entered
+-   The search text the user has entered
 
-*   The value of the checkbox
+-   The value of the checkbox
 
 # Step 4: Identify Where Your State Should Live
 
@@ -1145,21 +1118,21 @@ Remember: React is all about one-way data flow down the component hierarchy. It 
 
 For each piece of state in your application:
 
-*   Identify every component that renders something based on that state.
+-   Identify every component that renders something based on that state.
 
-*   Find a common owner component (a single component above all the components that need the state in the hierarchy).
+-   Find a common owner component (a single component above all the components that need the state in the hierarchy).
 
-*   Either the common owner or another component higher up in the hierarchy should own the state.
+-   Either the common owner or another component higher up in the hierarchy should own the state.
 
-*   If you can't find a component where it makes sense to own the state, create a new component solely for holding the state and add it somewhere in the hierarchy above the common owner component.
+-   If you can't find a component where it makes sense to own the state, create a new component solely for holding the state and add it somewhere in the hierarchy above the common owner component.
 
 Let's run through this strategy for our application:
 
-*   ProductTable needs to filter the product list based on state and SearchBar needs to display the search text and checked state.
+-   ProductTable needs to filter the product list based on state and SearchBar needs to display the search text and checked state.
 
-*   The common owner component is FilterableProductTable.
+-   The common owner component is FilterableProductTable.
 
-*   It conceptually makes sense for the filter text and checked value to live in FilterableProductTable
+-   It conceptually makes sense for the filter text and checked value to live in FilterableProductTable
 
 Cool, so we've decided that our state lives in FilterableProductTable. First, add an instance property this.state = {filterText: '', inStockOnly: false} to FilterableProductTable's constructor to reflect the initial state of your application. Then, pass filterText and inStockOnly to ProductTable and SearchBar as a prop. Finally, use these props to filter the rows in ProductTable and set the values of the form fields in SearchBar.
 
@@ -1185,21 +1158,7 @@ Hopefully, this gives you an idea of how to think about building components and 
 
 [React Component](https://www.notion.so/React-Component-3dc17bc49a8e4d7e89efcc1281e747d9)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Getting Startednpx create-react-app my-appcd my-appnpm startnpx create-react-app my-appnpm init react-app my-appyarn create react-app my-appnpx create-react-app my-app --template \[template-name]npx create-react-app my-app --template typescriptnpx create-react-app my-app --use-npmmy-app├── README.md├── node_modules├── package.json├── .gitignore├── public│   ├── favicon.ico│   ├── index.html│   ├── logo192.png│   ├── logo512.png│   ├── manifest.json│   └── robots.txt└── src    ├── App.css    ├── App.js    ├── App.test.js    ├── index.css    ├── index.js    ├── logo.svg    ├── serviceWorker.js    └── setupTests.jscd my-app&#xA;&#xA;
+# Getting Startednpx create-react-app my-appcd my-appnpm startnpx create-react-app my-appnpm init react-app my-appyarn create react-app my-appnpx create-react-app my-app --template \[template-name]npx create-react-app my-app --template typescriptnpx create-react-app my-app --use-npmmy-app├── README.md├── node_modules├── package.json├── .gitignore├── public│ ├── favicon.ico│ ├── index.html│ ├── logo192.png│ ├── logo512.png│ ├── manifest.json│ └── robots.txt└── src ├── App.css ├── App.js ├── App.test.js ├── index.css ├── index.js ├── logo.svg ├── serviceWorker.js └── setupTests.jscd my-app&#xA;&#xA;
 
 Create React App is an officially supported way to create single-page React applications. It offers a modern build setup with no configuration.
 
@@ -1207,7 +1166,7 @@ Create React App is an officially supported way to create single-page React appl
 
 > If you've previously installed create-react-app globally via npm install -g create-react-app, we recommend you uninstall the package using npm uninstall -g create-react-app or yarn global remove create-react-app to ensure that npx always uses the latest version.
 
-*(*[*npx*](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)\* comes with npm 5.2+ and higher, see [*instructions for older npm versions*](https://gist.github.com/gaearon/4064d3c23a77c74a3614c498a8bb1c5f))\*
+_(_[_npx_](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)\* comes with npm 5.2+ and higher, see [_instructions for older npm versions_](https://gist.github.com/gaearon/4064d3c23a77c74a3614c498a8bb1c5f))\*
 
 Then open <http://localhost:3000/> to see your app.
 
@@ -1229,15 +1188,15 @@ To create a new app, you may choose one of the following methods:
 
 ### npx[#](https://create-react-app.dev/docs/getting-started#npx)
 
-*(*[*npx*](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)\* comes with npm 5.2+ and higher, see [*instructions for older npm versions*](https://gist.github.com/gaearon/4064d3c23a77c74a3614c498a8bb1c5f))\*
+_(_[_npx_](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)\* comes with npm 5.2+ and higher, see [_instructions for older npm versions_](https://gist.github.com/gaearon/4064d3c23a77c74a3614c498a8bb1c5f))\*
 
 ### npm[#](https://create-react-app.dev/docs/getting-started#npm)
 
-*npm init \<initializer> is available in npm 6+*
+_npm init \<initializer> is available in npm 6+_
 
 ### Yarn[#](https://create-react-app.dev/docs/getting-started#yarn)
 
-*yarn create is available in Yarn 0.25+*
+_yarn create is available in Yarn 0.25+_
 
 ### Selecting a template[#](https://create-react-app.dev/docs/getting-started#selecting-a-template)
 
@@ -1247,7 +1206,7 @@ If you don't select a template, we'll create your project with our base template
 
 Templates are always named in the format cra-template-\[template-name], however you only need to provide the \[template-name] to the creation command.
 
-> You can find a list of available templates by searching for ["cra-template-\*"](https://www.npmjs.com/search?q=cra-template-\*) on npm.
+> You can find a list of available templates by searching for ["cra-template-\*"](https://www.npmjs.com/search?q=cra-template-*) on npm.
 
 Our [Custom Templates](https://create-react-app.dev/docs/custom-templates) documentation describes how you can build your own template.
 
@@ -1293,15 +1252,15 @@ The build is minified and the filenames include the hashes.
 
 Your app is ready to be deployed.
 
-# Folder Structuremy-app/  README.md  node_modules/  package.json  public/    index.html    favicon.ico  src/    App.css    App.js    App.test.js    index.css    index.js    logo.svg&#xA;&#xA;
+# Folder Structuremy-app/ README.md node_modules/ package.json public/ index.html favicon.ico src/ App.css App.js App.test.js index.css index.js logo.svg&#xA;&#xA;
 
 After creation, your project should look like this:
 
 For the project to build, **these files must exist with exact filenames**:
 
-*   public/index.html is the page template;
+-   public/index.html is the page template;
 
-*   src/index.js is the JavaScript entry point.
+-   src/index.js is the JavaScript entry point.
 
 You can delete or rename the other files.
 
@@ -1313,15 +1272,15 @@ You can, however, create more top-level directories. They will not be included i
 
 If you have Git installed and your project is not part of a larger repository, then a new repository will be initialized resulting in an additional top-level .git directory.
 
-# Developing Components in Isolationnpx -p @storybook/cli sb initnpm install --save react-styleguidistyarn add react-styleguidist   "scripts": {+    "styleguide": "styleguidist server",+    "styleguide:build": "styleguidist build",     "start": "react-scripts start",npm run styleguide&#xA;&#xA;
+# Developing Components in Isolationnpx -p @storybook/cli sb initnpm install --save react-styleguidistyarn add react-styleguidist "scripts": {+ "styleguide": "styleguidist server",+ "styleguide:build": "styleguidist build", "start": "react-scripts start",npm run styleguide&#xA;&#xA;
 
 Usually, in an app, you have a lot of UI components, and each of them has many different states. For an example, a basic button component could have the following states:
 
-*   In a regular state, with a text label.
+-   In a regular state, with a text label.
 
-*   In the disabled mode.
+-   In the disabled mode.
 
-*   In a loading state.
+-   In a loading state.
 
 Usually, it’s hard to see these states without running a sample app or some examples.
 
@@ -1341,13 +1300,13 @@ After that, follow the instructions on the screen.
 
 Learn more about React Storybook:
 
-*   [Learn Storybook (tutorial)](https://learnstorybook.com/)
+-   [Learn Storybook (tutorial)](https://learnstorybook.com/)
 
-*   [Documentation](https://storybook.js.org/basics/introduction/)
+-   [Documentation](https://storybook.js.org/basics/introduction/)
 
-*   [GitHub Repo](https://github.com/storybooks/storybook)
+-   [GitHub Repo](https://github.com/storybooks/storybook)
 
-*   [Snapshot Testing UI](https://github.com/storybooks/storybook/tree/master/addons/storyshots) with Storybook + addon/storyshot
+-   [Snapshot Testing UI](https://github.com/storybooks/storybook/tree/master/addons/storyshots) with Storybook + addon/storyshot
 
 ## Getting Started with Styleguidist[#](https://create-react-app.dev/docs/developing-components-in-isolation#getting-started-with-styleguidist)
 
@@ -1365,11 +1324,11 @@ After that, follow the instructions on the screen.
 
 Learn more about React Styleguidist:
 
-*   [GitHub Repo](https://github.com/styleguidist/react-styleguidist)
+-   [GitHub Repo](https://github.com/styleguidist/react-styleguidist)
 
-*   [Documentation](https://react-styleguidist.js.org/docs/getting-started.html)
+-   [Documentation](https://react-styleguidist.js.org/docs/getting-started.html)
 
-# Using HTTPS in Developmentset HTTPS=true&\&npm start($env:HTTPS = "true") -and (npm start)HTTPS=true npm startHTTPS=true SSL_CRT_FILE=cert.crt SSL_KEY_FILE=cert.key npm startCopy{  "start": "HTTPS=true react-scripts start"}&#xA;&#xA;
+# Using HTTPS in Developmentset HTTPS=true&\&npm start($env:HTTPS = "true") -and (npm start)HTTPS=true npm startHTTPS=true SSL_CRT_FILE=cert.crt SSL_KEY_FILE=cert.key npm startCopy{ "start": "HTTPS=true react-scripts start"}&#xA;&#xA;
 
 > Note: this feature is available with react-scripts@0.4.0 and higher.
 
@@ -1397,7 +1356,7 @@ To avoid having to set the environment variable each time, you can either includ
 
 Or you can create a .env file with HTTPS=true set. [Learn more about environment variables in CRA](https://create-react-app.dev/docs/adding-custom-environment-variables).
 
-# Adding a Stylesheet.Button {  padding: 20px;}*import* React, { Component } *from* 'react';*import* './Button.css'; *// Tell webpack that Button.js uses these stylesclass* Button *extends* Component {  render() {    *// You can use them as regular CSS styles*    *return* \<div className="Button" />;  }}&#xA;&#xA;
+# Adding a Stylesheet.Button { padding: 20px;}_import_ React, { Component } _from_ 'react';_import_ './Button.css'; _// Tell webpack that Button.js uses these stylesclass_ Button _extends_ Component { render() { _// You can use them as regular CSS styles_ _return_ \<div className="Button" />; }}&#xA;&#xA;
 
 This project setup uses [webpack](https://webpack.js.org/) for handling all assets. webpack offers a custom way of “extending” the concept of import beyond JavaScript. To express that a JavaScript file depends on a CSS file, you need to **import the CSS from the JavaScript file**:
 
@@ -1411,7 +1370,7 @@ In development, expressing dependencies this way allows your styles to be reload
 
 If you are concerned about using webpack-specific semantics, you can put all your CSS right into src/index.css. It would still be imported from src/index.js, but you could always remove that import if you later migrate to a different build tool.
 
-# Adding Images, Fonts, and Files*import* React *from* 'react';*import* logo *from* './logo.png'; *// Tell webpack this JS file uses this image*console.log(logo); *// /logo.84287d09.pngfunction* Header() {  *// Import result is the URL of your image*  *return* \<img src={logo} alt="Logo" />;}*export* *default* Header;.Logo {  background-image: url(./logo.png);}*import* { ReactComponent *as* Logo } *from* './logo.svg';*function* App() {  *return* (    \<div>      {*/\* Logo is an actual React component \*/*}      \<Logo />    \</div>  );}&#xA;&#xA;
+# Adding Images, Fonts, and Files*import* React _from_ 'react';_import_ logo _from_ './logo.png'; *// Tell webpack this JS file uses this image*console.log(logo); _// /logo.84287d09.pngfunction_ Header() { _// Import result is the URL of your image_ _return_ \<img src={logo} alt="Logo" />;}_export_ _default_ Header;.Logo { background-image: url(./logo.png);}_import_ { ReactComponent _as_ Logo } _from_ './logo.svg';_function_ App() { _return_ ( \<div> {_/\* Logo is an actual React component \*/_} \<Logo /> \</div> );}&#xA;&#xA;
 
 With webpack, using static assets like images and fonts works similarly to CSS.
 

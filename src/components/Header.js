@@ -63,7 +63,9 @@ export default class Header extends React.Component {
     renderSocialLinks(socialLinks) {
         return (
             <div className="social-links">
-                {_.map(socialLinks, (action, index) => <ActionIcon key={index} action={action} />)}
+                {_.map(socialLinks, (action, index) => (
+                    <ActionIcon key={index} action={action} />
+                ))}
             </div>
         );
     }
@@ -96,9 +98,22 @@ export default class Header extends React.Component {
                     <div className="site-header-inside">
                         <div className="site-header-vertical">
                             <div className="site-branding">
-                                {logo && <p className="site-logo"><Link href={withPrefix('/')}><img src={withPrefix(logo)} alt={logoAlt} /></Link></p>}
-                                {pageLayout === 'home' ? <h1 className="site-title"><Link href={withPrefix('/')}>{title}</Link></h1>
-                                    : <p className="site-title"><Link href={withPrefix('/')}>{title}</Link></p>}
+                                {logo && (
+                                    <p className="site-logo">
+                                        <Link href={withPrefix('/')}>
+                                            <img src={withPrefix(logo)} alt={logoAlt} />
+                                        </Link>
+                                    </p>
+                                )}
+                                {pageLayout === 'home' ? (
+                                    <h1 className="site-title">
+                                        <Link href={withPrefix('/')}>{title}</Link>
+                                    </h1>
+                                ) : (
+                                    <p className="site-title">
+                                        <Link href={withPrefix('/')}>{title}</Link>
+                                    </p>
+                                )}
                                 {tagline && <p className="site-description">{tagline}</p>}
                             </div>
                             {((hasNav && !_.isEmpty(navLinks)) || (hasSocial && !_.isEmpty(socialLinks))) && (

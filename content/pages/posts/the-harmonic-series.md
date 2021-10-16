@@ -2,50 +2,51 @@
 title: The Harmonic Series and The Fourier Transform
 subtitle: A brief introduction
 excerpt: >-
-  The City of New York, usually called either New York City (NYC) or simply New
-  York (NY), is the most populous city in the United States. With an estimated
-  2017 population of 8,622,698 distributed over a land area of about 302.6
-  square miles (784 km2), New York is also the most densely populated major city
-  in the United States.
+    The City of New York, usually called either New York City (NYC) or simply New
+    York (NY), is the most populous city in the United States. With an estimated
+    2017 population of 8,622,698 distributed over a land area of about 302.6
+    square miles (784 km2), New York is also the most densely populated major city
+    in the United States.
 date: '2018-01-23'
 thumb_img_path: /images/sine-wav-bak.gif
 thumb_img_alt: Brooklyn Bridge at daytime
 content_img_path: /images/sinwavverticle.jpg
 seo:
-  title: Few Things I Wish I Knew Before I Moved to New York
-  description: A cautionary tale about life in New York
-  extra:
-    - name: 'og:type'
-      value: article
-      keyName: property
-    - name: 'og:title'
-      value: Few Things I Wish I Knew Before I Moved to New York
-      keyName: property
-    - name: 'og:description'
-      value: A cautionary tale about life in New York
-      keyName: property
-    - name: 'og:image'
-      value: images/5.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Few Things I Wish I Knew Before I Moved to New York
-    - name: 'twitter:description'
-      value: A cautionary tale about life in New York
-    - name: 'twitter:image'
-      value: images/5.jpg
-      relativeUrl: true
+    title: Few Things I Wish I Knew Before I Moved to New York
+    description: A cautionary tale about life in New York
+    extra:
+        - name: 'og:type'
+          value: article
+          keyName: property
+        - name: 'og:title'
+          value: Few Things I Wish I Knew Before I Moved to New York
+          keyName: property
+        - name: 'og:description'
+          value: A cautionary tale about life in New York
+          keyName: property
+        - name: 'og:image'
+          value: images/5.jpg
+          keyName: property
+          relativeUrl: true
+        - name: 'twitter:card'
+          value: summary_large_image
+        - name: 'twitter:title'
+          value: Few Things I Wish I Knew Before I Moved to New York
+        - name: 'twitter:description'
+          value: A cautionary tale about life in New York
+        - name: 'twitter:image'
+          value: images/5.jpg
+          relativeUrl: true
 layout: post
 ---
+
 Introduction**Frequency and Pitch**![](https://cnx.org/resources/d1156e89d761fd0b2c7989ae3f41998b094037e5/Harmseries1.png)
 
 The higher the frequency, the higher the note sounds.This method of naming and numbering harmonics is the most straightforward and least confusing, but there are other ways of naming and numbering harmonics, and this can cause confusion. Some musicians do not consider the fundamental to be a harmonic; it is just the fundamental. In that case, the string halves will give the first harmonic, the string thirds will give the second harmonic and so on. When the fundamental is included in calculations, it is called the first **partial**, and the rest of the harmonics are the second, third, fourth partials and so on. Also, some musicians use the term **overtones** as a synonym for harmonics. For others, however, an overtone is any frequency (not necessarily a harmonic) that can be heard resonating with the fundamental. The sound of a gong or cymbals will include overtones that aren't harmonics; that's why the gong's sound doesn't seem to have as definite a pitch as the vibrating string does. If you are uncertain what someone means by the second harmonic or by the term overtones, ask for clarification.**Vibrating String**![](https://cnx.org/resources/4c5da51d92f04c619005c9a2d674d36e27ace398/Harmseries2.png)
 
 The fundamental pitch is produced by the whole string vibrating back and forth. But the string is also vibrating in halves, thirds, quarters, fifths, and so on, producing **harmonics**. All of these vibrations happen at the same time, producing a rich, complex, interesting sound.You will find some more extensive information on instruments and harmonics in [Standing Waves and Musical Instruments](https://cnx.org/contents/2ad74b7b-a72f-42a9-a31b-7e75542e54bd@3.1:07970e19-2e42-4b8e-9a7d-2749bf5d8529@4) and [Standing Waves and Wind Instruments](https://cnx.org/contents/2ad74b7b-a72f-42a9-a31b-7e75542e54bd@3.1:6d44131a-aae6-4a8b-9276-f0249bdab2fe).**Harmonic Series Wavelengths and Frequencies**
 
-****![](https://cnx.org/resources/6e98c07a7efbb518d9a08be043a9311988da9a98/Harmseries3.png)
+\*\*\*\*![](https://cnx.org/resources/6e98c07a7efbb518d9a08be043a9311988da9a98/Harmseries3.png)
 
 The second harmonic has half the wavelength and twice the frequency of the first. The third harmonic has a third the wavelength and three times the frequency of the first. The fourth harmonic has a quarter the wavelength and four times the frequency of the first, and so on. Notice that the fourth harmonic is also twice the frequency of the second harmonic, and the sixth harmonic is also twice the frequency of the third harmonic.In real music, consonance and dissonance also depend on the standard practices of a musical tradition, especially its harmony practices, but these are also often related to the harmonic series.**A Harmonic Series Written as Notes**![](https://cnx.org/resources/d7d88dada170cabb40a5168da677a7d94fdcb92d/HarmonicSeriesC.png)
 

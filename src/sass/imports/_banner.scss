@@ -1,8 +1,8 @@
 body.has-theme-bar {
-  #page {
-    top: 60px;
-    @media only screen and (max-width: 801px) {
-      top: 60px;
+    #page {
+        top: 60px;
+        @media only screen and (max-width: 801px) {
+            top: 60px;
+        }
     }
-  }
 }

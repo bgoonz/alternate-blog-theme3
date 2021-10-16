@@ -1,52 +1,51 @@
 ---
 title: The Importance Of Workspace Optimization
 excerpt: >-
-  Work at home parent is an entrepreneur who works from home and integrates
-  parenting into his or her business activities. They are sometimes referred to
-  as a WAHM (work at home mom) or a WAHD (work at home dad).
+    Work at home parent is an entrepreneur who works from home and integrates
+    parenting into his or her business activities. They are sometimes referred to
+    as a WAHM (work at home mom) or a WAHD (work at home dad).
 date: '2016-08-22'
 thumb_img_path: images/9.jpg
 thumb_img_alt: Home office setup
 content_img_path: images/9.jpg
 seo:
-  title: The Advantages and Disadvantages of Working from Home
-  extra:
-    - name: 'og:type'
-      value: article
-      keyName: property
-    - name: 'og:title'
-      value: The Advantages and Disadvantages of Working from Home
-      keyName: property
-    - name: 'og:description'
-      value: >-
-        Work at home parent is an entrepreneur who works from home and
-        integrates parenting into his or her business activities
-      keyName: property
-    - name: 'og:image'
-      value: images/9.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: The Advantages and Disadvantages of Working from Home
-    - name: 'twitter:description'
-      value: >-
-        Work at home parent is an entrepreneur who works from home and
-        integrates parenting into his or her business activities
-    - name: 'twitter:image'
-      value: images/9.jpg
-      relativeUrl: true
-  description: "If you store your technical specs, scripts, and other files in\_Drive\_or a\_shared drive, you can access them on any device, anytime. And, if something goes wrong with a file or a build isn’t ready for publishing, you can revert to a previous version."
+    title: The Advantages and Disadvantages of Working from Home
+    extra:
+        - name: 'og:type'
+          value: article
+          keyName: property
+        - name: 'og:title'
+          value: The Advantages and Disadvantages of Working from Home
+          keyName: property
+        - name: 'og:description'
+          value: >-
+              Work at home parent is an entrepreneur who works from home and
+              integrates parenting into his or her business activities
+          keyName: property
+        - name: 'og:image'
+          value: images/9.jpg
+          keyName: property
+          relativeUrl: true
+        - name: 'twitter:card'
+          value: summary_large_image
+        - name: 'twitter:title'
+          value: The Advantages and Disadvantages of Working from Home
+        - name: 'twitter:description'
+          value: >-
+              Work at home parent is an entrepreneur who works from home and
+              integrates parenting into his or her business activities
+        - name: 'twitter:image'
+          value: images/9.jpg
+          relativeUrl: true
+    description: "If you store your technical specs, scripts, and other files in\_Drive\_or a\_shared drive, you can access them on any device, anytime. And, if something goes wrong with a file or a build isn’t ready for publishing, you can revert to a previous version."
 layout: post
 ---
-
 
 |
 
 ### 1
 
- |
+|
 
 ### Draft and share technical specifications
 
@@ -58,15 +57,15 @@ When you're planning a new website, use Docs to draft all your technical specs
 
 [Docs](https://support.google.com/a/users/answer/9305987)
 
-![gray bar](https://lh3.googleusercontent.com/WqfSWqvkRw9JIPxQVAWTOnIuqhW70krt6nC0hCMpaZJW786BxwK4xvg0UOUJZVjkU_uN=w700 "gray bar")
+![gray bar](https://lh3.googleusercontent.com/WqfSWqvkRw9JIPxQVAWTOnIuqhW70krt6nC0hCMpaZJW786BxwK4xvg0UOUJZVjkU_uN=w700 'gray bar')
 
- |
+|
 
 |
 
 ### 2
 
- |
+|
 
 ### Store and archive files in one place
 
@@ -79,15 +78,15 @@ If you store your technical specs, scripts, and other files in Drive or a sha
 -   [Drive](https://support.google.com/a/users/answer/9310458)
 -   [Shared drives](https://support.google.com/a/users/answer/9310154)
 
-![gray bar](https://lh3.googleusercontent.com/WqfSWqvkRw9JIPxQVAWTOnIuqhW70krt6nC0hCMpaZJW786BxwK4xvg0UOUJZVjkU_uN=w700 "gray bar")
+![gray bar](https://lh3.googleusercontent.com/WqfSWqvkRw9JIPxQVAWTOnIuqhW70krt6nC0hCMpaZJW786BxwK4xvg0UOUJZVjkU_uN=w700 'gray bar')
 
- |
+|
 
 |
 
 ### 3
 
- |
+|
 
 ### Create easy, impactful websites
 
@@ -99,15 +98,15 @@ Whether you're setting up an intranet for your company, a project website for yo
 
 [Sites](https://support.google.com/a/users/answer/9310491)
 
-![gray bar](https://lh3.googleusercontent.com/WqfSWqvkRw9JIPxQVAWTOnIuqhW70krt6nC0hCMpaZJW786BxwK4xvg0UOUJZVjkU_uN=w700 "gray bar")
+![gray bar](https://lh3.googleusercontent.com/WqfSWqvkRw9JIPxQVAWTOnIuqhW70krt6nC0hCMpaZJW786BxwK4xvg0UOUJZVjkU_uN=w700 'gray bar')
 
- |
+|
 
 |
 
 ### 4
 
- |
+|
 
 ### Make your website more engaging
 
@@ -119,15 +118,15 @@ Websites compete with one another for visitors, so making your site stand out is
 
 [Sites](https://support.google.com/a/users/answer/9310371#2.1)
 
-![gray bar](https://lh3.googleusercontent.com/WqfSWqvkRw9JIPxQVAWTOnIuqhW70krt6nC0hCMpaZJW786BxwK4xvg0UOUJZVjkU_uN=w700 "gray bar")
+![gray bar](https://lh3.googleusercontent.com/WqfSWqvkRw9JIPxQVAWTOnIuqhW70krt6nC0hCMpaZJW786BxwK4xvg0UOUJZVjkU_uN=w700 'gray bar')
 
- |
+|
 
 |
 
 ### 5
 
- |
+|
 
 ### Make your website mobile-friendly
 
@@ -139,15 +138,15 @@ Many people access websites on their phones, so it's important to make sure your
 
 [Sites](https://support.google.com/a/users/answer/9310371#4.1)
 
-![gray bar](https://lh3.googleusercontent.com/WqfSWqvkRw9JIPxQVAWTOnIuqhW70krt6nC0hCMpaZJW786BxwK4xvg0UOUJZVjkU_uN=w700 "gray bar")
+![gray bar](https://lh3.googleusercontent.com/WqfSWqvkRw9JIPxQVAWTOnIuqhW70krt6nC0hCMpaZJW786BxwK4xvg0UOUJZVjkU_uN=w700 'gray bar')
 
- |
+|
 
 |
 
 ### 6
 
- |
+|
 
 ### Build advanced, dynamic websites
 
@@ -160,15 +159,15 @@ To create advanced features and scripts, build your web and mobile apps with Go
 -   [App Engine](https://cloud.google.com/appengine/)
 -   [Google Cloud Platform](https://cloud.google.com/)
 
-![gray bar](https://lh3.googleusercontent.com/WqfSWqvkRw9JIPxQVAWTOnIuqhW70krt6nC0hCMpaZJW786BxwK4xvg0UOUJZVjkU_uN=w700 "gray bar")
+![gray bar](https://lh3.googleusercontent.com/WqfSWqvkRw9JIPxQVAWTOnIuqhW70krt6nC0hCMpaZJW786BxwK4xvg0UOUJZVjkU_uN=w700 'gray bar')
 
- |
+|
 
 |
 
 ### 7
 
- |
+|
 
 ### Share prototypes with remote teams or clients
 
@@ -180,15 +179,15 @@ If you work with international teams or clients, use Google Meet to hold impro
 
 [Google Meet](https://support.google.com/a/users/answer/9302870#1.1)
 
-![gray bar](https://lh3.googleusercontent.com/WqfSWqvkRw9JIPxQVAWTOnIuqhW70krt6nC0hCMpaZJW786BxwK4xvg0UOUJZVjkU_uN=w700 "gray bar")
+![gray bar](https://lh3.googleusercontent.com/WqfSWqvkRw9JIPxQVAWTOnIuqhW70krt6nC0hCMpaZJW786BxwK4xvg0UOUJZVjkU_uN=w700 'gray bar')
 
- |
+|
 
 |
 
 ### 8
 
- |
+|
 
 ### Track team progress and schedules
 
@@ -200,15 +199,15 @@ When your team is working on a complex project, it can be difficult for everyone
 
 [Sheets](https://support.google.com/a/users/answer/9310193)
 
-![gray bar](https://lh3.googleusercontent.com/WqfSWqvkRw9JIPxQVAWTOnIuqhW70krt6nC0hCMpaZJW786BxwK4xvg0UOUJZVjkU_uN=w700 "gray bar")
+![gray bar](https://lh3.googleusercontent.com/WqfSWqvkRw9JIPxQVAWTOnIuqhW70krt6nC0hCMpaZJW786BxwK4xvg0UOUJZVjkU_uN=w700 'gray bar')
 
- |
+|
 
 |
 
 ### 9
 
- |
+|
 
 ### Keep everyone in the loop with an email list
 
@@ -220,15 +219,15 @@ If you want to share prototypes and status updates with your team, use Groups 
 
 [Groups](https://support.google.com/a/users/answer/9303222)
 
-![gray bar](https://lh3.googleusercontent.com/WqfSWqvkRw9JIPxQVAWTOnIuqhW70krt6nC0hCMpaZJW786BxwK4xvg0UOUJZVjkU_uN=w700 "gray bar")
+![gray bar](https://lh3.googleusercontent.com/WqfSWqvkRw9JIPxQVAWTOnIuqhW70krt6nC0hCMpaZJW786BxwK4xvg0UOUJZVjkU_uN=w700 'gray bar')
 
- |
+|
 
 |
 
 ### 10
 
- |
+|
 
 ### Collect and analyze visitor feedback
 
@@ -236,4 +235,4 @@ If you want to share prototypes and status updates with your team, use Groups 
 
 Want to get insights from customers so you can improve their overall website experience? Create an online survey to gauge site satisfaction and embed it in your website using Forms. Or, use [Google Analytics](https://support.google.com/a/users/answer/9308837) to analyze visitor traffic, so you can improve marketing campaigns and site reliability.
 
- |
+|

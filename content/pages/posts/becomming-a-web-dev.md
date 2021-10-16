@@ -21,6 +21,12 @@ seo:
       value: /images/cool-comet.png
       keyName: property
       relativeUrl: true
+    - name: 'og:description'
+      value: |-
+        Learn the Basics of: HTML, CSS, and JavaScript.,SQL and PHP. SEO.
+        Make Sure Your Site is Responsive.
+      keyName: property
+      relativeUrl: false
 layout: post
 ---
 ## What Is a Web Developer?

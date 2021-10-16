@@ -17,6 +17,10 @@ seo:
       value: /images/gatsby-cli.png
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: /images/cool-comet.png
+      keyName: property
+      relativeUrl: true
 layout: post
 ---
 ## What Is a Web Developer?

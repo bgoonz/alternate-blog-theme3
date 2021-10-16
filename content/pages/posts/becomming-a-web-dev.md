@@ -1,5 +1,5 @@
 ---
-title: What Is a Web Developer?
+title: "\U0001F4BBWhat Is a Web Developer?\U0001F4BB"
 subtitle: lorem-ipsum
 date: '2021-10-16'
 thumb_img_alt: lorem-ipsum

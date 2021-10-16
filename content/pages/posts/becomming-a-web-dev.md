@@ -1,6 +1,6 @@
 ---
 title: "\U0001F4BBWhat Is a Web Developer?\U0001F4BB"
-subtitle: lorem-ipsum
+subtitle: Do you have what it takes
 date: '2021-10-16'
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum

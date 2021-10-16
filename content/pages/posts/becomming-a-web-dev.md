@@ -6,7 +6,7 @@ thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 hide_header: false
 seo:
-  title: ''
+  title: What does it take to be a web developer
   description: |-
     Design a visually appealing layout for a website
     Maintain active websites by cleaning up code and debugging errors

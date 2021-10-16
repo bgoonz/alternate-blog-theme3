@@ -1,55 +1,52 @@
 ---
 title: Style Guide
 subtitle: >-
-  The style guide provides you with a blueprint of default post and page styles.
-  The style guide is also a great reference for suggested typographic treatment
-  and styles for your content.
+    The style guide provides you with a blueprint of default post and page styles.
+    The style guide is also a great reference for suggested typographic treatment
+    and styles for your content.
 img_path: /images/space.gif
 seo:
-  title: Theme Style Guide
-  description: A reference for suggested typographic treatment and styles for your content
-  extra:
-    - name: 'og:type'
-      value: website
-      keyName: property
-    - name: 'og:title'
-      value: Theme Style Guide
-      keyName: property
-    - name: 'og:description'
-      value: >-
-        A reference for suggested typographic treatment and styles for your
-        content
-      keyName: property
-    - name: 'og:image'
-      value: images/style-guide.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Theme Style Guide
-    - name: 'twitter:description'
-      value: >-
-        A reference for suggested typographic treatment and styles for your
-        content
-    - name: 'twitter:image'
-      value: images/style-guide.jpg
-      relativeUrl: true
+    title: Theme Style Guide
+    description: A reference for suggested typographic treatment and styles for your content
+    extra:
+        - name: 'og:type'
+          value: website
+          keyName: property
+        - name: 'og:title'
+          value: Theme Style Guide
+          keyName: property
+        - name: 'og:description'
+          value: >-
+              A reference for suggested typographic treatment and styles for your
+              content
+          keyName: property
+        - name: 'og:image'
+          value: images/style-guide.jpg
+          keyName: property
+          relativeUrl: true
+        - name: 'twitter:card'
+          value: summary_large_image
+        - name: 'twitter:title'
+          value: Theme Style Guide
+        - name: 'twitter:description'
+          value: >-
+              A reference for suggested typographic treatment and styles for your
+              content
+        - name: 'twitter:image'
+          value: images/style-guide.jpg
+          relativeUrl: true
 layout: page
 ---
 
-React.js cheatsheet
-===================
+# React.js cheatsheet
 
 > React.Component - render() - componentDidMount() - props/state - dangerouslySetInnerHTML - React is a JavaScript library for building user interfaces. This guide targets React v15 to v16.
 
 [React](https://reactjs.org/) is a JavaScript library for building user interfaces. This guide targets React v15 to v16.
 
-[](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#react-cheat-sheet)React Cheat Sheet
-======================================================================================================
+# [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#react-cheat-sheet)React Cheat Sheet
 
-[](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#render)render
---------------------------------------------------------------------------------
+## [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#render)render
 
 ```
 render() {
@@ -58,8 +55,7 @@ render() {
 
 ```
 
-[](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#constructor)constructor
-------------------------------------------------------------------------------------------
+## [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#constructor)constructor
 
 ```source-js
     constructor(props) {
@@ -79,8 +75,7 @@ render() {
     }
 ```
 
-[](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#componentwillmount)componentWillMount
---------------------------------------------------------------------------------------------------------
+## [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#componentwillmount)componentWillMount
 
 ```source-js
     componentWillMount() {
@@ -89,8 +84,7 @@ render() {
     }
 ```
 
-[](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#componentdidmount)componentDidMount
-------------------------------------------------------------------------------------------------------
+## [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#componentdidmount)componentDidMount
 
 ```source-js
     componentDidMount() {
@@ -101,8 +95,7 @@ render() {
     }
 ```
 
-[](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#componentwillreceiveprops)componentWillReceiveProps
-----------------------------------------------------------------------------------------------------------------------
+## [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#componentwillreceiveprops)componentWillReceiveProps
 
 ```source-js
     componentWillReceiveProps(nextProps) {
@@ -111,8 +104,7 @@ render() {
     }
 ```
 
-[](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#shouldcomponentupdate)shouldComponentUpdate
---------------------------------------------------------------------------------------------------------------
+## [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#shouldcomponentupdate)shouldComponentUpdate
 
 ```source-js
     shouldComponentUpdate(nextProps, nextState) {
@@ -121,8 +113,7 @@ render() {
     }
 ```
 
-[](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#componentwillupdate)componentWillUpdate
-----------------------------------------------------------------------------------------------------------
+## [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#componentwillupdate)componentWillUpdate
 
 ```source-js
     componentWillUpdate(nextProps, nextState) {
@@ -135,8 +126,7 @@ render() {
 
 ✖ this.setState
 
-[](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#componentdidupdate)componentDidUpdate
---------------------------------------------------------------------------------------------------------
+## [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#componentdidupdate)componentDidUpdate
 
 ```source-js
     componentDidUpdate(prevProps, prevState) {
@@ -145,8 +135,7 @@ render() {
     }
 ```
 
-[](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#componentwillunmount)componentWillUnmount
-------------------------------------------------------------------------------------------------------------
+## [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#componentwillunmount)componentWillUnmount
 
 ```source-js
     componentWillUnmount() {
@@ -154,8 +143,7 @@ render() {
     }
 ```
 
-[](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#setstate-function)setState (function)
---------------------------------------------------------------------------------------------------------
+## [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#setstate-function)setState (function)
 
 ```source-js
     // good for state transitions
@@ -165,10 +153,9 @@ render() {
     });
 ```
 
-[](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#setstate-object)setState (object)
-----------------------------------------------------------------------------------------------------
+## [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#setstate-object)setState (object)
 
-```source-js
+````source-js
     // good for static values
 
     this.setState({mykey: 'my new value'});
@@ -185,10 +172,9 @@ setState (optional callback)
       (prevState, props) => ({ count: prevState.count + props.step }),
       () => console.log(this.state.count)
     );
-```
+````
 
-[](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#forceupdate)forceUpdate
-------------------------------------------------------------------------------------------
+## [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#forceupdate)forceUpdate
 
 ```source-js
     // forces a re-render; AVOID if possible
@@ -196,10 +182,9 @@ setState (optional callback)
     this.forceUpdate();
 ```
 
-[](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#displayname)displayName
-------------------------------------------------------------------------------------------
+## [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#displayname)displayName
 
-```source-js
+````source-js
     displayName: "MyComponent"
 
     ```
@@ -216,10 +201,9 @@ defaultProps
         CustomButton.defaultProps = {
           name: 'guest'
         };
-```
+````
 
-[](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#childrenmap)Children.map
--------------------------------------------------------------------------------------------
+## [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#childrenmap)Children.map
 
 ```source-js
     React.Children.map(this.props.children, (child, i) => {
@@ -227,8 +211,7 @@ defaultProps
     })
 ```
 
-[](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#childrenforeach)Children.forEach
----------------------------------------------------------------------------------------------------
+## [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#childrenforeach)Children.forEach
 
 ```source-js
     React.Children.forEach(this.props.children, (child, i) => {
@@ -236,29 +219,25 @@ defaultProps
     })
 ```
 
-[](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#childrencount)Children.count
------------------------------------------------------------------------------------------------
+## [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#childrencount)Children.count
 
 ```source-js
     React.Children.count(this.props.children);
 ```
 
-[](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#childrenonly)Children.only
----------------------------------------------------------------------------------------------
+## [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#childrenonly)Children.only
 
 ```source-js
     React.Children.only(this.props.children);
 ```
 
-[](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#childrentoarray)Children.toArray
----------------------------------------------------------------------------------------------------
+## [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#childrentoarray)Children.toArray
 
 ```source-js
     React.Children.toArray(this.props.children)
 ```
 
-[](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#context-example)Context (example)
-----------------------------------------------------------------------------------------------------
+## [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#context-example)Context (example)
 
 ```source-js
     // requires 'prop-types' library
@@ -294,8 +273,7 @@ defaultProps
 
 ```
 
-[](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#contexttypes)contextTypes
---------------------------------------------------------------------------------------------
+## [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#contexttypes)contextTypes
 
 ```source-js
     // add to the context-aware component
@@ -306,8 +284,7 @@ defaultProps
     },
 ```
 
-[](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#childcontexttypes)childContextTypes
-------------------------------------------------------------------------------------------------------
+## [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#childcontexttypes)childContextTypes
 
 ```source-js
     // add to the context provider
@@ -318,8 +295,7 @@ defaultProps
     },
 ```
 
-[](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#getchildcontext)getChildContext
---------------------------------------------------------------------------------------------------
+## [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#getchildcontext)getChildContext
 
 ```source-js
     // add to the context provider
@@ -329,8 +305,7 @@ defaultProps
     }
 ```
 
-[](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#components)[#](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#components)Components
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#components)[#](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#components)Components
 
 ### [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#components-1)Components
 
@@ -474,8 +449,7 @@ See: [Composing Components](https://reactjs.org/docs/components-and-props.html#
 
 Children are passed as the `children` property.
 
-[](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#defaults)[#](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#defaults)Defaults
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#defaults)[#](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#defaults)Defaults
 
 ### [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#setting-default-props)Setting default props
 
@@ -512,8 +486,7 @@ And without constructor using [Babel](https://babeljs.io/) with [proposal-cla
 
 See: [Setting the default state](https://reactjs.org/docs/react-without-es6.html#setting-the-initial-state)
 
-[](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#other-components)[#](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#other-components)Other components
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#other-components)[#](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#other-components)Other components
 
 ### [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#functional-components)Functional components
 
@@ -562,37 +535,35 @@ These methods and properties are available for `Component` instances.
 
 See: [Component API](https://facebook.github.io/react/docs/component-api.html)
 
-[](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#lifecycle)[#](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#lifecycle)Lifecycle
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#lifecycle)[#](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#lifecycle)Lifecycle
 
 ### [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#mounting)Mounting
 
-| Method | Description |
-| --- | --- |
-| `constructor` *(props)* | Before rendering [#](https://reactjs.org/docs/react-component.html#constructor) |
-| `componentWillMount()` | *Don't use this* [#](https://reactjs.org/docs/react-component.html#componentwillmount) |
-| `render()` | Render [#](https://reactjs.org/docs/react-component.html#render) |
-| `componentDidMount()` | After rendering (DOM available) [#](https://reactjs.org/docs/react-component.html#componentdidmount) |
-| `componentWillUnmount()` | Before DOM removal [#](https://reactjs.org/docs/react-component.html#componentwillunmount) |
-| `componentDidCatch()` | Catch errors (16+) [#](https://reactjs.org/blog/2017/07/26/error-handling-in-react-16.html) |
+| Method                   | Description                                                                                          |
+| ------------------------ | ---------------------------------------------------------------------------------------------------- |
+| `constructor` *(props)*  | Before rendering [#](https://reactjs.org/docs/react-component.html#constructor)                      |
+| `componentWillMount()`   | *Don't use this* [#](https://reactjs.org/docs/react-component.html#componentwillmount)               |
+| `render()`               | Render [#](https://reactjs.org/docs/react-component.html#render)                                     |
+| `componentDidMount()`    | After rendering (DOM available) [#](https://reactjs.org/docs/react-component.html#componentdidmount) |
+| `componentWillUnmount()` | Before DOM removal [#](https://reactjs.org/docs/react-component.html#componentwillunmount)           |
+| `componentDidCatch()`    | Catch errors (16+) [#](https://reactjs.org/blog/2017/07/26/error-handling-in-react-16.html)          |
 
 Set initial the state on `constructor()`. Add DOM event handlers, timers (etc) on `componentDidMount()`, then remove them on `componentWillUnmount()`.
 
 ### [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#updating)Updating
 
-| Method | Description |
-| --- | --- |
+| Method                                                  | Description                                          |
+| ------------------------------------------------------- | ---------------------------------------------------- |
 | `componentDidUpdate` *(prevProps, prevState, snapshot)* | Use `setState()` here, but remember to compare props |
-| `shouldComponentUpdate` *(newProps, newState)* | Skips `render()` if returns false |
-| `render()` | Render |
-| `componentDidUpdate` *(prevProps, prevState)* | Operate on the DOM here |
+| `shouldComponentUpdate` *(newProps, newState)*          | Skips `render()` if returns false                    |
+| `render()`                                              | Render                                               |
+| `componentDidUpdate` *(prevProps, prevState)*           | Operate on the DOM here                              |
 
 Called when parents change properties and `.setState()`. These are not called for initial renders.
 
 See: [Component specs](https://facebook.github.io/react/docs/component-specs.html#updating-componentwillreceiveprops)
 
-[](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#hooks-new)[#](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#hooks-new)Hooks (New)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#hooks-new)[#](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#hooks-new)Hooks (New)
 
 ### [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#state-hook)State Hook
 
@@ -714,30 +685,29 @@ Also see: [Hooks FAQ](https://reactjs.org/docs/hooks-faq.html)
 
 #### [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#basic-hooks)Basic Hooks
 
-| Hook | Description |
-| --- | --- |
-| `useState`*(initialState)* |   |
-| `useEffect`*(() => { ... })* |   |
-| `useContext`*(MyContext)* | value returned from `React.createContext` |
+| Hook                         | Description                               |
+| ---------------------------- | ----------------------------------------- |
+| `useState`_(initialState)_   |                                           |
+| `useEffect`_(() => { ... })_ |                                           |
+| `useContext`_(MyContext)_    | value returned from `React.createContext` |
 
 Full details: [Basic Hooks](https://reactjs.org/docs/hooks-reference.html#basic-hooks)
 
 #### [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#additional-hooks)Additional Hooks
 
-| Hook | Description |
-| --- | --- |
-| `useReducer`*(reducer, initialArg, init)* |   |
-| `useCallback`*(() => { ... })* |   |
-| `useMemo`*(() => { ... })* |   |
-| `useRef`*(initialValue)* |   |
-| `useImperativeHandle`*(ref, () => { ... })* |   |
-| `useLayoutEffect` | identical to `useEffect`, but it fires synchronously after all DOM mutations |
-| `useDebugValue`*(value)* | display a label for custom hooks in React DevTools |
+| Hook                                        | Description                                                                  |
+| ------------------------------------------- | ---------------------------------------------------------------------------- |
+| `useReducer`_(reducer, initialArg, init)_   |                                                                              |
+| `useCallback`_(() => { ... })_              |                                                                              |
+| `useMemo`_(() => { ... })_                  |                                                                              |
+| `useRef`_(initialValue)_                    |                                                                              |
+| `useImperativeHandle`_(ref, () => { ... })_ |                                                                              |
+| `useLayoutEffect`                           | identical to `useEffect`, but it fires synchronously after all DOM mutations |
+| `useDebugValue`_(value)_                    | display a label for custom hooks in React DevTools                           |
 
 Full details: [Additional Hooks](https://reactjs.org/docs/hooks-reference.html#additional-hooks)
 
-[](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#dom-nodes)[#](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#dom-nodes)DOM nodes
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#dom-nodes)[#](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#dom-nodes)DOM nodes
 
 ### [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#references)References
 
@@ -781,8 +751,7 @@ Pass functions to attributes like `onChange`.
 
 See: [Events](https://reactjs.org/docs/events.html)
 
-[](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#other-features)[#](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#other-features)Other features
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#other-features)[#](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#other-features)Other features
 
 ### [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#transferring-props)Transferring props
 
@@ -819,8 +788,7 @@ There are more, but these are most common.
 
 See: [React top-level API](https://reactjs.org/docs/react-api.html)
 
-[](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#jsx-patterns)[#](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#jsx-patterns)JSX patterns
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#jsx-patterns)[#](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#jsx-patterns)JSX patterns
 
 ### [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#style-shorthand)Style shorthand
 
@@ -883,8 +851,7 @@ Always supply a `key` property.
 
 ```
 
-[](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#new-features)[#](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#new-features)New features
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#new-features)[#](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#new-features)New features
 
 ### [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#returning-multiple-elements)Returning multiple elements
 
@@ -977,8 +944,7 @@ Use `ReactDOM.hydrate` instead of using `ReactDOM.render` if you're renderin
 
 See: [Hydrate](https://reactjs.org/docs/react-dom.html#hydrate)
 
-[](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#property-validation)[#](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#property-validation)Property validation
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#property-validation)[#](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#property-validation)Property validation
 
 ### [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#proptypes)PropTypes
 
@@ -989,54 +955,54 @@ See: [Hydrate](https://reactjs.org/docs/react-dom.html#hydrate)
 
 See: [Typechecking with PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
 
-| Key | Description |
-| --- | --- |
-| `any` | Anything |
+| Key   | Description |
+| ----- | ----------- |
+| `any` | Anything    |
 
 #### [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#basic)Basic
 
-| Key | Description |
-| --- | --- |
-| `string` |   |
-| `number` |   |
-| `func` | Function |
-| `bool` | True or false |
+| Key      | Description   |
+| -------- | ------------- |
+| `string` |               |
+| `number` |               |
+| `func`   | Function      |
+| `bool`   | True or false |
 
 #### [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#enum)Enum
 
-| Key | Description |
-| --- | --- |
-| `oneOf`*(any)* | Enum types |
-| `oneOfType`*(type array)* | Union |
+| Key                       | Description |
+| ------------------------- | ----------- |
+| `oneOf`_(any)_            | Enum types  |
+| `oneOfType`_(type array)_ | Union       |
 
 #### [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#array)Array
 
-| Key | Description |
-| --- | --- |
-| `array` |   |
-| `arrayOf`*(...)* |   |
+| Key              | Description |
+| ---------------- | ----------- |
+| `array`          |             |
+| `arrayOf`_(...)_ |             |
 
 #### [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#object)Object
 
-| Key | Description |
-| --- | --- |
-| `object` |   |
-| `objectOf`*(...)* | Object with values of a certain type |
-| `instanceOf`*(...)* | Instance of a class |
-| `shape`*(...)* |   |
+| Key                 | Description                          |
+| ------------------- | ------------------------------------ |
+| `object`            |                                      |
+| `objectOf`_(...)_   | Object with values of a certain type |
+| `instanceOf`_(...)_ | Instance of a class                  |
+| `shape`_(...)_      |                                      |
 
 #### [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#elements)Elements
 
-| Key | Description |
-| --- | --- |
+| Key       | Description   |
+| --------- | ------------- |
 | `element` | React element |
-| `node` | DOM node |
+| `node`    | DOM node      |
 
 #### [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#required)Required
 
-| Key | Description |
-| --- | --- |
-| `(---).isRequired` | Required |
+| Key                | Description |
+| ------------------ | ----------- |
+| `(---).isRequired` | Required    |
 
 ### [](https://gist.github.com/bgoonz/894d714a116f2ed23f2474882c71abbf#basic-types)Basic types
 

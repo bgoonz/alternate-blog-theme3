@@ -27,6 +27,10 @@ seo:
         Make Sure Your Site is Responsive.
       keyName: property
       relativeUrl: false
+    - name: 'og:type'
+      value: website
+      keyName: property
+      relativeUrl: false
 layout: post
 ---
 ## What Is a Web Developer?

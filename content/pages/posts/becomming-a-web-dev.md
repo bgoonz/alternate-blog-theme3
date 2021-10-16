@@ -14,7 +14,7 @@ seo:
   robots: []
   extra:
     - name: 'og:image'
-      value: /images/gatsby-cli.png
+      value: /images/gitbash-f88de85e.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:image'

@@ -11,8 +11,6 @@ layout: page
 
 ### TOOLS:
 
-
-
 ### Table of Contents
 
 1.  [What We Consider a Web Development Tool](https://kinsta.com/blog/web-development-tools/#what-we-consider-a-web-development-tool)
@@ -24,7 +22,7 @@ On the surface, categorizing a web development tool seems simple. However, even 
 
 For example, consider whether a video streaming service counts as a development tool. In a bubble, probably not. However, if you’re using it to record your screen for a specific design application, it suddenly transforms into a unique collaborative tool.
 
-In our opinion, a web development tool is something that helps you achieve your project’s aims in a focused way. While this doesn’t include individual programming languages, there _are_ subsets, supersets, and frameworks [such as TypeScript](https://kinsta.com/blog/scripting-languages/) that straddle the line. If you want to [earn the big bucks](https://kinsta.com/blog/web-developer-salary/#what-do-you-need-to-become-a-web-developer), keeping tabs on these aspects is vital.
+In our opinion, a web development tool is something that helps you achieve your project’s aims in a focused way. While this doesn’t include individual programming languages, there *are* subsets, supersets, and frameworks [such as TypeScript](https://kinsta.com/blog/scripting-languages/) that straddle the line. If you want to [earn the big bucks](https://kinsta.com/blog/web-developer-salary/#what-do-you-need-to-become-a-web-developer), keeping tabs on these aspects is vital.
 
 For another example, [consider Git](https://kinsta.com/knowledgebase/git-vs-github/). You could argue that this Version Control System (VCS) covers a lot of ground. There’s a specific language used to run commands, and the core functionality offers a great deal in terms of web development. However, you’re also able to use it as a learning tool, specifically by trawling issue tracking logs and commits.
 
@@ -77,15 +75,15 @@ Without further ado, let’s look at the list of web development tools we recomm
 7.  [Web Application Frameworks](https://kinsta.com/blog/web-development-tools/#web-application-frameworks)
 8.  [TypeScript](https://kinsta.com/blog/web-development-tools/#35-typescript)
 9.  [GraphQL](https://kinsta.com/blog/web-development-tools/#36-graphql)
-10.  [Package Managers](https://kinsta.com/blog/web-development-tools/#package-managers)
-11.  [API and Testing Tools](https://kinsta.com/blog/web-development-tools/#api-and-testing-tools)
-12.  [Collaboration Tools](https://kinsta.com/blog/web-development-tools/#collaboration-tools)
-13.  [Task Runners](https://kinsta.com/blog/web-development-tools/#task-runners)
-14.  [Containerization Tools](https://kinsta.com/blog/web-development-tools/#containerization-tools)
-15.  [Image Optimization Tools](https://kinsta.com/blog/web-development-tools/#image-optimization-tools)
-16.  [Website Testing Tools](https://kinsta.com/blog/web-development-tools/#website-testing-tools)
-17.  [Stack Overflow and Search Engines](https://kinsta.com/blog/web-development-tools/#55-stack-overflow-and-search-engines)
-18.  [Web Development References](https://kinsta.com/blog/web-development-tools/#web-development-references)
+10. [Package Managers](https://kinsta.com/blog/web-development-tools/#package-managers)
+11. [API and Testing Tools](https://kinsta.com/blog/web-development-tools/#api-and-testing-tools)
+12. [Collaboration Tools](https://kinsta.com/blog/web-development-tools/#collaboration-tools)
+13. [Task Runners](https://kinsta.com/blog/web-development-tools/#task-runners)
+14. [Containerization Tools](https://kinsta.com/blog/web-development-tools/#containerization-tools)
+15. [Image Optimization Tools](https://kinsta.com/blog/web-development-tools/#image-optimization-tools)
+16. [Website Testing Tools](https://kinsta.com/blog/web-development-tools/#website-testing-tools)
+17. [Stack Overflow and Search Engines](https://kinsta.com/blog/web-development-tools/#55-stack-overflow-and-search-engines)
+18. [Web Development References](https://kinsta.com/blog/web-development-tools/#web-development-references)
 
 ### Local Development Environments
 
@@ -99,7 +97,7 @@ The DevKinsta splash screen.
 
 We may be biased, but [DevKinsta](https://kinsta.com/devkinsta/) could become the number one web development tool for 2021 and beyond.
 
-Scratch that — we _are_ biased, and we’re proud of what we’ve released!
+Scratch that — we *are* biased, and we’re proud of what we’ve released!
 
 For the uninitiated, DevKinsta is a way to help you spin up [local WordPress installations](https://kinsta.com/blog/install-wordpress-locally/) in a flash. It’s a complete suite that lets you design, develop, and deploy a WordPress site for macOS and Windows machines (with a Linux version in the pipeline).
 
@@ -171,7 +169,7 @@ While there are [many apps available](https://www.apachefriends.org/add-ons.html
 
 ### Text and Code Editors
 
-Most developers love arguing about which code editor you should use. Okay, we’re hyperbolic, but there _are_ plenty of opinions on the subject, with a fervent fanbase for each editor.
+Most developers love arguing about which code editor you should use. Okay, we’re hyperbolic, but there *are* plenty of opinions on the subject, with a fervent fanbase for each editor.
 
 However, if the [surveys are correct](https://insights.stackoverflow.com/survey/2019#technology), you’re probably using [Sublime Text](https://www.sublimetext.com/), [Visual Studio Code (VSCode)](https://code.visualstudio.com/), or [IntelliJ IDEA](https://www.jetbrains.com/idea/). It makes sense, as these three tools scale from simple text editing to fully-fledged Integrated Development Environment (IDE). However, there are others worth a mention too. Let’s take a look at a few of them.
 
@@ -217,7 +215,7 @@ For example, you’ll see a lot of what Sublime Text offers in other competitors
 
 Sublime Text’s Command Palette.
 
-In addition, there are powerful editing keyboard shortcuts, such as [making multiple selections](https://www.sublimetext.com/docs/3/column_selection.html) to edit several columns at once. Also, the _Goto Anything_ feature offers Vim-like combinations of keyboard shortcuts to traverse your files:
+In addition, there are powerful editing keyboard shortcuts, such as [making multiple selections](https://www.sublimetext.com/docs/3/column_selection.html) to edit several columns at once. Also, the *Goto Anything* feature offers Vim-like combinations of keyboard shortcuts to traverse your files:
 
 ![Sublime Text’s Goto Anything feature.](https://kinsta.com/wp-content/uploads/2021/05/sublime-goto-anything.png)
 
@@ -304,7 +302,7 @@ Price is also a factor, and IntelliJ is built upon a [subscription model](https:
 
 IntelliJ IDEAs pricing screen.
 
-Even so, there _are_ some “community” editions of JetBrains products. However, they’re cut-down versions of the parent software; essentially, they’re open source solutions with the proprietary elements taken out.
+Even so, there *are* some “community” editions of JetBrains products. However, they’re cut-down versions of the parent software; essentially, they’re open source solutions with the proprietary elements taken out.
 
 What’s more, JetBrains offers competitive pricing for open source projects, startups, education facilities, Docker Captains, and lots more niche groups.
 
@@ -454,7 +452,7 @@ If you’re new to Git and VCSs in general, GitLab has a [great beginner’s gui
 
 Kinsta’s GitHub page.
 
-For the [vast majority of developers](https://insights.stackoverflow.com/survey/2020#technology-collaboration-tools-professional-developers2), [GitHub](https://github.com/) is _the_ place where project Git repositories are stored:
+For the [vast majority of developers](https://insights.stackoverflow.com/survey/2020#technology-collaboration-tools-professional-developers2), [GitHub](https://github.com/) is *the* place where project Git repositories are stored:
 
 ![Three of many WordPress GitHub repositories.](https://kinsta.com/wp-content/uploads/2021/05/wordpress-repos.png)
 
@@ -594,7 +592,7 @@ Of course, whether or not you use Bootstrap will depend on what your project nee
 
 On paper, [Tailwind CSS](https://tailwindcss.com/) doesn’t make sense. It’s a frontend framework for a language that’s part of the core trinity of web development. As such, it’s logical to think that the target user would already have the proper knowledge without the need for a framework.
 
-In reality, Tailwind CSS makes _perfect_ sense. It’s a way to design the frontend of your site without leaving HTML.
+In reality, Tailwind CSS makes *perfect* sense. It’s a way to design the frontend of your site without leaving HTML.
 
 ![A Tailwind CSS example.](https://kinsta.com/wp-content/uploads/2021/05/tailwind-css.png)
 
@@ -925,7 +923,7 @@ The Yarn homepage.
 
 [Installation is simple](https://yarnpkg.com/getting-started/install), and initializing Yarn for a new project also takes a [minimum of effort](https://yarnpkg.com/getting-started/usage). It’s become a robust [open source solution](https://yarnpkg.com/getting-started/qa#is-yarn-operated-by-facebook) for installing packages and managing your project alongside.
 
-You’ll [use workspaces](https://yarnpkg.com/features/workspaces) to create “monorepos,” and multiple versions of your project both live in the same repo and can be cross-referenced. You can install plugins for anything Yarn can’t do (for which you want to add new fetchers and resolvers). To be more accurate, you _could_ install plugins, but there [aren’t too many](https://yarnpkg.com/features/plugins#official-plugins), at least in the official lists. Instead, you’ll code your own if you’re desperate for the functionality. Still, the choice is there to customize Yarn to your project’s needs.
+You’ll [use workspaces](https://yarnpkg.com/features/workspaces) to create “monorepos,” and multiple versions of your project both live in the same repo and can be cross-referenced. You can install plugins for anything Yarn can’t do (for which you want to add new fetchers and resolvers). To be more accurate, you *could* install plugins, but there [aren’t too many](https://yarnpkg.com/features/plugins#official-plugins), at least in the official lists. Instead, you’ll code your own if you’re desperate for the functionality. Still, the choice is there to customize Yarn to your project’s needs.
 
 Yarn makes a unique case to become your primary package manager. For a real-world project, you may lean on npm more, but Yarn will sneak into your workflow in ways that can only benefit you.
 
@@ -1147,7 +1145,7 @@ Of course, this isn’t necessarily true for everyone, but there are many benefi
 
 #### 48\. Docker
 
-For many, [Docker](https://www.docker.com/) is _the_ container-based development environment of choice. The open source platform isn’t all about containers, but this is an oft-mentioned reason for using it.
+For many, [Docker](https://www.docker.com/) is *the* container-based development environment of choice. The open source platform isn’t all about containers, but this is an oft-mentioned reason for using it.
 
 ![The Docker logo.](https://kinsta.com/wp-content/uploads/2021/05/docker.png)
 
@@ -1397,7 +1395,7 @@ It’s another site that will do well within your RSS feed, or as a digest in yo
 
 You could argue [Jeeves started the trend](http://ask.com/) of asking the internet questions to find information. He was replaced fast by various search algorithms, though the question-based search is still a reliable way to find what you need.
 
-_[Can I use…](https://caniuse.com/)_ is the frontend developer’s answer to “_Is there an Ask Jeeves for CSS?_”
+*[Can I use…](https://caniuse.com/)* is the frontend developer’s answer to “_Is there an Ask Jeeves for CSS?_”
 
 ![The Can I use… homepage.](https://kinsta.com/wp-content/uploads/2021/05/can-i-use.png)
 

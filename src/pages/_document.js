@@ -1,6 +1,5 @@
 import Document, { Html, Head, Main, NextScript } from 'next/document';
 import { Helmet } from 'react-helmet';
-import { withPrefix } from '../utils';
 
 export default class MyDocument extends Document {
     static async getInitialProps(ctx) {
@@ -35,7 +34,7 @@ export default class MyDocument extends Document {
                 <Head>{this.helmetHeadComponents}</Head>
                 <body {...this.helmetBodyAttrComponents}>
                     <Main />
-                    <script src={withPrefix('js/plugins.js')} />
+                    <script src="/js/plugins.js" />
                     <NextScript />
                 </body>
             </Html>

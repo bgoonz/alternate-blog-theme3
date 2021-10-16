@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Emoji List
 subtitle: lorem-ipsum
 seo:
   title: ''

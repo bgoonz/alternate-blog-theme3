@@ -47,8 +47,8 @@
 .post-content {
     max-width: 750px;
 
-    iframe[src*="vimeo.com"],
-    iframe[src*="youtube.com"] {
+    iframe[src*='vimeo.com'],
+    iframe[src*='youtube.com'] {
         display: block;
         margin-bottom: 1.66667rem;
         margin-top: 1.66667rem;

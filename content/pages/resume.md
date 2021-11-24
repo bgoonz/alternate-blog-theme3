@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Resume
 subtitle: Full Stack Web Developer
 seo:
   title: ''

@@ -117,7 +117,7 @@
             {
                 "label": "tools",
                 "url": "https://bgoonz-blog.netlify.app/docs/tools",
-                "style": "link",
+                "style": "icon",
                 "icon_class": "dev",
                 "new_window": false,
                 "no_follow": false,

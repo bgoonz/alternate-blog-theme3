@@ -173,11 +173,6 @@ img_path: /images/banner-background-bg.jpg
 
 
 
-    <center>
-        <h2>title 5</h2>
-    </center>
-
-
 
 
 

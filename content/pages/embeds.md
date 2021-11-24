@@ -817,9 +817,7 @@ layout: page
     <!--------------------------------------------------------------------------------------->
     <!--------------------------------------------------------------------------------------->
     <div class="item">
-        <center>
-            <h2>title</h2>
-        </center>
+
         <div class="iframe">
 
 <iframe  title="Neural Network Visualization (animated SVG)" data-src="https://codepen.io/bgoonz/embed/NWgdVOJ?default-tab=result" style="width:400px;" loading="lazy" class="lazyload" allowtransparency="true" allowfullscreen></iframe>

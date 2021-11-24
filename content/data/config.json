@@ -1,7 +1,7 @@
 {
     "title": "Web Audio Applications",
     "path_prefix": "/",
-    "palette": "red",
+    "palette": "green",
     "header": {
         "title": "Sidebar Blog",
         "tagline": "Web Audio Applications",
@@ -21,8 +21,8 @@
                 "style": "link"
             },
             {
-                "label": "Industry Trends",
-                "url": "/Industry-trends",
+                "label": "Style Guide",
+                "url": "/style-guide",
                 "style": "link"
             },
             {
@@ -90,22 +90,6 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
-            },
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false
-            },
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false
             }
         ]
     },

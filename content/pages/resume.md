@@ -1,6 +1,6 @@
 ---
 title: lorem-ipsum
-subtitle: lorem-ipsum
+subtitle: Full Stack Web Developer
 seo:
   title: ''
   description: ''

@@ -21,6 +21,14 @@
                 "style": "link"
             },
             {
+                "label": "Archive",
+                "url": "archive",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
                 "label": "Advice",
                 "url": "/Industry-trends",
                 "style": "link"

@@ -70,6 +70,13 @@ h6 {
     letter-spacing: 0.0625em;
     text-transform: uppercase;
 }
+iframe{
+    border-radius: 10px;
+    border:1px solid gold;
+    overflow: scroll;
+    resize: both;
+    z-index: -1;
+}
 
 p {
     margin: 0 0 1.66667em;

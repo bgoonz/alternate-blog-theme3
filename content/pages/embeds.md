@@ -1,11 +1,11 @@
 ---
-title: lorem-ipsum
+title: E
 subtitle: lorem-ipsum
 seo:
-    title: ''
-    description: ''
-    robots: []
-    extra: []
+  title: ''
+  description: ''
+  robots: []
+  extra: []
 layout: page
 ---
 ## Embeds:

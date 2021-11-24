@@ -1,6 +1,6 @@
 ---
 title: Archive
-subtitle: lorem-ipsum
+subtitle: Archive
 seo:
   title: ''
   description: ''

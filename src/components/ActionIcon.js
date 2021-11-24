@@ -26,14 +26,14 @@ export default class ActionIcon extends React.Component {
 
         return (
             <Link href={withPrefix(url)} {...attrs} className={classes}>
-                {(style === 'icon' && icon) ? (
+                {style === 'icon' && icon ? (
                     <React.Fragment>
                         <Icon icon={icon} />
                         <span className="screen-reader-text">{label}</span>
                     </React.Fragment>
-                ) :
+                ) : (
                     label
-                }
+                )}
             </Link>
         );
     }

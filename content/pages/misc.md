@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Scrap
 subtitle: lorem-ipsum
 seo:
   title: ''

@@ -1,6 +1,6 @@
 ---
 title: Embeds
-subtitle: lorem-ipsum
+subtitle: Mini Projects
 seo:
   title: ''
   description: ''

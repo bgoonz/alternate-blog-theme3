@@ -8,9 +8,5 @@ seo:
   extra: []
 layout: page
 ---
-## Lorem ipsum
+https://gist.github.com/bgoonz/8e7a8e4f4bb14bd1503e0768e3f2be45
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet

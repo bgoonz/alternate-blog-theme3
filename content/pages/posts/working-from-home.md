@@ -7,7 +7,7 @@ excerpt: >-
 date: '2016-08-22'
 thumb_img_path: images/9.jpg
 thumb_img_alt: job-search
-content_img_path: /images/super-pineapple.jpg
+content_img_path: /images/4-a88093c4.jpg
 seo:
   title: The Advantages and Disadvantages of Working from Home
   extra:

@@ -37,7 +37,7 @@ layout: page
       <div class="iframe">
 
 <iframe title="Neural Network Visualization (animated SVG)"
-          data-src="https://codepen.io/bgoonz/embed/YzZozOM?default-tab=result" style="width:400px;" loading="lazy"
+          data-src="https://codepen.io/bgoonz/embed/YzZozOM?default-tab=result" style="width:1000px;" loading="lazy"
           class="lazyload" allowtransparency="true" allowfullscreen></iframe>
       </div>
     </div>

@@ -17,7 +17,7 @@ body {
 a {
   border-bottom: 2px solid _palette(accent);
   color: _palette(primary);
-  text-decoration:u
+  text-decoration:underline;
   -webkit-transition: border .3s ease, color .3s ease;
   transition: border .3s ease, color .3s ease;
 

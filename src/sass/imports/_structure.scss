@@ -15,7 +15,7 @@
 }
 
 .inner {
-    max-width: 750px;
+    max-width: 550px;
 }
 
 .site-content {
@@ -32,7 +32,7 @@
     padding: 2.5em 4vw 1.3em;
 
     @media only screen and (min-width: 801px) {
-        margin-left: 40vw;
+        margin-left: 30vw;
     }
 
     @media only screen and (min-width: 1091px) {
@@ -41,7 +41,7 @@
     }
 
     @media only screen and (min-width: 1501px) {
-        margin-left: 130px;
+        margin-left: 450px;
         padding-left: 130px;
         padding-right: 130px;
     }

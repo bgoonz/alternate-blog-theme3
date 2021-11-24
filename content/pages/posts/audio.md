@@ -2,40 +2,40 @@
 title: Why Having Passion Means The World To Me
 subtitle: A interesting tale about Photography and me
 excerpt: >-
-    Photography is the science, art and practice of creating durable images by
-    recording light or other electromagnetic radiation, either electronically by
-    means of an image sensor, or chemically by means of a light-sensitive material
-    such as photographic film.
+  Photography is the science, art and practice of creating durable images by
+  recording light or other electromagnetic radiation, either electronically by
+  means of an image sensor, or chemically by means of a light-sensitive material
+  such as photographic film.
 date: '2018-01-15'
 thumb_img_path: images/8.jpg
 thumb_img_alt: A man looking at a beautiful lake and mountains landscape in Switzerland
 content_img_path: images/8.jpg
 seo:
-    title: What Is Photography and What It Means To Me
-    description: A interesting tale about Photography and me
-    extra:
-        - name: 'og:type'
-          value: article
-          keyName: property
-        - name: 'og:title'
-          value: What Is Photography and What It Means To Me
-          keyName: property
-        - name: 'og:description'
-          value: A interesting tale about Photography and me
-          keyName: property
-        - name: 'og:image'
-          value: images/8.jpg
-          keyName: property
-          relativeUrl: true
-        - name: 'twitter:card'
-          value: summary_large_image
-        - name: 'twitter:title'
-          value: What Is Photography and What It Means To Me
-        - name: 'twitter:description'
-          value: A interesting tale about Photography and me
-        - name: 'twitter:image'
-          value: images/8.jpg
-          relativeUrl: true
+  title: What Is Photography and What It Means To Me
+  description: A interesting tale about Photography and me
+  extra:
+    - name: 'og:type'
+      value: article
+      keyName: property
+    - name: 'og:title'
+      value: What Is Photography and What It Means To Me
+      keyName: property
+    - name: 'og:description'
+      value: A interesting tale about Photography and me
+      keyName: property
+    - name: 'og:image'
+      value: images/8.jpg
+      keyName: property
+      relativeUrl: true
+    - name: 'twitter:card'
+      value: summary_large_image
+    - name: 'twitter:title'
+      value: What Is Photography and What It Means To Me
+    - name: 'twitter:description'
+      value: A interesting tale about Photography and me
+    - name: 'twitter:image'
+      value: images/8.jpg
+      relativeUrl: true
 layout: post
 ---
 
@@ -45,7 +45,7 @@ Typically, a lens is used to focus the light reflected or emitted from objects i
 
 > When you photograph people in color, you photograph their clothes. But when you photograph people in Black and white, you photograph their souls! ― Ted Grant
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non quam lacus suspendisse faucibus interdum posuere lorem. Sapien faucibus et molestie ac feugiat sed lectus vestibulum. Ultricies mi quis hendrerit dolor magna eget est. Est velit egestas dui id ornare arcu. Elementum tempus egestas sed sed risus. Dui ut ornare lectus sit amet est placerat. Sed arcu non odio euismod lacinia at quis risus sed. Lectus urna duis convallis convallis tellus id interdum velit. Laoreet sit amet cursus sit amet dictum sit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non quam lacus suspendisse faucibus interdum posuere lorem. Sapien faucibus et molestie ac feugiat sed lectus vestibulum. Ultricies mi quis hendrerit dolor magna eget est. Est velit egestas dui id ornare arcu. Elementum tempus egestas sed sed risus. Dui ut ornare lectus sit amet est placerat. Sed arcu non odio euismod lacinia at quis risus sed. Lectus urna duis convallis convallis tellus id interdum velit. Laoreet sit amet cursus sit amet dictum sit. 
 
 Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Tincidunt lobortis feugiat vivamus at augue eget. Nulla at volutpat diam ut venenatis. Amet est placerat in egestas erat. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. Ac tortor vitae purus faucibus ornare suspendisse sed nisi lacus. Urna cursus eget nunc scelerisque viverra mauris in aliquam sem. Molestie a iaculis at erat pellentesque. Sed tempus urna et pharetra pharetra. Lacus viverra vitae congue eu consequat ac felis donec. Sapien eget mi proin sed libero enim sed.
 

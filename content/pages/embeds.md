@@ -7,6 +7,7 @@ seo:
   robots: []
   extra: []
 layout: page
+img_path: /images/banner-background-bg.jpg
 ---
 ## Embeds:
 

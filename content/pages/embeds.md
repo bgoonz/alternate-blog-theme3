@@ -1,5 +1,5 @@
 ---
-title: E
+title: Embeds
 subtitle: lorem-ipsum
 seo:
   title: ''

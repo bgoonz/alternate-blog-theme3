@@ -43,7 +43,7 @@
             },
             {
                 "label": "Interview-Prep",
-                "url": "#",
+                "url": "posts/",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,

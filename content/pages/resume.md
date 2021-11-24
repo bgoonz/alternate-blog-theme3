@@ -40,11 +40,11 @@ layout: page
 
 ***A ***[***web development blog***](https://bgoonz-blog.netlify.app/)***, featuring convenient web development tools and interactive content***
 
-● Implemented 4 Gatsby page models and GraphQL schema to fetch markdown content and feed it into react components.
+-  Implemented 4 Gatsby page models and GraphQL schema to fetch markdown content and feed it into react components.
 
-● Designed and integrated a set of convenient web-hosted [developer tools](https://bgoonz-blog.netlify.app/docs/tools/) and GUI interfaces.
+-  Designed and integrated a set of convenient web-hosted [developer tools](https://bgoonz-blog.netlify.app/docs/tools/) and GUI interfaces.
 
-● Added interactive content including comments, [video conferencing](https://bgoonz-blog.netlify.app/docs/interact/video-chat/), [data-structure visualization](https://bgoonz-blog.netlify.app/docs/interact/other-sites/), [games](https://bgoonz-blog.netlify.app/docs/interact/) and full text search.
+-  Added interactive content including comments, [video conferencing](https://bgoonz-blog.netlify.app/docs/interact/video-chat/), [data-structure visualization](https://bgoonz-blog.netlify.app/docs/interact/other-sites/), [games](https://bgoonz-blog.netlify.app/docs/interact/) and full text search.
 
 [**Autonomously Triggered Guitar Effects Platform**](https://www.youtube.com/watch?v=pRKjaprdWx4)[Live Site ](https://bgoonz.github.io/Revamped-Automatic-Guitar-Effect-Triggering/)  [GitHub](https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/tree/master/Triggered-Guitar-Effects-Platform)
 
@@ -52,9 +52,9 @@ layout: page
 
 [***Platform***](https://bgoonz.github.io/Revamped-Automatic-Guitar-Effect-Triggering/SR%20Project%20II%20Presentation.pdf)*** designed to analyze a time sequence of notes and autonomously trigger guitar effects at a predetermined point in the song***
 
-● Successfully completed and delivered a platform to digitize a guitar signal and perform filtering before executing frequency & time domain analysis ­to track a current performance against pre-recorded performance.
+-  Successfully completed and delivered a platform to digitize a guitar signal and perform filtering before executing frequency & time domain analysis ­to track a current performance against pre-recorded performance.
 
-● Implemented the Dynamic Time Warping algorithm in C++ and Python to autonomously activate or adjust guitar effect at multiple pre-designated sections of performance
+-  Implemented the Dynamic Time Warping algorithm in C++ and Python to autonomously activate or adjust guitar effect at multiple pre-designated sections of performance
 
 [**Family Promise**](https://familypromise.org/) **Service Tracker**[Live Site  ](https://a.familypromiseservicetracker.dev/) [GitHub](https://github.com/Lambda-School-Labs/family-promise-service-tracker-fe-a)
 
@@ -62,11 +62,11 @@ layout: page
 
 ***An ***[***app***](https://bryan-guner.gitbook.io/lambda-labs/navigation/roadmap)*** built to helps local communities coordinate their compassion to address the root causes of family homelessness***
 
-● Collaborated on state management using Redux to handle application state and middleware using redux-promise & redux-thunk.
+-  Collaborated on state management using Redux to handle application state and middleware using redux-promise & redux-thunk.
 
-● Built two graphic visuals of the user hierarchy and the scope of their permissions.
+-  Built two graphic visuals of the user hierarchy and the scope of their permissions.
 
-● Created Figma UI mockups of possible future developments, i.e., displaying metrics data and map pinpoint functionality.
+-  Created Figma UI mockups of possible future developments, i.e., displaying metrics data and map pinpoint functionality.
 
 **Data Structures Playground**[Live Site ](https://ds-algo-official.netlify.app/) [GitHub](https://github.com/bgoonz/DS-ALGO-OFFICIAL)
 
@@ -74,13 +74,13 @@ layout: page
 
 ***A ***[***website***](https://potluck-landing.netlify.app/style-guide/)*** for visualizing and practicing data structures and algorithms in JavaScript & Python***
 
-● Implemented an repl.it backend to enable commenting using express and the fs module to write user comments to a storage.json file.
+-  Implemented an repl.it backend to enable commenting using express and the fs module to write user comments to a storage.json file.
 
-● Developed proprietary npm package to recursively walk the project directory structure and generate a [site navigation page](https://ds-algo-official.netlify.app/sitemap.html).
+-  Developed proprietary npm package to recursively walk the project directory structure and generate a [site navigation page](https://ds-algo-official.netlify.app/sitemap.html).
 
-● Created multiple embedded data structure visualizations that interact with user input.
+-  Created multiple embedded data structure visualizations that interact with user input.
 
-● Automated the generation and (submission to Google, Bing, and Yandex) of a [sitemap](https://ds-algo-official.netlify.app/sitemap.xml) on every build.
+-  Automated the generation and (submission to Google, Bing, and Yandex) of a [sitemap](https://ds-algo-official.netlify.app/sitemap.xml) on every build.
 
 **Experience**
 
@@ -88,13 +88,13 @@ layout: page
 
 [*Cembre*](https://www.cembre.com/)*, Edison, NJ*
 
-● Converted client's product needs into technical specs to be sent to the development team in Italy.
+-  Converted client's product needs into technical specs to be sent to the development team in Italy.
 
-● Reorganized internal file server structure and conducted system integration and product demonstrations.
+-  Reorganized internal file server structure and conducted system integration and product demonstrations.
 
-● Presided over internal and end user software trainings in addition to producing the corresponding documentation.
+-  Presided over internal and end user software trainings in addition to producing the corresponding documentation.
 
-●  Served as the primary point of contact for troubleshooting railroad hardware and software in North America
+-   Served as the primary point of contact for troubleshooting railroad hardware and software in North America
 
 **Education**
 
@@ -134,11 +134,11 @@ JavaScript, React / Gatsby | GraphQL | SCSS | Lodash | Jamstack | Facebook Comme
 
 A web development blog, featuring convenient web development tools and interactive content
 
-●	Implemented 4 Gatsby page models and GraphQL schema to fetch markdown content and feed it into react components.
+- 	Implemented 4 Gatsby page models and GraphQL schema to fetch markdown content and feed it into react components.
 
-●	Designed and integrated a set of convenient web-hosted developer tools and GUI interfaces.
+- 	Designed and integrated a set of convenient web-hosted developer tools and GUI interfaces.
 
-●	Added interactive content including comments, video conferencing, data-structure visualization, games and full text search.
+- 	Added interactive content including comments, video conferencing, data-structure visualization, games and full text search.
 
 Autonomously Triggered Guitar Effects Platform	Live Site   GitHub
 
@@ -146,8 +146,8 @@ C++ | Python | MATLAB | PureData
 
 Platform designed to analyze a time sequence of notes and autonomously trigger guitar effects at a predetermined point in the song
 
-●	Successfully completed and delivered a platform to digitize a guitar signal and perform filtering before executing frequency & time domain analysis ¬to track a current performance against pre-recorded performance.
-●	Implemented the Dynamic Time Warping algorithm in C++ and Python to autonomously activate or adjust guitar effect at multiple pre-designated sections of performance
+- 	Successfully completed and delivered a platform to digitize a guitar signal and perform filtering before executing frequency & time domain analysis ¬to track a current performance against pre-recorded performance.
+- 	Implemented the Dynamic Time Warping algorithm in C++ and Python to autonomously activate or adjust guitar effect at multiple pre-designated sections of performance
 
 Family Promise Service Tracker	Live Site   GitHub
 
@@ -155,11 +155,11 @@ React | ExpressJS | Figma | Okta
 
 An app built to helps local communities coordinate their compassion to address the root causes of family homelessness
 
-●	Collaborated on state management using Redux to handle application state and middleware using redux-promise & redux-thunk.
+- 	Collaborated on state management using Redux to handle application state and middleware using redux-promise & redux-thunk.
 
-●	Built two graphic visuals of the user hierarchy and the scope of their permissions.
+- 	Built two graphic visuals of the user hierarchy and the scope of their permissions.
 
-●	Created Figma UI mockups of possible future developments, i.e., displaying metrics data and map pinpoint functionality.
+- 	Created Figma UI mockups of possible future developments, i.e., displaying metrics data and map pinpoint functionality.
 
 Data Structures Playground	 Live Site  GitHub
 
@@ -167,12 +167,12 @@ jQuery | ExpressJS | Google Analytics |Algolia Full Text Search | Amazon S3
 
 A website for visualizing and practicing data structures and algorithms in JavaScript & Python
 
-●	Implemented an repl.it backend to enable commenting using express and the fs module to write user comments to a storage.json file.
+- 	Implemented an repl.it backend to enable commenting using express and the fs module to write user comments to a storage.json file.
 
-●	Developed proprietary npm package to recursively walk the project directory structure and generate a site navigation page.
+- 	Developed proprietary npm package to recursively walk the project directory structure and generate a site navigation page.
 
-●	Created multiple embedded data structure visualizations that interact with user input.
-●	Automated the generation and (submission to Google, Bing, and Yandex) of a sitemap on every build.
+- 	Created multiple embedded data structure visualizations that interact with user input.
+- 	Automated the generation and (submission to Google, Bing, and Yandex) of a sitemap on every build.
 
 Experience
 
@@ -180,11 +180,11 @@ Product Development Engineer | Nov 2019 - Mar 2020
 
 Cembre, Edison, NJ
 
-●	Converted client’s product needs into technical specs to be sent to the development team in Italy.
+- 	Converted client’s product needs into technical specs to be sent to the development team in Italy.
 
-●	Reorganized internal file server structure and conducted system integration and product demonstrations.
-●	Presided over internal and end user software trainings in addition to producing the corresponding documentation.
-●	Served as the primary point of contact for troubleshooting railroad hardware and software in North America
+- 	Reorganized internal file server structure and conducted system integration and product demonstrations.
+- 	Presided over internal and end user software trainings in addition to producing the corresponding documentation.
+- 	Served as the primary point of contact for troubleshooting railroad hardware and software in North America
 
 Education
 

@@ -150,12 +150,6 @@ img_path: /images/banner-background-bg.jpg
 
 
 
-    <center>
-        <h2>title 4</h2>
-    </center>
-
-
-
 
 
 

@@ -40,199 +40,56 @@ seo:
   description: "If you store your technical specs, scripts, and other files in\_Drive\_or a\_shared drive, you can access them on any device, anytime. And, if something goes wrong with a file or a build isn’t ready for publishing, you can revert to a previous version."
 layout: post
 ---
+​https://angel.co/profile/edit/overview*Write a caption*​​Designer, Creatives and Developers Jobs Board | Authentic PositionsAuthentic Jobs*Write a caption*​**Remember — don't reject yourself before you apply!** Apply to a job when you meet *at least* 50% of the requirements. [Many](https://talent.works/2018/11/27/the-science-of-the-job-search-part-vii-you-only-need-50-of-job-requirements/), [many](https://www.linkedin.com/pulse/why-job-description-only-wish-list-marek-wierzbicki/), [many](https://walrathrecruiting.com/remember-job-description-wish-list) resources explain why this is a best practice. If you want further confirmation — reach out to your most recently hired teammate and ask if you can see the job description they were hired into 😉.
 
-|
 
-### 1
 
-|
+### **Start with these Recommended Job Boards ⤵️**
 
-### Draft and share technical specifications
+*   **Large job boards**​[Linkedin.com](https://lambdaschool.ballely.com/api/mailings/click/PMRGSZBCHIYTQNBSGY3CYITVOJWCEORCNB2HI4B2F4XWY2LONNSWI2LOFZRW63JCFQRG64THEI5CENRTMQ2GMZLBGIWWMOLCMEWTIYZYGAWTSZJTHEWWIMZYMQ2TSOBVGM2DGZRCFQRHMZLSONUW63RCHIRDIIRMEJZWSZZCHIRDA2ZQKBVUERBRLJREKOK2OZUWY2CDJFAWK3ZZPJLHIMRZJ55EUSKIOZBWG6SNOI3XGNLLHURH2===) | [Glassdoor.com](https://lambdaschool.ballely.com/api/mailings/click/PMRGSZBCHIYTQNBSGY3CYITVOJWCEORCNB2HI4B2F4XWO3DBONZWI33POIXGG33NEIWCE33SM4RDUIRWGNSDIZTFMEZC2ZRZMJQS2NDDHAYC2OLFGM4S2ZBTHBSDKOJYGUZTIM3GEIWCE5TFOJZWS33OEI5CENBCFQRHG2LHEI5CEV3QJYZDM4SWOMYE44SVKBJDMQTKNVJWSQSNPJWESRTXIZVUI2CEGNETEULVGFZW4SLKGA6SE7I=) | [Indeed.com](http://indeed.com/) | [Simplyhired.com](https://lambdaschool.ballely.com/api/mailings/click/PMRGSZBCHIYTQNBSGY3CYITVOJWCEORCNB2HI4DTHIXS653XO4XHG2LNOBWHS2DJOJSWILTDN5WS6IRMEJXXEZZCHIRDMM3EGRTGKYJSFVTDSYTBFU2GGOBQFU4WKMZZFVSDGODEGU4TQNJTGQZWMIRMEJ3GK4TTNFXW4IR2EI2CELBCONUWOIR2EJRU4USKINHVQ5ZWJBUWWYLUI5EGQZKROFJXU5BZMFYUMSK2ONDWOTSGJIZUWVCWKRJEKRJ5EJ6Q====) | [jrdevjobs.com](https://lambdaschool.ballely.com/api/mailings/click/PMRGSZBCHIYTQNBSGY3CYITVOJWCEORCNB2HI4B2F4XWU4TEMV3GU33COMXGG33NEIWCE33SM4RDUIRWGNSDIZTFMEZC2ZRZMJQS2NDDHAYC2OLFGM4S2ZBTHBSDKOJYGUZTIM3GEIWCE5TFOJZWS33OEI5CENBCFQRHG2LHEI5CESRUIQZTEULJJFZE2RJNIR2HKZZXJ5YHUSTQONXV65KBNZYUEQTQGMZVQOKNKVAUQTKYLE6SE7I=)​
 
-![""](https://storage.googleapis.com/support-kms-prod/e34cDSA9TNd1pSOKVIDoHSXvGNgDQjcrnOD3 """")
+*   **Start Ups**​[Angel.co](https://lambdaschool.ballely.com/api/mailings/click/PMRGSZBCHIYTQNBSGY3CYITVOJWCEORCNB2HI4B2F4XWC3THMVWC4Y3PEIWCE33SM4RDUIRWGNSDIZTFMEZC2ZRZMJQS2NDDHAYC2OLFGM4S2ZBTHBSDKOJYGUZTIM3GEIWCE5TFOJZWS33OEI5CENBCFQRHG2LHEI5CE6JQPJDWQODBGJNC2YLPI5FDKSDCPF5ECTJRKVXXQNTJMRGV65SUGVYFASCJNVHVSXZZIU6SE7I=) |<https://ycombinator.getro.com/> | [stackoverflow.com |](https://lambdaschool.ballely.com/api/mailings/click/PMRGSZBCHIYTQNBSGY3CYITVOJWCEORCNB2HI4B2F4XXG5DBMNVW65TFOJTGY33XFZRW63JCFQRG64THEI5CENRTMQ2GMZLBGIWWMOLCMEWTIYZYGAWTSZJTHEWWIMZYMQ2TSOBVGM2DGZRCFQRHMZLSONUW63RCHIRDIIRMEJZWSZZCHIRGWS3GKNXTOSCFJ52UUZ2ELJGE43DDLJKVENKWOZFC2Z3KHBKVQTTYKZVXQ3DINBSWUNCNHURH2===)​<https://www.techjobsforgood.com/> |<https://outerjoin.us/> |<https://inclusively.com/>​
 
-When you're planning a new website, use Docs to draft all your technical specs. Then, share the specs with your team for feedback so everyone agrees on what needs to be built.
+*   **Remote**​[remotive.io](http://remotive.io/) |<https://remoteok.io/> | [weworkremotely.com](http://weworkremotely.com/) | [remotewoman.com |](http://remotewoman.com/)​<https://remotepoc.com/> |<https://www.workhardfromanywhere.com/> |<https://www.remotetechjobs.com/>​
 
-#### Learn how
+*   **DEI-focused job boards**​<https://www.diversifytech.co/> |<https://diversity.com/> |<https://employdiversity.com/jobs/>;<https://www.prodivnet.com/> |<https://inclusively.com/> |<https://start.me/p/ELkLLy/big-list-of-diversity-resources-for-everyone>​
 
-[Docs](https://support.google.com/a/users/answer/9305987)
+*   "**Who is hiring now" Lists**​[https://layoffers.com](https://layoffers.com/) |<https://www.teamblind.com/whoshiring> |<https://candor.co/hiring-freezes> |<https://github.com/remoteintech/remote-jobs>,
 
-![gray bar](https://lh3.googleusercontent.com/WqfSWqvkRw9JIPxQVAWTOnIuqhW70krt6nC0hCMpaZJW786BxwK4xvg0UOUJZVjkU_uN=w700 'gray bar')
+### **When using job boards**
 
-|
+*   Set your filters to Date Posted = last 24 hours or last week
 
-|
+    *   Do not use additional filters such as "entry-level" or "years of experience required" as these are often unreliable.
 
-### 2
+*   Use skill-based keywords over role titles, i.e. React HTML/CSS JavaScript Python
 
-|
+*   **For alternative roles in tech, use the keywords listed in toggle** ⤵️\*\*.\*\*​[**List of roles past Lambda grads have been hired into**](https://www.notion.so/List-of-roles-past-Lambda-grads-have-been-hired-into-b2d7e4da73de4fe087d716c3954dc271)​
 
-### Store and archive files in one place
+    *   ​[Support Engineer](https://www.betterteam.com/support-engineer-job-description)​
 
-![""](https://storage.googleapis.com/support-kms-prod/e34cDSA9TNd1pSOKVIDoHSXvGNgDQjcrnOD3 """")
+        *   Technical Support Specialist
 
-If you store your technical specs, scripts, and other files in Drive or a shared drive, you can access them on any device, anytime. And, if something goes wrong with a file or a build isn't ready for publishing, you can revert to a previous version.
+        *   Solutions Architect
 
-#### Learn how
+        *   Solutions Engineer
 
--   [Drive](https://support.google.com/a/users/answer/9310458)
--   [Shared drives](https://support.google.com/a/users/answer/9310154)
+    *   ​[Software Test Engineer](https://www.betterteam.com/software-test-engineer-job-description)​
 
-![gray bar](https://lh3.googleusercontent.com/WqfSWqvkRw9JIPxQVAWTOnIuqhW70krt6nC0hCMpaZJW786BxwK4xvg0UOUJZVjkU_uN=w700 'gray bar')
+        *   QA Engineer
 
-|
+        *   QA Analyst
 
-|
+    *   ​[Web Designer](https://www.betterteam.com/web-designer-job-description)​
 
-### 3
+        *   Email Marketing Manager
 
-|
+        *   Email Marketing Developer
 
-### Create easy, impactful websites
+        *   SEO Developer
 
-![""](https://storage.googleapis.com/support-kms-prod/e34cDSA9TNd1pSOKVIDoHSXvGNgDQjcrnOD3 """")
+    *   ​[Developer Advocate](https://thenewstack.io/devrel-and-the-increasing-popularity-of-the-developer-advocate/)​
 
-Whether you're setting up an intranet for your company, a project website for your team, or a portal for customers, you can create websites using Sites. It's easy to insert documents, spreadsheets, calendars, and more without complex development work because Sites is integrated with other Google products. If your site is public, you can increase site traffic with [Google My Business](https://www.google.com/business/).
+        *   Developer Support
 
-#### Learn how
-
-[Sites](https://support.google.com/a/users/answer/9310491)
-
-![gray bar](https://lh3.googleusercontent.com/WqfSWqvkRw9JIPxQVAWTOnIuqhW70krt6nC0hCMpaZJW786BxwK4xvg0UOUJZVjkU_uN=w700 'gray bar')
-
-|
-
-|
-
-### 4
-
-|
-
-### Make your website more engaging
-
-![""](https://storage.googleapis.com/support-kms-prod/e34cDSA9TNd1pSOKVIDoHSXvGNgDQjcrnOD3 """")
-
-Websites compete with one another for visitors, so making your site stand out is important to increase web traffic. With Sites, you can start with a strong visual style by adding colorful images, contrasting themes, and font styles. Increase interactivity by adding features, such as calendars, maps, or YouTube videos. Then, help people find your site in search results by [boosting search engine optimization (SEO)](https://support.google.com/webmasters/answer/40349/).
-
-#### Learn how
-
-[Sites](https://support.google.com/a/users/answer/9310371#2.1)
-
-![gray bar](https://lh3.googleusercontent.com/WqfSWqvkRw9JIPxQVAWTOnIuqhW70krt6nC0hCMpaZJW786BxwK4xvg0UOUJZVjkU_uN=w700 'gray bar')
-
-|
-
-|
-
-### 5
-
-|
-
-### Make your website mobile-friendly
-
-![""](https://storage.googleapis.com/support-kms-prod/e34cDSA9TNd1pSOKVIDoHSXvGNgDQjcrnOD3 """")
-
-Many people access websites on their phones, so it's important to make sure your site will run smoothly on different mobile devices. Sites automatically adjusts your website content for different screen sizes and adds functionalities for certain device types, such as tappable phone numbers to make a call. You can also increase mobile traffic with [Google Ads](https://www.google.com/adwords/). On mobile devices, people tend to use fewer and shorter terms, so keep your keywords concise and relevant.
-
-#### Learn how
-
-[Sites](https://support.google.com/a/users/answer/9310371#4.1)
-
-![gray bar](https://lh3.googleusercontent.com/WqfSWqvkRw9JIPxQVAWTOnIuqhW70krt6nC0hCMpaZJW786BxwK4xvg0UOUJZVjkU_uN=w700 'gray bar')
-
-|
-
-|
-
-### 6
-
-|
-
-### Build advanced, dynamic websites
-
-![""](https://storage.googleapis.com/support-kms-prod/e34cDSA9TNd1pSOKVIDoHSXvGNgDQjcrnOD3 """")
-
-To create advanced features and scripts, build your web and mobile apps with Google App Engine and Google Cloud Platform. Let site visitors sign in with their email accounts, save form responses to a database, create content management systems, and more. Develop new features without affecting the live site through Cloud Platform's revision control. Preview your changes and compare site versions, then choose the changes you want to launch.
-
-#### Learn how
-
--   [App Engine](https://cloud.google.com/appengine/)
--   [Google Cloud Platform](https://cloud.google.com/)
-
-![gray bar](https://lh3.googleusercontent.com/WqfSWqvkRw9JIPxQVAWTOnIuqhW70krt6nC0hCMpaZJW786BxwK4xvg0UOUJZVjkU_uN=w700 'gray bar')
-
-|
-
-|
-
-### 7
-
-|
-
-### Share prototypes with remote teams or clients
-
-![""](https://storage.googleapis.com/support-kms-prod/e34cDSA9TNd1pSOKVIDoHSXvGNgDQjcrnOD3 """")
-
-If you work with international teams or clients, use Google Meet to hold impromptu video meetings. [Share](https://support.google.com/a/users/answer/9308856) your screen to show early drafts and get feedback before publishing.
-
-#### Learn how
-
-[Google Meet](https://support.google.com/a/users/answer/9302870#1.1)
-
-![gray bar](https://lh3.googleusercontent.com/WqfSWqvkRw9JIPxQVAWTOnIuqhW70krt6nC0hCMpaZJW786BxwK4xvg0UOUJZVjkU_uN=w700 'gray bar')
-
-|
-
-|
-
-### 8
-
-|
-
-### Track team progress and schedules
-
-![""](https://storage.googleapis.com/support-kms-prod/e34cDSA9TNd1pSOKVIDoHSXvGNgDQjcrnOD3 """")
-
-When your team is working on a complex project, it can be difficult for everyone to keep up with changing deadlines, people's progress, and the latest updates. Track feature assignments or launch deadlines using shared project plans and schedules in Sheets. Everyone can directly update their progress in real time, no matter where they are in the world.
-
-#### Learn how
-
-[Sheets](https://support.google.com/a/users/answer/9310193)
-
-![gray bar](https://lh3.googleusercontent.com/WqfSWqvkRw9JIPxQVAWTOnIuqhW70krt6nC0hCMpaZJW786BxwK4xvg0UOUJZVjkU_uN=w700 'gray bar')
-
-|
-
-|
-
-### 9
-
-|
-
-### Keep everyone in the loop with an email list
-
-![""](https://storage.googleapis.com/support-kms-prod/e34cDSA9TNd1pSOKVIDoHSXvGNgDQjcrnOD3 """")
-
-If you want to share prototypes and status updates with your team, use Groups to set up an email list. Then, you can reach everyone with a single email address.
-
-#### Learn how
-
-[Groups](https://support.google.com/a/users/answer/9303222)
-
-![gray bar](https://lh3.googleusercontent.com/WqfSWqvkRw9JIPxQVAWTOnIuqhW70krt6nC0hCMpaZJW786BxwK4xvg0UOUJZVjkU_uN=w700 'gray bar')
-
-|
-
-|
-
-### 10
-
-|
-
-### Collect and analyze visitor feedback
-
-![""](https://storage.googleapis.com/support-kms-prod/e34cDSA9TNd1pSOKVIDoHSXvGNgDQjcrnOD3 """")
-
-Want to get insights from customers so you can improve their overall website experience? Create an online survey to gauge site satisfaction and embed it in your website using Forms. Or, use [Google Analytics](https://support.google.com/a/users/answer/9308837) to analyze visitor traffic, so you can improve marketing campaigns and site reliability.
-
-|
+    *   ​[Systems Engineer](https://www.betterteam.com/systems-engineer-job-description)​

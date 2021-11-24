@@ -302,13 +302,6 @@ img_path: /images/banner-background-bg.jpg
 
 
 
-    <center>
-        <h2>title 12</h2>
-    </center>
-
-
-
-
 
  <iframe src="https://codepen.io/bgoonz/embed/QWpmmom?default-tab=result" style="width:1000px; height:1200px;" loading="lazy" allowtransparency="true" allowfullscreen></iframe>
 

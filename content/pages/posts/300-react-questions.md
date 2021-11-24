@@ -6,26 +6,22 @@ thumb_img_alt: react
 excerpt: lorem-ipsum
 hide_header: false
 seo:
-  title: ''
-  description: ''
-  robots: []
-  extra: []
+    title: ''
+    description: ''
+    robots: []
+    extra: []
 layout: post
 thumb_img_path: /images/react.jpg
 content_img_path: /images/My Post.png
 ---
+
 ## React Prac
-
-
-
 
 ## React Interview Questions & Answers
 
 #### Table of Contents
 
 <table><thead><tr><th>No.</th><th>Questions</th><th data-type="checkbox"></th><th>Answer</th></tr></thead><tbody><tr><td></td><td><strong>Core React</strong></td><td>false</td><td></td></tr><tr><td>1</td><td>What is React?</td><td>false</td><td></td></tr><tr><td>2</td><td>What are the major features of React?</td><td>false</td><td></td></tr><tr><td>3</td><td>What is JSX?</td><td>false</td><td></td></tr><tr><td>4</td><td>What is the difference between Element and Component?</td><td>false</td><td></td></tr><tr><td>5</td><td>How to create components in React?</td><td>false</td><td></td></tr><tr><td>6</td><td>When to use a Class Component over a Function Component?</td><td>false</td><td></td></tr><tr><td>7</td><td>What are Pure Components?</td><td>false</td><td></td></tr><tr><td>8</td><td>What is state in React?</td><td>false</td><td></td></tr><tr><td>9</td><td>What are props in React?</td><td>false</td><td></td></tr><tr><td>10</td><td>What is the difference between state and props?</td><td>false</td><td></td></tr><tr><td>11</td><td>Why should we not update the state directly?</td><td>false</td><td></td></tr><tr><td>12</td><td>What is the purpose of callback function as an argument of setState()?</td><td>false</td><td></td></tr><tr><td>13</td><td>What is the difference between HTML and React event handling?</td><td>false</td><td></td></tr><tr><td>14</td><td>How to bind methods or event handlers in JSX callbacks?</td><td>false</td><td></td></tr><tr><td>15</td><td>How to pass a parameter to an event handler or callback?</td><td>false</td><td></td></tr><tr><td>16</td><td>What are synthetic events in React?</td><td>false</td><td></td></tr><tr><td>17</td><td>What are inline conditional expressions?</td><td>false</td><td></td></tr><tr><td>18</td><td>What is "key" prop and what is the benefit of using it in arrays of elements?</td><td>false</td><td></td></tr><tr><td>19</td><td>What is the use of refs?</td><td>false</td><td></td></tr><tr><td>20</td><td>How to create refs?</td><td>false</td><td></td></tr><tr><td>21</td><td>What are forward refs?</td><td>false</td><td></td></tr><tr><td>22</td><td>Which is preferred option with in callback refs and findDOMNode()?</td><td>false</td><td></td></tr><tr><td>23</td><td>Why are String Refs legacy?</td><td>false</td><td></td></tr><tr><td>24</td><td>What is Virtual DOM?</td><td>false</td><td></td></tr><tr><td>25</td><td>How Virtual DOM works?</td><td>false</td><td></td></tr><tr><td>26</td><td>What is the difference between Shadow DOM and Virtual DOM?</td><td>false</td><td></td></tr><tr><td>27</td><td>What is React Fiber?</td><td>false</td><td></td></tr><tr><td>28</td><td>What is the main goal of React Fiber?</td><td>false</td><td></td></tr><tr><td>29</td><td>What are controlled components?</td><td>false</td><td></td></tr><tr><td>30</td><td>What are uncontrolled components?</td><td>false</td><td></td></tr><tr><td>31</td><td>What is the difference between createElement and cloneElement?</td><td>false</td><td></td></tr><tr><td>32</td><td>What is Lifting State Up in React?</td><td>false</td><td></td></tr><tr><td>33</td><td>What are the different phases of component lifecycle?</td><td>false</td><td></td></tr><tr><td>34</td><td>What are the lifecycle methods of React?</td><td>false</td><td></td></tr><tr><td>35</td><td>What are Higher-Order components?</td><td>false</td><td></td></tr><tr><td>36</td><td>How to create props proxy for HOC component?</td><td>false</td><td></td></tr><tr><td>37</td><td>What is context?</td><td>false</td><td></td></tr><tr><td>38</td><td>What is children prop?</td><td>false</td><td></td></tr><tr><td>39</td><td>How to write comments in React?</td><td>false</td><td></td></tr><tr><td>40</td><td>What is the purpose of using super constructor with props argument?</td><td>false</td><td></td></tr><tr><td>41</td><td>What is reconciliation?</td><td>false</td><td></td></tr><tr><td>42</td><td>How to set state with a dynamic key name?</td><td>false</td><td></td></tr><tr><td>43</td><td>What would be the common mistake of function being called every time the component renders?</td><td>false</td><td></td></tr><tr><td>44</td><td>Is lazy function supports named exports?</td><td>false</td><td></td></tr><tr><td>45</td><td>Why React uses className over class attribute?</td><td>false</td><td></td></tr><tr><td>46</td><td>What are fragments?</td><td>false</td><td></td></tr><tr><td>47</td><td>Why fragments are better than container divs?</td><td>false</td><td></td></tr><tr><td>48</td><td>What are portals in React?</td><td>false</td><td></td></tr><tr><td>49</td><td>What are stateless components?</td><td>false</td><td></td></tr><tr><td>50</td><td>What are stateful components?</td><td>false</td><td></td></tr><tr><td>51</td><td>How to apply validation on props in React?</td><td>false</td><td></td></tr><tr><td>52</td><td>What are the advantages of React?</td><td>false</td><td></td></tr><tr><td>53</td><td>What are the limitations of React?</td><td>false</td><td></td></tr><tr><td>54</td><td>What are error boundaries in React v16</td><td>false</td><td></td></tr><tr><td>55</td><td>How error boundaries handled in React v15?</td><td>false</td><td></td></tr><tr><td>56</td><td>What are the recommended ways for static type checking?</td><td>false</td><td></td></tr><tr><td>57</td><td>What is the use of react-dom package?</td><td>false</td><td></td></tr><tr><td>58</td><td>What is the purpose of render method of react-dom?</td><td>false</td><td></td></tr><tr><td>59</td><td>What is ReactDOMServer?</td><td>false</td><td></td></tr><tr><td>60</td><td>How to use InnerHtml in React?</td><td>false</td><td></td></tr><tr><td>61</td><td>How to use styles in React?</td><td>false</td><td></td></tr><tr><td>62</td><td>How events are different in React?</td><td>false</td><td></td></tr><tr><td>63</td><td>What will happen if you use setState in constructor?</td><td>false</td><td></td></tr><tr><td>64</td><td>What is the impact of indexes as keys?</td><td>false</td><td></td></tr><tr><td>65</td><td>Is it good to use setState() in componentWillMount() method?</td><td>false</td><td></td></tr><tr><td>66</td><td>What will happen if you use props in initial state?</td><td>false</td><td></td></tr><tr><td>67</td><td>How do you conditionally render components?</td><td>false</td><td></td></tr><tr><td>68</td><td>Why we need to be careful when spreading props on DOM elements??</td><td>false</td><td></td></tr><tr><td>69</td><td>How you use decorators in React?</td><td>false</td><td></td></tr><tr><td>70</td><td>How do you memoize a component?</td><td>false</td><td></td></tr><tr><td>71</td><td>How you implement Server-Side Rendering or SSR?</td><td>false</td><td></td></tr><tr><td>72</td><td>How to enable production mode in React?</td><td>false</td><td></td></tr><tr><td>73</td><td>What is CRA and its benefits?</td><td>false</td><td></td></tr><tr><td>74</td><td>What is the lifecycle methods order in mounting?</td><td>false</td><td></td></tr><tr><td>75</td><td>What are the lifecycle methods going to be deprecated in React v16?</td><td>false</td><td></td></tr><tr><td>76</td><td>What is the purpose of getDerivedStateFromProps() lifecycle method?</td><td>false</td><td></td></tr><tr><td>77</td><td>What is the purpose of getSnapshotBeforeUpdate() lifecycle method?</td><td>false</td><td></td></tr><tr><td>78</td><td>Do Hooks replace render props and higher order components?</td><td>false</td><td></td></tr><tr><td>79</td><td>What is the recommended way for naming components?</td><td>false</td><td></td></tr><tr><td>80</td><td>What is the recommended ordering of methods in component class?</td><td>false</td><td></td></tr><tr><td>81</td><td>What is a switching component?</td><td>false</td><td></td></tr><tr><td>82</td><td>Why we need to pass a function to setState()?</td><td>false</td><td></td></tr><tr><td>83</td><td>What is strict mode in React?</td><td>false</td><td></td></tr><tr><td>84</td><td>What are React Mixins?</td><td>false</td><td></td></tr><tr><td>85</td><td>Why is isMounted() an anti-pattern and what is the proper solution?</td><td>false</td><td></td></tr><tr><td>86</td><td>What are the Pointer Events supported in React?</td><td>false</td><td></td></tr><tr><td>87</td><td>Why should component names start with capital letter?</td><td>false</td><td></td></tr><tr><td>88</td><td>Are custom DOM attributes supported in React v16?</td><td>false</td><td></td></tr><tr><td>89</td><td>What is the difference between constructor and getInitialState?</td><td>false</td><td></td></tr><tr><td>90</td><td>Can you force a component to re-render without calling setState?</td><td>false</td><td></td></tr><tr><td>91</td><td>What is the difference between super() and super(props) in React using ES6 classes?</td><td>false</td><td></td></tr><tr><td>92</td><td>How to loop inside JSX?</td><td>false</td><td></td></tr><tr><td>93</td><td>How do you access props in attribute quotes?</td><td>false</td><td></td></tr><tr><td>94</td><td>What is React PropType array with shape?</td><td>false</td><td></td></tr><tr><td>95</td><td>How to conditionally apply class attributes?</td><td>false</td><td></td></tr><tr><td>96</td><td>What is the difference between React and ReactDOM?</td><td>false</td><td></td></tr><tr><td>97</td><td>Why ReactDOM is separated from React?</td><td>false</td><td></td></tr><tr><td>98</td><td>How to use React label element?</td><td>false</td><td></td></tr><tr><td>99</td><td>How to combine multiple inline style objects?</td><td>false</td><td></td></tr><tr><td>100</td><td>How to re-render the view when the browser is resized?</td><td>false</td><td></td></tr><tr><td>101</td><td>What is the difference between setState and replaceState methods?</td><td>false</td><td></td></tr><tr><td>102</td><td>How to listen to state changes?</td><td>false</td><td></td></tr><tr><td>103</td><td>What is the recommended approach of removing an array element in react state?</td><td>false</td><td></td></tr><tr><td>104</td><td>Is it possible to use React without rendering HTML?</td><td>false</td><td></td></tr><tr><td>105</td><td>How to pretty print JSON with React?</td><td>false</td><td></td></tr><tr><td>106</td><td>Why you can't update props in React?</td><td>false</td><td></td></tr><tr><td>107</td><td>How to focus an input element on page load?</td><td>false</td><td></td></tr><tr><td>108</td><td>What are the possible ways of updating objects in state?</td><td>false</td><td></td></tr><tr><td>110</td><td>How can we find the version of React at runtime in the browser?</td><td>false</td><td></td></tr><tr><td>111</td><td>What are the approaches to include polyfills in your create-react-app?</td><td>false</td><td></td></tr><tr><td>112</td><td>How to use https instead of http in create-react-app?</td><td>false</td><td></td></tr><tr><td>113</td><td>How to avoid using relative path imports in create-react-app?</td><td>false</td><td></td></tr><tr><td>114</td><td>How to add Google Analytics for react-router?</td><td>false</td><td></td></tr><tr><td>115</td><td>How to update a component every second?</td><td>false</td><td></td></tr><tr><td>116</td><td>How do you apply vendor prefixes to inline styles in React?</td><td>false</td><td></td></tr><tr><td>117</td><td>How to import and export components using react and ES6?</td><td>false</td><td></td></tr><tr><td>118</td><td>What are the exceptions on React component naming?</td><td>false</td><td></td></tr><tr><td>119</td><td>Why is a component constructor called only once?</td><td>false</td><td></td></tr><tr><td>120</td><td>How to define constants in React?</td><td>false</td><td></td></tr><tr><td>121</td><td>How to programmatically trigger click event in React?</td><td>false</td><td></td></tr><tr><td>122</td><td>Is it possible to use async/await in plain React?</td><td>false</td><td></td></tr><tr><td>123</td><td>What are the common folder structures for React?</td><td>false</td><td></td></tr><tr><td>124</td><td>What are the popular packages for animation?</td><td>false</td><td></td></tr><tr><td>125</td><td>What is the benefit of styles modules?</td><td>false</td><td></td></tr><tr><td>126</td><td>What are the popular React-specific linters?</td><td>false</td><td></td></tr><tr><td>127</td><td>How to make AJAX call and In which component lifecycle methods should I make an AJAX call?</td><td>false</td><td></td></tr><tr><td>128</td><td>What are render props?</td><td>false</td><td></td></tr><tr><td></td><td><strong>React Router</strong></td><td>false</td><td></td></tr><tr><td>129</td><td>What is React Router?</td><td>false</td><td></td></tr><tr><td>130</td><td>How React Router is different from history library?</td><td>false</td><td></td></tr><tr><td>131</td><td>What are the &#x3C;Router> components of React Router v4?</td><td>false</td><td></td></tr><tr><td>132</td><td>What is the purpose of push and replace methods of history?</td><td>false</td><td></td></tr><tr><td>133</td><td>How do you programmatically navigate using React router v4?</td><td>false</td><td></td></tr><tr><td>134</td><td>How to get query parameters in React Router v4</td><td>false</td><td></td></tr><tr><td>135</td><td>Why you get "Router may have only one child element" warning?</td><td>false</td><td></td></tr><tr><td>136</td><td>How to pass params to history.push method in React Router v4?</td><td>false</td><td></td></tr><tr><td>137</td><td>How to implement default or NotFound page?</td><td>false</td><td></td></tr><tr><td>138</td><td>How to get history on React Router v4?</td><td>false</td><td></td></tr><tr><td>139</td><td>How to perform automatic redirect after login?</td><td>false</td><td></td></tr><tr><td></td><td><strong>React Internationalization</strong></td><td>false</td><td></td></tr><tr><td>140</td><td>What is React-Intl?</td><td>false</td><td></td></tr><tr><td>141</td><td>What are the main features of React Intl?</td><td>false</td><td></td></tr><tr><td>142</td><td>What are the two ways of formatting in React Intl?</td><td>false</td><td></td></tr><tr><td>143</td><td>How to use FormattedMessage as placeholder using React Intl?</td><td>false</td><td></td></tr><tr><td>144</td><td>How to access current locale with React Intl</td><td>false</td><td></td></tr><tr><td>145</td><td>How to format date using React Intl?</td><td>false</td><td></td></tr><tr><td></td><td><strong>React Testing</strong></td><td>false</td><td></td></tr><tr><td>146</td><td>What is Shallow Renderer in React testing?</td><td>false</td><td></td></tr><tr><td>147</td><td>What is TestRenderer package in React?</td><td>false</td><td></td></tr><tr><td>148</td><td>What is the purpose of ReactTestUtils package?</td><td>false</td><td></td></tr><tr><td>149</td><td>What is Jest?</td><td>false</td><td></td></tr><tr><td>150</td><td>What are the advantages of Jest over Jasmine?</td><td>false</td><td></td></tr><tr><td>151</td><td>Give a simple example of Jest test case</td><td>false</td><td></td></tr><tr><td></td><td><strong>React Redux</strong></td><td>false</td><td></td></tr><tr><td>152</td><td>What is Flux?</td><td>false</td><td></td></tr><tr><td>153</td><td>What is Redux?</td><td>false</td><td></td></tr><tr><td>154</td><td>What are the core principles of Redux?</td><td>false</td><td></td></tr><tr><td>155</td><td>What are the downsides of Redux compared to Flux?</td><td>false</td><td></td></tr><tr><td>156</td><td>What is the difference between mapStateToProps() and mapDispatchToProps()?</td><td>false</td><td></td></tr><tr><td>157</td><td>Can I dispatch an action in reducer?</td><td>false</td><td></td></tr><tr><td>158</td><td>How to access Redux store outside a component?</td><td>false</td><td></td></tr><tr><td>159</td><td>What are the drawbacks of MVW pattern</td><td>false</td><td></td></tr><tr><td>160</td><td>Are there any similarities between Redux and RxJS?</td><td>false</td><td></td></tr><tr><td>161</td><td>How to dispatch an action on load?</td><td>false</td><td></td></tr><tr><td>162</td><td>How to use connect from React Redux?</td><td>false</td><td></td></tr><tr><td>163</td><td>How to reset state in Redux?</td><td>false</td><td></td></tr><tr><td>164</td><td>Whats the purpose of at symbol in the redux connect decorator?</td><td>false</td><td></td></tr><tr><td>165</td><td>What is the difference between React context and React Redux?</td><td>false</td><td></td></tr><tr><td>166</td><td>Why are Redux state functions called reducers?</td><td>false</td><td></td></tr><tr><td>167</td><td>How to make AJAX request in Redux?</td><td>false</td><td></td></tr><tr><td>168</td><td>Should I keep all component's state in Redux store?</td><td>false</td><td></td></tr><tr><td>169</td><td>What is the proper way to access Redux store?</td><td>false</td><td></td></tr><tr><td>170</td><td>What is the difference between component and container in React Redux?</td><td>false</td><td></td></tr><tr><td>171</td><td>What is the purpose of the constants in Redux?</td><td>false</td><td></td></tr><tr><td>172</td><td>What are the different ways to write mapDispatchToProps()?</td><td>false</td><td></td></tr><tr><td>173</td><td>What is the use of the ownProps parameter in mapStateToProps() and mapDispatchToProps()?</td><td>false</td><td></td></tr><tr><td>174</td><td>How to structure Redux top level directories?</td><td>false</td><td></td></tr><tr><td>175</td><td>What is redux-saga?</td><td>false</td><td></td></tr><tr><td>176</td><td>What is the mental model of redux-saga?</td><td>false</td><td></td></tr><tr><td>177</td><td>What are the differences between call and put in redux-saga</td><td>false</td><td></td></tr><tr><td>178</td><td>What is Redux Thunk?</td><td>false</td><td></td></tr><tr><td>179</td><td>What are the differences between redux-saga and redux-thunk</td><td>false</td><td></td></tr><tr><td>180</td><td>What is Redux DevTools?</td><td>false</td><td></td></tr><tr><td>181</td><td>What are the features of Redux DevTools?</td><td>false</td><td></td></tr><tr><td>182</td><td>What are Redux selectors and Why to use them?</td><td>false</td><td></td></tr><tr><td>183</td><td>What is Redux Form?</td><td>false</td><td></td></tr><tr><td>184</td><td>What are the main features of Redux Form?</td><td>false</td><td></td></tr><tr><td>185</td><td>How to add multiple middlewares to Redux?</td><td>false</td><td></td></tr><tr><td>186</td><td>How to set initial state in Redux?</td><td>false</td><td></td></tr><tr><td>187</td><td>How Relay is different from Redux?</td><td>false</td><td></td></tr><tr><td>188</td><td>What is an action in Redux?</td><td>false</td><td></td></tr><tr><td></td><td><strong>React Native</strong></td><td>false</td><td></td></tr><tr><td>188</td><td>What is the difference between React Native and React?</td><td>false</td><td></td></tr><tr><td>189</td><td>How to test React Native apps?</td><td>false</td><td></td></tr><tr><td>190</td><td>How to do logging in React Native?</td><td>false</td><td></td></tr><tr><td>191</td><td>How to debug your React Native?</td><td>false</td><td></td></tr><tr><td></td><td><strong>React supported libraries and Integration</strong></td><td>false</td><td></td></tr><tr><td>192</td><td>What is reselect and how it works?</td><td>false</td><td></td></tr><tr><td>193</td><td>What is Flow?</td><td>false</td><td></td></tr><tr><td>194</td><td>What is the difference between Flow and PropTypes?</td><td>false</td><td></td></tr><tr><td>195</td><td>How to use font-awesome icons in React?</td><td>false</td><td></td></tr><tr><td>196</td><td>What is React Dev Tools?</td><td>false</td><td></td></tr><tr><td>197</td><td>Why is DevTools not loading in Chrome for local files?</td><td>false</td><td></td></tr><tr><td>198</td><td>How to use Polymer in React?</td><td>false</td><td></td></tr><tr><td>199</td><td>What are the advantages of React over Vue.js?</td><td>false</td><td></td></tr><tr><td>200</td><td>What is the difference between React and Angular?</td><td>false</td><td></td></tr><tr><td>201</td><td>Why React tab is not showing up in DevTools?</td><td>false</td><td></td></tr><tr><td>202</td><td>What are styled components?</td><td>false</td><td></td></tr><tr><td>203</td><td>Give an example of Styled Components?</td><td>false</td><td></td></tr><tr><td>204</td><td>What is Relay?</td><td>false</td><td></td></tr><tr><td>205</td><td>How to use TypeScript in create-react-app application?</td><td>false</td><td></td></tr><tr><td></td><td><strong>Miscellaneous</strong></td><td>false</td><td></td></tr><tr><td>206</td><td>What are the main features of reselect library?</td><td>false</td><td></td></tr><tr><td>207</td><td>Give an example of reselect usage?</td><td>false</td><td></td></tr><tr><td>209</td><td>Does the statics object work with ES6 classes in React?</td><td>false</td><td></td></tr><tr><td>210</td><td>Can Redux only be used with React?</td><td>false</td><td></td></tr><tr><td>211</td><td>Do you need to have a particular build tool to use Redux?</td><td>false</td><td></td></tr><tr><td>212</td><td>How Redux Form initialValues get updated from state?</td><td>false</td><td></td></tr><tr><td>213</td><td>How React PropTypes allow different type for one prop?</td><td>false</td><td></td></tr><tr><td>214</td><td>Can I import an SVG file as react component?</td><td>false</td><td></td></tr><tr><td>215</td><td>Why are inline ref callbacks or functions not recommended?</td><td>false</td><td></td></tr><tr><td>216</td><td>What is render hijacking in React?</td><td>false</td><td></td></tr><tr><td>217</td><td>What are HOC factory implementations?</td><td>false</td><td></td></tr><tr><td>218</td><td>How to pass numbers to React component?</td><td>false</td><td></td></tr><tr><td>219</td><td>Do I need to keep all my state into Redux? Should I ever use react internal state?</td><td>false</td><td></td></tr><tr><td>220</td><td>What is the purpose of registerServiceWorker in React?</td><td>false</td><td></td></tr><tr><td>221</td><td>What is React memo function?</td><td>false</td><td></td></tr><tr><td>222</td><td>What is React lazy function?</td><td>false</td><td></td></tr><tr><td>223</td><td>How to prevent unnecessary updates using setState?</td><td>false</td><td></td></tr><tr><td>224</td><td>How do you render Array, Strings and Numbers in React 16 Version?</td><td>false</td><td></td></tr><tr><td>225</td><td>How to use class field declarations syntax in React classes?</td><td>false</td><td></td></tr><tr><td>226</td><td>What are hooks?</td><td>false</td><td></td></tr><tr><td>227</td><td>What are the rules needs to follow for hooks?</td><td>false</td><td></td></tr><tr><td>228</td><td>How to ensure hooks followed the rules in your project?</td><td>false</td><td></td></tr><tr><td>229</td><td>What are the differences between Flux and Redux?</td><td>false</td><td></td></tr><tr><td>230</td><td>What are the benefits of React Router V4?</td><td>false</td><td></td></tr><tr><td>231</td><td>Can you describe about componentDidCatch lifecycle method signature?</td><td>false</td><td></td></tr><tr><td>232</td><td>In which scenarios error boundaries do not catch errors?</td><td>false</td><td></td></tr><tr><td>233</td><td>Why do you not need error boundaries for event handlers?</td><td>false</td><td></td></tr><tr><td>234</td><td>What is the difference between try catch block and error boundaries?</td><td>false</td><td></td></tr><tr><td>235</td><td>What is the behavior of uncaught errors in react 16?</td><td>false</td><td></td></tr><tr><td>236</td><td>What is the proper placement for error boundaries?</td><td>false</td><td></td></tr><tr><td>237</td><td>What is the benefit of component stack trace from error boundary?</td><td>false</td><td></td></tr><tr><td>238</td><td>What is the required method to be defined for a class component?</td><td>false</td><td></td></tr><tr><td>239</td><td>What are the possible return types of render method?</td><td>false</td><td></td></tr><tr><td>240</td><td>What is the main purpose of constructor?</td><td>false</td><td></td></tr><tr><td>241</td><td>Is it mandatory to define constructor for React component?</td><td>false</td><td></td></tr><tr><td>242</td><td>What are default props?</td><td>false</td><td></td></tr><tr><td>243</td><td>Why should not call setState in componentWillUnmount?</td><td>false</td><td></td></tr><tr><td>244</td><td>What is the purpose of getDerivedStateFromError?</td><td>false</td><td></td></tr><tr><td>245</td><td>What is the methods order when component re-rendered?</td><td>false</td><td></td></tr><tr><td>246</td><td>What are the methods invoked during error handling?</td><td>false</td><td></td></tr><tr><td>247</td><td>What is the purpose of displayName class property?</td><td>false</td><td></td></tr><tr><td>248</td><td>What is the browser support for react applications?</td><td>false</td><td></td></tr><tr><td>249</td><td>What is the purpose of unmountComponentAtNode method?</td><td>false</td><td></td></tr><tr><td>250</td><td>What is code-splitting?</td><td>false</td><td></td></tr><tr><td>251</td><td>What is the benefit of strict mode?</td><td>false</td><td></td></tr><tr><td>252</td><td>What are Keyed Fragments?</td><td>false</td><td></td></tr><tr><td>253</td><td>Does React support all HTML attributes?</td><td>false</td><td></td></tr><tr><td>254</td><td>What are the limitations with HOCs?</td><td>false</td><td></td></tr><tr><td>255</td><td>How to debug forwardRefs in DevTools?</td><td>false</td><td></td></tr><tr><td>256</td><td>When component props defaults to true?</td><td>false</td><td></td></tr><tr><td>257</td><td>What is NextJS and major features of it?</td><td>false</td><td></td></tr><tr><td>258</td><td>How do you pass an event handler to a component?</td><td>false</td><td></td></tr><tr><td>259</td><td>Is it good to use arrow functions in render methods?</td><td>false</td><td></td></tr><tr><td>260</td><td>How to prevent a function from being called multiple times?</td><td>false</td><td></td></tr><tr><td>261</td><td>How JSX prevents Injection Attacks?</td><td>false</td><td></td></tr><tr><td>262</td><td>How do you update rendered elements?</td><td>false</td><td></td></tr><tr><td>263</td><td>How do you say that props are read only?</td><td>false</td><td></td></tr><tr><td>264</td><td>How do you say that state updates are merged?</td><td>false</td><td></td></tr><tr><td>265</td><td>How do you pass arguments to an event handler?</td><td>false</td><td></td></tr><tr><td>266</td><td>How to prevent component from rendering?</td><td>false</td><td></td></tr><tr><td>267</td><td>What are the conditions to safely use the index as a key?</td><td>false</td><td></td></tr><tr><td>268</td><td>Is it keys should be globally unique?</td><td>false</td><td></td></tr><tr><td>269</td><td>What is the popular choice for form handling?</td><td>false</td><td></td></tr><tr><td>270</td><td>What are the advantages of formik over redux form library?</td><td>false</td><td></td></tr><tr><td>271</td><td>Why do you not required to use inheritance?</td><td>false</td><td></td></tr><tr><td>272</td><td>Can I use web components in react application?</td><td>false</td><td></td></tr><tr><td>273</td><td>What is dynamic import?</td><td>false</td><td></td></tr><tr><td>274</td><td>What are loadable components?</td><td>false</td><td></td></tr><tr><td>275</td><td>What is suspense component?</td><td>false</td><td></td></tr><tr><td>276</td><td>What is route based code splitting?</td><td>false</td><td></td></tr><tr><td>277</td><td>Give an example on How to use context?</td><td>false</td><td></td></tr><tr><td>278</td><td>What is the purpose of default value in context?</td><td>false</td><td></td></tr><tr><td>279</td><td>How do you use contextType?</td><td>false</td><td></td></tr><tr><td>280</td><td>What is a consumer?</td><td>false</td><td></td></tr><tr><td>281</td><td>How do you solve performance corner cases while using context?</td><td>false</td><td></td></tr><tr><td>282</td><td>What is the purpose of forward ref in HOCs?</td><td>false</td><td></td></tr><tr><td>283</td><td>Is it ref argument available for all functions or class components?</td><td>false</td><td></td></tr><tr><td>284</td><td>Why do you need additional care for component libraries while using forward refs?</td><td>false</td><td></td></tr><tr><td>285</td><td>How to create react class components without ES6?</td><td>false</td><td></td></tr><tr><td>286</td><td>Is it possible to use react without JSX?</td><td>false</td><td></td></tr><tr><td>287</td><td>What is diffing algorithm?</td><td>false</td><td></td></tr><tr><td>288</td><td>What are the rules covered by diffing algorithm?</td><td>false</td><td></td></tr><tr><td>289</td><td>When do you need to use refs?</td><td>false</td><td></td></tr><tr><td>290</td><td>Is it prop must be named as render for render props?</td><td>false</td><td></td></tr><tr><td>291</td><td>What are the problems of using render props with pure components?</td><td>false</td><td></td></tr><tr><td>292</td><td>How do you create HOC using render props?</td><td>false</td><td></td></tr><tr><td>293</td><td>What is windowing technique?</td><td>false</td><td></td></tr><tr><td>294</td><td>How do you print falsy values in JSX?</td><td>false</td><td></td></tr><tr><td>295</td><td>What is the typical use case of portals?</td><td>false</td><td></td></tr><tr><td>296</td><td>How do you set default value for uncontrolled component?</td><td>false</td><td></td></tr><tr><td>297</td><td>What is your favorite React stack?</td><td>false</td><td></td></tr><tr><td>298</td><td>What is the difference between Real DOM and Virtual DOM?</td><td>false</td><td></td></tr><tr><td>299</td><td>How to add Bootstrap to a react application?</td><td>false</td><td></td></tr><tr><td>300</td><td>Can you list down top websites or applications using react as front end framework?</td><td>false</td><td></td></tr><tr><td>301</td><td>Is it recommended to use CSS In JS technique in React?</td><td>false</td><td></td></tr><tr><td>302</td><td>Do I need to rewrite all my class components with hooks?</td><td>false</td><td></td></tr><tr><td>303</td><td>How to fetch data with React Hooks?</td><td>false</td><td></td></tr><tr><td>304</td><td>Is Hooks cover all use cases for classes?</td><td>false</td><td></td></tr><tr><td>305</td><td>What is the stable release for hooks support?</td><td>false</td><td></td></tr><tr><td>306</td><td>Why do we use array destructuring (square brackets notation) in useState?</td><td>false</td><td></td></tr><tr><td>307</td><td>What are the sources used for introducing hooks?</td><td>false</td><td></td></tr><tr><td>308</td><td>How do you access imperative API of web components?</td><td>false</td><td></td></tr><tr><td>309</td><td>What is formik?</td><td>false</td><td></td></tr><tr><td>310</td><td>What are typical middleware choices for handling asynchronous calls in Redux?</td><td>false</td><td></td></tr><tr><td>311</td><td>Do browsers understand JSX code?</td><td>false</td><td></td></tr><tr><td>312</td><td>Describe about data flow in react?</td><td>false</td><td></td></tr><tr><td>313</td><td>What is react scripts?</td><td>false</td><td></td></tr><tr><td>314</td><td>What are the features of create react app?</td><td>false</td><td></td></tr><tr><td>315</td><td>What is the purpose of renderToNodeStream method?</td><td>false</td><td></td></tr><tr><td>316</td><td>What is MobX?</td><td>false</td><td></td></tr><tr><td>317</td><td>What are the differences between Redux and MobX?</td><td>false</td><td></td></tr><tr><td>318</td><td>Should I learn ES6 before learning ReactJS?</td><td>false</td><td></td></tr><tr><td>319</td><td>What is Concurrent Rendering?</td><td>false</td><td></td></tr><tr><td>320</td><td>What is the difference between async mode and concurrent mode?</td><td>false</td><td></td></tr><tr><td>321</td><td>Can I use javascript urls in react16.9?</td><td>false</td><td></td></tr><tr><td>322</td><td>What is the purpose of eslint plugin for hooks?</td><td>false</td><td></td></tr><tr><td>323</td><td>What is the difference between Imperative and Declarative in React?</td><td>false</td><td></td></tr><tr><td>324</td><td>What are the benefits of using typescript with reactjs?</td><td>false</td><td></td></tr><tr><td>325</td><td>How do you make sure that user remains authenticated on page refresh while using Context API State Management?</td><td>false</td><td></td></tr><tr><td>326</td><td>What are the benefits of new JSX transform?</td><td>false</td><td></td></tr><tr><td>327</td><td>How does new JSX transform different from old transform?</td><td>false</td><td></td></tr><tr><td>328</td><td>How do you get redux scaffolding using create-react-app?</td><td>false</td><td></td></tr><tr><td>329</td><td>What are React Server components?</td><td>false</td><td></td></tr></tbody></table>
-
-
 
 ## Inserting an item into an existing array
 
@@ -38,8 +34,7 @@ Those are known methods, but it doesn't mean there isn't a more performant way. 
 Adding an element at the end of the array is easy with push(), but it can be done in different ways.
 
 ```javascript
-
-var arr = [1,2,3,4,5];
+var arr = [1, 2, 3, 4, 5];
 var arr2 = [];
 
 arr.push(6);
@@ -121,7 +116,7 @@ Final victor
 Now if we are trying to add an item to the beginning of the array:
 
 ```javascript
-var arr = [1,2,3,4,5];
+var arr = [1, 2, 3, 4, 5];
 
 arr.unshift(0);
 [0].concat(arr);
@@ -198,7 +193,7 @@ items.splice(items.length / 2, 0, 'hello');
 
 I tried to run these tests in various Browsers and OS and the results were similar. I hope these tips will be useful for you and encourage to perform your own tests!
 
-***
+---
 
 ## improve-nested-conditionals/
 
@@ -207,66 +202,66 @@ I tried to run these tests in various Browsers and OS and the results were simil
 - javascript
 ```
 
-***
+---
 
 How can we improve and make a more efficient nested `if` statement in javascript?
 
 ```javascript
 if (color) {
-  if (color === 'black') {
-    printBlackBackground();
-  } else if (color === 'red') {
-    printRedBackground();
-  } else if (color === 'blue') {
-    printBlueBackground();
-  } else if (color === 'green') {
-    printGreenBackground();
-  } else {
-    printYellowBackground();
-  }
+    if (color === 'black') {
+        printBlackBackground();
+    } else if (color === 'red') {
+        printRedBackground();
+    } else if (color === 'blue') {
+        printBlueBackground();
+    } else if (color === 'green') {
+        printGreenBackground();
+    } else {
+        printYellowBackground();
+    }
 }
 ```
 
 One way to improve the nested `if` statement would be using the `switch` statement. Although it is less verbose and is more ordered, it's not recommended to use it because it's so difficult to debug errors. Here's [why](https://toddmotto.com/deprecating-the-switch-statement-for-object-literals).
 
 ```javascript
-switch(color) {
-  case 'black':
-    printBlackBackground();
-    break;
-  case 'red':
-    printRedBackground();
-    break;
-  case 'blue':
-    printBlueBackground();
-    break;
-  case 'green':
-    printGreenBackground();
-    break;
-  default:
-    printYellowBackground();
+switch (color) {
+    case 'black':
+        printBlackBackground();
+        break;
+    case 'red':
+        printRedBackground();
+        break;
+    case 'blue':
+        printBlueBackground();
+        break;
+    case 'green':
+        printGreenBackground();
+        break;
+    default:
+        printYellowBackground();
 }
 ```
 
 But what if we have a conditional with several checks in each statement? In this case, if we want it less verbose and more ordered, we can use the conditional `switch`. If we pass `true` as a parameter to the `switch` statement, it allows us to put a conditional in each case.
 
 ```javascript
-switch(true) {
-  case (typeof color === 'string' && color === 'black'):
-    printBlackBackground();
-    break;
-  case (typeof color === 'string' && color === 'red'):
-    printRedBackground();
-    break;
-  case (typeof color === 'string' && color === 'blue'):
-    printBlueBackground();
-    break;
-  case (typeof color === 'string' && color === 'green'):
-    printGreenBackground();
-    break;
-  case (typeof color === 'string' && color === 'yellow'):
-    printYellowBackground();
-    break;
+switch (true) {
+    case typeof color === 'string' && color === 'black':
+        printBlackBackground();
+        break;
+    case typeof color === 'string' && color === 'red':
+        printRedBackground();
+        break;
+    case typeof color === 'string' && color === 'blue':
+        printBlueBackground();
+        break;
+    case typeof color === 'string' && color === 'green':
+        printGreenBackground();
+        break;
+    case typeof color === 'string' && color === 'yellow':
+        printYellowBackground();
+        break;
 }
 ```
 
@@ -274,9 +269,9 @@ If refactoring is an option, we can try to simplify the functions themselves. Fo
 
 ```javascript
 function printBackground(color) {
-  if (!color || typeof color !== 'string') {
-    return; // Invalid color, return immediately
-  }
+    if (!color || typeof color !== 'string') {
+        return; // Invalid color, return immediately
+    }
 }
 ```
 
@@ -284,21 +279,21 @@ But if refactoring is not an option, we must always avoid having several checks 
 
 ```javascript
 var colorObj = {
-  'black': printBlackBackground,
-  'red': printRedBackground,
-  'blue': printBlueBackground,
-  'green': printGreenBackground,
-  'yellow': printYellowBackground
+    black: printBlackBackground,
+    red: printRedBackground,
+    blue: printBlueBackground,
+    green: printGreenBackground,
+    yellow: printYellowBackground
 };
 
 if (color in colorObj) {
-  colorObj[color]();
+    colorObj[color]();
 }
 ```
 
 Here you can find more information about [this](http://www.nicoespeon.com/en/2015/01/oop-revisited-switch-in-js/).
 
-***
+---
 
 ## sorting-strings-with-accented-characters/
 
@@ -307,9 +302,9 @@ Here you can find more information about [this](http://www.nicoespeon.com/en/201
 - javascript
 ```
 
-***
+---
 
-Javascript has a native method [**sort**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Array/sort) that allows sorting arrays. Doing a simple `array.sort()` will treat each array entry as a string and sort it alphabetically. Also you can provide your [own custom sorting](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Array/sort#Parameters) function.
+Javascript has a native method [**sort**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort) that allows sorting arrays. Doing a simple `array.sort()` will treat each array entry as a string and sort it alphabetically. Also you can provide your [own custom sorting](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort#Parameters) function.
 
 ```javascript
 ['Shanghai', 'New York', 'Mumbai', 'Buenos Aires'].sort();
@@ -322,7 +317,7 @@ See the next example:
 
 ```javascript
 // Spanish
-['único','árbol', 'cosas', 'fútbol'].sort();
+['único', 'árbol', 'cosas', 'fútbol'].sort();
 // ["cosas", "fútbol", "árbol", "único"] // bad order
 
 // German
@@ -330,20 +325,20 @@ See the next example:
 // ["Wann", "Woche", "wäre", "wöchentlich"] // bad order
 ```
 
-Fortunately, there are two ways to overcome this behavior [localeCompare](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/String/localeCompare) and [Intl.Collator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Collator) provided by ECMAScript Internationalization API.
+Fortunately, there are two ways to overcome this behavior [localeCompare](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/localeCompare) and [Intl.Collator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Collator) provided by ECMAScript Internationalization API.
 
 > Both methods have their own custom parameters in order to configure it to work adequately.
 
 #### Using `localeCompare()`
 
 ```javascript
-['único','árbol', 'cosas', 'fútbol'].sort(function (a, b) {
-  return a.localeCompare(b);
+['único', 'árbol', 'cosas', 'fútbol'].sort(function (a, b) {
+    return a.localeCompare(b);
 });
 // ["árbol", "cosas", "fútbol", "único"]
 
 ['Woche', 'wöchentlich', 'wäre', 'Wann'].sort(function (a, b) {
-  return a.localeCompare(b);
+    return a.localeCompare(b);
 });
 // ["Wann", "wäre", "Woche", "wöchentlich"]
 ```
@@ -351,15 +346,15 @@ Fortunately, there are two ways to overcome this behavior [localeCompare](https:
 #### Using `Intl.Collator()`
 
 ```javascript
-['único','árbol', 'cosas', 'fútbol'].sort(Intl.Collator().compare);
+['único', 'árbol', 'cosas', 'fútbol'].sort(Intl.Collator().compare);
 // ["árbol", "cosas", "fútbol", "único"]
 
 ['Woche', 'wöchentlich', 'wäre', 'Wann'].sort(Intl.Collator().compare);
 // ["Wann", "wäre", "Woche", "wöchentlich"]
 ```
 
-* For each method you can customize the location.
-* According to [Firefox](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/String/localeCompare#Performance) Intl.Collator is faster when comparing large numbers of strings.
+-   For each method you can customize the location.
+-   According to [Firefox](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/localeCompare#Performance) Intl.Collator is faster when comparing large numbers of strings.
 
 ### So when you are working with arrays of strings in a language other than English, remember to use this method to avoid unexpected sorting.
 
@@ -370,21 +365,21 @@ Fortunately, there are two ways to overcome this behavior [localeCompare](https:
 - javascript
 ```
 
-***
+---
 
-* `undefined` means a variable has not been declared, or has been declared but has not yet been assigned a value
-* `null` is an assignment value that means "no value"
-* Javascript sets unassigned variables with a default value of `undefined`
-* Javascript never sets a value to `null`. It is used by programmers to indicate that a `var` has no value.
-* `undefined` is not valid in JSON while `null` is
-* `undefined` typeof is `undefined`
-* `null` typeof is an `object`. [Why?](http://www.2ality.com/2013/10/typeof-null.html)
-* Both are primitives
-* Both are [falsy](https://developer.mozilla.org/en-US/docs/Glossary/Falsy) (`Boolean(undefined) // false`, `Boolean(null) // false`)
-*   You can know if a variable is [undefined](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/undefined)
+-   `undefined` means a variable has not been declared, or has been declared but has not yet been assigned a value
+-   `null` is an assignment value that means "no value"
+-   Javascript sets unassigned variables with a default value of `undefined`
+-   Javascript never sets a value to `null`. It is used by programmers to indicate that a `var` has no value.
+-   `undefined` is not valid in JSON while `null` is
+-   `undefined` typeof is `undefined`
+-   `null` typeof is an `object`. [Why?](http://www.2ality.com/2013/10/typeof-null.html)
+-   Both are primitives
+-   Both are [falsy](https://developer.mozilla.org/en-US/docs/Glossary/Falsy) (`Boolean(undefined) // false`, `Boolean(null) // false`)
+-   You can know if a variable is [undefined](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined)
 
     ```javascript
-    typeof variable === "undefined"
+    typeof variable === 'undefined';
     ```
 
 ````
@@ -394,12 +389,12 @@ Fortunately, there are two ways to overcome this behavior [localeCompare](https:
   variable === null
 ````
 
-*   The **equality** operator considers them equal, but the **identity** doesn't
+-   The **equality** operator considers them equal, but the **identity** doesn't
 
     ```javascript
-    null == undefined // true
+    null == undefined; // true
 
-    null === undefined // false
+    null === undefined; // false
     ```
 
 ````
@@ -431,15 +426,15 @@ function printUpperCase(words) {
 `printUpperCase` is now ready to accept a single node or an array of nodes as its parameter. It also avoids the potential `TypeError` that would be thrown if no parameter was passed.
 
 ```javascript
-printUpperCase("cactus");
+printUpperCase('cactus');
 // => CACTUS
-printUpperCase(["cactus", "bear", "potato"]);
+printUpperCase(['cactus', 'bear', 'potato']);
 // => CACTUS
 //  BEAR
 //  POTATO
 ```
 
-***
+---
 
 ## use-strict-and-get-lazy/
 
@@ -448,7 +443,7 @@ printUpperCase(["cactus", "bear", "potato"]);
 - javascript
 ```
 
-***
+---
 
 Strict-mode JavaScript makes it easier for the developer to write "secure" JavaScript.
 
@@ -460,43 +455,46 @@ We add this directive either by adding it at the top of a js file:
 
 ```javascript
 // Whole-script strict mode syntax
-"use strict";
+'use strict';
 var v = "Hi!  I'm a strict mode script!";
 ```
 
 or inside a function:
 
 ```javascript
-function f()
-{
-  // Function-level strict mode syntax
-  'use strict';
-  function nested() { return "And so am I!"; }
-  return "Hi!  I'm a strict mode function!  " + nested();
+function f() {
+    // Function-level strict mode syntax
+    'use strict';
+    function nested() {
+        return 'And so am I!';
+    }
+    return "Hi!  I'm a strict mode function!  " + nested();
 }
-function f2() { return "I'm not strict."; }
+function f2() {
+    return "I'm not strict.";
+}
 ```
 
 By including this directive in a JavaScript file or function, we will direct the JavaScript engine to execute in strict mode which disables a bunch of behaviors that are usually undesirable in larger JavaScript projects. Among other things, strict mode changes the following behaviors:
 
-* Variables can only be introduced when they are preceded with "var"
-* Attempting to write to read-only properties generates a noisy error
-* You have to call constructors with the "new" keyword
-* "this" is not implicitly bound to the global object
-* Very limited use of eval() allowed
-* Protects you from using reserved words or future reserved words as variable names
+-   Variables can only be introduced when they are preceded with "var"
+-   Attempting to write to read-only properties generates a noisy error
+-   You have to call constructors with the "new" keyword
+-   "this" is not implicitly bound to the global object
+-   Very limited use of eval() allowed
+-   Protects you from using reserved words or future reserved words as variable names
 
 Strict mode is great for new projects, but can be challenging to introduce into older projects that don't already use it in most places. It also can be problematic if your build chain concatenates all your js files into one big file, as this may cause all files to execute in strict mode.
 
 It is not a statement, but a literal expression, ignored by earlier versions of JavaScript. Strict mode is supported in:
 
-* Internet Explorer from version 10.
-* Firefox from version 4.
-* Chrome from version 13.
-* Safari from version 5.1.
-* Opera from version 12.
+-   Internet Explorer from version 10.
+-   Firefox from version 4.
+-   Chrome from version 13.
+-   Safari from version 5.1.
+-   Opera from version 12.
 
-### [See MDN for a fuller description of strict mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict\_mode).
+### [See MDN for a fuller description of strict mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode).
 
 ## converting-a-node-list-to-an-array/
 
@@ -505,7 +503,7 @@ It is not a statement, but a literal expression, ignored by earlier versions of 
 - javascript
 ```
 
-***
+---
 
 The `querySelectorAll` method returns an array-like object called a node list. These data structures are referred to as "Array-like", because they appear as an array, but can not be used with array methods like `map` and `forEach`. Here's a quick, safe, and reusable way to convert a node list into an array of DOM elements:
 
@@ -522,7 +520,7 @@ nodelistToArray.slice(...);
 //etc...
 ```
 
-The `apply` method is used to pass an array of arguments to a function with a given `this` value. [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Function/apply) states that `apply` will take an array-like object, which is exactly what `querySelectorAll` returns. Since we don't need to specify a value for `this` in the context of the function, we pass in `null` or `0`. The result is an actual array of DOM elements which contains all of the available array methods.
+The `apply` method is used to pass an array of arguments to a function with a given `this` value. [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply) states that `apply` will take an array-like object, which is exactly what `querySelectorAll` returns. Since we don't need to specify a value for `this` in the context of the function, we pass in `null` or `0`. The result is an actual array of DOM elements which contains all of the available array methods.
 
 Alternatively you can use `Array.prototype.slice` combined with `Function.prototype.call` or `Function.prototype.apply` passing the array-like object as the value of `this`:
 
@@ -539,7 +537,7 @@ nodelistToArray.slice(...);
 //etc...
 ```
 
-Or if you are using ES2015 you can use the [spread operator `...`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread\_operator)
+Or if you are using ES2015 you can use the [spread operator `...`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_operator)
 
 ```js
 const nodelist = [...document.querySelectorAll('div')]; // returns a real array
@@ -553,7 +551,7 @@ nodelist.slice(...);
 //etc...
 ```
 
-***
+---
 
 ## template-strings/
 
@@ -562,7 +560,7 @@ nodelist.slice(...);
 - javascript
 ```
 
-***
+---
 
 As of ES6, JS now has template strings as an alternative to the classic end quotes strings.
 
@@ -584,19 +582,20 @@ console.log(`My name is ${firstName} ${lastName}`);
 // My name is Jake Rawr
 ```
 
-You can do multi-line strings without , perform simple logic (ie 2+3) or even use the [ternary operator](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/Conditional\_Operator) inside `${}` in template strings.
+You can do multi-line strings without , perform simple logic (ie 2+3) or even use the [ternary operator](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/Conditional_Operator) inside `${}` in template strings.
 
 ```javascript
-var val1 = 1, val2 = 2;
-console.log(`${val1} is ${val1 < val2 ? 'less than': 'greater than'} ${val2}`)
+var val1 = 1,
+    val2 = 2;
+console.log(`${val1} is ${val1 < val2 ? 'less than' : 'greater than'} ${val2}`);
 // 1 is less than 2
 ```
 
-You are also able to modify the output of template strings using a function; they are called [tagged template strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template\_strings#Tagged\_template\_strings) for example usages of tagged template strings.
+You are also able to modify the output of template strings using a function; they are called [tagged template strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings#Tagged_template_strings) for example usages of tagged template strings.
 
 You may also want to [read](https://hacks.mozilla.org/2015/05/es6-in-depth-template-strings-2) to understand template strings more.
 
-***
+---
 
 ## check-if-a-property-is-in-a-object/
 
@@ -605,9 +604,9 @@ You may also want to [read](https://hacks.mozilla.org/2015/05/es6-in-depth-templ
 - javascript
 ```
 
-***
+---
 
-When you have to check if a property is present in an [object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working\_with\_Objects), you probably are doing something like this:
+When you have to check if a property is present in an [object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects), you probably are doing something like this:
 
 ```javascript
 var myObject = {
@@ -617,13 +616,13 @@ var myObject = {
 if (myObject.name) { ... }
 ```
 
-That's ok, but you have to know that there are two native ways for this kind of thing, the [`in` operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/in) and [`Object.hasOwnProperty`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Object/hasOwnProperty). Every object descended from `Object`, has both ways available.
+That's ok, but you have to know that there are two native ways for this kind of thing, the [`in` operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/in) and [`Object.hasOwnProperty`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/hasOwnProperty). Every object descended from `Object`, has both ways available.
 
 #### See the big Difference
 
 ```javascript
 var myObject = {
-  name: '@tips_js'
+    name: '@tips_js'
 };
 
 myObject.hasOwnProperty('name'); // true
@@ -638,8 +637,8 @@ Both differ in the depth at which they check the properties. In other words, `ha
 Here's another example:
 
 ```javascript
-var myFunc = function() {
-  this.name = '@tips_js';
+var myFunc = function () {
+    this.name = '@tips_js';
 };
 myFunc.prototype.age = '10 days';
 
@@ -660,48 +659,48 @@ Check the [live examples here](https://jsbin.com/tecoqa/edit?js,console)!
 - javascript
 ```
 
-***
+---
 
-Understanding [hoisting](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var#var\_hoisting) will help you organize your function scope. Just remember, variable declarations and function definitions are hoisted to the top. Variable definitions are not, even if you declare and define a variable on the same line. Also, a variable **declaration** lets the system know that the variable exists while **definition** assigns it a value.
+Understanding [hoisting](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var#var_hoisting) will help you organize your function scope. Just remember, variable declarations and function definitions are hoisted to the top. Variable definitions are not, even if you declare and define a variable on the same line. Also, a variable **declaration** lets the system know that the variable exists while **definition** assigns it a value.
 
 ```javascript
 function doTheThing() {
-  // ReferenceError: notDeclared is not defined
-  console.log(notDeclared);
+    // ReferenceError: notDeclared is not defined
+    console.log(notDeclared);
 
-  // Outputs: undefined
-  console.log(definedLater);
-  var definedLater;
+    // Outputs: undefined
+    console.log(definedLater);
+    var definedLater;
 
-  definedLater = 'I am defined!'
-  // Outputs: 'I am defined!'
-  console.log(definedLater)
+    definedLater = 'I am defined!';
+    // Outputs: 'I am defined!'
+    console.log(definedLater);
 
-  // Outputs: undefined
-  console.log(definedSimulateneously);
-  var definedSimulateneously = 'I am defined!'
-  // Outputs: 'I am defined!'
-  console.log(definedSimulateneously)
+    // Outputs: undefined
+    console.log(definedSimulateneously);
+    var definedSimulateneously = 'I am defined!';
+    // Outputs: 'I am defined!'
+    console.log(definedSimulateneously);
 
-  // Outputs: 'I did it!'
-  doSomethingElse();
+    // Outputs: 'I did it!'
+    doSomethingElse();
 
-  function doSomethingElse(){
-    console.log('I did it!');
-  }
+    function doSomethingElse() {
+        console.log('I did it!');
+    }
 
-  // TypeError: undefined is not a function
-  functionVar();
+    // TypeError: undefined is not a function
+    functionVar();
 
-  var functionVar = function(){
-    console.log('I did it!');
-  }
+    var functionVar = function () {
+        console.log('I did it!');
+    };
 }
 ```
 
 To make things easier to read, declare all of your variables at the top of your function scope so it is clear which scope the variables are coming from. Define your variables before you need to use them. Define your functions at the bottom of your scope to keep them out of your way.
 
-***
+---
 
 ## pseudomandatory-parameters-in-es6-functions/
 
@@ -710,22 +709,22 @@ To make things easier to read, declare all of your variables at the top of your 
 - javascript
 ```
 
-***
+---
 
 In many programming languages the parameters of a function are by default mandatory and the developer has to explicitly define that a parameter is optional. In Javascript, every parameter is optional, but we can enforce this behavior without messing with the actual body of a function, taking advantage of \[**es6's default values for parameters**] (http://exploringjs.com/es6/ch\_parameter-handling.html#sec\_parameter-default-values) feature.
 
 ```javascript
-const _err = function( message ){
-  throw new Error( message );
-}
+const _err = function (message) {
+    throw new Error(message);
+};
 
-const getSum = (a = _err('a is not defined'), b = _err('b is not defined')) => a + b
+const getSum = (a = _err('a is not defined'), b = _err('b is not defined')) => a + b;
 
-getSum( 10 ) // throws Error, b is not defined
-getSum( undefined, 10 ) // throws Error, a is not defined
+getSum(10); // throws Error, b is not defined
+getSum(undefined, 10); // throws Error, a is not defined
 ```
 
-### `_err` is a function that immediately throws an Error. If no value is passed for one of the parameters, the default value is going to be used, `_err` will be called and an Error will be thrown. You can see more examples for the **default parameters feature** on [Mozilla's Developer Network](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/default\_parameters)
+### `_err` is a function that immediately throws an Error. If no value is passed for one of the parameters, the default value is going to be used, `_err` will be called and an Error will be thrown. You can see more examples for the **default parameters feature** on [Mozilla's Developer Network](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/default_parameters)
 
 ## tip-to-measure-performance-of-a-javascript-block/
 
@@ -734,20 +733,20 @@ getSum( undefined, 10 ) // throws Error, a is not defined
 - javascript
 ```
 
-***
+---
 
 For quickly measuring performance of a javascript block, we can use the console functions like [`console.time(label)`](https://developer.chrome.com/devtools/docs/console-api#consoletimelabel) and [`console.timeEnd(label)`](https://developer.chrome.com/devtools/docs/console-api#consoletimeendlabel)
 
 ```javascript
-console.time("Array initialize");
+console.time('Array initialize');
 var arr = new Array(100),
     len = arr.length,
     i;
 
 for (i = 0; i < len; i++) {
     arr[i] = new Object();
-};
-console.timeEnd("Array initialize"); // Outputs: Array initialize: 0.711ms
+}
+console.timeEnd('Array initialize'); // Outputs: Array initialize: 0.711ms
 ```
 
 More info: [Console object](https://github.com/DeveloperToolsWG/console-object), [Javascript benchmarking](https://mathiasbynens.be/notes/javascript-benchmarking)
@@ -756,7 +755,7 @@ Demo: [jsfiddle](https://jsfiddle.net/meottb62/) - [codepen](http://codepen.io/a
 
 > Note: As [Mozilla](https://developer.mozilla.org/en-US/docs/Web/API/Console/time) suggested don't use this for production sites, use it for development purposes only.
 
-***
+---
 
 ## fat-arrow-functions/
 
@@ -765,14 +764,14 @@ Demo: [jsfiddle](https://jsfiddle.net/meottb62/) - [codepen](http://codepen.io/a
 - javascript
 ```
 
-***
+---
 
 Introduced as a new feature in ES6, fat arrow functions may come as a handy tool to write more code in fewer lines. The name comes from its syntax, `=>`, which is a 'fat arrow', as compared to a thin arrow `->`. Some programmers might already know this type of function from different languages such as Haskell, as 'lambda expressions', or as 'anonymous functions'. It is called anonymous, as these arrow functions do not have a descriptive function name.
 
 #### What are the benefits?
 
-* Syntax: fewer LOC; no more typing `function` keyword over and over again
-* Semantics: capturing the keyword `this` from the surrounding context
+-   Syntax: fewer LOC; no more typing `function` keyword over and over again
+-   Semantics: capturing the keyword `this` from the surrounding context
 
 #### Simple syntax example
 
@@ -807,7 +806,6 @@ As you can see, the fat arrow function in this case can save you time typing out
 There is another good reason to use fat arrow functions. There is the issue with the context of `this`. With arrow functions, you don't need to worry about `.bind(this)` or setting `that = this` anymore, as fat arrow functions pick the context of `this` from the lexical surrounding. Have a look at the next \[example] (https://jsfiddle.net/pklinger/rw94oc11/):
 
 ```javascript
-
 // globally defined this.i
 this.i = 100;
 
@@ -818,42 +816,45 @@ var counterD = new CounterD();
 
 // bad example
 function CounterA() {
-  // CounterA's `this` instance (!! gets ignored here)
-  this.i = 0;
-  setInterval(function () {
-    // `this` refers to global object, not to CounterA's `this`
-    // therefore starts counting with 100, not with 0 (local this.i)
-    this.i++;
-    document.getElementById("counterA").innerHTML = this.i;
-  }, 500);
+    // CounterA's `this` instance (!! gets ignored here)
+    this.i = 0;
+    setInterval(function () {
+        // `this` refers to global object, not to CounterA's `this`
+        // therefore starts counting with 100, not with 0 (local this.i)
+        this.i++;
+        document.getElementById('counterA').innerHTML = this.i;
+    }, 500);
 }
 
 // manually binding that = this
 function CounterB() {
-  this.i = 0;
-  var that = this;
-  setInterval(function() {
-    that.i++;
-    document.getElementById("counterB").innerHTML = that.i;
-  }, 500);
+    this.i = 0;
+    var that = this;
+    setInterval(function () {
+        that.i++;
+        document.getElementById('counterB').innerHTML = that.i;
+    }, 500);
 }
 
 // using .bind(this)
 function CounterC() {
-  this.i = 0;
-  setInterval(function() {
-    this.i++;
-    document.getElementById("counterC").innerHTML = this.i;
-  }.bind(this), 500);
+    this.i = 0;
+    setInterval(
+        function () {
+            this.i++;
+            document.getElementById('counterC').innerHTML = this.i;
+        }.bind(this),
+        500
+    );
 }
 
 // fat arrow function
 function CounterD() {
-  this.i = 0;
-  setInterval(() => {
-    this.i++;
-    document.getElementById("counterD").innerHTML = this.i;
-  }, 500);
+    this.i = 0;
+    setInterval(() => {
+        this.i++;
+        document.getElementById('counterD').innerHTML = this.i;
+    }, 500);
 }
 ```
 
@@ -866,7 +867,7 @@ function CounterD() {
 - javascript
 ```
 
-***
+---
 
 JavaScript by default does not have a contains method. And for checking existence of a substring in a string or an item in an array you may do this:
 
@@ -893,10 +894,8 @@ for (var key in obj) {
 [lib/utils.js](https://github.com/strongloop/express/blob/2f8ac6726fa20ab5b4a05c112c886752868ac8ce/lib/utils.js#L93)
 
 ```javascript
-exports.normalizeType = function(type){
-  return ~type.indexOf('/')
-    ? acceptParams(type)
-    : { value: mime.lookup(type), params: {} };
+exports.normalizeType = function (type) {
+    return ~type.indexOf('/') ? acceptParams(type) : { value: mime.lookup(type), params: {} };
 };
 ```
 
@@ -907,7 +906,7 @@ exports.normalizeType = function(type){
 if (!~apiKeys.indexOf(key)) return next(error(401, 'invalid api key'));
 ```
 
-The gotcha is the [bitwise operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise\_Operators) **\~**, "Bitwise operators perform their operations on binary representations, but they return standard JavaScript numerical values."
+The gotcha is the [bitwise operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_Operators) **\~**, "Bitwise operators perform their operations on binary representations, but they return standard JavaScript numerical values."
 
 It transforms `-1` into `0`, and `0` evaluates to `false` in JavaScript:
 
@@ -921,7 +920,7 @@ var someText = 'text';
 
 #### String.prototype.includes()
 
-ES6 introduced the [includes() method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/String/includes) and you can use it to determine whether or not a string includes another string:
+ES6 introduced the [includes() method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/includes) and you can use it to determine whether or not a string includes another string:
 
 ```javascript
 'something'.includes('thing'); // true
@@ -943,13 +942,13 @@ With ECMAScript 2016 (ES7) it is even possible to use these techniques with Arra
 - javascript
 ```
 
-***
+---
 
 By default you cannot pass arguments to a callback function. For example:
 
 ```js
 function callback() {
-  console.log('Hi human');
+    console.log('Hi human');
 }
 
 document.getElementById('someelem').addEventListener('click', callback);
@@ -959,12 +958,13 @@ You can take advantage of the closure scope in Javascript to pass arguments to c
 
 ```js
 function callback(a, b) {
-  return function() {
-    console.log('sum = ', (a+b));
-  }
+    return function () {
+        console.log('sum = ', a + b);
+    };
 }
 
-var x = 1, y = 2;
+var x = 1,
+    y = 2;
 document.getElementById('someelem').addEventListener('click', callback(x, y));
 ```
 
@@ -977,8 +977,8 @@ So this way the arguments `x` and `y` are in scope of the callback function when
 Another method to do this is using the `bind` method. For example:
 
 ```js
-var alertText = function(text) {
-  alert(text);
+var alertText = function (text) {
+    alert(text);
 };
 
 document.getElementById('someelem').addEventListener('click', alertText.bind(this, 'hello'));
@@ -986,7 +986,7 @@ document.getElementById('someelem').addEventListener('click', alertText.bind(thi
 
 There is a very slight difference in performance of both methods, checkout [jsperf](http://jsperf.com/bind-vs-closure-23).
 
-***
+---
 
 ## nodejs-run-a-module-if-it-is-not-required/
 
@@ -995,23 +995,23 @@ There is a very slight difference in performance of both methods, checkout [jspe
 - javascript
 ```
 
-***
+---
 
 In node, you can tell your program to do two different things depending on whether the code is run from `require('./something.js')` or `node something.js`. This is useful if you want to interact with one of your modules independently.
 
 ```js
 if (!module.parent) {
     // ran with `node something.js`
-    app.listen(8088, function() {
+    app.listen(8088, function () {
         console.log('app listening on port 8088');
-    })
+    });
 } else {
     // used with `require('/.something.js')`
     module.exports = app;
 }
 ```
 
-### See [the documentation for modules](https://nodejs.org/api/modules.html#modules\_module\_parent) for more info.
+### See [the documentation for modules](https://nodejs.org/api/modules.html#modules_module_parent) for more info.
 
 ## rounding-the-fast-way/
 
@@ -1020,7 +1020,7 @@ if (!module.parent) {
 - javascript
 ```
 
-***
+---
 
 This tip is about performance...with a hidden price tag.
 
@@ -1030,12 +1030,12 @@ One bitwise shift `~` first truncates `input` to 32 bits, then transforms it int
 
 ```js
 // single ~
-console.log(~1337)    // -1338
+console.log(~1337); // -1338
 
 // numeric input
-console.log(~~47.11)  // -> 47
-console.log(~~1.9999) // -> 1
-console.log(~~3)      // -> 3
+console.log(~~47.11); // -> 47
+console.log(~~1.9999); // -> 1
+console.log(~~3); // -> 3
 ```
 
 However, while `~~` is probably a better performer, experienced programmers often stick with `Math.trunc()` instead. To understand why, here's a clinical view on this operator.
@@ -1073,31 +1073,31 @@ In contrast, the very names of the `Math.xyz()` functions clearly communicate th
 Because `~` first does a 32-bit conversion, `~~` results in bogus values around ±2.15 billion. If you don't properly range-check your input, a user could trigger unexpected behavior when the transformed value ends up being a great distance from the original:
 
 ```js
-a = 2147483647.123  // maximum positive 32-bit integer, plus a bit more
-console.log(~~a)    // ->  2147483647     (ok)
-a += 10000          // ->  2147493647.123 (ok)
-console.log(~~a)    // -> -2147483648     (huh?)
+a = 2147483647.123; // maximum positive 32-bit integer, plus a bit more
+console.log(~~a); // ->  2147483647     (ok)
+a += 10000; // ->  2147493647.123 (ok)
+console.log(~~a); // -> -2147483648     (huh?)
 ```
 
 One particularly vulnerable area involves dealing with Unix epoch timestamps (measured in seconds from 1 Jan 1970 00:00:00 UTC). A quick way to get such values is:
 
 ```js
-epoch_int = ~~(+new Date() / 1000)  // Date() epochs in milliseconds, so we scale accordingly
+epoch_int = ~~(+new Date() / 1000); // Date() epochs in milliseconds, so we scale accordingly
 ```
 
 However, when dealing with timestamps after 19 Jan 2038 03:14:07 UTC (sometimes called the **Y2038 limit**), this breaks horribly:
 
 ```js
 // epoch timestamp for 1 Jan 2040 00:00:00.123 UTC
-epoch = +new Date('2040-01-01') / 1000 + 0.123      // ->  2208988800.123
+epoch = +new Date('2040-01-01') / 1000 + 0.123; // ->  2208988800.123
 
 // back to the future!
-epoch_int = ~~epoch                                 // -> -2085978496
-console.log(new Date(epoch_int * 1000))             // ->  Wed Nov 25 1903 17:31:44 UTC
+epoch_int = ~~epoch; // -> -2085978496
+console.log(new Date(epoch_int * 1000)); // ->  Wed Nov 25 1903 17:31:44 UTC
 
 // that was fun, now let's get real
-epoch_flr = Math.floor(epoch)                       // ->  2208988800
-console.log(new Date(epoch_flr * 1000))             // ->  Sun Jan 01 2040 00:00:00 UTC
+epoch_flr = Math.floor(epoch); // ->  2208988800
+console.log(new Date(epoch_flr * 1000)); // ->  Sun Jan 01 2040 00:00:00 UTC
 ```
 
 **When the original input wasn't sanitized**
@@ -1105,9 +1105,9 @@ console.log(new Date(epoch_flr * 1000))             // ->  Sun Jan 01 2040 00:00
 Because `~~` transforms every non-number into `0`:
 
 ```js
-console.log(~~[])   // -> 0
-console.log(~~NaN)  // -> 0
-console.log(~~null) // -> 0
+console.log(~~[]); // -> 0
+console.log(~~NaN); // -> 0
+console.log(~~null); // -> 0
 ```
 
 some programmers treat it as alternative to proper input validation. However, this can lead to strange logic bugs down the line, since you're no longer distinguishing between invalid inputs and actual `0` values. This is therefore _not_ a recommended practice.
@@ -1128,11 +1128,11 @@ Avoid where possible. Use sparingly otherwise.
 2. Sanitize values before applying.
 3. Carefully document relevant assumptions about the values being transformed.
 4. Review code to deal with, at minimum:
-   * logic bugs where invalid inputs are instead passed to other code modules as valid `0` values
-   * range errors on transformed inputs
-   * fencepost errors due to incorrect rounding direction
+    - logic bugs where invalid inputs are instead passed to other code modules as valid `0` values
+    - range errors on transformed inputs
+    - fencepost errors due to incorrect rounding direction
 
-***
+---
 
 ## safe-string-concatenation/
 
@@ -1141,7 +1141,7 @@ Avoid where possible. Use sparingly otherwise.
 - javascript
 ```
 
-***
+---
 
 Suppose you have a couple of variables with unknown types and you want to concatenate them in a string. To be sure that the arithmetical operation is not be applied during concatenation, use `concat`:
 
@@ -1165,7 +1165,7 @@ var result = one + two + three; //"33" instead of "123"
 
 Speaking about performance, compared to the `join` [type](http://www.sitepoint.com/javascript-fast-string-concatenation/) of concatenation, the speed of `concat` is pretty much the same.
 
-### You can read more about the `concat` function on MDN [page](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/String/concat).
+### You can read more about the `concat` function on MDN [page](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/concat).
 
 ## return-objects-to-enable-chaining-of-functions/
 
@@ -1174,30 +1174,30 @@ Speaking about performance, compared to the `join` [type](http://www.sitepoint.c
 - javascript
 ```
 
-***
+---
 
 When creating functions on an object in Object Oriented Javascript, returning the object in the function will enable you to chain functions together.
 
 ```js
 function Person(name) {
-  this.name = name;
-
-  this.sayName = function() {
-    console.log("Hello my name is: ", this.name);
-    return this;
-  };
-
-  this.changeName = function(name) {
     this.name = name;
-    return this;
-  };
+
+    this.sayName = function () {
+        console.log('Hello my name is: ', this.name);
+        return this;
+    };
+
+    this.changeName = function (name) {
+        this.name = name;
+        return this;
+    };
 }
 
-var person = new Person("John");
-person.sayName().changeName("Timmy").sayName();
+var person = new Person('John');
+person.sayName().changeName('Timmy').sayName();
 ```
 
-***
+---
 
 ## shuffle-an-array/
 
@@ -1206,23 +1206,21 @@ person.sayName().changeName("Timmy").sayName();
 - javascript
 ```
 
-***
+---
 
-This snippet here uses [Fisher-Yates Shuffling](https://www.wikiwand.com/en/Fisher%E2%80%93Yates\_shuffle) Algorithm to shuffle a given array.
+This snippet here uses [Fisher-Yates Shuffling](https://www.wikiwand.com/en/Fisher%E2%80%93Yates_shuffle) Algorithm to shuffle a given array.
 
 ```javascript
 function shuffle(arr) {
-    var i,
-        j,
-        temp;
+    var i, j, temp;
     for (i = arr.length - 1; i > 0; i--) {
         j = Math.floor(Math.random() * (i + 1));
         temp = arr[i];
         arr[i] = arr[j];
         arr[j] = temp;
     }
-    return arr;    
-};
+    return arr;
+}
 ```
 
 An example:
@@ -1234,7 +1232,7 @@ console.log(b);
 // [2, 7, 8, 6, 5, 3, 1, 4]
 ```
 
-***
+---
 
 ## two-ways-to-empty-an-array/
 
@@ -1243,7 +1241,7 @@ console.log(b);
 - javascript
 ```
 
-***
+---
 
 You define an array and want to empty its contents. Usually, you would do it like this:
 
@@ -1270,16 +1268,16 @@ function empty() {
 empty();
 ```
 
-* `list = []` assigns a reference to a new array to a variable, while any other references are unaffected. which means that references to the contents of the previous array are still kept in memory, leading to memory leaks.
-* `list.length = 0` deletes everything in the array, which does hit other references.
+-   `list = []` assigns a reference to a new array to a variable, while any other references are unaffected. which means that references to the contents of the previous array are still kept in memory, leading to memory leaks.
+-   `list.length = 0` deletes everything in the array, which does hit other references.
 
 In other words, if you have two references to the same array (`a = [1,2,3]; a2 = a;`), and you delete the array's contents using `list.length = 0`, both references (a and a2) will now point to the same empty array. (So don't use this technique if you don't want a2 to hold an empty array!)
 
 Think about what this will output:
 
 ```js
-var foo = [1,2,3];
-var bar = [1,2,3];
+var foo = [1, 2, 3];
+var bar = [1, 2, 3];
 var foo2 = foo;
 var bar2 = bar;
 foo = [];
@@ -1291,7 +1289,7 @@ console.log(foo, bar, foo2, bar2);
 
 Stackoverflow more detail: [difference-between-array-length-0-and-array](http://stackoverflow.com/questions/4804235/difference-between-array-length-0-and-array)
 
-***
+---
 
 ## converting-to-number-fast-way/
 
@@ -1300,7 +1298,7 @@ Stackoverflow more detail: [difference-between-array-length-0-and-array](http://
 - javascript
 ```
 
-***
+---
 
 Converting strings to numbers is extremely common. The easiest and fastest ([jsPerf](https://jsperf.com/number-vs-parseint-vs-plus/29)) way to achieve that would be using the `+` (plus) operator.
 
@@ -1318,16 +1316,16 @@ var one = '1';
 var negativeNumberOne = -one; // Number -1
 ```
 
-***
+---
 
-## use\_===_instead\_of_==/
+## use\_===_instead_of_==/
 
 ```
 - en
 - javascript
 ```
 
-***
+---
 
 The `==` (or `!=`) operator performs an automatic type conversion if needed. The `===` (or `!==`) operator will not perform any conversion. It compares the value and the type, which could be considered faster ([jsPref](http://jsperf.com/strictcompare)) than `==`.
 
@@ -1342,10 +1340,10 @@ The `==` (or `!=`) operator performs an automatic type conversion if needed. The
  []  === 0       // is false
 
  ''  ==  false   // is true but true == "a" is false
- ''  === false   // is false 
+ ''  === false   // is false
 ```
 
-***
+---
 
 ##
 
@@ -1356,16 +1354,14 @@ Using-immediately-invoked-function-expression/
 - javascript
 ```
 
-***
+---
 
 Called as "Iffy" ( IIFE - immediately invoked function expression) is an anonymous function expression that is immediately invoked and has some important uses in Javascript.
 
 ```javascript
-
-(function() {
- // Do something​
- }
-)()
+(function () {
+    // Do something​
+})();
 ```
 
 It is an anonymous function expression that is immediately invoked, and it has some particularly important uses in JavaScript.
@@ -1397,36 +1393,224 @@ c filtering-and-sorting-a-list-of-strings/
 - javascript
 ```
 
-***
+---
 
 You may have a big list of names you need to filter in order to remove duplicates and sort them alphabetically.
 
-In our example we are going to use the list of **JavaScript reserved keywords** we can find across the different versions of the language, but as you can notice, there is a lot of duplicated keywords and they are not alphabetically organized. So this is a perfect list ([Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Array)) of strings to test out this JavaScript tip.
+In our example we are going to use the list of **JavaScript reserved keywords** we can find across the different versions of the language, but as you can notice, there is a lot of duplicated keywords and they are not alphabetically organized. So this is a perfect list ([Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)) of strings to test out this JavaScript tip.
 
 ```js
-var keywords = ['do', 'if', 'in', 'for', 'new', 'try', 'var', 'case', 'else', 'enum', 'null', 'this', 'true', 'void', 'with', 'break', 'catch', 'class', 'const', 'false', 'super', 'throw', 'while', 'delete', 'export', 'import', 'return', 'switch', 'typeof', 'default', 'extends', 'finally', 'continue', 'debugger', 'function', 'do', 'if', 'in', 'for', 'int', 'new', 'try', 'var', 'byte', 'case', 'char', 'else', 'enum', 'goto', 'long', 'null', 'this', 'true', 'void', 'with', 'break', 'catch', 'class', 'const', 'false', 'final', 'float', 'short', 'super', 'throw', 'while', 'delete', 'double', 'export', 'import', 'native', 'public', 'return', 'static', 'switch', 'throws', 'typeof', 'boolean', 'default', 'extends', 'finally', 'package', 'private', 'abstract', 'continue', 'debugger', 'function', 'volatile', 'interface', 'protected', 'transient', 'implements', 'instanceof', 'synchronized', 'do', 'if', 'in', 'for', 'let', 'new', 'try', 'var', 'case', 'else', 'enum', 'eval', 'null', 'this', 'true', 'void', 'with', 'break', 'catch', 'class', 'const', 'false', 'super', 'throw', 'while', 'yield', 'delete', 'export', 'import', 'public', 'return', 'static', 'switch', 'typeof', 'default', 'extends', 'finally', 'package', 'private', 'continue', 'debugger', 'function', 'arguments', 'interface', 'protected', 'implements', 'instanceof', 'do', 'if', 'in', 'for', 'let', 'new', 'try', 'var', 'case', 'else', 'enum', 'eval', 'null', 'this', 'true', 'void', 'with', 'await', 'break', 'catch', 'class', 'const', 'false', 'super', 'throw', 'while', 'yield', 'delete', 'export', 'import', 'public', 'return', 'static', 'switch', 'typeof', 'default', 'extends', 'finally', 'package', 'private', 'continue', 'debugger', 'function', 'arguments', 'interface', 'protected', 'implements', 'instanceof'];
+var keywords = [
+    'do',
+    'if',
+    'in',
+    'for',
+    'new',
+    'try',
+    'var',
+    'case',
+    'else',
+    'enum',
+    'null',
+    'this',
+    'true',
+    'void',
+    'with',
+    'break',
+    'catch',
+    'class',
+    'const',
+    'false',
+    'super',
+    'throw',
+    'while',
+    'delete',
+    'export',
+    'import',
+    'return',
+    'switch',
+    'typeof',
+    'default',
+    'extends',
+    'finally',
+    'continue',
+    'debugger',
+    'function',
+    'do',
+    'if',
+    'in',
+    'for',
+    'int',
+    'new',
+    'try',
+    'var',
+    'byte',
+    'case',
+    'char',
+    'else',
+    'enum',
+    'goto',
+    'long',
+    'null',
+    'this',
+    'true',
+    'void',
+    'with',
+    'break',
+    'catch',
+    'class',
+    'const',
+    'false',
+    'final',
+    'float',
+    'short',
+    'super',
+    'throw',
+    'while',
+    'delete',
+    'double',
+    'export',
+    'import',
+    'native',
+    'public',
+    'return',
+    'static',
+    'switch',
+    'throws',
+    'typeof',
+    'boolean',
+    'default',
+    'extends',
+    'finally',
+    'package',
+    'private',
+    'abstract',
+    'continue',
+    'debugger',
+    'function',
+    'volatile',
+    'interface',
+    'protected',
+    'transient',
+    'implements',
+    'instanceof',
+    'synchronized',
+    'do',
+    'if',
+    'in',
+    'for',
+    'let',
+    'new',
+    'try',
+    'var',
+    'case',
+    'else',
+    'enum',
+    'eval',
+    'null',
+    'this',
+    'true',
+    'void',
+    'with',
+    'break',
+    'catch',
+    'class',
+    'const',
+    'false',
+    'super',
+    'throw',
+    'while',
+    'yield',
+    'delete',
+    'export',
+    'import',
+    'public',
+    'return',
+    'static',
+    'switch',
+    'typeof',
+    'default',
+    'extends',
+    'finally',
+    'package',
+    'private',
+    'continue',
+    'debugger',
+    'function',
+    'arguments',
+    'interface',
+    'protected',
+    'implements',
+    'instanceof',
+    'do',
+    'if',
+    'in',
+    'for',
+    'let',
+    'new',
+    'try',
+    'var',
+    'case',
+    'else',
+    'enum',
+    'eval',
+    'null',
+    'this',
+    'true',
+    'void',
+    'with',
+    'await',
+    'break',
+    'catch',
+    'class',
+    'const',
+    'false',
+    'super',
+    'throw',
+    'while',
+    'yield',
+    'delete',
+    'export',
+    'import',
+    'public',
+    'return',
+    'static',
+    'switch',
+    'typeof',
+    'default',
+    'extends',
+    'finally',
+    'package',
+    'private',
+    'continue',
+    'debugger',
+    'function',
+    'arguments',
+    'interface',
+    'protected',
+    'implements',
+    'instanceof'
+];
 ```
 
-Since we don't want to change our original list, we are going to use a high order function named [`filter`](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global\_Objects/Array/filter), which will return a new filter array based in a predicate (_function_) we pass to it. The predicate will compare the index of the current keyword in the original list with its `index` in the new list and will push it to the new array only if the indexes match.
+Since we don't want to change our original list, we are going to use a high order function named [`filter`](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/filter), which will return a new filter array based in a predicate (_function_) we pass to it. The predicate will compare the index of the current keyword in the original list with its `index` in the new list and will push it to the new array only if the indexes match.
 
-Finally we are going to sort the filtered list using the [`sort`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Array/sort) function which takes a comparison function as the only argument, returning a alphabetically sorted list.
+Finally we are going to sort the filtered list using the [`sort`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort) function which takes a comparison function as the only argument, returning a alphabetically sorted list.
 
 ```js
 var filteredAndSortedKeywords = keywords
-  .filter(function (keyword, index) {
-      return keywords.lastIndexOf(keyword) === index;
+    .filter(function (keyword, index) {
+        return keywords.lastIndexOf(keyword) === index;
     })
-  .sort(function (a, b) {
-      return a < b ? -1 : 1;
+    .sort(function (a, b) {
+        return a < b ? -1 : 1;
     });
 ```
 
-The **ES6** (ECMAScript 2015) version using [arrow functions](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/Arrow\_functions) looks a little simpler:
+The **ES6** (ECMAScript 2015) version using [arrow functions](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/Arrow_functions) looks a little simpler:
 
 ```js
-const filteredAndSortedKeywords = keywords
-  .filter((keyword, index) => keywords.lastIndexOf(keyword) === index)
-  .sort((a, b) => a < b ? -1 : 1);
+const filteredAndSortedKeywords = keywords.filter((keyword, index) => keywords.lastIndexOf(keyword) === index).sort((a, b) => (a < b ? -1 : 1));
 ```
 
 And this is the final filtered and sorted list of JavaScript reserved keywords:
@@ -1437,9 +1621,9 @@ console.log(filteredAndSortedKeywords);
 // ['abstract', 'arguments', 'await', 'boolean', 'break', 'byte', 'case', 'catch', 'char', 'class', 'const', 'continue', 'debugger', 'default', 'delete', 'do', 'double', 'else', 'enum', 'eval', 'export', 'extends', 'false', 'final', 'finally', 'float', 'for', 'function', 'goto', 'if', 'implements', 'import', 'in', 'instanceof', 'int', 'interface', 'let', 'long', 'native', 'new', 'null', 'package', 'private', 'protected', 'public', 'return', 'short', 'static', 'super', 'switch', 'synchronized', 'this', 'throw', 'throws', 'transient', 'true', 'try', 'typeof', 'var', 'void', 'volatile', 'while', 'with', 'yield']
 ```
 
-_Thanks to _[_@nikshulipa_](https://github.com/nikshulipa)_, _[_@kirilloid_](https://twitter.com/kirilloid)_, _[_@lesterzone_](https://twitter.com/lesterzone)_, _[_@tracker1_](https://twitter.com/tracker1)_, _[_@manuel\_del\_pozo_](https://twitter.com/manuel\_del\_pozo)_ for all the comments and suggestions!_
+_Thanks to _[_@nikshulipa_](https://github.com/nikshulipa)_, _[_@kirilloid_](https://twitter.com/kirilloid)_, _[_@lesterzone_](https://twitter.com/lesterzone)_, _[_@tracker1_](https://twitter.com/tracker1)_, _[_@manuel_del_pozo_](https://twitter.com/manuel_del_pozo)_ for all the comments and suggestions!_
 
-***
+---
 
 ## short-circuit-evaluation-in-js/
 
@@ -1448,19 +1632,19 @@ _Thanks to _[_@nikshulipa_](https://github.com/nikshulipa)_, _[_@kirilloid_](htt
 - javascript
 ```
 
-***
+---
 
-[Short-circuit evaluation](https://en.wikipedia.org/wiki/Short-circuit\_evaluation) says, the second argument is executed or evaluated only if the first argument does not suffice to determine the value of the expression: when the first argument of the AND (`&&`) function evaluates to false, the overall value must be false; and when the first argument of the OR (`||`) function evaluates to true, the overall value must be true.
+[Short-circuit evaluation](https://en.wikipedia.org/wiki/Short-circuit_evaluation) says, the second argument is executed or evaluated only if the first argument does not suffice to determine the value of the expression: when the first argument of the AND (`&&`) function evaluates to false, the overall value must be false; and when the first argument of the OR (`||`) function evaluates to true, the overall value must be true.
 
 For the following `test` condition and `isTrue` and `isFalse` function.
 
 ```js
 var test = true;
-var isTrue = function(){
-  console.log('Test is true.');
+var isTrue = function () {
+    console.log('Test is true.');
 };
-var isFalse = function(){
-  console.log('Test is false.');
+var isFalse = function () {
+    console.log('Test is false.');
 };
 ```
 
@@ -1468,44 +1652,44 @@ Using logical AND - `&&`.
 
 ```js
 // A normal if statement.
-if(test){
-  isTrue();    // Test is true
+if (test) {
+    isTrue(); // Test is true
 }
 
 // Above can be done using '&&' as -
 
-( test && isTrue() );  // Test is true
+test && isTrue(); // Test is true
 ```
 
 Using logical OR - `||`.
 
 ```js
 test = false;
-if(!test){
-  isFalse();    // Test is false.
+if (!test) {
+    isFalse(); // Test is false.
 }
 
-( test || isFalse());  // Test is false.
+test || isFalse(); // Test is false.
 ```
 
 The logical OR could also be used to set a default value for function argument.
 
 ```js
-function theSameOldFoo(name){ 
-  name = name || 'Bar' ;
-  console.log("My best friend's name is " + name);
+function theSameOldFoo(name) {
+    name = name || 'Bar';
+    console.log("My best friend's name is " + name);
 }
-theSameOldFoo();  // My best friend's name is Bar
-theSameOldFoo('Bhaskar');  // My best friend's name is Bhaskar
+theSameOldFoo(); // My best friend's name is Bar
+theSameOldFoo('Bhaskar'); // My best friend's name is Bhaskar
 ```
 
 The logical AND could be used to avoid exceptions when using properties of undefined. Example:
 
 ```js
-var dog = { 
-  bark: function(){
-    console.log('Woof Woof');
-  }
+var dog = {
+    bark: function () {
+        console.log('Woof Woof');
+    }
 };
 
 // Calling dog.bark();
@@ -1514,10 +1698,10 @@ dog.bark(); // Woof Woof.
 // But if dog is not defined, dog.bark() will raise an error "Cannot read property 'bark' of undefined."
 // To prevent this, we can use &&.
 
-dog&&dog.bark();   // This will only call dog.bark(), if dog is defined.
+dog && dog.bark(); // This will only call dog.bark(), if dog is defined.
 ```
 
-***
+---
 
 ##
 
@@ -1528,7 +1712,7 @@ curry-vs-partial-application/
 - javascript
 ```
 
-***
+---
 
 **Currying**
 
@@ -1553,24 +1737,23 @@ f(3)(5)
 For example: Uncurried add()
 
 ```javascript
-
 function add(x, y) {
-  return x + y;
+    return x + y;
 }
 
-add(3, 5);   // returns 8
+add(3, 5); // returns 8
 ```
 
 Curried add()
 
 ```javascript
 function addC(x) {
-  return function (y) {
-    return x + y;
-  }
+    return function (y) {
+        return x + y;
+    };
 }
 
-addC(3)(5);   // returns 8
+addC(3)(5); // returns 8
 ```
 
 **The algorithm for currying.**
@@ -1583,11 +1766,11 @@ Javascript Code:
 
 ```javascript
 function curry(f) {
-  return function(x) {
-    return function(y) {
-      return f(x, y);
-    }
-  }
+    return function (x) {
+        return function (y) {
+            return f(x, y);
+        };
+    };
 }
 ```
 
@@ -1607,10 +1790,10 @@ For example: Binding the first argument of function add to 5 produces the functi
 
 ```javascript
 function plus5(y) {
-  return 5 + y;
+    return 5 + y;
 }
 
-plus5(3);  // returns 8
+plus5(3); // returns 8
 ```
 
 **The algorithm of partial application.**\*
@@ -1623,13 +1806,13 @@ Javascript Code:
 
 ```javascript
 function partApply(f, x) {
-  return function(y) {
-    return f(x, y);
-  }
+    return function (y) {
+        return f(x, y);
+    };
 }
 ```
 
-***
+---
 
 ##
 
@@ -1640,87 +1823,87 @@ speed-up-recursive-functions-with-memoization/
 - javascript
 ```
 
-***
+---
 
 Fibonacci sequence is very familiar to everybody. We can write the following function in 20 seconds.
 
 ```js
-var fibonacci = function(n) {
-  return n < 2 ? n : fibonacci(n - 1) + fibonacci(n - 2);
-}
+var fibonacci = function (n) {
+    return n < 2 ? n : fibonacci(n - 1) + fibonacci(n - 2);
+};
 ```
 
 It works, but is not efficient. It did lots of duplicate computing works, we can cache its previously computed results to speed it up.
 
 ```js
-var fibonacci = (function() {
-  var cache = [0, 1]; // cache the value at the n index
-  return function(n) {
-    if (cache[n] === undefined) {
-      for (var i = cache.length; i <= n; ++i) {
-        cache[i] = cache[i - 1] + cache[i - 2];
-      }
-    }
-    return cache[n];
-  }
+var fibonacci = (function () {
+    var cache = [0, 1]; // cache the value at the n index
+    return function (n) {
+        if (cache[n] === undefined) {
+            for (var i = cache.length; i <= n; ++i) {
+                cache[i] = cache[i - 1] + cache[i - 2];
+            }
+        }
+        return cache[n];
+    };
 })();
 ```
 
 Also, we can define a higher-order function that accepts a function as its argument and returns a memoized version of the function.
 
 ```js
-var memoize = function(func) {
-  var cache = {};
-  return function() {
-    var key = JSON.stringify(Array.prototype.slice.call(arguments));
-    return key in cache ? cache[key] : (cache[key] = func.apply(this, arguments));
-  }
-}
+var memoize = function (func) {
+    var cache = {};
+    return function () {
+        var key = JSON.stringify(Array.prototype.slice.call(arguments));
+        return key in cache ? cache[key] : (cache[key] = func.apply(this, arguments));
+    };
+};
 fibonacci = memoize(fibonacci);
 ```
 
 And this is an ES6 version of the memoize function.
 
 ```js
-var memoize = function(func) {
-  const cache = {};
-  return (...args) => {
-    const key = JSON.stringify(args);
-    return key in cache ? cache[key] : (cache[key] = func(...args));
-  }
-}
+var memoize = function (func) {
+    const cache = {};
+    return (...args) => {
+        const key = JSON.stringify(args);
+        return key in cache ? cache[key] : (cache[key] = func(...args));
+    };
+};
 fibonacci = memoize(fibonacci);
 ```
 
 we can use `memoize()` in many other situations
 
-* GCD(Greatest Common Divisor)
+-   GCD(Greatest Common Divisor)
 
 ```js
-var gcd = memoize(function(a, b) {
-  var t;
-  if (a < b) t = b, b = a, a = t;
-  while (b != 0) t = b, b = a % b, a = t;
-  return a;
+var gcd = memoize(function (a, b) {
+    var t;
+    if (a < b) (t = b), (b = a), (a = t);
+    while (b != 0) (t = b), (b = a % b), (a = t);
+    return a;
 });
 gcd(27, 183); //=> 3
 ```
 
-* Factorial calculation
+-   Factorial calculation
 
 ```js
-var factorial = memoize(function(n) {
-  return (n <= 1) ? 1 : n * factorial(n - 1);
-})
+var factorial = memoize(function (n) {
+    return n <= 1 ? 1 : n * factorial(n - 1);
+});
 factorial(5); //=> 120
 ```
 
 Learn more about memoization:
 
-* [Memoization - Wikipedia](https://en.wikipedia.org/wiki/Memoization)
-* [Implementing Memoization in JavaScript](https://www.sitepoint.com/implementing-memoization-in-javascript/)
+-   [Memoization - Wikipedia](https://en.wikipedia.org/wiki/Memoization)
+-   [Implementing Memoization in JavaScript](https://www.sitepoint.com/implementing-memoization-in-javascript/)
 
-***
+---
 
 ##
 
@@ -1731,24 +1914,24 @@ converting-truthy-falsy-values-to-boolean/
 - javascript
 ```
 
-***
+---
 
 You can convert a [truthy](https://developer.mozilla.org/en-US/docs/Glossary/Truthy) or [falsy](https://developer.mozilla.org/en-US/docs/Glossary/Falsy) value to true boolean with the `!!` operator.
 
 ```js
-!!"" // false
-!!0 // false
-!!null // false
-!!undefined // false
-!!NaN // false
+!!''; // false
+!!0; // false
+!!null; // false
+!!undefined; // false
+!!NaN; // false
 
-!!"hello" // true
-!!1 // true
-!!{} // true
-!![] // true
+!!'hello'; // true
+!!1; // true
+!!{}; // true
+!![]; // true
 ```
 
-***
+---
 
 ##
 
@@ -1759,7 +1942,7 @@ avoid-modifying-or-passing-arguments-into-other-functions-it-kills-optimization/
 - javascript
 ```
 
-***
+---
 
 \###Background
 
@@ -1785,8 +1968,8 @@ Instead, if you want an array of the arguments that lets you use you need to res
 
 ```js
 var args = new Array(arguments.length);
-for(var i = 0; i < args.length; ++i) {
-  args[i] = arguments[i];
+for (var i = 0; i < args.length; ++i) {
+    args[i] = arguments[i];
 }
 ```
 
@@ -1799,7 +1982,7 @@ for(var i = 0; i < args.length; ++i) {
 - javascript
 ```
 
-***
+---
 
 ### Object properties order
 
@@ -1831,7 +2014,7 @@ Each browser have his own rules about the order in objects bebause technically, 
 
 #### Map
 
-Using a new ES6 feature called Map. A [Map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Map) object iterates its elements in insertion order — a `for...of` loop returns an array of \[key, value] for each iteration.
+Using a new ES6 feature called Map. A [Map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map) object iterates its elements in insertion order — a `for...of` loop returns an array of \[key, value] for each iteration.
 
 ```js
 var myObject = new Map();
@@ -1863,7 +2046,7 @@ for (item in objectKeys) {
 var myData = [{z: 1}, {'@': 2}, {b: 3}, {1: 4}, {5: 5}];
 ```
 
-***
+---
 
 ## create-range-0...n-easily-using-one-line/
 
@@ -1872,14 +2055,14 @@ var myData = [{z: 1}, {'@': 2}, {b: 3}, {1: 4}, {5: 5}];
 - javascript
 ```
 
-***
+---
 
 Here are two compact code sequences to generate the `N`-element array `[0, 1, ..., N-1]`:
 
 #### Solution 1 (requires ES5)
 
 ```js
-Array.apply(null, {length: N}).map(Function.call, Number);
+Array.apply(null, { length: N }).map(Function.call, Number);
 ```
 
 **Brief explanation**
@@ -1893,10 +2076,10 @@ For a more thorough explanation, go [here](https://github.com/gromgit/jstips-xe/
 
 #### Solution 2 (requires ES6)
 
-It uses `Array.from` [https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global\_Objects/Array/from](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global\_Objects/Array/from)
+It uses `Array.from` [https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/from](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/from)
 
 ```js
-Array.from(new Array(N),(val,index)=>index);
+Array.from(new Array(N), (val, index) => index);
 ```
 
 #### Solution 3 (requires ES6)
@@ -1917,18 +2100,18 @@ Array.from(Array(N).keys());
 If you actually want the sequence \[1, 2, ..., N], **Solution 1** becomes:
 
 ```js
-Array.apply(null, {length: N}).map(function(value, index){
-  return index + 1;
+Array.apply(null, { length: N }).map(function (value, index) {
+    return index + 1;
 });
 ```
 
 and **Solution 2**:
 
 ```js
-Array.from(new Array(N),(val,index)=>index+1);
+Array.from(new Array(N), (val, index) => index + 1);
 ```
 
-***
+---
 
 ## implementing-asynchronous-loops/
 
@@ -1937,16 +2120,16 @@ Array.from(new Array(N),(val,index)=>index+1);
 - javascript
 ```
 
-***
+---
 
 Let's try out writing an asynchronous function which prints the value of the loop index every second.
 
 ```js
-for (var i=0; i<5; i++) {
-	setTimeout(function(){
-		console.log(i); 
-	}, 1000 * (i+1));
-}  
+for (var i = 0; i < 5; i++) {
+    setTimeout(function () {
+        console.log(i);
+    }, 1000 * (i + 1));
+}
 ```
 
 The output of the above programs turns out to be
@@ -1968,12 +2151,12 @@ Each timeout refers to the original `i`, not a copy. So the for loop increments 
 Well , this problem seems easy. An immediate solution that strikes is to cache the loop index in a temporary variable.
 
 ```js
-for (var i=0; i<5; i++) {
-	var temp = i;
- 	setTimeout(function(){
-		console.log(temp); 
-	}, 1000 * (i+1));
-}  
+for (var i = 0; i < 5; i++) {
+    var temp = i;
+    setTimeout(function () {
+        console.log(temp);
+    }, 1000 * (i + 1));
+}
 ```
 
 But again the output of the above programs turns out to be
@@ -1990,12 +2173,12 @@ So , that doesn't work either , because blocks don't create a scope and variable
 
 ```js
 var temp;
-for (var i=0; i<5; i++) {
- 	temp = i;
-	setTimeout(function(){
-		console.log(temp); 
-  	}, 1000 * (i+1));
-}  
+for (var i = 0; i < 5; i++) {
+    temp = i;
+    setTimeout(function () {
+        console.log(temp);
+    }, 1000 * (i + 1));
+}
 ```
 
 **Solution**
@@ -2003,13 +2186,13 @@ for (var i=0; i<5; i++) {
 There are a few different ways to copy `i`. The most common way is creating a closure by declaring a function and passing `i` as an argument. Here we do this as a self-calling function.
 
 ```js
-for (var i=0; i<5; i++) {
-	(function(num){
-		setTimeout(function(){
-			console.log(num); 
-		}, 1000 * (i+1)); 
-	})(i);  
-}  
+for (var i = 0; i < 5; i++) {
+    (function (num) {
+        setTimeout(function () {
+            console.log(num);
+        }, 1000 * (i + 1));
+    })(i);
+}
 ```
 
 In JavaScript, arguments are passed by value to a function. So primitive types like numbers, dates, and strings are basically copied. If you change them inside the function, it does not affect the outside scope. Objects are special: if the inside function changes a property, the change is reflected in all scopes.
@@ -2017,14 +2200,14 @@ In JavaScript, arguments are passed by value to a function. So primitive types l
 Another approach for this would be with using `let`. With ES6 the `let` keyword is useful since it's block scoped unlike `var`
 
 ```js
-for (let i=0; i<5; i++) {
- 	setTimeout(function(){
-		console.log(i); 
-	}, 1000 * (i+1));
-}  
+for (let i = 0; i < 5; i++) {
+    setTimeout(function () {
+        console.log(i);
+    }, 1000 * (i + 1));
+}
 ```
 
-***
+---
 
 ## assignment-shorthands/
 
@@ -2033,7 +2216,7 @@ for (let i=0; i<5; i++) {
 - javascript
 ```
 
-***
+---
 
 Assigning is very common. Sometimes typing becomes time consuming for us 'Lazy programmers'. So, we can use some tricks to help us and make our code cleaner and simpler.
 
@@ -2048,8 +2231,9 @@ p %= 3; // p = p % 3;
 d **= 2; // d = d ** 2;
 m >>= 2; // m = m >> 2;
 n <<= 2; // n = n << 2;
-n ++; // n = n + 1;
-n --; n = n - 1;
+n++; // n = n + 1;
+n--;
+n = n - 1;
 ```
 
 #### `++` and `--` operators
@@ -2085,30 +2269,28 @@ This is what we write on regular basis.
 
 ```javascript
 var newValue;
-if(value > 10) 
-  newValue = 5;
-else
-  newValue = 2;
+if (value > 10) newValue = 5;
+else newValue = 2;
 ```
 
 We can user ternary operator to make it awesome:
 
 ```javascript
-var newValue = (value > 10) ? 5 : 2;
+var newValue = value > 10 ? 5 : 2;
 ```
 
 #### Null, Undefined, Empty Checks
 
 ```javascript
 if (variable1 !== null || variable1 !== undefined || variable1 !== '') {
-     var variable2 = variable1;
+    var variable2 = variable1;
 }
 ```
 
 Shorthand here:
 
 ```javascript
-var variable2 = variable1  || '';
+var variable2 = variable1 || '';
 ```
 
 P.S.: If variable1 is a number, then first check if it is 0.
@@ -2119,14 +2301,14 @@ Instead of using:
 
 ```javascript
 var a = new Array();
-a[0] = "myString1";
-a[1] = "myString2";
+a[0] = 'myString1';
+a[1] = 'myString2';
 ```
 
 Use this:
 
 ```javascript
-var a = ["myString1", "myString2"];
+var a = ['myString1', 'myString2'];
 ```
 
 #### Associative array
@@ -2143,12 +2325,12 @@ Use this:
 
 ```javascript
 var skillSet = {
-    'Document language' : 'HTML5', 
-    'Styling language' : 'CSS3'
+    'Document language': 'HTML5',
+    'Styling language': 'CSS3'
 };
 ```
 
-***
+---
 
 ##
 
@@ -2159,7 +2341,7 @@ observe-dom-changes/
 - javascript
 ```
 
-***
+---
 
 [MutationObserver](https://developer.mozilla.org/en/docs/Web/API/MutationObserver) is a solution to listen DOM changes and do what you want to do with elements when they changed. In following example there is some emulation of dynamic content loading with help of timers, after first "target" element creation goes "subTarget". In extension code firstly rootObserver works till targetElement appearance then elementObserver starts. This cascading observing helps finally get moment when subTargetElement found. This useful to develop extensions to complex sites with dynamic content loading.
 
@@ -2172,17 +2354,17 @@ const observeConfig = {
 };
 
 function initExtension(rootElement, targetSelector, subTargetSelector) {
-    var rootObserver = new MutationObserver(function(mutations) {
-        console.log("Inside root observer");
+    var rootObserver = new MutationObserver(function (mutations) {
+        console.log('Inside root observer');
         targetElement = rootElement.querySelector(targetSelector);
         if (targetElement) {
             rootObserver.disconnect();
-            var elementObserver = new MutationObserver(function(mutations) {
-                console.log("Inside element observer");
+            var elementObserver = new MutationObserver(function (mutations) {
+                console.log('Inside element observer');
                 subTargetElement = targetElement.querySelector(subTargetSelector);
                 if (subTargetElement) {
                     elementObserver.disconnect();
-                    console.log("subTargetElement found!");
+                    console.log('subTargetElement found!');
                 }
             });
             elementObserver.observe(targetElement, observeConfig);
@@ -2191,30 +2373,27 @@ function initExtension(rootElement, targetSelector, subTargetSelector) {
     rootObserver.observe(rootElement, observeConfig);
 }
 
-(function() {
+(function () {
+    initExtension(document.body, 'div.target', 'div.subtarget');
 
-    initExtension(document.body, "div.target", "div.subtarget");
-
-    setTimeout(function() {
-        del = document.createElement("div");
+    setTimeout(function () {
+        del = document.createElement('div');
         del.innerHTML = "<div class='target'>target</div>";
         document.body.appendChild(del);
     }, 3000);
 
-
-    setTimeout(function() {
+    setTimeout(function () {
         var el = document.body.querySelector('div.target');
         if (el) {
-            del = document.createElement("div");
+            del = document.createElement('div');
             del.innerHTML = "<div class='subtarget'>subtarget</div>";
             el.appendChild(del);
         }
     }, 5000);
-
 })();
 ```
 
-***
+---
 
 ##
 
@@ -2225,15 +2404,15 @@ deduplicate-an-array/
 - javascript
 ```
 
-***
+---
 
 ## Primitives
 
-If an Array only contains primitive values, we can deduplicate it by only using the [`filter`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Array/filter) and [`indexOf`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Array/indexOf) methods.
+If an Array only contains primitive values, we can deduplicate it by only using the [`filter`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter) and [`indexOf`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf) methods.
 
 ```javascript
-var deduped = [ 1, 1, 'a', 'a' ].filter(function (el, i, arr) {
-	return arr.indexOf(el) === i;
+var deduped = [1, 1, 'a', 'a'].filter(function (el, i, arr) {
+    return arr.indexOf(el) === i;
 });
 
 console.log(deduped); // [ 1, 'a' ]
@@ -2241,18 +2420,18 @@ console.log(deduped); // [ 1, 'a' ]
 
 ### ES2015
 
-We can write this in a more compact way using an [arrow function](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/Arrow\_functions).
+We can write this in a more compact way using an [arrow function](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/Arrow_functions).
 
 ```javascript
-var deduped = [ 1, 1, 'a', 'a' ].filter( (el, i, arr) => arr.indexOf(el) === i);
+var deduped = [1, 1, 'a', 'a'].filter((el, i, arr) => arr.indexOf(el) === i);
 
 console.log(deduped); // [ 1, 'a' ]
 ```
 
-But with the introduction of [Sets](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Set) and the [`from`](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global\_Objects/Array/from) method, we can achieve the same result in a more concise way.
+But with the introduction of [Sets](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set) and the [`from`](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/from) method, we can achieve the same result in a more concise way.
 
 ```javascript
-var deduped = Array.from( new Set([ 1, 1, 'a', 'a' ]) );
+var deduped = Array.from(new Set([1, 1, 'a', 'a']));
 
 console.log(deduped); // [ 1, 'a' ]
 ```
@@ -2273,22 +2452,17 @@ Therefore we need to change our approach and use a hash table.
 
 ```javascript
 function dedup(arr) {
-	var hashTable = {};
+    var hashTable = {};
 
-	return arr.filter(function (el) {
-		var key = JSON.stringify(el);
-		var match = Boolean(hashTable[key]);
+    return arr.filter(function (el) {
+        var key = JSON.stringify(el);
+        var match = Boolean(hashTable[key]);
 
-		return (match ? false : hashTable[key] = true);
-	});
+        return match ? false : (hashTable[key] = true);
+    });
 }
 
-var deduped = dedup([
-	{ a: 1 },
-	{ a: 1 },
-	[ 1, 2 ],
-	[ 1, 2 ]
-]);
+var deduped = dedup([{ a: 1 }, { a: 1 }, [1, 2], [1, 2]]);
 
 console.log(deduped); // [ {a: 1}, [1, 2] ]
 ```
@@ -2304,7 +2478,7 @@ hashTable['1'] = true;
 console.log(hashTable); // { '1': true }
 ```
 
-However, because we're using [`JSON.stringify`](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global\_Objects/JSON/stringify), keys that are of the type `String`, will be stored as an escaped string value, giving us unique keys in our `hashTable`.
+However, because we're using [`JSON.stringify`](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify), keys that are of the type `String`, will be stored as an escaped string value, giving us unique keys in our `hashTable`.
 
 ```javascript
 var hashTable = {};
@@ -2318,16 +2492,7 @@ console.log(hashTable); // { '1': true, '\'1\'': true }
 This means duplicate elements of the same value, but of a different type, will still be deduplicated using the same implementation.
 
 ```javascript
-var deduped = dedup([
-	{ a: 1 },
-	{ a: 1 },
-	[ 1, 2 ],
-	[ 1, 2 ],
-	1,
-	1,
-	'1',
-	'1'
-]);
+var deduped = dedup([{ a: 1 }, { a: 1 }, [1, 2], [1, 2], 1, 1, '1', '1']);
 
 console.log(deduped); // [ {a: 1}, [1, 2], 1, '1' ]
 ```
@@ -2336,21 +2501,21 @@ console.log(deduped); // [ {a: 1}, [1, 2], 1, '1' ]
 
 ### Methods
 
-* [`filter`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Array/filter)
-* [`indexOf`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Array/indexOf)
-* [`from`](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global\_Objects/Array/from)
-* [`JSON.stringify`](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global\_Objects/JSON/stringify)
+-   [`filter`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
+-   [`indexOf`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf)
+-   [`from`](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/from)
+-   [`JSON.stringify`](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify)
 
 ### ES2015
 
-* [arrow functions](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/Arrow\_functions)
-* [Sets](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Set)
+-   [arrow functions](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+-   [Sets](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set)
 
 ### Stack overflow
 
-* [remove duplicates from array](http://stackoverflow.com/questions/9229645/remove-duplicates-from-javascript-array/9229821#9229821)
+-   [remove duplicates from array](http://stackoverflow.com/questions/9229645/remove-duplicates-from-javascript-array/9229821#9229821)
 
-***
+---
 
 ##
 
@@ -2361,34 +2526,38 @@ flattening-multidimensional-arrays-in-javascript/
 - javascript
 ```
 
-***
+---
 
 These are the three known ways to merge multidimensional array into a single array.
 
 Given this array:
 
 ```js
-var myArray = [[1, 2],[3, 4, 5], [6, 7, 8, 9]];
+var myArray = [
+    [1, 2],
+    [3, 4, 5],
+    [6, 7, 8, 9]
+];
 ```
 
 We wanna have this result:
 
 ```js
-[1, 2, 3, 4, 5, 6, 7, 8, 9]
+[1, 2, 3, 4, 5, 6, 7, 8, 9];
 ```
 
-#### Solution 1: Using [`concat()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Array/concat) and [`apply()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Function/apply)
+#### Solution 1: Using [`concat()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/concat) and [`apply()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply)
 
 ```js
 var myNewArray = [].concat.apply([], myArray);
 // [1, 2, 3, 4, 5, 6, 7, 8, 9]
 ```
 
-#### Solution 2: Using [`reduce()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Array/Reduce#Flatten\_an\_array\_of\_arrays)
+#### Solution 2: Using [`reduce()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce#Flatten_an_array_of_arrays)
 
 ```js
-var myNewArray = myArray.reduce(function(prev, curr) {
-  return prev.concat(curr);
+var myNewArray = myArray.reduce(function (prev, curr) {
+    return prev.concat(curr);
 });
 // [1, 2, 3, 4, 5, 6, 7, 8, 9]
 ```
@@ -2398,14 +2567,13 @@ var myNewArray = myArray.reduce(function(prev, curr) {
 ```js
 var myNewArray3 = [];
 for (var i = 0; i < myArray.length; ++i) {
-  for (var j = 0; j < myArray[i].length; ++j)
-    myNewArray3.push(myArray[i][j]);
+    for (var j = 0; j < myArray[i].length; ++j) myNewArray3.push(myArray[i][j]);
 }
 console.log(myNewArray3);
 // [1, 2, 3, 4, 5, 6, 7, 8, 9]
 ```
 
-#### Solution 4: Using [spread operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread\_operator) in ES6
+#### Solution 4: Using [spread operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_operator) in ES6
 
 ```js
 var myNewArray4 = [].concat(...myArray);
@@ -2413,7 +2581,7 @@ console.log(myNewArray4);
 // [1, 2, 3, 4, 5, 6, 7, 8, 9]
 ```
 
-#### Solution 5: Using [`flat()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Array/flat) in ES10
+#### Solution 5: Using [`flat()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flat) in ES10
 
 ```js
 var myNewArray5 = myArray.flat();
@@ -2427,7 +2595,7 @@ For infinitely nested array try Lodash [flattenDeep()](https://lodash.com/docs#f
 
 If you are curious about performance, [here](http://jsperf.com/flatten-an-array-loop-vs-reduce/6) a test for check how it works.
 
-***
+---
 
 ##
 
@@ -2438,7 +2606,7 @@ advanced-properties/
 - javascript
 ```
 
-***
+---
 
 It is possible to configure object properties in Javascript for example to set properties to be pseudo-private or readonly. This feature is available since ECMAScript 5.1, therefore supported by all recent browsers.
 
@@ -2447,8 +2615,8 @@ To do so, you need to use the method `defineProperty` of the `Object` prototype 
 ```js
 var a = {};
 Object.defineProperty(a, 'readonly', {
-  value: 15,
-  writable: false
+    value: 15,
+    writable: false
 });
 
 a.readonly = 20;
@@ -2458,29 +2626,29 @@ console.log(a.readonly); // 15
 The syntax is as follows:
 
 ```js
-Object.defineProperty(dest, propName, options)
+Object.defineProperty(dest, propName, options);
 ```
 
 or for multiple definitions:
 
 ```js
 Object.defineProperties(dest, {
-  propA: optionsA,
-  propB: optionsB, //...
-})
+    propA: optionsA,
+    propB: optionsB //...
+});
 ```
 
 where options include the following attributes:
 
-* _value_: if the property is not a getter (see below), value is a mandatory attribute. `{a: 12}` === `Object.defineProperty(obj, 'a', {value: 12})`
-* _writable_: set the property as readonly. Note that if the property is a nested objects, its properties are still editable.
-* _enumerable_: set the property as hidden. That means that `for ... of` loops and `stringify` will not include the property in their result, but the property is still there. Note: That doesn't mean that the property is private! It can still be accessible from the outside, it just means that it won't be printed.
-* _configurable_: set the property as non modifiable, e.g. protected from deletion or redefinition. Again, if the property is a nested object, its properties are still configurable.
+-   _value_: if the property is not a getter (see below), value is a mandatory attribute. `{a: 12}` === `Object.defineProperty(obj, 'a', {value: 12})`
+-   _writable_: set the property as readonly. Note that if the property is a nested objects, its properties are still editable.
+-   _enumerable_: set the property as hidden. That means that `for ... of` loops and `stringify` will not include the property in their result, but the property is still there. Note: That doesn't mean that the property is private! It can still be accessible from the outside, it just means that it won't be printed.
+-   _configurable_: set the property as non modifiable, e.g. protected from deletion or redefinition. Again, if the property is a nested object, its properties are still configurable.
 
 So in order to create a private constant property, you can define it like so:
 
 ```js
-Object.defineProperty(obj, 'myPrivateProp', {value: val, enumerable: false, writable: false, configurable: false});
+Object.defineProperty(obj, 'myPrivateProp', { value: val, enumerable: false, writable: false, configurable: false });
 ```
 
 Besides configuring properties, `defineProperty` allows us to define _dynamic properties_, thanks to the second parameter being a string. For instance, let's say that I want to create properties according to some external configuration:
@@ -2520,17 +2688,19 @@ foobar.foo = 20; // _foo = 20
 Aside for the obvious advantage of encapsulation and advanced accessors, you will notice that we didn't "call" the getter, instead we just "get" the property without parentheses! This is awesome! For instance, let's imagine that we have an object with long nested properties, like so:
 
 ```js
-var obj = {a: {b: {c: [{d: 10}, {d: 20}] } } };
+var obj = { a: { b: { c: [{ d: 10 }, { d: 20 }] } } };
 ```
 
 Now instead of doing `a.b.c[0].d` (where one of the properties can resolve to `undefined` and throw an error), we can instead create an alias:
 
 ```js
 Object.defineProperty(obj, 'firstD', {
-  get: function () { return a && a.b && a.b.c && a.b.c[0] && a.b.c[0].d }
-})
+    get: function () {
+        return a && a.b && a.b.c && a.b.c[0] && a.b.c[0].d;
+    }
+});
 
-console.log(obj.firstD) // 10
+console.log(obj.firstD); // 10
 ```
 
 #### Note
@@ -2539,10 +2709,10 @@ If you define a getter without a setter and still try to set a value, you will g
 
 #### Links
 
-* [defineProperty](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Object/defineProperty)
-* [Defining properties in JavaScript](http://bdadam.com/blog/defining-properties-in-javascript.html)
+-   [defineProperty](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty)
+-   [Defining properties in JavaScript](http://bdadam.com/blog/defining-properties-in-javascript.html)
 
-***
+---
 
 ##
 
@@ -2553,15 +2723,15 @@ using-json-stringify/
 - javascript
 ```
 
-***
+---
 
 Let's say there is an object with properties "prop1", "prop2", "prop3". We can pass **additional params** to **JSON.stringify** to selectively write properties of the object to string like:
 
 ```javascript
 var obj = {
-    'prop1': 'value1',
-    'prop2': 'value2',
-    'prop3': 'value3'
+    prop1: 'value1',
+    prop2: 'value2',
+    prop3: 'value3'
 };
 
 var selectedProperties = ['prop1', 'prop2'];
@@ -2577,7 +2747,6 @@ The **"str"** will contain only info on selected properties only.
 Instead of array we can pass a function also.
 
 ```javascript
-
 function selectedProperties(key, val) {
     // the first val will be the entire object, key is empty string
     if (!key) {
@@ -2605,7 +2774,7 @@ var str = JSON.stringify(obj, selectedProperties, '\t\t');
 */
 ```
 
-***
+---
 
 ##
 
@@ -2616,7 +2785,7 @@ array-average-and-median/
 - javascript
 ```
 
-***
+---
 
 The following examples will be based on the following array:
 
@@ -2626,13 +2795,13 @@ let values = [2, 56, 3, 41, 0, 4, 100, 23];
 
 To get the average, we have to sum up numbers and then divide by the number of values. Steps are:
 
-* get the array length
-* sum up values
-* get the average (`sum/length`)
+-   get the array length
+-   sum up values
+-   get the average (`sum/length`)
 
 ```javascript
 let values = [2, 56, 3, 41, 0, 4, 100, 23];
-let sum = values.reduce((previous, current) => current += previous);
+let sum = values.reduce((previous, current) => (current += previous));
 let avg = sum / values.length;
 // avg = 28
 ```
@@ -2642,15 +2811,15 @@ Or:
 ```javascript
 let values = [2, 56, 3, 41, 0, 4, 100, 23];
 let count = values.length;
-values = values.reduce((previous, current) => current += previous);
+values = values.reduce((previous, current) => (current += previous));
 values /= count;
 // avg = 28
 ```
 
 Now, to get the median steps are:
 
-* sort the array
-* get the arethmic mean of the middle values
+-   sort the array
+-   get the arethmic mean of the middle values
 
 ```javascript
 let values = [2, 56, 3, 41, 0, 4, 100, 23];
@@ -2666,11 +2835,11 @@ With a bitwise operator:
 ```javascript
 let values = [2, 56, 3, 41, 0, 4, 100, 23];
 values.sort((a, b) => a - b);
-let median = (values[(values.length - 1) >> 1] + values[values.length >> 1]) / 2
+let median = (values[(values.length - 1) >> 1] + values[values.length >> 1]) / 2;
 // median = 13,5
 ```
 
-***
+---
 
 ## preventing-unapply-attacks/
 
@@ -2679,52 +2848,51 @@ let median = (values[(values.length - 1) >> 1] + values[values.length >> 1]) / 2
 - javascript
 ```
 
-***
+---
 
 By overriding the builtin prototypes, external code can cause code to break by rewriting code to expose and change bound arguments. This can be an issue that seriously breaks applications that works by using polyfill es5 methods.
 
 ```js
 // example bind polyfill
 function bind(fn) {
-  var prev = Array.prototype.slice.call(arguments, 1);
-  return function bound() {
-    var curr = Array.prototype.slice.call(arguments, 0);
-    var args = Array.prototype.concat.apply(prev, curr);
-    return fn.apply(null, args);
-  };
+    var prev = Array.prototype.slice.call(arguments, 1);
+    return function bound() {
+        var curr = Array.prototype.slice.call(arguments, 0);
+        var args = Array.prototype.concat.apply(prev, curr);
+        return fn.apply(null, args);
+    };
 }
-
 
 // unapply-attack
 function unapplyAttack() {
-  var concat = Array.prototype.concat;
-  Array.prototype.concat = function replaceAll() {
-    Array.prototype.concat = concat; // restore the correct version
-    var curr = Array.prototype.slice.call(arguments, 0);
-    var result = concat.apply([], curr);
-    return result;
-  };
+    var concat = Array.prototype.concat;
+    Array.prototype.concat = function replaceAll() {
+        Array.prototype.concat = concat; // restore the correct version
+        var curr = Array.prototype.slice.call(arguments, 0);
+        var result = concat.apply([], curr);
+        return result;
+    };
 }
 ```
 
 The above function discards the `prev` array from the bind meaning that any `.concat` the first concat call following using the unapply attack will throw an error.
 
-By using [Object.freeze](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Object/freeze), making an object immutable, you prevent any overriding of the builtin object prototypes.
+By using [Object.freeze](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/freeze), making an object immutable, you prevent any overriding of the builtin object prototypes.
 
 ```js
 (function freezePrototypes() {
-  if (typeof Object.freeze !== 'function') {
-    throw new Error('Missing Object.freeze');
-  }
-  Object.freeze(Object.prototype);
-  Object.freeze(Array.prototype);
-  Object.freeze(Function.prototype);
-}());
+    if (typeof Object.freeze !== 'function') {
+        throw new Error('Missing Object.freeze');
+    }
+    Object.freeze(Object.prototype);
+    Object.freeze(Array.prototype);
+    Object.freeze(Function.prototype);
+})();
 ```
 
 You can read more about unapply attacks [here](https://glebbahmutov.com/blog/unapply-attack/). Although this concept is called an 'unapply attack' due to some code being able to access closures that normally wouldn't be in scope, it is mostly wrong to consider this a security feature due to it not preventing an attacker with code execution from extending prototypes before the freezing happens and also still having the potential to read all scopes using various language features. ECMA modules would give realm based isolation which is much stronger than this solution however still doesn't fix the issues of third party scripts.
 
-***
+---
 
 ## use-destructuring-in-function-parameters/
 
@@ -2733,33 +2901,33 @@ You can read more about unapply attacks [here](https://glebbahmutov.com/blog/una
 - javascript
 ```
 
-***
+---
 
-I am sure many of you are already familiar with the [ES6 Destructuring Assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring\_assignment). Did you know that you can also use it in function parameters?
+I am sure many of you are already familiar with the [ES6 Destructuring Assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment). Did you know that you can also use it in function parameters?
 
 ```js
-var sayHello = function({ name, surname }) {
-  console.log(`Hello ${name} ${surname}! How are you?`);
+var sayHello = function ({ name, surname }) {
+    console.log(`Hello ${name} ${surname}! How are you?`);
 };
 
-sayHello({ name: 'John', surname: 'Smith' })
+sayHello({ name: 'John', surname: 'Smith' });
 // -> Hello John Smith! How are you?
 ```
 
-This is great for functions which accept an options object. For this use case, you can also add [default parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default\_parameters) to fill in whatever values the caller leaves out, or if the caller forgets to pass one at all:
+This is great for functions which accept an options object. For this use case, you can also add [default parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters) to fill in whatever values the caller leaves out, or if the caller forgets to pass one at all:
 
 ```js
-var sayHello2 = function({ name = "Anony", surname = "Moose" } = {}) {
-  console.log(`Hello ${name} ${surname}! How are you?`);
+var sayHello2 = function ({ name = 'Anony', surname = 'Moose' } = {}) {
+    console.log(`Hello ${name} ${surname}! How are you?`);
 };
 ```
 
 The `= {}` says that the default object to be destructured for this parameter is `{}`, in case the caller forgets to pass the parameter, or passes one of the wrong type (more on this below).
 
 ```js
-sayHello2()
+sayHello2();
 // -> Hello Anony Moose! How are you?
-sayHello2({ name: "Bull" })
+sayHello2({ name: 'Bull' });
 // -> Hello Bull Moose! How are you?
 ```
 
@@ -2768,20 +2936,20 @@ sayHello2({ name: "Bull" })
 With plain destructuring assignment, if the the input parameter can't be matched with the function's specified object arguments, all the unmatched arguments are `undefined`, so you need to add code that handles this properly:
 
 ```js
-var sayHelloTimes = function({ name, surname }, times) {
-  console.log(`Hello ${name} ${surname}! I've seen you ${times} times before.`);
-}
+var sayHelloTimes = function ({ name, surname }, times) {
+    console.log(`Hello ${name} ${surname}! I've seen you ${times} times before.`);
+};
 
-sayHelloTimes({ name: "Pam" }, 5678)
+sayHelloTimes({ name: 'Pam' }, 5678);
 // -> Hello Pam undefined! I've seen you 5678 times before.
-sayHelloTimes(5678)
+sayHelloTimes(5678);
 // -> Hello undefined undefined! I've seen you undefined times before.
 ```
 
 Worse, if the parameter to be destructured is missing, an exception is thrown, probably bringing your app to a screeching halt:
 
 ```js
-sayHelloTimes()
+sayHelloTimes();
 // -> Uncaught TypeError: Cannot match against 'undefined' or 'null'...
 ```
 
@@ -2790,30 +2958,30 @@ It's conceptually similar to accessing a property of an undefined object, just w
 Destructuring assignment with default parameters hides all the above to a certain extent:
 
 ```js
-var sayHelloTimes2 = function({ name = "Anony", surname = "Moose" } = {}, times) {
-  console.log(`Hello ${name} ${surname}! I've seen you ${times} times before.`);
+var sayHelloTimes2 = function ({ name = 'Anony', surname = 'Moose' } = {}, times) {
+    console.log(`Hello ${name} ${surname}! I've seen you ${times} times before.`);
 };
 
-sayHelloTimes2({ name: "Pam" }, 5678)
+sayHelloTimes2({ name: 'Pam' }, 5678);
 // -> Hello Pam Moose! I've seen you 5678 times before.
-sayHelloTimes2(5678)
+sayHelloTimes2(5678);
 // -> Hello Anony Moose! I've seen you undefined times before.
-sayHelloTimes2()
+sayHelloTimes2();
 // -> Hello Anony Moose! I've seen you undefined times before.
 ```
 
 As for `= {}`, it covers the case of a missing _object_, for which individual property defaults won't help at all:
 
 ```js
-var sayHelloTimes2a = function({ name = "Anony", surname = "Moose" }, times) {
-  console.log(`Hello ${name} ${surname}! I've seen you ${times} times before.`);
+var sayHelloTimes2a = function ({ name = 'Anony', surname = 'Moose' }, times) {
+    console.log(`Hello ${name} ${surname}! I've seen you ${times} times before.`);
 };
 
-sayHelloTimes2a({ name: "Pam" }, 5678)
+sayHelloTimes2a({ name: 'Pam' }, 5678);
 // -> Hello Pam Moose! I've seen you 5678 times before.
-sayHelloTimes2a(5678)
+sayHelloTimes2a(5678);
 // -> Hello Anony Moose! I've seen you undefined times before.
-sayHelloTimes2a()
+sayHelloTimes2a();
 // -> Uncaught TypeError: Cannot match against 'undefined' or 'null'.
 ```
 
@@ -2821,7 +2989,7 @@ sayHelloTimes2a()
 
 Note that destructuring assignment may not yet be available by default, in the version of Node.js or browser that you're using. For Node.js, you can try using the `--harmony-destructuring` flag on startup to activate this feature.
 
-***
+---
 
 ## know-the-passing-mechanism/
 
@@ -2830,27 +2998,29 @@ Note that destructuring assignment may not yet be available by default, in the v
 - javascript
 ```
 
-***
+---
 
 JavaScript is pass-by-value, technically. It is neither pass-by-value nor pass-by-reference, going by the truest sense of these terms. To understand this passing mechanism, take a look at the following two example code snippets and the explanations.
 
 #### Example 1
 
 ```js
+var me = {
+    // 1
+    partOf: 'A Team'
+};
 
-var me = {					// 1
-	'partOf' : 'A Team'
-}; 
+function myTeam(me) {
+    // 2
 
-function myTeam(me) {		// 2
+    me = {
+        // 3
+        belongsTo: 'A Group'
+    };
+}
 
-	me = {					// 3
-		'belongsTo' : 'A Group'
-	}; 
-} 	
-
-myTeam(me);		
-console.log(me);			// 4  : {'partOf' : 'A Team'}
+myTeam(me);
+console.log(me); // 4  : {'partOf' : 'A Team'}
 ```
 
 In above example, when the `myTeam` gets invoked, JavaScript is _passing the reference to_ `me` _object as value, as it is an object_ and invocation itself creates two independent references to the same object, (though the name being same here i.e. `me`, is misleading and gives us an impression that it is the single reference) and hence, the reference variable themselves are independent.
@@ -2860,27 +3030,27 @@ When we assigned a new object at #`3`, we are changing this reference value enti
 #### Example 2
 
 ```js
+var me = {
+    // 1
+    partOf: 'A Team'
+};
 
-var me = {					// 1
-	'partOf' : 'A Team'
-}; 
-
-function myGroup(me) { 		// 2
-	me.partOf = 'A Group';  // 3
-} 
+function myGroup(me) {
+    // 2
+    me.partOf = 'A Group'; // 3
+}
 
 myGroup(me);
-console.log(me);			// 4  : {'partOf' : 'A Group'}
-	
+console.log(me); // 4  : {'partOf' : 'A Group'}
 ```
 
 In the case of `myGroup` invocation, we are passing the object `me`. But unlike the example 1 scenario, we are not assigning this `me` variable to any new object, effectively meaning the object reference value within the `myGroup` function scope still is the original object's reference value and when we are modifying the property within this scope, it is effectively modifying the original object's property. Hence, you get the output from #`4`.
 
 So does this later case not prove that javascript is pass-by-reference? No, it does not. Remember, _JavaScript passes the reference as value, in case of objects_. The confusion arises as we tend not to understand fully what pass by reference is. This is the exact reason, some prefer to call this as _call-by-sharing_.
 
-_Initially posted by the author on _[_js-by-examples_](https://github.com/bmkmanoj/js-by-examples/blob/master/examples/js\_pass\_by\_value\_or\_reference.md)
+_Initially posted by the author on _[_js-by-examples_](https://github.com/bmkmanoj/js-by-examples/blob/master/examples/js_pass_by_value_or_reference.md)
 
-***
+---
 
 ## calculate-the-max-min-value-from-an-array/
 
@@ -2889,9 +3059,9 @@ _Initially posted by the author on _[_js-by-examples_](https://github.com/bmkman
 - javascript
 ```
 
-***
+---
 
-The built-in functions [Math.max()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Math/max) and [Math.min()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Math/min) find the maximum and minimum value of the arguments, respectively.
+The built-in functions [Math.max()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/max) and [Math.min()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/min) find the maximum and minimum value of the arguments, respectively.
 
 ```js
 Math.max(1, 2, 3, 4); // 4
@@ -2900,27 +3070,27 @@ Math.min(1, 2, 3, 4); // 1
 
 These functions will not work as-is with arrays of numbers. However, there are some ways around this.
 
-[`Function.prototype.apply()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Function/apply) allows you to call a function with a given `this` value and an _array_ of arguments.
+[`Function.prototype.apply()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply) allows you to call a function with a given `this` value and an _array_ of arguments.
 
 ```js
 var numbers = [1, 2, 3, 4];
-Math.max.apply(null, numbers) // 4
-Math.min.apply(null, numbers) // 1
+Math.max.apply(null, numbers); // 4
+Math.min.apply(null, numbers); // 1
 ```
 
 Passing the `numbers` array as the second argument of `apply()` results in the function being called with all values in the array as parameters.
 
-A simpler, ES2015 way of accomplishing this is with the new [spread operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread\_operator).
+A simpler, ES2015 way of accomplishing this is with the new [spread operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_operator).
 
 ```js
 var numbers = [1, 2, 3, 4];
-Math.max(...numbers) // 4
-Math.min(...numbers) // 1
+Math.max(...numbers); // 4
+Math.min(...numbers); // 1
 ```
 
 This operator causes the values in the array to be expanded, or "spread", into the function's arguments.
 
-***
+---
 
 ## detect-document-ready-in-pure-js/
 
@@ -2929,13 +3099,13 @@ This operator causes the values in the array to be expanded, or "spread", into t
 - javascript
 ```
 
-***
+---
 
 The cross-browser way to check if the document has loaded in pure JavaScript is using [`readyState`](https://developer.mozilla.org/en-US/docs/Web/API/Document/readyState).
 
 ```js
 if (document.readyState === 'complete') {
-  // The page is fully loaded
+    // The page is fully loaded
 }
 ```
 
@@ -2943,10 +3113,10 @@ You can detect when the document is ready...
 
 ```js
 let stateCheck = setInterval(() => {
-  if (document.readyState === 'complete') {
-    clearInterval(stateCheck);
-    // document ready
-  }
+    if (document.readyState === 'complete') {
+        clearInterval(stateCheck);
+        // document ready
+    }
 }, 100);
 ```
 
@@ -2954,15 +3124,15 @@ or with [onreadystatechange](https://developer.mozilla.org/en-US/docs/Web/Events
 
 ```js
 document.onreadystatechange = () => {
-  if (document.readyState === 'complete') {
-    // document ready
-  }
+    if (document.readyState === 'complete') {
+        // document ready
+    }
 };
 ```
 
 Use `document.readyState === 'interactive'` to detect when the DOM is ready.
 
-***
+---
 
 ## basics-declarations/
 
@@ -2971,13 +3141,14 @@ Use `document.readyState === 'interactive'` to detect when the DOM is ready.
 - javascript
 ```
 
-***
+---
 
 Below, different ways to declare variables in JavaScript. Comments and console.log should be enough to explain what's happening here:
 
 ```js
-var y, x = y = 1 //== var x; var y; x = y = 1
-console.log('--> 1:', `x = ${x}, y = ${y}`)
+var y,
+    x = (y = 1); //== var x; var y; x = y = 1
+console.log('--> 1:', `x = ${x}, y = ${y}`);
 
 // Will print
 //--> 1: x = 1, y = 1
@@ -2986,11 +3157,11 @@ console.log('--> 1:', `x = ${x}, y = ${y}`)
 First, we just set two variables. Nothing much here.
 
 ```js
-;(() => { 
-  var x = y = 2 // == var x; x = y = 2;
-  console.log('2.0:', `x = ${x}, y = ${y}`)
-})()
-console.log('--> 2.1:', `x = ${x}, y = ${y}`)
+(() => {
+    var x = (y = 2); // == var x; x = y = 2;
+    console.log('2.0:', `x = ${x}, y = ${y}`);
+})();
+console.log('--> 2.1:', `x = ${x}, y = ${y}`);
 
 // Will print
 //2.0: x = 2, y = 2
@@ -3000,11 +3171,12 @@ console.log('--> 2.1:', `x = ${x}, y = ${y}`)
 As you can see, the code has only changed the global y, as we haven't declared the variable in the closure.
 
 ```js
-;(() => { 
-  var x, y = 3 // == var x; var y = 3;
-  console.log('3.0:', `x = ${x}, y = ${y}`)
-})()
-console.log('--> 3.1:', `x = ${x}, y = ${y}`)
+(() => {
+    var x,
+        y = 3; // == var x; var y = 3;
+    console.log('3.0:', `x = ${x}, y = ${y}`);
+})();
+console.log('--> 3.1:', `x = ${x}, y = ${y}`);
 
 // Will print
 //3.0: x = undefined, y = 3
@@ -3014,11 +3186,12 @@ console.log('--> 3.1:', `x = ${x}, y = ${y}`)
 Now we declare both variables through var. Meaning they only live in the context of the closure.
 
 ```js
-;(() => { 
-  var y, x = y = 4 // == var x; var y; x = y = 4
-  console.log('4.0:', `x = ${x}, y = ${y}`)
-})()
-console.log('--> 4.1:', `x = ${x}, y = ${y}`)
+(() => {
+    var y,
+        x = (y = 4); // == var x; var y; x = y = 4
+    console.log('4.0:', `x = ${x}, y = ${y}`);
+})();
+console.log('--> 4.1:', `x = ${x}, y = ${y}`);
 
 // Will print
 //4.0: x = 4, y = 4
@@ -3028,8 +3201,8 @@ console.log('--> 4.1:', `x = ${x}, y = ${y}`)
 Both variables have been declared using var and only after that we've set their values. As local > global, x and y are local in the closure, meaning the global x and y are untouched.
 
 ```js
-x = 5 // == x = 5
-console.log('--> 5:', `x = ${x}, y = ${y}`)
+x = 5; // == x = 5
+console.log('--> 5:', `x = ${x}, y = ${y}`);
 
 // Will print
 //--> 5: x = 5, y = 2
@@ -3037,13 +3210,13 @@ console.log('--> 5:', `x = ${x}, y = ${y}`)
 
 This last line is explicit by itself.
 
-You can test this and see the result [thanks to babel](https://babeljs.io/repl/#?experimental=false\&evaluate=true\&loose=false\&spec=false\&code=var%20y%2C%20x%20%3D%20y%20%3D%201%20%2F%2F%3D%3D%20var%20x%3B%20var%20y%3B%20x%20%3D%20y%20%3D%201%0Aconsole.log\('--%3E%201%3A'%2C%20%60x%20%3D%20%24%7Bx%7D%2C%20y%20%3D%20%24%7By%7D%60\)%0A%0A%2F%2F%20Will%20print%0A%2F%2F--%3E%201%3A%20x%20%3D%201%2C%20y%20%3D%201%0A%0A%3B\(\(\)%20%3D%3E%20%7B%20%0A%20%20var%20x%20%3D%20y%20%3D%202%20%2F%2F%20%3D%3D%20var%20x%3B%20y%20%3D%202%3B%0A%20%20console.log\('2.0%3A'%2C%20%60x%20%3D%20%24%7Bx%7D%2C%20y%20%3D%20%24%7By%7D%60\)%0A%7D\)\(\)%0Aconsole.log\('--%3E%202.1%3A'%2C%20%60x%20%3D%20%24%7Bx%7D%2C%20y%20%3D%20%24%7By%7D%60\)%0A%0A%2F%2F%20Will%20print%0A%2F%2F2.0%3A%20x%20%3D%202%2C%20y%20%3D%202%0A%2F%2F--%3E%202.1%3A%20x%20%3D%201%2C%20y%20%3D%202%0A%0A%3B\(\(\)%20%3D%3E%20%7B%20%0A%20%20var%20x%2C%20y%20%3D%203%20%2F%2F%20%3D%3D%20var%20x%3B%20var%20y%20%3D%203%3B%0A%20%20console.log\('3.0%3A'%2C%20%60x%20%3D%20%24%7Bx%7D%2C%20y%20%3D%20%24%7By%7D%60\)%0A%7D\)\(\)%0Aconsole.log\('--%3E%203.1%3A'%2C%20%60x%20%3D%20%24%7Bx%7D%2C%20y%20%3D%20%24%7By%7D%60\)%0A%0A%2F%2F%20Will%20print%0A%2F%2F3.0%3A%20x%20%3D%20undefined%2C%20y%20%3D%203%0A%2F%2F--%3E%203.1%3A%20x%20%3D%201%2C%20y%20%3D%202%0A%0A%3B\(\(\)%20%3D%3E%20%7B%20%0A%20%20var%20y%2C%20x%20%3D%20y%20%3D%204%20%2F%2F%20%3D%3D%20var%20x%3B%20var%20y%3B%20x%20%3D%20y%20%3D%203%0A%20%20console.log\('4.0%3A'%2C%20%60x%20%3D%20%24%7Bx%7D%2C%20y%20%3D%20%24%7By%7D%60\)%0A%7D\)\(\)%0Aconsole.log\('--%3E%204.1%3A'%2C%20%60x%20%3D%20%24%7Bx%7D%2C%20y%20%3D%20%24%7By%7D%60\)%0A%0A%2F%2F%20Will%20print%0A%2F%2F4.0%3A%20x%20%3D%204%2C%20y%20%3D%204%0A%2F%2F--%3E%204.1%3A%20x%20%3D%201%2C%20y%20%3D%202%0A%0Ax%20%3D%205%20%2F%2F%20%3D%3D%20x%20%3D%205%0Aconsole.log\('--%3E%205%3A'%2C%20%60x%20%3D%20%24%7Bx%7D%2C%20y%20%3D%20%24%7By%7D%60\)%0A%0A%2F%2F%20Will%20print%0A%2F%2F--%3E%205%3A%20x%20%3D%205%2C%20y%20%3D%202).
+You can test this and see the result [thanks to babel](<https://babeljs.io/repl/#?experimental=false&evaluate=true&loose=false&spec=false&code=var%20y%2C%20x%20%3D%20y%20%3D%201%20%2F%2F%3D%3D%20var%20x%3B%20var%20y%3B%20x%20%3D%20y%20%3D%201%0Aconsole.log('--%3E%201%3A'%2C%20%60x%20%3D%20%24%7Bx%7D%2C%20y%20%3D%20%24%7By%7D%60)%0A%0A%2F%2F%20Will%20print%0A%2F%2F--%3E%201%3A%20x%20%3D%201%2C%20y%20%3D%201%0A%0A%3B(()%20%3D%3E%20%7B%20%0A%20%20var%20x%20%3D%20y%20%3D%202%20%2F%2F%20%3D%3D%20var%20x%3B%20y%20%3D%202%3B%0A%20%20console.log('2.0%3A'%2C%20%60x%20%3D%20%24%7Bx%7D%2C%20y%20%3D%20%24%7By%7D%60)%0A%7D)()%0Aconsole.log('--%3E%202.1%3A'%2C%20%60x%20%3D%20%24%7Bx%7D%2C%20y%20%3D%20%24%7By%7D%60)%0A%0A%2F%2F%20Will%20print%0A%2F%2F2.0%3A%20x%20%3D%202%2C%20y%20%3D%202%0A%2F%2F--%3E%202.1%3A%20x%20%3D%201%2C%20y%20%3D%202%0A%0A%3B(()%20%3D%3E%20%7B%20%0A%20%20var%20x%2C%20y%20%3D%203%20%2F%2F%20%3D%3D%20var%20x%3B%20var%20y%20%3D%203%3B%0A%20%20console.log('3.0%3A'%2C%20%60x%20%3D%20%24%7Bx%7D%2C%20y%20%3D%20%24%7By%7D%60)%0A%7D)()%0Aconsole.log('--%3E%203.1%3A'%2C%20%60x%20%3D%20%24%7Bx%7D%2C%20y%20%3D%20%24%7By%7D%60)%0A%0A%2F%2F%20Will%20print%0A%2F%2F3.0%3A%20x%20%3D%20undefined%2C%20y%20%3D%203%0A%2F%2F--%3E%203.1%3A%20x%20%3D%201%2C%20y%20%3D%202%0A%0A%3B(()%20%3D%3E%20%7B%20%0A%20%20var%20y%2C%20x%20%3D%20y%20%3D%204%20%2F%2F%20%3D%3D%20var%20x%3B%20var%20y%3B%20x%20%3D%20y%20%3D%203%0A%20%20console.log('4.0%3A'%2C%20%60x%20%3D%20%24%7Bx%7D%2C%20y%20%3D%20%24%7By%7D%60)%0A%7D)()%0Aconsole.log('--%3E%204.1%3A'%2C%20%60x%20%3D%20%24%7Bx%7D%2C%20y%20%3D%20%24%7By%7D%60)%0A%0A%2F%2F%20Will%20print%0A%2F%2F4.0%3A%20x%20%3D%204%2C%20y%20%3D%204%0A%2F%2F--%3E%204.1%3A%20x%20%3D%201%2C%20y%20%3D%202%0A%0Ax%20%3D%205%20%2F%2F%20%3D%3D%20x%20%3D%205%0Aconsole.log('--%3E%205%3A'%2C%20%60x%20%3D%20%24%7Bx%7D%2C%20y%20%3D%20%24%7By%7D%60)%0A%0A%2F%2F%20Will%20print%0A%2F%2F--%3E%205%3A%20x%20%3D%205%2C%20y%20%3D%202>).
 
 More informations available on the [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var).
 
 Special thanks to @kurtextrem for his collaboration :)!
 
-***
+---
 
 ## reminders-about-reduce-function-usage/
 
@@ -3052,16 +3225,16 @@ Special thanks to @kurtextrem for his collaboration :)!
 - javascript
 ```
 
-***
+---
 
 As written in documentation the `reduce()` method applies a function against an accumulator and each value of the array (from left-to-right) to reduce it to a single value.
 
 #### Signature
 
-[reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Array/Reduce) function accepts 2 parameters (M: mandatory, O: optional):
+[reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce) function accepts 2 parameters (M: mandatory, O: optional):
 
-* (M) a callback **reducer function** to be applied that deals with a pair of previous (result of previous computation) and next element until end of the list.
-* (O) an **initial value** to be used as the first argument to the first call of the callback.
+-   (M) a callback **reducer function** to be applied that deals with a pair of previous (result of previous computation) and next element until end of the list.
+-   (O) an **initial value** to be used as the first argument to the first call of the callback.
 
 So let's see a common usage and later a more sophisticated one.
 
@@ -3071,10 +3244,12 @@ We are on Amazon website (prices in $) and our caddy is quite full, let's comput
 
 ```javascript
 // my current amazon caddy purchases
-var items = [{price: 10}, {price: 120}, {price: 1000}];
+var items = [{ price: 10 }, { price: 120 }, { price: 1000 }];
 
 // our reducer function
-var reducer = function add(sumSoFar, item) { return sumSoFar + item.price; };
+var reducer = function add(sumSoFar, item) {
+    return sumSoFar + item.price;
+};
 
 // do the job
 var total = items.reduce(reducer, 0);
@@ -3087,7 +3262,7 @@ Optional reduce function parameter was primitive integer type 0 in that first ca
 Now, cool I received a discount coupon of 20$.
 
 ```javascript
-var total = items.reduce(reducer,-20);
+var total = items.reduce(reducer, -20);
 
 console.log(total); // 1110
 ```
@@ -3102,39 +3277,36 @@ To illustrate this, let's create a single object literal with some reducers func
 
 ```javascript
 var reducers = {
-  totalInDollar: function(state, item) {
-    // specific statements...
-    return state.dollars += item.price;
-  },
-  totalInEuros : function(state, item) {
-    return state.euros += item.price * 0.897424392;
-  },
-  totalInPounds : function(state, item) {
-    return state.pounds += item.price * 0.692688671;
-  },
-  totalInYen : function(state, item) {
-    return state.yens += item.price * 113.852;
-  }
-  // more...
+    totalInDollar: function (state, item) {
+        // specific statements...
+        return (state.dollars += item.price);
+    },
+    totalInEuros: function (state, item) {
+        return (state.euros += item.price * 0.897424392);
+    },
+    totalInPounds: function (state, item) {
+        return (state.pounds += item.price * 0.692688671);
+    },
+    totalInYen: function (state, item) {
+        return (state.yens += item.price * 113.852);
+    }
+    // more...
 };
 ```
 
 Then, we create a new swiss knife function
 
-* responsible for applying each partial reduce functions.
-* that will return a new callback reducer function
+-   responsible for applying each partial reduce functions.
+-   that will return a new callback reducer function
 
 ```javascript
-var combineTotalPriceReducers = function(reducers) {
-  return function(state, item) {
-    return Object.keys(reducers).reduce(
-      function(nextState, key) {
-        reducers[key](state, item);
-        return state;
-      },
-      {}      
-    );
-  }
+var combineTotalPriceReducers = function (reducers) {
+    return function (state, item) {
+        return Object.keys(reducers).reduce(function (nextState, key) {
+            reducers[key](state, item);
+            return state;
+        }, {});
+    };
 };
 ```
 
@@ -3143,7 +3315,7 @@ Now let's see how using it.
 ```javascript
 var bigTotalPriceReducer = combineTotalPriceReducers(reducers);
 
-var initialState = {dollars: 0, euros:0, yens: 0, pounds: 0};
+var initialState = { dollars: 0, euros: 0, yens: 0, pounds: 0 };
 
 var totals = items.reduce(bigTotalPriceReducer, initialState);
 
@@ -3160,7 +3332,7 @@ Your reduce function could handle an history of each computation by instance as 
 
 [JSFiddle to play with](https://jsfiddle.net/darul75/81tgt0cd/)
 
-***
+---
 
 ## extract-unix-timestamp-easily/
 
@@ -3169,7 +3341,7 @@ Your reduce function could handle an history of each computation by instance as 
 - javascript
 ```
 
-***
+---
 
 We frequently need to calculate with unix timestamp. There are several ways to grab the timestamp. For current unix timestamp easiest and fastest way is
 
@@ -3208,13 +3380,13 @@ const timestamp = Math.floor(dateTime / 1000);
 
 Under the hood the runtime calls `valueOf` method of the `Date` object. Then the unary `+` operator calls `toNumber()` with that returned value. For detailed explanation please check the following links
 
-* [Date.prototype.valueOf](http://es5.github.io/#x15.9.5.8)
-* [Unary + operator](http://es5.github.io/#x11.4.6)
-* [toNumber()](http://es5.github.io/#x9.3)
-* [Date Javascript MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Date)
-* [Date.parse()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Date/parse)
+-   [Date.prototype.valueOf](http://es5.github.io/#x15.9.5.8)
+-   [Unary + operator](http://es5.github.io/#x11.4.6)
+-   [toNumber()](http://es5.github.io/#x9.3)
+-   [Date Javascript MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
+-   [Date.parse()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/parse)
 
-***
+---
 
 ## helpful-console-log-hacks/
 
@@ -3223,19 +3395,19 @@ Under the hood the runtime calls `valueOf` method of the `Date` object. Then the
 - javascript
 ```
 
-***
+---
 
 ### Using conditional breakpoints to log data
 
 If you wanted to log to the console a value each time a function is called, you can use conditional break points to do this. Open up your dev tools, find the function where you'd like to log data to the console and set a breakpoint with the following condition:
 
 ```js
-console.log(data.value) && false
+console.log(data.value) && false;
 ```
 
 A conditional breakpoint pauses the page thread only if the condition for the breakpoint evaluates to true. So by using a condition like console.log('foo') && false it's guaranteed to evaluate to false since you're putting the literal false in the AND condition. So this will not pause the page thread when it's hit, but it will log data to the console. This can also be used to count how many times a function or callback is called.
 
-Here's how you can set a conditional breakpoint in [Edge](https://dev.windows.com/en-us/microsoft-edge/platform/documentation/f12-devtools-guide/debugger/#setting-and-managing-breakpoints), [Chrome](https://developer.chrome.com/devtools/docs/javascript-debugging#breakpoints), [Firefox](https://developer.mozilla.org/en-US/docs/Tools/Debugger/How\_to/Set\_a\_conditional\_breakpoint) and [Safari](https://developer.apple.com/library/mac/documentation/AppleApplications/Conceptual/Safari\_Developer\_Guide/Debugger/Debugger.html).
+Here's how you can set a conditional breakpoint in [Edge](https://dev.windows.com/en-us/microsoft-edge/platform/documentation/f12-devtools-guide/debugger/#setting-and-managing-breakpoints), [Chrome](https://developer.chrome.com/devtools/docs/javascript-debugging#breakpoints), [Firefox](https://developer.mozilla.org/en-US/docs/Tools/Debugger/How_to/Set_a_conditional_breakpoint) and [Safari](https://developer.apple.com/library/mac/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Debugger/Debugger.html).
 
 ### Printing a function variable to console
 
@@ -3245,7 +3417,7 @@ Have you ever logged a function variable to the console and weren't able to just
 console.log(funcVariable + '');
 ```
 
-***
+---
 
 ## DOM-event-listening-made-easy/
 
@@ -3254,13 +3426,13 @@ console.log(funcVariable + '');
 - javascript
 ```
 
-***
+---
 
 Many of us are still doing these things:
 
-* `element.addEventListener('type', obj.method.bind(obj))`
-* `element.addEventListener('type', function (event) {})`
-* `element.addEventListener('type', (event) => {})`
+-   `element.addEventListener('type', obj.method.bind(obj))`
+-   `element.addEventListener('type', function (event) {})`
+-   `element.addEventListener('type', (event) => {})`
 
 The above examples all create new anonymous event handlers that can't be removed when no longer needed. This may cause performance problems or unexpected logic bugs, when handlers that you no longer need still get accidentally triggered through unexpected user interactions or [event bubbling](http://www.javascripter.net/faq/eventbubbling.htm).
 
@@ -3270,56 +3442,56 @@ Use a reference:
 
 ```js
 const handler = function () {
-  console.log("Tada!")
-}
-element.addEventListener("click", handler)
+    console.log('Tada!');
+};
+element.addEventListener('click', handler);
 // Later on
-element.removeEventListener("click", handler)
+element.removeEventListener('click', handler);
 ```
 
 Named function that removes itself:
 
 ```js
 element.addEventListener('click', function click(e) {
-  if (someCondition) {
-    return e.currentTarget.removeEventListener('click', click);
-  }
+    if (someCondition) {
+        return e.currentTarget.removeEventListener('click', click);
+    }
 });
 ```
 
 A better approach:
 
 ```js
-function handleEvent (eventName, {onElement, withCallback, useCapture = false} = {}, thisArg) {
-  const element = onElement || document.documentElement
+function handleEvent(eventName, { onElement, withCallback, useCapture = false } = {}, thisArg) {
+    const element = onElement || document.documentElement;
 
-  function handler (event) {
-    if (typeof withCallback === 'function') {
-      withCallback.call(thisArg, event)
+    function handler(event) {
+        if (typeof withCallback === 'function') {
+            withCallback.call(thisArg, event);
+        }
     }
-  }
 
-  handler.destroy = function () {
-    return element.removeEventListener(eventName, handler, useCapture)
-  }
+    handler.destroy = function () {
+        return element.removeEventListener(eventName, handler, useCapture);
+    };
 
-  element.addEventListener(eventName, handler, useCapture)
-  return handler
+    element.addEventListener(eventName, handler, useCapture);
+    return handler;
 }
 
 // Anytime you need
 const handleClick = handleEvent('click', {
-  onElement: element,
-  withCallback: (event) => {
-    console.log('Tada!')
-  }
-})
+    onElement: element,
+    withCallback: (event) => {
+        console.log('Tada!');
+    }
+});
 
 // And anytime you want to remove it
-handleClick.destroy()
+handleClick.destroy();
 ```
 
-***
+---
 
 ## return-values-with-the-new-operator/
 
@@ -3328,7 +3500,7 @@ handleClick.destroy()
 - javascript
 ```
 
-***
+---
 
 You're going to run into some instances where you'll be using `new` to allocate new objects in JavaScript. It's going to blow your mind unless you read this tip to understand what's happening behind the scenes.
 
@@ -3336,14 +3508,14 @@ The `new` operator in JavaScript is an operator that, under reasonable circumsta
 
 ```js
 function Thing() {
-  this.one = 1;
-  this.two = 2;
+    this.one = 1;
+    this.two = 2;
 }
 
 var myThing = new Thing();
 
-myThing.one // 1
-myThing.two // 2
+myThing.one; // 1
+myThing.two; // 2
 ```
 
 **Note**: `this` refers to the new object created by `new`. Otherwise if `Thing()` is called without `new`, **no object is created**, and `this` is going to point to the global object, which is `window`. This means that:
@@ -3355,10 +3527,10 @@ Now that you get that example, here's where things get a little bit wonky. Let's
 
 ```js
 function Thing() {
-  this.one = 1;
-  this.two = 2;
+    this.one = 1;
+    this.two = 2;
 
-  return 5;
+    return 5;
 }
 
 var myThing = new Thing();
@@ -3369,8 +3541,8 @@ Now, what does myThing equal? Is it 5? is it an object? Is it my crippled sense 
 Except the world does know:
 
 ```js
-myThing.one // 1
-myThing.two // 2
+myThing.one; // 1
+myThing.two; // 2
 ```
 
 Interestingly enough, we never actually see the five that we supposedly 'returned' from our constructor. That's weird, isn't it? What are you doing function? WHERE'S THE FIVE? Let's try it with something else.
@@ -3379,13 +3551,13 @@ Let's return a non-primitive type instead, something like an object.
 
 ```js
 function Thing() {
-  this.one = 1;
-  this.two = 2;
+    this.one = 1;
+    this.two = 2;
 
-  return {
-    three: 3,
-    four: 4
-  };
+    return {
+        three: 3,
+        four: 4
+    };
 }
 
 var myThing = new Thing();
@@ -3406,7 +3578,7 @@ console.log(myThing);
 
 However, returning a non-primitive, like an `object`, `array`, or `function` will stomp on the `this` instance, and return that non-primitive instead, effectively ruining all the hard work you did assigning everything to `this`.
 
-***
+---
 
 ## get-file-extension/
 
@@ -3415,18 +3587,18 @@ However, returning a non-primitive, like an `object`, `array`, or `function` wil
 - javascript
 ```
 
-***
+---
 
 #### Question: How to get the file extension?
 
 ```javascript
-var file1 = "50.xsl";
-var file2 = "30.doc";
+var file1 = '50.xsl';
+var file2 = '30.doc';
 getFileExtension(file1); //returs xsl
 getFileExtension(file2); //returs doc
 
 function getFileExtension(filename) {
-  /*TODO*/
+    /*TODO*/
 }
 ```
 
@@ -3434,7 +3606,7 @@ function getFileExtension(filename) {
 
 ```js
 function getFileExtension1(filename) {
-  return (/[.]/.exec(filename)) ? /[^.]+$/.exec(filename)[0] : undefined;
+    return /[.]/.exec(filename) ? /[^.]+$/.exec(filename)[0] : undefined;
 }
 ```
 
@@ -3442,7 +3614,7 @@ function getFileExtension1(filename) {
 
 ```js
 function getFileExtension2(filename) {
-  return filename.split('.').pop();
+    return filename.split('.').pop();
 }
 ```
 
@@ -3452,21 +3624,21 @@ Those two solutions couldnot handle some edge cases, here is another more robust
 
 ```js
 function getFileExtension3(filename) {
-  return filename.slice((filename.lastIndexOf(".") - 1 >>> 0) + 2);
+    return filename.slice(((filename.lastIndexOf('.') - 1) >>> 0) + 2);
 }
 
-console.log(getFileExtension3(''));                            // ''
-console.log(getFileExtension3('filename'));                    // ''
-console.log(getFileExtension3('filename.txt'));                // 'txt'
-console.log(getFileExtension3('.hiddenfile'));                 // ''
+console.log(getFileExtension3('')); // ''
+console.log(getFileExtension3('filename')); // ''
+console.log(getFileExtension3('filename.txt')); // 'txt'
+console.log(getFileExtension3('.hiddenfile')); // ''
 console.log(getFileExtension3('filename.with.many.dots.ext')); // 'ext'
 ```
 
 _How does it works?_
 
-* [String.lastIndexOf()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/String/lastIndexOf) method returns the last occurrence of the specified value (`'.'` in this case). Returns `-1` if the value is not found.
-* The return values of `lastIndexOf` for parameter `'filename'` and `'.hiddenfile'` are `-1` and `0` respectively. [Zero-fill right shift operator (>>>)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise\_Operators#%3E%3E%3E\_%28Zero-fill\_right\_shift%29) will transform `-1` to `4294967295` and `-2` to `4294967294`, here is one trick to insure the filename unchanged in those edge cases.
-* [String.prototype.slice()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/String/slice) extracts file extension from the index that was calculated above. If the index is more than the length of the filename, the result is `""`.
+-   [String.lastIndexOf()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/lastIndexOf) method returns the last occurrence of the specified value (`'.'` in this case). Returns `-1` if the value is not found.
+-   The return values of `lastIndexOf` for parameter `'filename'` and `'.hiddenfile'` are `-1` and `0` respectively. [Zero-fill right shift operator (>>>)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_Operators#%3E%3E%3E_%28Zero-fill_right_shift%29) will transform `-1` to `4294967295` and `-2` to `4294967294`, here is one trick to insure the filename unchanged in those edge cases.
+-   [String.prototype.slice()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/slice) extracts file extension from the index that was calculated above. If the index is more than the length of the filename, the result is `""`.
 
 #### Comparison
 
@@ -3486,7 +3658,7 @@ _How does it works?_
 
 [How can I get file extensions with JavaScript](http://stackoverflow.com/questions/190852/how-can-i-get-file-extensions-with-javascript)
 
-***
+---
 
 ## use-optional-arguments/
 
@@ -3495,83 +3667,86 @@ _How does it works?_
 - javascript
 ```
 
-***
+---
 
 Example function where arguments 2 and 3 are optional
 
 ```javascript
-    function example( err, optionalA, optionalB, callback ) {
-        // retrieve arguments as array
-        var args = new Array(arguments.length);
-        for(var i = 0; i < args.length; ++i) {
-            args[i] = arguments[i];
-        };
-        
-        // first argument is the error object
-        // shift() removes the first item from the
-        // array and returns it
-        err = args.shift();
-
-        // if last argument is a function then its the callback function.
-        // pop() removes the last item in the array
-        // and returns it
-        if (typeof args[args.length-1] === 'function') { 
-            callback = args.pop();
-        }
-        
-        // if args still holds items, these are
-        // your optional items which you could
-        // retrieve one by one like this:
-        if (args.length > 0) optionalA = args.shift(); else optionalA = null;
-        if (args.length > 0) optionalB = args.shift(); else optionalB = null;
-
-        // continue as usual: check for errors
-        if (err) { 
-            return callback && callback(err);
-        }
-        
-        // for tutorial purposes, log the optional parameters
-        console.log('optionalA:', optionalA);
-        console.log('optionalB:', optionalB);
-        console.log('callback:', callback);
-
-        /* do your thing */
-
+function example(err, optionalA, optionalB, callback) {
+    // retrieve arguments as array
+    var args = new Array(arguments.length);
+    for (var i = 0; i < args.length; ++i) {
+        args[i] = arguments[i];
     }
 
-    // ES6 with shorter, more terse code
-    function example(...args) {
-        // first argument is the error object
-        const err = args.shift();
-        // if last argument is a function then its the callback function
-        const callback = (typeof args[args.length-1] === 'function') ? args.pop() : null;
+    // first argument is the error object
+    // shift() removes the first item from the
+    // array and returns it
+    err = args.shift();
 
-        // if args still holds items, these are your optional items which you could retrieve one by one like this:
-        const optionalA = (args.length > 0) ? args.shift() : null;
-        const optionalB = (args.length > 0) ? args.shift() : null;
-        // ... repeat for more items
-
-        if (err && callback) return callback(err);
-
-        /* do your thing */
+    // if last argument is a function then its the callback function.
+    // pop() removes the last item in the array
+    // and returns it
+    if (typeof args[args.length - 1] === 'function') {
+        callback = args.pop();
     }
 
-    // invoke example function with and without optional arguments
-    
-    example(null, 'AA');
+    // if args still holds items, these are
+    // your optional items which you could
+    // retrieve one by one like this:
+    if (args.length > 0) optionalA = args.shift();
+    else optionalA = null;
+    if (args.length > 0) optionalB = args.shift();
+    else optionalB = null;
 
-    example(null, function (err) {   /* do something */    });
+    // continue as usual: check for errors
+    if (err) {
+        return callback && callback(err);
+    }
 
-    example(null, 'AA', function (err) {});
+    // for tutorial purposes, log the optional parameters
+    console.log('optionalA:', optionalA);
+    console.log('optionalB:', optionalB);
+    console.log('callback:', callback);
 
-    example(null, 'AAAA', 'BBBB', function (err) {});
+    /* do your thing */
+}
+
+// ES6 with shorter, more terse code
+function example(...args) {
+    // first argument is the error object
+    const err = args.shift();
+    // if last argument is a function then its the callback function
+    const callback = typeof args[args.length - 1] === 'function' ? args.pop() : null;
+
+    // if args still holds items, these are your optional items which you could retrieve one by one like this:
+    const optionalA = args.length > 0 ? args.shift() : null;
+    const optionalB = args.length > 0 ? args.shift() : null;
+    // ... repeat for more items
+
+    if (err && callback) return callback(err);
+
+    /* do your thing */
+}
+
+// invoke example function with and without optional arguments
+
+example(null, 'AA');
+
+example(null, function (err) {
+    /* do something */
+});
+
+example(null, 'AA', function (err) {});
+
+example(null, 'AAAA', 'BBBB', function (err) {});
 ```
 
 #### How do you determine if optionalA or optionalB is intended?
 
 Design your function to require optionalA in order to accept optionalB
 
-***
+---
 
 ## make-easy-loop-on-array/
 
@@ -3580,107 +3755,103 @@ Design your function to require optionalA in order to accept optionalB
 - javascript
 ```
 
-***
+---
 
 Sometimes, we need to loop endlessly over an array of items, like a carousel of images or an audio playlist. Here's how to take an array and give it "looping powers":
 
 ```js
-var aList = ['A','B','C','D','E'];
+var aList = ['A', 'B', 'C', 'D', 'E'];
 
-function make_looper( arr ){
-
+function make_looper(arr) {
     arr.loop_idx = 0;
 
     // return current item
-    arr.current = function(){
+    arr.current = function () {
+        if (this.loop_idx < 0) {
+            // First verification
+            this.loop_idx = this.length - 1; // update loop_idx
+        }
 
-      if( this.loop_idx < 0 ){// First verification
-        this.loop_idx = this.length - 1;// update loop_idx
-      }
+        if (this.loop_idx >= this.length) {
+            // second verification
+            this.loop_idx = 0; // update loop_idx
+        }
 
-      if( this.loop_idx >= this.length ){// second verification
-        this.loop_idx = 0;// update loop_idx
-      }
-
-      return arr[ this.loop_idx ];//return item
+        return arr[this.loop_idx]; //return item
     };
-    
+
     // increment loop_idx AND return new current
-    arr.next = function(){
-      this.loop_idx++;
-      return this.current();
+    arr.next = function () {
+        this.loop_idx++;
+        return this.current();
     };
     // decrement loop_idx AND return new current
-    arr.prev = function(){
-      this.loop_idx--;
-      return this.current();
+    arr.prev = function () {
+        this.loop_idx--;
+        return this.current();
     };
 }
 
+make_looper(aList);
 
-make_looper( aList);
-
-aList.current();// -> A
-aList.next();// -> B
-aList.next();// -> C
-aList.next();// -> D
-aList.next();// -> E
-aList.next();// -> A
-aList.pop() ;// -> E
-aList.prev();// -> D
-aList.prev();// -> C
-aList.prev();// -> B
-aList.prev();// -> A
-aList.prev();// -> D
+aList.current(); // -> A
+aList.next(); // -> B
+aList.next(); // -> C
+aList.next(); // -> D
+aList.next(); // -> E
+aList.next(); // -> A
+aList.pop(); // -> E
+aList.prev(); // -> D
+aList.prev(); // -> C
+aList.prev(); // -> B
+aList.prev(); // -> A
+aList.prev(); // -> D
 ```
 
 Using the `%` ( Modulus ) operator is prettier.The modulus return division's rest ( `2 % 5 = 1` and `5 % 5 = 0`):
 
 ```js
+var aList = ['A', 'B', 'C', 'D', 'E'];
 
-var aList = ['A','B','C','D','E'];
-
-
-function make_looper( arr ){
-
+function make_looper(arr) {
     arr.loop_idx = 0;
 
     // return current item
-    arr.current = function(){
-      this.loop_idx = ( this.loop_idx ) % this.length;// no verification !!
-      return arr[ this.loop_idx ];
+    arr.current = function () {
+        this.loop_idx = this.loop_idx % this.length; // no verification !!
+        return arr[this.loop_idx];
     };
 
     // increment loop_idx AND return new current
-    arr.next = function(){
-      this.loop_idx++;
-      return this.current();
+    arr.next = function () {
+        this.loop_idx++;
+        return this.current();
     };
-    
+
     // decrement loop_idx AND return new current
-    arr.prev = function(){
-      this.loop_idx += this.length - 1;
-      return this.current();
+    arr.prev = function () {
+        this.loop_idx += this.length - 1;
+        return this.current();
     };
 }
 
-make_looper( aList);
+make_looper(aList);
 
-aList.current();// -> A
-aList.next();// -> B
-aList.next();// -> C
-aList.next();// -> D
-aList.next();// -> E
-aList.next();// -> A
-aList.pop() ;// -> E
-aList.prev();// -> D
-aList.prev();// -> C
-aList.prev();// -> B
-aList.prev();// -> A
-aList.prev();// -> D
+aList.current(); // -> A
+aList.next(); // -> B
+aList.next(); // -> C
+aList.next(); // -> D
+aList.next(); // -> E
+aList.next(); // -> A
+aList.pop(); // -> E
+aList.prev(); // -> D
+aList.prev(); // -> C
+aList.prev(); // -> B
+aList.prev(); // -> A
+aList.prev(); // -> D
 ```
 
-***
+---
 
 ## copy-to-clipboard/
 
@@ -3689,7 +3860,7 @@ aList.prev();// -> D
 - javascript
 ```
 
-***
+---
 
 This is a simple tip, this week I had to create a common "Copy to Clipboard" button, I've never created one before and I want to share how I made it. It's easy, the bad thing is that we must add an `<input/>` with the text to be copied to the DOM. Then, we selected the content and execute the copy command with [execCommand](https://developer.mozilla.org/en-US/docs/Web/API/Document/execCommand). `execCommand('copy')` will copy the actual selected content.
 
@@ -3704,7 +3875,7 @@ document.execCommand('copy');
 
 [JS Bin on jsbin.com](http://jsbin.com/huhozu/embed?js,output)
 
-***
+---
 
 ## comma-operaton-in-js/
 
@@ -3713,13 +3884,13 @@ document.execCommand('copy');
 - javascript
 ```
 
-***
+---
 
 Apart from being just a delimiter, the comma operator allows you to put multiple statements in a place where one statement is expected. Eg:-
 
 ```js
-for(var i=0, j=0; i<5; i++, j++, j++){
-  console.log("i:"+i+", j:"+j);
+for (var i = 0, j = 0; i < 5; i++, j++, j++) {
+    console.log('i:' + i + ', j:' + j);
 }
 ```
 
@@ -3738,32 +3909,41 @@ When placed in an expression, it evaluates every expression from left to right a
 Eg:-
 
 ```js
-function a(){console.log('a'); return 'a';} 
-function b(){console.log('b'); return 'b';} 
-function c(){console.log('c'); return 'c';}
+function a() {
+    console.log('a');
+    return 'a';
+}
+function b() {
+    console.log('b');
+    return 'b';
+}
+function c() {
+    console.log('c');
+    return 'c';
+}
 
 var x = (a(), b(), c());
 
-console.log(x);      // Outputs "c"
+console.log(x); // Outputs "c"
 ```
 
 Output:-
 
 ```js
-"a"
-"b"
-"c"
+'a';
+'b';
+'c';
 
-"c"
+'c';
 ```
 
-* Note: The comma(`,`) operator has the lowest priority of all javascript operators, so without the parenthesis the expression would become: `(x = a()), b(), c();`.
+-   Note: The comma(`,`) operator has the lowest priority of all javascript operators, so without the parenthesis the expression would become: `(x = a()), b(), c();`.
 
 **Playground**
 
 [JS Bin on jsbin.com](http://jsbin.com/vimogap/embed?js,console)
 
-***
+---
 
 ##
 
@@ -3774,17 +3954,17 @@ break-continue-loop-functional/
 - javascript
 ```
 
-***
+---
 
 A common requirement of iteration is cancelation. Using `for` loops we can `break` to end iteration early.
 
 ```javascript
 const a = [0, 1, 2, 3, 4];
 for (var i = 0; i < a.length; i++) {
-  if (a[i] === 2) {
-    break; // stop the loop
-  }
-  console.log(a[i]);
+    if (a[i] === 2) {
+        break; // stop the loop
+    }
+    console.log(a[i]);
 }
 //> 0, 1
 ```
@@ -3794,35 +3974,35 @@ Another common requirement is to close over our variables.
 A quick approach is to use `.forEach` but then we lack the ability to `break`. In this situation the closest we get is `continue` functionality through `return`.
 
 ```javascript
-[0, 1, 2, 3, 4].forEach(function(val, i) {
-  if (val === 2) {
-    // how do we stop?
-    return true;
-  }
-  console.log(val); // your code
+[0, 1, 2, 3, 4].forEach(function (val, i) {
+    if (val === 2) {
+        // how do we stop?
+        return true;
+    }
+    console.log(val); // your code
 });
 //> 0, 1, 3, 4
 ```
 
-The `.some` is a method on Array prototype. It tests whether some element in the array passes the test implemented by the provided function. If any value is returning true, then it stops executing. Here is a [MDN link](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global\_Objects/Array/some) for more details.
+The `.some` is a method on Array prototype. It tests whether some element in the array passes the test implemented by the provided function. If any value is returning true, then it stops executing. Here is a [MDN link](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/some) for more details.
 
 An example quoted from that link
 
 ```javascript
-const isBiggerThan10 = numb => numb > 10;
+const isBiggerThan10 = (numb) => numb > 10;
 
-[2, 5, 8, 1, 4].some(isBiggerThan10);  // false
+[2, 5, 8, 1, 4].some(isBiggerThan10); // false
 [12, 5, 8, 1, 4].some(isBiggerThan10); // true
 ```
 
 Using `.some` we get iteration functionally similar to `.forEach` but with the ability to `break` through `return` instead.
 
 ```javascript
-[0, 1, 2, 3, 4].some(function(val, i) {
-  if (val === 2) {
-    return true;
-  }
-  console.log(val); // your code
+[0, 1, 2, 3, 4].some(function (val, i) {
+    if (val === 2) {
+        return true;
+    }
+    console.log(val); // your code
 });
 //> 0, 1
 ```
@@ -3831,10 +4011,10 @@ You keep returning `false` to make it `continue` to next item. When you return `
 
 ```javascript
 // Array contains 2
-const isTwoPresent = [0, 1, 2, 3, 4].some(function(val, i) {
-  if (val === 2) {
-    return true; // break
-  }
+const isTwoPresent = [0, 1, 2, 3, 4].some(function (val, i) {
+    if (val === 2) {
+        return true; // break
+    }
 });
 console.log(isTwoPresent);
 //> true
@@ -3846,7 +4026,7 @@ Also there is `.every`, which can be used. We have to return the opposite boolea
 
 [JS Bin on jsbin.com](http://jsbin.com/jopeji/embed?js,console)
 
-***
+---
 
 ##
 
@@ -3857,61 +4037,61 @@ keyword-var-vs-let/
 - javascript
 ```
 
-***
+---
 
 #### Overview
 
-* The scope of a variable defined with `var` is function scope or declared outside any function, global.
-* The scope of a variable defined with `let` is block scope.
+-   The scope of a variable defined with `var` is function scope or declared outside any function, global.
+-   The scope of a variable defined with `let` is block scope.
 
 ```js
 function varvslet() {
-  console.log(i); // i is undefined due to hoisting
-  // console.log(j); // ReferenceError: j is not defined
+    console.log(i); // i is undefined due to hoisting
+    // console.log(j); // ReferenceError: j is not defined
 
-  for( var i = 0; i < 3; i++ ) {
-    console.log(i); // 0, 1, 2
-  };
+    for (var i = 0; i < 3; i++) {
+        console.log(i); // 0, 1, 2
+    }
 
-  console.log(i); // 3
-  // console.log(j); // ReferenceError: j is not defined
+    console.log(i); // 3
+    // console.log(j); // ReferenceError: j is not defined
 
-  for( let j = 0; j < 3; j++ ) {
-    console.log(j);
-  };
+    for (let j = 0; j < 3; j++) {
+        console.log(j);
+    }
 
-  console.log(i); // 3
-  // console.log(j); // ReferenceError: j is not defined
+    console.log(i); // 3
+    // console.log(j); // ReferenceError: j is not defined
 }
 ```
 
 #### Difference Details
 
-*   Variable Hoisting
+-   Variable Hoisting
 
     `let` will not hoist to the entire scope of the block they appear in. By contrast, `var` could hoist as below.
 
 ```js
 {
-  console.log(c); // undefined. Due to hoisting
-  var c = 2;
+    console.log(c); // undefined. Due to hoisting
+    var c = 2;
 }
 
 {
-  console.log(b); // ReferenceError: b is not defined
-  let b = 3;
+    console.log(b); // ReferenceError: b is not defined
+    let b = 3;
 }
 ```
 
-*   Closure in Loop
+-   Closure in Loop
 
     `let` in the loop can re-binds it to each iteration of the loop, making sure to re-assign it the value from the end of the previous loop iteration, so it can be used to avoid issue with closures.
 
 ```js
 for (var i = 0; i < 5; ++i) {
-  setTimeout(function () {
-    console.log(i); // output '5' 5 times
-  }, 100);  
+    setTimeout(function () {
+        console.log(i); // output '5' 5 times
+    }, 100);
 }
 ```
 
@@ -3920,9 +4100,9 @@ After replacing `var` with `let`
 ```js
 // print 1, 2, 3, 4, 5
 for (let i = 0; i < 5; ++i) {
-  setTimeout(function () {
-    console.log(i); // output 0, 1, 2, 3, 4 
-  }, 100);  
+    setTimeout(function () {
+        console.log(i); // output 0, 1, 2, 3, 4
+    }, 100);
 }
 ```
 
@@ -3932,8 +4112,8 @@ for (let i = 0; i < 5; ++i) {
 
 #### `let` compatibility
 
-* In server side, such as Node.js, you can safely use the `let` statement now.
-* In client side, through a transpiler (like [Traceur](https://github.com/google/traceur-compiler)), you can safely use the `let` statement. Otherwise, please consider the browser support [here](http://caniuse.com/#search=let)
+-   In server side, such as Node.js, you can safely use the `let` statement now.
+-   In client side, through a transpiler (like [Traceur](https://github.com/google/traceur-compiler)), you can safely use the `let` statement. Otherwise, please consider the browser support [here](http://caniuse.com/#search=let)
 
 #### Playground
 
@@ -3941,11 +4121,11 @@ for (let i = 0; i < 5; ++i) {
 
 #### More info
 
-* [Let keyword vs var keyword](http://stackoverflow.com/questions/762011/let-keyword-vs-var-keyword)
-* [For and against let](https://davidwalsh.name/for-and-against-let)
-* [Explanation of `let` and block scoping with for loops](http://stackoverflow.com/questions/30899612/explanation-of-let-and-block-scoping-with-for-loops/30900289#30900289).
+-   [Let keyword vs var keyword](http://stackoverflow.com/questions/762011/let-keyword-vs-var-keyword)
+-   [For and against let](https://davidwalsh.name/for-and-against-let)
+-   [Explanation of `let` and block scoping with for loops](http://stackoverflow.com/questions/30899612/explanation-of-let-and-block-scoping-with-for-loops/30900289#30900289).
 
-***
+---
 
 ##
 
@@ -3956,7 +4136,7 @@ three-useful-hacks/
 - javascript
 ```
 
-***
+---
 
 **Getting array items from behind to front**
 
@@ -3976,7 +4156,7 @@ console.log(newArray.slice(-4)); // [1, 2, 3, 4]
 If you have to execute a function just if a condition is `true`, like this:
 
 ```javascript
-if(condition){
+if (condition) {
     dosomething();
 }
 ```
@@ -4005,7 +4185,7 @@ a = a || 'new value';
 console.log(a); //default value
 ```
 
-***
+---
 
 ##
 
@@ -4016,7 +4196,7 @@ binding-objects-to-functions/
 - javascript
 ```
 
-***
+---
 
 More than often, we need to bind an object to a function’s this object. JS uses the bind method when this is specified explicitly and we need to invoke desired method.
 
@@ -4044,21 +4224,21 @@ A copy of the given function along with the specified `this` value and initial a
 
 ```js
 const myCar = {
- brand: 'Ford',
- type: 'Sedan',
- color: 'Red'
+    brand: 'Ford',
+    type: 'Sedan',
+    color: 'Red'
 };
 
 const getBrand = function () {
- console.log(this.brand);
+    console.log(this.brand);
 };
 
 const getType = function () {
- console.log(this.type);
+    console.log(this.type);
 };
 
 const getColor = function () {
- console.log(this.color);
+    console.log(this.color);
 };
 
 getBrand(); // object not bind,undefined
@@ -4071,7 +4251,7 @@ let boundGetColor = getColor.bind(myCar);
 boundGetColor(); // Red
 ```
 
-***
+---
 
 ## - en
 
@@ -4079,23 +4259,23 @@ boundGetColor(); // Red
 - javascript
 ```
 
-***
+---
 
 In case of established websocket connection, server or firewall could timeout and terminate the connection after a period of inactivity. To deal with this situation, we send periodic message to the server. To control the timeout we will add two functions in our code : one to make sure connection keep alive and another one to cancel the keep alive. Also we need a common `timerID` variable. Let’s have a look on implementation-
 
 ```js
-var timerID = 0; 
-function keepAlive() { 
-    var timeout = 20000;  
-    if (webSocket.readyState == webSocket.OPEN) {  
-        webSocket.send('');  
-    }  
-    timerId = setTimeout(keepAlive, timeout);  
-}  
-function cancelKeepAlive() {  
-    if (timerId) {  
-        clearTimeout(timerId);  
-    }  
+var timerID = 0;
+function keepAlive() {
+    var timeout = 20000;
+    if (webSocket.readyState == webSocket.OPEN) {
+        webSocket.send('');
+    }
+    timerId = setTimeout(keepAlive, timeout);
+}
+function cancelKeepAlive() {
+    if (timerId) {
+        clearTimeout(timerId);
+    }
 }
 ```
 
@@ -4103,7 +4283,7 @@ Now as we have both of our desired function for the task, we will place `keepAli
 
 Yes! We have perfectly implemented hack for websocket timeout problem.
 
-***
+---
 
 ##
 
@@ -4112,9 +4292,9 @@ Yes! We have perfectly implemented hack for websocket timeout problem.
 - javascript
 ```
 
-***
+---
 
-Arrays are everywhere in JavaScript and with the new [spread operators](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/Spread\_operator) introduced in ECMAScript 6, you can do awesome things with them. In this post I will show you 3 useful tricks you can use when programming.
+Arrays are everywhere in JavaScript and with the new [spread operators](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/Spread_operator) introduced in ECMAScript 6, you can do awesome things with them. In this post I will show you 3 useful tricks you can use when programming.
 
 #### 1. Iterating through an empty array
 
@@ -4172,7 +4352,7 @@ I always wonder why the Array constructor does not have a designated method to f
 [1, 2, 3]
 ```
 
-***
+---
 
 tip-md-link: https://github.com/loverajoel/jstips/blob/master/\_posts/en/javascript/2017-03-16-tapping-for-quick-debugging.md
 
@@ -4181,7 +4361,7 @@ tip-md-link: https://github.com/loverajoel/jstips/blob/master/\_posts/en/javascr
 - javascript
 ```
 
-***
+---
 
 This little beastie here is tap. A really useful function for quick-debugging chains of function calls, anonymous functions and, actually, whatever you just want to print.
 
@@ -4196,19 +4376,18 @@ Why would you use instead of good old `console.log`? Let me show you an example:
 
 ```javascript
 bank_totals_by_client(bank_info(1, banks), table)
-            .filter(c => c.balance > 25000)
-            .sort((c1, c2) => c1.balance <= c2.balance ? 1 : -1 )
-            .map(c =>
-                 console.log(`${c.id} | ${c.tax_number} (${c.name}) => ${c.balance}`));
+    .filter((c) => c.balance > 25000)
+    .sort((c1, c2) => (c1.balance <= c2.balance ? 1 : -1))
+    .map((c) => console.log(`${c.id} | ${c.tax_number} (${c.name}) => ${c.balance}`));
 ```
 
 Now, suppose you're getting nothing from this chain (possibly an error). Where is it failing? Maybe `bank_info` isn't returning anything, so we'll tap it:
 
 ```javascript
-bank_totals_by_client(tap(bank_info(1, banks)), table)
+bank_totals_by_client(tap(bank_info(1, banks)), table);
 ```
 
-Depending on our particular implementation, it might print something or not. I'll assume the information that we got from our tapping was correct and therefore, bank\_info isn't causing anything.
+Depending on our particular implementation, it might print something or not. I'll assume the information that we got from our tapping was correct and therefore, bank_info isn't causing anything.
 
 We must then move on to the next chain, filter.
 
@@ -4216,7 +4395,7 @@ We must then move on to the next chain, filter.
             .filter(c => tap(c).balance > 25000)
 ```
 
-Are we receiving any c's (clients actually)? If so, then bank\_totals\_by\_client works alright. Maybe it's the condition within the filter?
+Are we receiving any c's (clients actually)? If so, then bank_totals_by_client works alright. Maybe it's the condition within the filter?
 
 ```javascript
             .filter(c => tap(c.balance > 25000))
@@ -4227,7 +4406,7 @@ Ah! Sweet, we see nothing but `false` printed, so there's no client with >25000,
 ### (Bonus) A more advanced tap.
 
 ```javascript
-function tap(x, fn = x => x) {
+function tap(x, fn = (x) => x) {
     console.log(fn(x));
     return x;
 }
@@ -4236,10 +4415,10 @@ function tap(x, fn = x => x) {
 Now we're talking about a more advanced beast, what if we wanted to perform a certain operation _prior_ to tapping? i.e, we want to access a certain object property, perform a logical operation, etc. with our tapped object? Then we call old good tap with an extra argument, a function to be applied at the moment of tapping.
 
 ```javascript
-tap(3, x => x + 2) === 3; // prints 5, but expression evaluates to true, why :-)?
+tap(3, (x) => x + 2) === 3; // prints 5, but expression evaluates to true, why :-)?
 ```
 
-***
+---
 
 tip-md-link: https://github.com/loverajoel/jstips/blob/master/\_posts/en/javascript/2017-03-29-recursion-iteration-and-tail-calls-in-js.md
 
@@ -4248,7 +4427,7 @@ tip-md-link: https://github.com/loverajoel/jstips/blob/master/\_posts/en/javascr
 - javascript
 ```
 
-***
+---
 
 If you've been on the business for some time, you have, most likely, come across the definition of recursion, for which the factorial of a given number `n! = n * (n - 1) * ... * 1` is a standard example.
 
@@ -4265,21 +4444,21 @@ The example shown above is but the most naive implementation of the factorial fu
 
 For the sake of completeness, let's look at how this executes for `n = 6`:
 
-* factorial(6)
-  * 6 \* factorial(5)
-    * 5 \* factorial (4)
-      * 4 \* factorial(3)
-        * 3 \* factorial(2)
-          * 2 \* factorial(1)
-            * 1 \* factorial(0)
-              * 1
-            * (resuming previous execution) 1 \* 1 = 1
-          * (resuming...) 2 \* 1 = 2
-        * (...) 3 \* 2 = 6
-      * ... 4 \* 6 = 24
-    * 5 \* 24 = 120
-  * 6 \* 120 = 720
-* factorial(6) = 720
+-   factorial(6)
+    -   6 \* factorial(5)
+        -   5 \* factorial (4)
+            -   4 \* factorial(3)
+                -   3 \* factorial(2)
+                    -   2 \* factorial(1)
+                        -   1 \* factorial(0)
+                            -   1
+                        -   (resuming previous execution) 1 \* 1 = 1
+                    -   (resuming...) 2 \* 1 = 2
+                -   (...) 3 \* 2 = 6
+            -   ... 4 \* 6 = 24
+        -   5 \* 24 = 120
+    -   6 \* 120 = 720
+-   factorial(6) = 720
 
 Now, we must be very cautious as to what's happening so we can understand what is to come next.
 
@@ -4316,37 +4495,37 @@ function factorial(n) {
 
 Let's take a look at how this gets executed:
 
-* factorial(6)
-  * inner anonymous function (iaf) gets called with (n = 6, res = 1)
-    * iaf(5, 1 \* 6)
-      * iaf(4, 6 \* 5)
-        * iaf(3, 30 \* 4)
-          * iaf(2, 120 \* 3)
-            * iaf(1, 360 \* 2)
-              * iaf(0, 720)
-                * 720
-              * 720
-            * 720
-          * 720
-        * 720
-      * 720
-    * 720
-  * iaf (6, 1) = 720
-* factorial(6) = 720
+-   factorial(6)
+    -   inner anonymous function (iaf) gets called with (n = 6, res = 1)
+        -   iaf(5, 1 \* 6)
+            -   iaf(4, 6 \* 5)
+                -   iaf(3, 30 \* 4)
+                    -   iaf(2, 120 \* 3)
+                        -   iaf(1, 360 \* 2)
+                            -   iaf(0, 720)
+                                -   720
+                            -   720
+                        -   720
+                    -   720
+                -   720
+            -   720
+        -   720
+    -   iaf (6, 1) = 720
+-   factorial(6) = 720
 
 You might notice that we didn't need to perform any calculation after unwinding the stack. We just returned a value. But, according to our rules, we had to save the state as a stack frame, even if it weren't of any use later in the chain.
 
 Our rules, however, are not applied to every language out there. In fact, in Scheme it's mandatory for such chains to be optimized with tail call optimization. This ensures that our stack is not filled with unnecessary frames. Our previous calculation would look, thus, this way:
 
-* factorial(6)
-* iaf(6, 1)
-* iaf(5, 6)
-* iaf(4, 30)
-* iaf(3, 120)
-* iaf(2, 360)
-* iaf(1, 720)
-* iaf(0, 720)
-* 720
+-   factorial(6)
+-   iaf(6, 1)
+-   iaf(5, 6)
+-   iaf(4, 30)
+-   iaf(3, 120)
+-   iaf(2, 360)
+-   iaf(1, 720)
+-   iaf(0, 720)
+-   720
 
 Which in turns, looks an awfully lot like
 
@@ -4354,7 +4533,7 @@ Which in turns, looks an awfully lot like
 res = 1;
 n = 6;
 
-while(n > 1) {
+while (n > 1) {
     res = res * n;
     n--;
 }
@@ -4372,7 +4551,7 @@ UPDATE Dec 1, 2017: The only major browser with tail call optimization is Safari
 
 3: https://v8project.blogspot.com/2016/04/es6-es7-and-beyond.html
 
-***
+---
 
 ## - en
 
@@ -4380,26 +4559,27 @@ UPDATE Dec 1, 2017: The only major browser with tail call optimization is Safari
 - javascript
 ```
 
-***
+---
 
 We all know that JavaScript is loosely typed and in some cases it fall behind specially when it comes to quality comparison with '==', comparing with '==' gives unexpected results due to whats called coercion or casting "converting one of the 2 operands to the other's type then compare".
 
 ```javascript
-0 == ' ' //true
-null == undefined //true
-[1] == true //true
+0 == ' '; //true
+(null ==
+    undefined[1]) == //true
+    true; //true
 ```
 
 So they provided us with the triple equal operator '===' which is more strict and does not coerce operands, However comparing with '===' is not the best solution you can get:
 
 ```javascript
-NaN === NaN //false
+NaN === NaN; //false
 ```
 
 The great news that in ES6 there is the new 'Object.is()' which is better and more precise it has the same features as '===' and moreover it behaves well in some special cases:
 
 ```javascript
-Object.is(0 , ' '); //false
+Object.is(0, ' '); //false
 Object.is(null, undefined); //false
 Object.is([1], true); //false
 Object.is(NaN, NaN); //true
@@ -4413,9 +4593,9 @@ Now this table illustrates..
 
 ### References:
 
-[Equality comparisons and sameness](http://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality\_comparisons\_and\_sameness)
+[Equality comparisons and sameness](http://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness)
 
-***
+---
 
 ## - en
 
@@ -4423,14 +4603,13 @@ Now this table illustrates..
 - javascript
 ```
 
-***
+---
 
 Sometimes we need to whitelist certain attributes from an object, say we've got an array representation of a database table and we need to `select` just a few fields for some function:
 
 ```javascript
 function pick(obj, keys) {
-    return keys.map(k => k in obj ? {[k]: obj[k]} : {})
-               .reduce((res, o) => Object.assign(res, o), {});
+    return keys.map((k) => (k in obj ? { [k]: obj[k] } : {})).reduce((res, o) => Object.assign(res, o), {});
 }
 
 const row = {
@@ -4439,14 +4618,11 @@ const row = {
     'bank.code': 'MDAKW213'
 };
 
-const table = [
-    row,
-    {'accounts.id': 3, 'client.name': 'Steve Doe', 'bank.code': 'STV12JB'}
-];
+const table = [row, { 'accounts.id': 3, 'client.name': 'Steve Doe', 'bank.code': 'STV12JB' }];
 
 pick(row, ['client.name']); // Get client name
 
-table.map(row => pick(row, ['client.name'])); // Get a list of client names
+table.map((row) => pick(row, ['client.name'])); // Get a list of client names
 ```
 
 There's a bit of skulduggery going on in pick. First, we `map` a function over the keys that will return, each time, an object with only the attribute pointed by the current key (or an empty object if there's no such attribute in the object). Then, we `reduce` this collection of single-attribute objects by merging the objects.
@@ -4456,22 +4632,21 @@ But what if we want to `reject` the attributes? Well, the function changes a bit
 ```javascript
 function reject(obj, keys) {
     return Object.keys(obj)
-        .filter(k => !keys.includes(k))
-        .map(k => Object.assign({}, {[k]: obj[k]}))
+        .filter((k) => !keys.includes(k))
+        .map((k) => Object.assign({}, { [k]: obj[k] }))
         .reduce((res, o) => Object.assign(res, o), {});
 }
 
 // or, reusing pick
 function reject(obj, keys) {
-    const vkeys = Object.keys(obj)
-        .filter(k => !keys.includes(k));
+    const vkeys = Object.keys(obj).filter((k) => !keys.includes(k));
     return pick(obj, vkeys);
 }
 
-reject({a: 2, b: 3, c: 4}, ['a', 'b']); // => {c: 4}
+reject({ a: 2, b: 3, c: 4 }, ['a', 'b']); // => {c: 4}
 ```
 
-***
+---
 
 ## - en
 
@@ -4479,7 +4654,7 @@ reject({a: 2, b: 3, c: 4}, ['a', 'b']); // => {c: 4}
 - javascript
 ```
 
-***
+---
 
 You might have heard about the old ways gaining hype recently, and we don't mean praying to the gods of the north.
 
@@ -4509,14 +4684,14 @@ const Foldable = (klass) => {
 class NaturalNumbers extends protocols(Mappable, Foldable) {
     constructor() {
         super();
-        this.elements = [1,2,3,4,5,6,7,8,9];
+        this.elements = [1, 2, 3, 4, 5, 6, 7, 8, 9];
     }
 
-    map (f) {
+    map(f) {
         return this.elements.map(f);
     }
 
-    fold (f) {
+    fold(f) {
         return this.elements.reduce(f, this.elements, 0);
     }
 }
@@ -4529,18 +4704,18 @@ We supply method signatures for the protocol and make sure we provide implementa
 What's so cool about it? We get to write things like these:
 
 ```javascript
-const map = f => o => o.map(f);
-const fold = f => o => o.fold(f);
-const compose = (... fns) => fns.reduce((acc, f) => (x) => acc(f(x)), id);
+const map = (f) => (o) => o.map(f);
+const fold = (f) => (o) => o.fold(f);
+const compose = (...fns) => fns.reduce((acc, f) => (x) => acc(f(x)), id);
 ```
 
 Ok, maybe we could have written those two functions without the above fuzz but, now that we know `NaturalNumbers` are `Mappable`, we can call `map` on them and trust it will return the right result. Furthermore, with our third function, we can _compose_ any number of operations defined in protocols cleanly:
 
 ```javascript
-const plus1 = x => x + 1;
-const div5 = x => x / 5;
+const plus1 = (x) => x + 1;
+const div5 = (x) => x / 5;
 const plus_then_div = compose(map(div5), map(plus1));
-console.log(plus_then_div(new NaturalNumbers));
+console.log(plus_then_div(new NaturalNumbers()));
 // => [ 0.4, 0.6, 0.8, 1, 1.2, 1.4, 1.6, 1.8, 2 ]
 ```
 
@@ -4554,7 +4729,7 @@ More important, if we know that an object of ours is `Mappable`, we know `map` w
 - javascript
 ```
 
-***
+---
 
 > JS shall have but one Thread (in the browser at least)
 >
@@ -4574,7 +4749,7 @@ I/O such as requests to external resources are non-blocking though, so you can r
 
 Strategies for processing lots of data vary a lot. You could partition data and set timeouts for processing bits of it a time for example. But to unleash the full power of asynchronous processing, you should use Web Workers.
 
-To do so, you separate the processing part in a different file (possibly 'my\_worker.js'), create a worker with `newWorker = new Worker('my_worker.js');` and offload the processing to it.
+To do so, you separate the processing part in a different file (possibly 'my_worker.js'), create a worker with `newWorker = new Worker('my_worker.js');` and offload the processing to it.
 
 ```javascript
 // my_worker.js
@@ -4611,20 +4786,20 @@ get_useful_data();
 - javascript
 ```
 
-***
+---
 
 If you ever come across the likes of
 
 ```javascript
 var funcs = [];
 for (var i = 0; i < 3; i++) {
-  funcs[i] = function() {
-    console.log("i value is " + i);
-  };
+    funcs[i] = function () {
+        console.log('i value is ' + i);
+    };
 }
 
 for (var k = 0; k < 3; k++) {
-  funcs[k]();
+    funcs[k]();
 }
 ```
 
@@ -4650,9 +4825,9 @@ To solve this situation you can do as follows:
 
 ```javascript
 for (var i = 0; i < 3; i++) {
-  funcs[i] = (function(value) {
-    console.log("i value is " + i);
-  })(i);
+    funcs[i] = (function (value) {
+        console.log('i value is ' + i);
+    })(i);
 }
 ```
 
@@ -4660,15 +4835,15 @@ Which effectively copies i by value by handing it to our closure or
 
 ```javascript
 for (let i = 0; i < 3; i++) {
-  funcs[i] = function() {
-    console.log("i value is " + i);
-  }
+    funcs[i] = function () {
+        console.log('i value is ' + i);
+    };
 }
 ```
 
 Where `let` scopes the variable to our `for` loop and produces a new value each iteration, thus `i` will be bound to different values on our closures as expected.
 
-***
+---
 
 ## - en
 
@@ -4676,7 +4851,7 @@ Where `let` scopes the variable to our `for` loop and produces a new value each 
 - javascript
 ```
 
-***
+---
 
 Object cloning is a tricky, full of edge-cases, endeavor. The reason is simple enough. Objects maintain internal state, and that is much abused. There are countless techniques, or better phrased, countless derivations of the same technique.
 
@@ -4695,7 +4870,7 @@ One such library is [pvorb/clone](https://github.com/pvorb/clone), which has a v
 ```javascript
 var clone = require('clone');
 
-var a = {foo: {bar: 'baz'}};
+var a = { foo: { bar: 'baz' } };
 var b = clone(a);
 a.foo.bar = 'foo';
 console.log(a); // {foo: {bar: 'foo'}}
@@ -4714,7 +4889,7 @@ As an end note, if you are serious about dealing with immutable structures, you 
 - javascript
 ```
 
-***
+---
 
 ## Looping over arrays
 
@@ -4724,30 +4899,30 @@ There's a few methods for looping over arrays in Javascript. We'll start with th
 
 ```javascript
 let index = 0;
-const array = [1,2,3,4,5,6];
+const array = [1, 2, 3, 4, 5, 6];
 
 while (index < array.length) {
-  console.log(array[index]);
-  index++;
+    console.log(array[index]);
+    index++;
 }
 ```
 
 ### for (classical)
 
 ```javascript
-const array = [1,2,3,4,5,6];
+const array = [1, 2, 3, 4, 5, 6];
 for (let index = 0; index < array.length; index++) {
-  console.log(array[index]);
+    console.log(array[index]);
 }
 ```
 
 ### forEach
 
 ```javascript
-const array = [1,2,3,4,5,6];
+const array = [1, 2, 3, 4, 5, 6];
 
-array.forEach(function(current_value, index, array) {
-  console.log(`At index ${index} in array ${array} the value is ${current_value}`);
+array.forEach(function (current_value, index, array) {
+    console.log(`At index ${index} in array ${array} the value is ${current_value}`);
 });
 // => undefined
 ```
@@ -4757,8 +4932,8 @@ array.forEach(function(current_value, index, array) {
 The last construct was useful, however, it doesn't return a new array which might be undesirable for your specific case. `map` solves this by applying a function over every element and then returning the new array.
 
 ```javascript
-const array = [1,2,3,4,5,6];
-const square = x => Math.pow(x, 2);
+const array = [1, 2, 3, 4, 5, 6];
+const square = (x) => Math.pow(x, 2);
 const squares = array.map(square);
 console.log(`Original array: ${array}`);
 console.log(`Squared array: ${squares}`);
@@ -4773,7 +4948,7 @@ From MDN:
 > The reduce() method applies a function against an accumulator and each element in the array (from left to right) to reduce it to a single value.
 
 ```javascript
-const array = [1,2,3,4,5,6];
+const array = [1, 2, 3, 4, 5, 6];
 const sum = (x, y) => x + y;
 const array_sum = array.reduce(sum, 0);
 console.log(`The sum of array: ${array} is ${array_sum}`);
@@ -4784,8 +4959,8 @@ console.log(`The sum of array: ${array} is ${array_sum}`);
 Filters elements on an array based on a boolean function.
 
 ```javascript
-const array = [1,2,3,4,5,6];
-const even = x => x % 2 === 0;
+const array = [1, 2, 3, 4, 5, 6];
+const even = (x) => x % 2 === 0;
 const even_array = array.filter(even);
 console.log(`Even numbers in array ${array}: ${even_array}`);
 ```
@@ -4795,13 +4970,13 @@ console.log(`Even numbers in array ${array}: ${even_array}`);
 Got an array and want to test if a given condition is met in every element?
 
 ```javascript
-const array = [1,2,3,4,5,6];
-const under_seven = x => x < 7;
+const array = [1, 2, 3, 4, 5, 6];
+const under_seven = (x) => x < 7;
 
 if (array.every(under_seven)) {
-  console.log('Every element in the array is less than 7');
+    console.log('Every element in the array is less than 7');
 } else {
-  console.log('At least one element in the array was bigger than 7');
+    console.log('At least one element in the array was bigger than 7');
 }
 ```
 
@@ -4810,17 +4985,17 @@ if (array.every(under_seven)) {
 Test if at least one element matches our boolean function.
 
 ```javascript
-const array = [1,2,3,9,5,6,4];
-const over_seven = x => x > 7;
+const array = [1, 2, 3, 9, 5, 6, 4];
+const over_seven = (x) => x > 7;
 
 if (array.some(over_seven)) {
-  console.log('At least one element bigger than 7 was found');
+    console.log('At least one element bigger than 7 was found');
 } else {
-  console.log('No element bigger than 7 was found');
+    console.log('No element bigger than 7 was found');
 }
 ```
 
-***
+---
 
 ## - en
 
@@ -4828,14 +5003,14 @@ if (array.some(over_seven)) {
 - javascript
 ```
 
-***
+---
 
 ## Hash maps without side effects
 
 When you want to use javascript object as a hash map(purely for storing data), you might want to create it as follows.
 
 ```javascript
-  const map = Object.create(null);
+const map = Object.create(null);
 ```
 
 When creating a map using object literal(`const map = {}`), the map inherits properties from Object by default. It is equivalent to `Object.create(Object.prototype)`.
@@ -4868,10 +5043,10 @@ for(key in cleanMap){
 
 ### Notes:
 
-* Object.create() was introduced in ES5: [Compatibility](http://kangax.github.io/compat-table/es5/)
-* ES6 introduced some new structures: [Map](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global\_Objects/Map), [WeakMap](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/WeakMap), [Set](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Set) and [Weak Set](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/WeakSet)
+-   Object.create() was introduced in ES5: [Compatibility](http://kangax.github.io/compat-table/es5/)
+-   ES6 introduced some new structures: [Map](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Map), [WeakMap](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap), [Set](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set) and [Weak Set](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet)
 
-***
+---
 
 ## - en
 
@@ -4879,7 +5054,7 @@ for(key in cleanMap){
 - javascript
 ```
 
-***
+---
 
 ## Creating immutable objects in native JavaScript
 
@@ -4889,7 +5064,7 @@ Javascript it’s a flexible language, you can redefine anything. But when proje
 
 > Immutability in object means we don’t want our objects to change in any ways once we create them i.e make them read-only type.
 
-Let’s suppose we need to define a car [Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Object) and use its properties to perform operations throughout our entire project. We can’t allow modifying by mistake any data.
+Let’s suppose we need to define a car [Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object) and use its properties to perform operations throughout our entire project. We can’t allow modifying by mistake any data.
 
 ```
 const myTesla = {
@@ -4899,7 +5074,7 @@ const myTesla = {
 };
 ```
 
-### [Object.preventExtensions()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Object/preventExtensions)
+### [Object.preventExtensions()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/preventExtensions)
 
 This method prevents the addition of new properties to our existing object. `preventExtensions()` is a irreversible operation. We can never add extra properties to the object again.
 
@@ -4911,7 +5086,7 @@ myTesla.color = 'blue';
 console.log(myTesla.color) // undefined
 ```
 
-### [Object.seal()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Object/seal)
+### [Object.seal()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/seal)
 
 It prevents additions or deletion of properties. `seal()` also prevents the modification of property descriptors.
 
@@ -4929,7 +5104,7 @@ console.log(myTesla.batteryLife); // 300
 Object.defineProperty(myTesla, 'batteryLife'); // TypeError: Cannot redefine property: batteryLife
 ```
 
-### [Object.freeze()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/Object/freeze)
+### [Object.freeze()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/freeze)
 
 It does the same that `Object.seal()` plus it makes the properties non-writable.
 
@@ -4954,7 +5129,7 @@ console.log(myTesla.batteryLife); // 300
 
 Use `strict mode` if you want to throw an error when trying to modify an immutable object.
 
-***
+---
 
 ## - en
 
@@ -4962,7 +5137,7 @@ Use `strict mode` if you want to throw an error when trying to modify an immutab
 - javascript
 ```
 
-***
+---
 
 Functional inheritance is the process of inheriting features by applying an augmenting function to an object instance. The function supplies a closure scope which you can use to keep some data private. The augmenting function uses dynamic object extension to extend the object instance with new properties and methods.
 
@@ -4971,21 +5146,21 @@ Functional mixins are composable factory functions that add properties and behav
 ```javascript
 // Base object constructor function
 function Animal(data) {
-  var that = {}; // Create an empty object
-  that.name = data.name; // Add it a "name" property
-  return that; // Return the object
-};
+    var that = {}; // Create an empty object
+    that.name = data.name; // Add it a "name" property
+    return that; // Return the object
+}
 
 // Create achild object, inheriting from the base Animal
 function Cat(data) {
-  // Create the Animal object
-  var that = Animal(data);
-  // Extend base object
-  that.sayHello = function() {
-    return 'Hello, I\'m ' + that.name;
-  };
-  return that;
-};
+    // Create the Animal object
+    var that = Animal(data);
+    // Extend base object
+    that.sayHello = function () {
+        return "Hello, I'm " + that.name;
+    };
+    return that;
+}
 
 // Usage
 var myCat = Cat({ name: 'Rufi' });
@@ -4993,7 +5168,7 @@ console.log(myCat.sayHello());
 // Output: "Hello, I'm Rufi"
 ```
 
-***
+---
 
 ## - en
 
@@ -5001,7 +5176,7 @@ console.log(myCat.sayHello());
 - javascript
 ```
 
-***
+---
 
 A currying function is a function that takes multiple arguments and turns it into a sequence of functions having only one argument at a time.
 
@@ -5011,7 +5186,7 @@ In this way, an n-ary function becomes a unary function, and the last function r
 // Normal definition
 function multiply(a, b, c) {
     return a * b * c;
-};
+}
 console.log(multiply(1, 2, 3));
 // Output: 6
 
@@ -5022,18 +5197,18 @@ function multiply(a) {
             return a * b * c;
         };
     };
-};
+}
 console.log(multiply(1)(2)(3));
 // Output: 6
 ```
 
 #### Further readings:
 
-* [Currying in JavaScript](https://dev.to/suprabhasupi/currying-in-javascript-1k3l)
-* [Lodash curry](https://lodash.com/docs/#curry)
-* [JavaScript currying](http://zetcode.com/javascript/currying/)
+-   [Currying in JavaScript](https://dev.to/suprabhasupi/currying-in-javascript-1k3l)
+-   [Lodash curry](https://lodash.com/docs/#curry)
+-   [JavaScript currying](http://zetcode.com/javascript/currying/)
 
-***
+---
 
 ## - en
 
@@ -5041,31 +5216,31 @@ console.log(multiply(1)(2)(3));
 - javascript
 ```
 
-***
+---
 
 Temporal Dead Zone is a JavaScript behavior while using variables declared using `let` and `const` keywords. Since the keywords are block-scoped, the variables declared these keywords could not be accessed before the declaration, and then you will have to witness where variables will be said to be `undefined`.
 
 ```javascript
-function myFunc(){
-  console.log(greeting);
-  var greeting = 'Hello World!'
-};
+function myFunc() {
+    console.log(greeting);
+    var greeting = 'Hello World!';
+}
 myFunc(); // Output: undefined
 
 function myFunc() {
-  console.log(greeting);
-  let greeting = 'Hello World!';
-};
+    console.log(greeting);
+    let greeting = 'Hello World!';
+}
 myFunc(); // Output: ReferenceError: greeting is not defined
 
 function myFunc() {
-  console.log(greeting);
-  const greeting = 'Hello World!';
+    console.log(greeting);
+    const greeting = 'Hello World!';
 }
 myFunc(); // Output: ReferenceError: greeting is not defined
 ```
 
-***
+---
 
 ## - en
 
@@ -5073,28 +5248,28 @@ myFunc(); // Output: ReferenceError: greeting is not defined
 - javascript
 ```
 
-***
+---
 
 `target` refers to the DOM element that triggers an event. Otherwise, `currentTarget` refers to the DOM element that the event listener is listening on.
 
 ```html
 <ul class="todo-list">
-  <li class="item">Walk your dog</li>
+    <li class="item">Walk your dog</li>
 </ul>
 ```
 
 ```js
-const list = document.querySelector(".todo-list");
+const list = document.querySelector('.todo-list');
 
-list.addEventListener("click", e => {
-  console.log(e.target);
-  // Output: <li class="item">Walk your dog</li>
-  console.log(e.currentTarget);
-  // Output: <ul class="todo-list"></ul>
+list.addEventListener('click', (e) => {
+    console.log(e.target);
+    // Output: <li class="item">Walk your dog</li>
+    console.log(e.currentTarget);
+    // Output: <ul class="todo-list"></ul>
 });
 ```
 
-***
+---
 
 ## - en
 
@@ -5102,44 +5277,44 @@ list.addEventListener("click", e => {
 - javascript
 ```
 
-***
+---
 
 The spread operator in JavaScript is a useful syntax for adding elements to an array, combining arrays into one larger one, spreading an array inside the arguments of a function, and more.
 
 ```js
 // Concatenating arrays and objects
-let arr1 = [1,2,3]; 
-let arr2 = [4,5]; 
-let newArray = [...arr1,...arr2]; 
+let arr1 = [1, 2, 3];
+let arr2 = [4, 5];
+let newArray = [...arr1, ...arr2];
 console.log(newArray);
-// Output: [ 1, 2, 3, 4, 5 ] 
+// Output: [ 1, 2, 3, 4, 5 ]
 
 // Copying array elements
-let arr = ["a","b","c"]; 
-let newArray = [...arr]; 
+let arr = ['a', 'b', 'c'];
+let newArray = [...arr];
 console.log(newArray);
 // Output: ["a", "b", "c"]
 
 // Expanding arrays
-let arr = ["a","b"]; 
-let newArray = [...arr,"c","d"]; 
+let arr = ['a', 'b'];
+let newArray = [...arr, 'c', 'd'];
 console.log(newArray);
 // Output: ["a", "b", "c", "d"]
 
 // Merging objects
-const userBasic = { 
-	name: "Jen", 
-	age: 22,
-}; 
-const userMoreInfo = { 
-	country: "Argentina", 
-	city: "Córdoba", 
-}; 
-const user = {... userBasic, ... userMoreInfo};
+const userBasic = {
+    name: 'Jen',
+    age: 22
+};
+const userMoreInfo = {
+    country: 'Argentina',
+    city: 'Córdoba'
+};
+const user = { ...userBasic, ...userMoreInfo };
 // Output: {  name: "Jen",  age: 22, country: "Argentina", city: "Córdoba" }
 ```
 
-***
+---
 
 ## - en
 
@@ -5147,14 +5322,14 @@ const user = {... userBasic, ... userMoreInfo};
 - javascript
 ```
 
-***
+---
 
 The `void` operator returns an `undefined` value from an evaluated expression, or in other words; the `void` operator specifies an expression to be evaluated without returning a value. It is commonly used in client-side JavaScript, where the browser should not display the value.
 
 ```js
 function getYear() {
-  return 2020;
-};
+    return 2020;
+}
 
 console.log(getYear());
 // Output: 2020
@@ -5166,7 +5341,7 @@ console.log(void getYear());
 button.onclick = () => void getYear();
 ```
 
-***
+---
 
 ## - en
 
@@ -5174,22 +5349,22 @@ button.onclick = () => void getYear();
 - javascript
 ```
 
-***
+---
 
 All `Promise` instances accept a method as an argument called the executor. This executor takes two methods as arguments: resolve and reject. Within the executor, if resolve is called, the `Promise` instance becomes fulfilled. If an exception is thrown, reject is called instead, and the `Promise` instance becomes rejected.
 
 ```js
 const executor = (resolve, reject) => {
-  setTimeout(() => resolve("I'm done"), 1000);
+    setTimeout(() => resolve("I'm done"), 1000);
 };
 
-new Promise(executor).then(result => {
-  console.log(result);
-  // Output after 1000ms: I'm done
+new Promise(executor).then((result) => {
+    console.log(result);
+    // Output after 1000ms: I'm done
 });
 ```
 
-***
+---
 
 ## - en
 
@@ -5197,7 +5372,7 @@ new Promise(executor).then(result => {
 - javascript
 ```
 
-***
+---
 
 The ternary operator is a shortcut for the `if` statement. It consists of three operands; a question mark, a condition, and an expression to execute if the condition is true, followed by a colon and another expression to execute if it’s false.
 
@@ -5205,16 +5380,16 @@ The ternary operator is a shortcut for the `if` statement. It consists of three 
 let age = 26;
 
 // condition ? expression if true : expression if false
-let drink = (age >= 21) ? "Beer" : "Juice";
+let drink = age >= 21 ? 'Beer' : 'Juice';
 
 console.log(drink); // "Beer"
 
 // Equivalent to:
 let drink;
-if ((age >= 21)) {
-  drink = "Beer";
+if (age >= 21) {
+    drink = 'Beer';
 } else {
-  drink = "Juice";
+    drink = 'Juice';
 }
 
 console.log(drink); // "Beer"

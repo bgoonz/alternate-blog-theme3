@@ -2,12 +2,13 @@
 title: Archive
 subtitle: Archive
 seo:
-  title: ''
-  description: ''
-  robots: []
-  extra: []
+    title: ''
+    description: ''
+    robots: []
+    extra: []
 layout: page
 ---
+
 ## Archive
 
 <br>
@@ -186,8 +187,6 @@ layout: page
 <br>
 <br>
 
-
-
 ## Data Structures
 
 <br>https://ds-unit-5-lambda.netlify.app/#.
@@ -247,9 +246,6 @@ layout: page
 <br>
 <br>
 
-
-
-
 ## General Utilities
 
 <br>
@@ -284,10 +280,6 @@ layout: page
   Dashed Border Generator</a> by Bryan C Guner (<a href="https://codepen.io/bgoonz">@bgoonz</a>)
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
-
-
-
-
 
 <iframe src="https://drive.google.com/embeddedfolderview?id=1DHyQsPLziqSUODclplhnNX1eknzbZrL8#list" style="width:100%; height:600px; border:0;"></iframe>
 

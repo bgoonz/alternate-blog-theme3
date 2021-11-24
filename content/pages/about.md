@@ -30,16 +30,12 @@ seo:
           relativeUrl: true
 layout: page
 ---
+
 <div align="center">
 
 <h1>Hi 👋, I'm Bryan</h1>
 
-
-
-  
-
-
-### 🛠 
+### 🛠
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -62,9 +58,7 @@ layout: page
 
 </center>
 
- <img align="center"  src="https://github.com/bgoonz/bgoonz/blob/master/circle-small-sharp.png?raw=true?raw=true" ></img>
-
-
+<img align="center"  src="https://github.com/bgoonz/bgoonz/blob/master/circle-small-sharp.png?raw=true?raw=true" ></img>
 
 <br>
 
@@ -78,7 +72,7 @@ layout: page
 <summary><span style="color:red;font-size:x-large; font-weight:bold;"> ===➤(_CLICK TO SEE MORE_)</span></summary>
 
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=a-whole-bunch-o-gatsby-templates)](https://github.com/bgoonz/a-whole-bunch-o-gatsby-templates) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=Comments)](https://github.com/bgoonz/Comments)                                                                                       | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=EXPRESS-NOTES)](https://github.com/bgoonz/EXPRESS-NOTES)                                                          | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=INTERVIEW-PREP-COMPLETE)](https://github.com/bgoonz/INTERVIEW-PREP-COMPLETE)                       |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=alternate-blog-theme)](https://github.com/bgoonz/alternate-blog-theme)                         | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=commercejs-nextjs-demo-store)](https://github.com/bgoonz/commercejs-nextjs-demo-store)                                               | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=fast-fourier-transform-)](https://github.com/bgoonz/fast-fourier-transform-)                                      | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=JAMSTACK-TEMPLATES)](https://github.com/bgoonz/JAMSTACK-TEMPLATES)                                 |
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=anki-cards)](https://github.com/bgoonz/anki-cards)                                             | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=Common-npm-Readme-Compilation)](https://github.com/bgoonz/Common-npm-Readme-Compilation)                                             | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=form-builder-vanilla-js)](https://github.com/bgoonz/form-builder-vanilla-js)                                      | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=Javascript-Best-Practices_--Tools)](https://github.com/bgoonz/Javascript-Best-Practices_--Tools)   |
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=ask-me-anything)](https://github.com/bgoonz/ask-me-anything)                                   | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=Connect-Four-Final-Version)](https://github.com/bgoonz/Connect-Four-Final-Version)                                                   | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=Front-End-Frameworks-Practice)](https://github.com/bgoonz/Front-End-Frameworks-Practice)                          | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bgoonz&repo=jsanimate)](https://github.com/bgoonz/jsanimate)                                                   |
@@ -129,9 +123,7 @@ layout: page
 
 ### ➤ _Email_ [bryan.guner@gmail.com](#) _Phone_ [551-254-5505](551-254-5505)
 
-
 [![Bryan's github activity graph](https://activity-graph.herokuapp.com/graph?username=bgoonz&bg_color=000000&color=700069&line=ff0000&point=0cad00&area=true&hide_border=true)](https://github.com/bgoonz/github-readme-activity-graph)
-
 
 <h4 align="center">A passionate Web Developer, Electrical Engineer, Musician & Producer</h4>
 
@@ -200,23 +192,23 @@ layout: page
   
 ![statistics](https://github.com/bgoonz/bgoonz/blob/master/summary_50.png?raw=true)
 
-- 🔭 Contract Web Development **Relational Concepts**
+-   🔭 Contract Web Development **Relational Concepts**
 
-- 🌱 I'm currently learning **React/Redux, Python, Java, Express, jQuery**
+-   🌱 I'm currently learning **React/Redux, Python, Java, Express, jQuery**
 
-- 👯 I'm looking to collaborate on [Any web audio or open source educational tools.](https://goofy-euclid-1cd736.netlify.app/core-site/index.html)
+-   👯 I'm looking to collaborate on [Any web audio or open source educational tools.](https://goofy-euclid-1cd736.netlify.app/core-site/index.html)
 
-- 🤝 I'm looking for help with [Learning React](https://github.com/bgoonz/React-Practice)
+-   🤝 I'm looking for help with [Learning React](https://github.com/bgoonz/React-Practice)
 
-- 👨‍💻 All of my projects are available at [https://bgoonz.github.io/](https://bgoonz.github.io/)
+-   👨‍💻 All of my projects are available at [https://bgoonz.github.io/](https://bgoonz.github.io/)
 
-- 📝 I regularly write articles on [medium](https://bryanguner.medium.com/) && [Web-Dev-Resource-Hub](https://web-dev-resource-hub.netlify.app/)
+-   📝 I regularly write articles on [medium](https://bryanguner.medium.com/) && [Web-Dev-Resource-Hub](https://web-dev-resource-hub.netlify.app/)
 
-- 💬 Ask me about **Anything:**
+-   💬 Ask me about **Anything:**
 
-- 📫 How to reach me **bryan.guner@gmail.com**
+-   📫 How to reach me **bryan.guner@gmail.com**
 
-- ⚡ Fun fact **I played Bamboozle Music Festival at the Meadowlands Stadium Complex when I was 14.**
+-   ⚡ Fun fact **I played Bamboozle Music Festival at the Meadowlands Stadium Complex when I was 14.**
 
 ### i really like music :headphones:
 
@@ -293,7 +285,7 @@ Creating things that change my every day life.
 # ➤ Technical Skills­­­
 
 | **Programming\*\*** Languages:\*\* | JavaScript ES-6, NodeJS, React, HTML5, CSS3, SCSS, Bash Shell, Excel, SQL, NoSQL, MATLAB, Python, C++ |
-|------------------------------------|-------------------------------------------------------------------------------------------------------|
+| ---------------------------------- | ----------------------------------------------------------------------------------------------------- |
 | **Databases:**                     | PostgreSQL, MongoDB                                                                                   |
 | **Cloud:**                         | Docker, AWS, Google App Engine, Netlify, Digital Ocean, Heroku, Azure Cloud Services                  |
 | **OS:**                            | Linux, Windows (WSL), IOS                                                                             |
@@ -307,35 +299,36 @@ Creating things that change my every day life.
 # ➤ Experience
 
 | **Relational Concepts:** Hallandale Beach, FL | March 2020 - Present |
-|-----------------------------------------------|----------------------|
+| --------------------------------------------- | -------------------- |
 | **Front End Web Developer**                   |                      |
 |                                               |                      |
 
-- Responsible for front-end development for a custom real estate application which provides sophisticated and fully customizable filtering to allow investors and real estate professionals to narrow in on exact search targets.
-- Designed mock-up screens, wireframes, and workflows for intuitive user experience.
-- Migrated existing multi-page user experience into singular page interfaces using React components.
-- Participated in every stage of the design from conception through development and iterative improvement.
-- Produced user stories and internal documentation for future site development and maintenance.
-- Implemented modern frameworks including Bootstrap and Font-Awesome to give the site an aesthetic overhaul.
-- Managed all test deployments using a combination of Digital Ocean and Netlify.
-- Produced unit tests using a combination of Mocha and Chai.
-- Injected Google Analytics to capture pertinent usage data to produce an insightful dashboard experience.
+-   Responsible for front-end development for a custom real estate application which provides sophisticated and fully customizable filtering to allow investors and real estate professionals to narrow in on exact search targets.
+-   Designed mock-up screens, wireframes, and workflows for intuitive user experience.
+-   Migrated existing multi-page user experience into singular page interfaces using React components.
+-   Participated in every stage of the design from conception through development and iterative improvement.
+-   Produced user stories and internal documentation for future site development and maintenance.
+-   Implemented modern frameworks including Bootstrap and Font-Awesome to give the site an aesthetic overhaul.
+-   Managed all test deployments using a combination of Digital Ocean and Netlify.
+-   Produced unit tests using a combination of Mocha and Chai.
+-   Injected Google Analytics to capture pertinent usage data to produce an insightful dashboard experience.
 
 | **Environment:**                 | **JavaScript, JQuery, React, HTML5 &amp; CSS, Bootstrap, DOJO, Google Cloud, Bash Script** |
-|----------------------------------|--------------------------------------------------------------------------------------------|
+| -------------------------------- | ------------------------------------------------------------------------------------------ |
 | **Cembre:** Edison, NJ           | Nov 2019 – Mar 2020                                                                        |
 | -------------------------------- | -------------------                                                                        |
 | **Product Development Engineer** |                                                                                            |
 |                                  |                                                                                            |
 
-- Converted client&#39;s product needs into technical specs to be sent to the development team in Italy.
-- Reorganized internal file server structure.
-- Conducted remote / in person system integration and product demonstrations.
-- Presided over internal and end user software trainings in addition to producing the corresponding documentation.
-- Served as the primary point of contact for troubleshooting railroad hardware and software in the North America.
+-   Converted client&#39;s product needs into technical specs to be sent to the development team in Italy.
+-   Reorganized internal file server structure.
+-   Conducted remote / in person system integration and product demonstrations.
+-   Presided over internal and end user software trainings in addition to producing the corresponding documentation.
+-   Served as the primary point of contact for troubleshooting railroad hardware and software in the North America.
 
 | **Environment:** | **Excel, AutoCAD, PowerPoint, Word** |
-|------------------|--------------------------------------|
+| ---------------- | ------------------------------------ |
+
 ---
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#education)
@@ -343,14 +336,16 @@ Creating things that change my every day life.
 # ➤ Education
 
 | **B.S. Electrical Engineering, TCNJ, ** Ewing NJ | 2014 – 2019 |
-|--------------------------------------------------|-------------|
+| ------------------------------------------------ | ----------- |
+
 **Capstone Project – Team Lead**
 
-- Successfully completed and delivered a platform to digitize a guitar signal and perform filtering before executing frequency &amp; time domain analysis to track a current performance against prerecorded performance.
-- Implemented the Dynamic Time Warping algorithm in C++ and Python to autonomously activate or adjust guitar effect at multiple pre-designated section of performance.
+-   Successfully completed and delivered a platform to digitize a guitar signal and perform filtering before executing frequency &amp; time domain analysis to track a current performance against prerecorded performance.
+-   Implemented the Dynamic Time Warping algorithm in C++ and Python to autonomously activate or adjust guitar effect at multiple pre-designated section of performance.
 
 | **Environment:** | **C++, Python, MATLAB, PureData** |
-|------------------|-----------------------------------|
+| ---------------- | --------------------------------- |
+
 </details>
 
 <details>
@@ -641,10 +636,10 @@ $('pre span.command-copy').click(function(e) {
 
 ```js
 //APPEND-DIR.js
-const fs = require("fs");
-let cat = require("child_process").execSync("cat *").toString("UTF-8");
-fs.writeFile("output.md", cat, (err) => {
-  if (err) throw err;
+const fs = require('fs');
+let cat = require('child_process').execSync('cat *').toString('UTF-8');
+fs.writeFile('output.md', cat, (err) => {
+    if (err) throw err;
 });
 ```
 
@@ -671,22 +666,22 @@ passing in an array (secondArr) it returns a new array containing the elements
 common to both firstArr and secondArr.
 */
 function intersection(firstArr) {
-  return (secondArr) => {
-    let common = [];
-    for (let i = 0; i < firstArr.length; i++) {
-      let el = firstArr[i];
-      if (secondArr.indexOf(el) > -1) {
-        common.push(el);
-      }
-    }
-    return common;
-  };
+    return (secondArr) => {
+        let common = [];
+        for (let i = 0; i < firstArr.length; i++) {
+            let el = firstArr[i];
+            if (secondArr.indexOf(el) > -1) {
+                common.push(el);
+            }
+        }
+        return common;
+    };
 }
-let abc = intersection(["a", "b", "c"]); // returns a function
-console.log(abc(["b", "d", "c"])); // returns [ 'b', 'c' ]
+let abc = intersection(['a', 'b', 'c']); // returns a function
+console.log(abc(['b', 'd', 'c'])); // returns [ 'b', 'c' ]
 
-let fame = intersection(["f", "a", "m", "e"]); // returns a function
-console.log(fame(["a", "f", "z", "b"])); // returns [ 'f', 'a' ]
+let fame = intersection(['f', 'a', 'm', 'e']); // returns a function
+console.log(fame(['a', 'f', 'z', 'b'])); // returns [ 'f', 'a' ]
 ```
 
 ---
@@ -705,32 +700,23 @@ Second is partrecurSum() that recursively concatenates the required sum into an 
 //                            start                           end
 
 function recurSum(arr, start = 0, sum = 0) {
-  if (start < arr.length) {
-    return recurSum(arr, start + 1, sum + arr[start]);
-  }
-  return sum;
+    if (start < arr.length) {
+        return recurSum(arr, start + 1, sum + arr[start]);
+    }
+    return sum;
 }
 
 function rPartSumsArr(arr, partSum = [], start = 0, end = arr.length - 1) {
-  if (start <= end) {
-    return rPartSumsArr(
-      arr,
-      partSum.concat(recurSum(arr, start)),
-      ++start,
-      end
-    );
-  }
-  return partSum.reverse();
+    if (start <= end) {
+        return rPartSumsArr(arr, partSum.concat(recurSum(arr, start)), ++start, end);
+    }
+    return partSum.reverse();
 }
 
-console.log(
-  "------------------------------------------------rPartSumArr------------------------------------------------"
-);
-console.log("rPartSumsArr(arr)=[ 1, 1, 5, 2, 6, 10 ]: ", rPartSumsArr(arr));
-console.log("rPartSumsArr(arr1)=[ 1, 7, 12, 6, 5, 10 ]: ", rPartSumsArr(arr1));
-console.log(
-  "------------------------------------------------rPartSumArr------------------------------------------------"
-);
+console.log('------------------------------------------------rPartSumArr------------------------------------------------');
+console.log('rPartSumsArr(arr)=[ 1, 1, 5, 2, 6, 10 ]: ', rPartSumsArr(arr));
+console.log('rPartSumsArr(arr1)=[ 1, 7, 12, 6, 5, 10 ]: ', rPartSumsArr(arr1));
+console.log('------------------------------------------------rPartSumArr------------------------------------------------');
 /*
 ------------------------------------------------rPartSumArr------------------------------------------------
 rPartSumsArr(arr)=[ 1, 1, 5, 2, 6, 10 ]:  [ 10, 16, 18, 23, 24, 25 ]
@@ -745,7 +731,7 @@ rPartSumsArr(arr1)=[ 1, 7, 12, 6, 5, 10 ]:  [ 10, 15, 21, 33, 40, 41 ]
 
 ```js
 function camelToKebab(value) {
-  return value.replace(/([a-z])([A-Z])/g, "$1-$2").toLowerCase();
+    return value.replace(/([a-z])([A-Z])/g, '$1-$2').toLowerCase();
 }
 ```
 
@@ -755,10 +741,10 @@ function camelToKebab(value) {
 
 ```js
 function camel(str) {
-  return str.replace(/(?:^\w|[A-Z]|\b\w|\s+)/g, function (match, index) {
-    if (+match === 0) return ""; // or if (/\s+/.test(match)) for white spaces
-    return index === 0 ? match.toLowerCase() : match.toUpperCase();
-  });
+    return str.replace(/(?:^\w|[A-Z]|\b\w|\s+)/g, function (match, index) {
+        if (+match === 0) return ''; // or if (/\s+/.test(match)) for white spaces
+        return index === 0 ? match.toLowerCase() : match.toUpperCase();
+    });
 }
 ```
 
@@ -768,26 +754,26 @@ function camel(str) {
 
 ```js
 function addTwoNumbers(l1, l2) {
-  let result = new ListNode(0);
-  let currentNode = result;
-  let carryOver = 0;
-  while (l1 != null || l2 != null) {
-    let v1 = 0;
-    let v2 = 0;
-    if (l1 != null) v1 = l1.val;
-    if (l2 != null) v2 = l2.val;
-    let sum = v1 + v2 + carryOver;
-    carryOver = Math.floor(sum / 10);
-    sum = sum % 10;
-    currentNode.next = new ListNode(sum);
-    currentNode = currentNode.next;
-    if (l1 != null) l1 = l1.next;
-    if (l2 != null) l2 = l2.next;
-  }
-  if (carryOver > 0) {
-    currentNode.next = new ListNode(carryOver);
-  }
-  return result.next;
+    let result = new ListNode(0);
+    let currentNode = result;
+    let carryOver = 0;
+    while (l1 != null || l2 != null) {
+        let v1 = 0;
+        let v2 = 0;
+        if (l1 != null) v1 = l1.val;
+        if (l2 != null) v2 = l2.val;
+        let sum = v1 + v2 + carryOver;
+        carryOver = Math.floor(sum / 10);
+        sum = sum % 10;
+        currentNode.next = new ListNode(sum);
+        currentNode = currentNode.next;
+        if (l1 != null) l1 = l1.next;
+        if (l2 != null) l2 = l2.next;
+    }
+    if (carryOver > 0) {
+        currentNode.next = new ListNode(carryOver);
+    }
+    return result.next;
 }
 ```
 
@@ -800,23 +786,23 @@ function addTwoNumbers(l1, l2) {
 //expression in JavaScript
 
 let isAlphaNumeric = (char) => {
-  char = char.toString();
-  let id = char.charCodeAt(0);
-  if (
-    !(id > 47 && id < 58) && // if not numeric(0-9)
-    !(id > 64 && id < 91) && // if not letter(A-Z)
-    !(id > 96 && id < 123) // if not letter(a-z)
-  ) {
-    return false;
-  }
-  return true;
+    char = char.toString();
+    let id = char.charCodeAt(0);
+    if (
+        !(id > 47 && id < 58) && // if not numeric(0-9)
+        !(id > 64 && id < 91) && // if not letter(A-Z)
+        !(id > 96 && id < 123) // if not letter(a-z)
+    ) {
+        return false;
+    }
+    return true;
 };
 
-console.log(isAlphaNumeric("A")); //true
+console.log(isAlphaNumeric('A')); //true
 console.log(isAlphaNumeric(2)); //true
-console.log(isAlphaNumeric("z")); //true
-console.log(isAlphaNumeric(" ")); //false
-console.log(isAlphaNumeric("!")); //false
+console.log(isAlphaNumeric('z')); //true
+console.log(isAlphaNumeric(' ')); //false
+console.log(isAlphaNumeric('!')); //false
 ```
 
 ---
@@ -825,16 +811,16 @@ console.log(isAlphaNumeric("!")); //false
 
 ```js
 function replaceWords(str, before, after) {
-  if (/^[A-Z]/.test(before)) {
-    after = after[0].toUpperCase() + after.substring(1);
-  } else {
-    after = after[0].toLowerCase() + after.substring(1);
-  }
-  return str.replace(before, after);
+    if (/^[A-Z]/.test(before)) {
+        after = after[0].toUpperCase() + after.substring(1);
+    } else {
+        after = after[0].toLowerCase() + after.substring(1);
+    }
+    return str.replace(before, after);
 }
-console.log(replaceWords("Let us go to the store", "store", "mall")); //"Let us go to the mall"
-console.log(replaceWords("He is Sleeping on the couch", "Sleeping", "sitting")); //"He is Sitting on the couch"
-console.log(replaceWords("His name is Tom", "Tom", "john"));
+console.log(replaceWords('Let us go to the store', 'store', 'mall')); //"Let us go to the mall"
+console.log(replaceWords('He is Sleeping on the couch', 'Sleeping', 'sitting')); //"He is Sitting on the couch"
+console.log(replaceWords('His name is Tom', 'Tom', 'john'));
 //"His name is John"
 ```
 
@@ -844,11 +830,7 @@ console.log(replaceWords("His name is Tom", "Tom", "john"));
 
 ```js
 /*Simple Function to flatten an array into a single layer */
-const flatten = (array) =>
-  array.reduce(
-    (accum, ele) => accum.concat(Array.isArray(ele) ? flatten(ele) : ele),
-    []
-  );
+const flatten = (array) => array.reduce((accum, ele) => accum.concat(Array.isArray(ele) ? flatten(ele) : ele), []);
 ```
 
 ---
@@ -869,16 +851,16 @@ console.log(isWeekday(new Date(2021, 0, 10)));
 
 ```js
 function longestCommonPrefix(strs) {
-  let prefix = "";
-  if (strs.length === 0) return prefix;
-  for (let i = 0; i < strs[0].length; i++) {
-    const character = strs[0][i];
-    for (let j = 0; j < strs.length; j++) {
-      if (strs[j][i] !== character) return prefix;
+    let prefix = '';
+    if (strs.length === 0) return prefix;
+    for (let i = 0; i < strs[0].length; i++) {
+        const character = strs[0][i];
+        for (let j = 0; j < strs.length; j++) {
+            if (strs[j][i] !== character) return prefix;
+        }
+        prefix = prefix + character;
     }
-    prefix = prefix + character;
-  }
-  return prefix;
+    return prefix;
 }
 ```
 
@@ -910,7 +892,3 @@ function longestCommonPrefix(strs) {
 ![Express](https://img.shields.io/badge/-Express-blue?style=flat&logo=express) ![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)![Python](https://img.shields.io/badge/-Python-lightyellow?style=flat&logo=python&logoColor=blue) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 
 </details>
-  
-  
-  
-  

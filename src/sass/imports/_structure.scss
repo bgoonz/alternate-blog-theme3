@@ -15,7 +15,7 @@
 }
 
 .inner {
-    max-width: 1400px;
+    max-width: 750px;
 }
 
 .site-content {
@@ -29,7 +29,7 @@
     -webkit-box-flex: 1;
     -ms-flex-positive: 1;
     flex-grow: 1;
-    padding: 2.5em 4vw 1.3em;
+    padding: 2.5em 4vw 1.66667em;
 
     @media only screen and (min-width: 801px) {
         margin-left: 30vw;
@@ -42,8 +42,8 @@
 
     @media only screen and (min-width: 1501px) {
         margin-left: 450px;
-        padding-left: 100px;
-        padding-right: 100px;
+        padding-left: 130px;
+        padding-right: 130px;
     }
 }
 
@@ -51,5 +51,5 @@
     -webkit-box-flex: 1;
     -ms-flex-positive: 1;
     flex-grow: 1;
-    padding-bottom: 1.3em;
+    padding-bottom: 1.66667em;
 }

@@ -12,6 +12,7 @@ seo:
   extra: []
 layout: post
 thumb_img_path: /images/react.jpg
+content_img_path: /images/My Post.png
 ---
 ## React Prac
 

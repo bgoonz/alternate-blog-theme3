@@ -1792,10 +1792,7 @@ layout: page
 
 # Text Tools
 
-#
 
-
-<iframe src="
 
 ### Ternary Converter&#xA;&#xA;
 

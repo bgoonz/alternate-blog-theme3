@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: gists
 subtitle: lorem-ipsum
 seo:
   title: ''

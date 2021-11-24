@@ -48,7 +48,7 @@
             },
             {
                 "label": "Embeds",
-                "url": "#",
+                "url": "embeds",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,

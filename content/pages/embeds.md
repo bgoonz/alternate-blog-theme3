@@ -26,11 +26,6 @@ img_path: /images/banner-background-bg.jpg
 
 
 
-<center>
-    <h1>IFRAME GALLERY</h1>
-</center>
-
-
 
     ---
 

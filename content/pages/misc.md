@@ -182,9 +182,3 @@ frameborder="0"></iframe>
   allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 <iframe width="100%" height="800" src="https://jsfiddle.net/bgoonz/j4xt839d/embedded/js,html,css,result/"
   allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
-- 1
-- [2](https://jsfiddle.net/bgoonz/fiddles/all/2/)
-- [3](https://jsfiddle.net/bgoonz/fiddles/all/3/)
-- [▶︎](https://jsfiddle.net/bgoonz/fiddles/all/2/)
-- [4](https://jsfiddle.net/bgoonz/fiddles/all/result/" allowfullscreen="allowfullscreen" allowpaymentrequest
-frameborder="0"></iframe>

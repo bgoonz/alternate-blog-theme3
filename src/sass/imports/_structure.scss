@@ -18,6 +18,10 @@
     max-width: 1000px;
 }
 
+img {
+    border: 3px solid black;
+}
+
 .site-content {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -52,4 +56,8 @@
     -ms-flex-positive: 1;
     flex-grow: 1;
     padding-bottom: 1.66667em;
+}
+
+flex-grow: 1;
+padding-bottom: 1.66667em;
 }

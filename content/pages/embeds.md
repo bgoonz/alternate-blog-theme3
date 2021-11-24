@@ -127,11 +127,6 @@ img_path: /images/banner-background-bg.jpg
 
 
 
-    <center>
-        <h2>title 3</h2>
-    </center>
-
-
 
 
 

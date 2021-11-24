@@ -1,12 +1,13 @@
 ---
-title: lorem-ipsum
-subtitle: lorem-ipsum
+title: Embeds
+subtitle: Mini Projects
 seo:
-    title: ''
-    description: ''
-    robots: []
-    extra: []
+  title: ''
+  description: ''
+  robots: []
+  extra: []
 layout: page
+img_path: /images/banner-background-bg.jpg
 ---
 ## Embeds:
 

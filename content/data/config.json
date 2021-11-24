@@ -1,7 +1,7 @@
 {
-    "title": "Web Audio Applications",
+    "title": "Web-Dev-Portfolio-4",
     "path_prefix": "/",
-    "palette": "red",
+    "palette": "blue",
     "header": {
         "title": "Sidebar Blog",
         "tagline": "Web Audio Applications",
@@ -47,7 +47,7 @@
                 "style": "link"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Embeds",
                 "url": "#",
                 "style": "link",
                 "icon_class": "dev",

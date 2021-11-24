@@ -10,7 +10,7 @@ layout: page
 ---
 ## Lorem ipsum
 
-<iframe width="100%" height="800" src="https://jsfiddle.net/bgoonz/65hoc19t//embedded/js,html,css,result/dark/"   width="100%" height="800" /iframe>
+<iframe width="100%" height="800" src="https://jsfiddle.net/bgoonz/65hoc19t//embedded/js,html,css,result/dark/"   width="100%" height="800" </iframe>
 <iframe src="https://jsfiddle.net/bgoonz/5kl90wpx/embedded/js,html,css,result/"  allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 <iframe width="100%" height="800" src="https://jsfiddle.net/bgoonz/65hoc19t//embedded/js,html,css,result/dark/"
   allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>

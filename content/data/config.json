@@ -7,7 +7,7 @@
         "tagline": "Web Audio Applications",
         "logo_img": "/images/FINAL.png",
         "logo_img_alt": "bgoonz Logo",
-        "background_img": "/images/sinwavverticle-f6c9ab06.jpg",
+        "background_img": "/images/WINWORD_ODpxi6srUP.png",
         "has_nav": true,
         "nav_links": [
             {
@@ -21,7 +21,7 @@
                 "style": "link"
             },
             {
-                "label": "Industry Trends",
+                "label": "Advice",
                 "url": "/Industry-trends",
                 "style": "link"
             },

@@ -1,6 +1,6 @@
 ---
 title: ReactPrac
-subtitle: lorem-ipsum
+subtitle: 300 problems
 date: '2021-11-24'
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum

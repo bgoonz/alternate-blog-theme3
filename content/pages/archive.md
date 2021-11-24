@@ -8,7 +8,7 @@ seo:
   extra: []
 layout: page
 ---
-## Lorem ipsum
+## Archive
 
 <br>
 <br>

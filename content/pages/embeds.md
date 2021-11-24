@@ -224,14 +224,6 @@ img_path: /images/banner-background-bg.jpg
 
 
 
-    <center>
-        <h2>title 8</h2>
-    </center>
-
-
-
-
-
  <iframe src="https://codepen.io/bgoonz/embed/rNyENQJ?default-tab=result" style="width:1000px; height:1200px;" loading="lazy" allowtransparency="true" allowfullscreen></iframe>
 
     ---

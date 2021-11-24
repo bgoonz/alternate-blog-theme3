@@ -35,7 +35,9 @@ export default class FormField extends React.Component {
                             <select id={name} name={name} {...attr}>
                                 {defaultValue && <option value="">{defaultValue}</option>}
                                 {_.map(options, (option, index) => (
-                                    <option key={index} value={option}>{option}</option>
+                                    <option key={index} value={option}>
+                                        {option}
+                                    </option>
                                 ))}
                             </select>
                         </div>

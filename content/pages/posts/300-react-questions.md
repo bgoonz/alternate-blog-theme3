@@ -1,8 +1,8 @@
 ---
-title: lorem-ipsum
-subtitle: lorem-ipsum
+title: ReactPrac
+subtitle: 300 problems
 date: '2021-11-24'
-thumb_img_alt: lorem-ipsum
+thumb_img_alt: react
 excerpt: lorem-ipsum
 hide_header: false
 seo:
@@ -11,6 +11,8 @@ seo:
   robots: []
   extra: []
 layout: post
+thumb_img_path: /images/react.jpg
+content_img_path: /images/My Post.png
 ---
 ## React Prac
 

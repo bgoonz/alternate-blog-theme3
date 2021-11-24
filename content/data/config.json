@@ -1,13 +1,13 @@
 {
     "title": "Web-Dev-Portfolio-4",
     "path_prefix": "/",
-    "palette": "blue",
+    "palette": "green",
     "header": {
         "title": "Sidebar Blog",
         "tagline": "Web Audio Applications",
         "logo_img": "/images/FINAL.png",
         "logo_img_alt": "bgoonz Logo",
-        "background_img": "/images/sinwavverticle-f6c9ab06.jpg",
+        "background_img": "/images/WINWORD_ODpxi6srUP.png",
         "has_nav": true,
         "nav_links": [
             {
@@ -21,7 +21,7 @@
                 "style": "link"
             },
             {
-                "label": "Industry Trends",
+                "label": "Advice",
                 "url": "/Industry-trends",
                 "style": "link"
             },
@@ -91,6 +91,14 @@
                 "style": "icon",
                 "icon_class": "dev",
                 "new_window": true
+            },
+            {
+                "label": "Facebook",
+                "url": "https://www.facebook.com/bryan.guner/",
+                "style": "icon",
+                "icon_class": "facebook",
+                "new_window": true,
+                "no_follow": false
             }
         ]
     },
@@ -108,10 +116,10 @@
             },
             {
                 "label": "tools",
-                "url": "#",
-                "style": "link",
+                "url": "https://bgoonz-blog.netlify.app/docs/tools",
+                "style": "icon",
                 "icon_class": "dev",
-                "new_window": false,
+                "new_window": true,
                 "no_follow": false,
                 "type": "action"
             },
@@ -119,7 +127,7 @@
                 "label": "lorem-ipsum",
                 "url": "#",
                 "style": "link",
-                "icon_class": "dev",
+                "icon_class": "vimeo",
                 "new_window": false,
                 "no_follow": false
             },
@@ -134,5 +142,5 @@
         ]
     },
     "domain": "https://bgoonz-blog-v3-0.netlify.app/",
-    "favicon": "/images/favicon.ico"
+    "favicon": "/images/album2.png"
 }

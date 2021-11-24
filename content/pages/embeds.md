@@ -105,10 +105,6 @@ img_path: /images/banner-background-bg.jpg
 
 
 
-    <center>
-        <h2>title 2</h2>
-    </center>
-
 
 
 

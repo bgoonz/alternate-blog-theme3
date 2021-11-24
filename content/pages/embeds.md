@@ -12,7 +12,7 @@ img_path: /images/banner-background-bg.jpg
 ## Embeds:
 
 
-<!---Portfolio------>
+
 
 <!----------------------------------google form---------------------------------------->
 

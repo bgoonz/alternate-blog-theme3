@@ -25,15 +25,17 @@ export default class Post extends React.Component {
 
         return (
             <Layout page={page} config={config}>
-                {hideHeader ? <HeaderAlt />
-                    : <Header config={config} page={page} image={headerImage} />}
+                {hideHeader ? <HeaderAlt /> : <Header config={config} page={page} image={headerImage} />}
                 <div id="content" className="site-content">
                     <main id="main" className="site-main inner">
                         <article className="post post-full">
                             <header className="post-header">
                                 <h1 className="post-title">{title}</h1>
                                 <div className="post-meta">
-                                    Published on <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>
+                                    Published on{' '}
+                                    <time className="published" dateTime={dateTimeAttr}>
+                                        {formattedDate}
+                                    </time>
                                 </div>
                             </header>
                             {subtitle && <div className="post-subtitle">{htmlToReact(subtitle)}</div>}

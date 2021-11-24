@@ -7,7 +7,7 @@ excerpt: >-
 date: '2016-08-22'
 thumb_img_path: images/9.jpg
 thumb_img_alt: Home office setup
-content_img_path: /images/posts.PNG
+content_img_path: /images/super-pineapple.jpg
 seo:
   title: The Advantages and Disadvantages of Working from Home
   extra:

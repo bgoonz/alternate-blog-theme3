@@ -33,6 +33,7 @@ seo:
       relativeUrl: false
 layout: post
 thumb_img_path: /images/web-dev-back.jpg
+content_img_path: /images/3-bc03a962.jpg
 ---
 
 ## What Is a Web Developer?

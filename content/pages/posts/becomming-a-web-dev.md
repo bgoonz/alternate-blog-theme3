@@ -3,7 +3,10 @@ title: "\U0001F4BBWhat Is a Web Developer?\U0001F4BB"
 subtitle: Do you have what it takes
 date: '2022-01-06'
 thumb_img_alt: code
-excerpt: lorem-ipsum
+excerpt: >-
+  A website can have anywhere from a single person to an entire team behind it,
+  but at minimum, it needs a web developer. These people write the code that
+  gets a website working and visible on the world wide web.
 hide_header: false
 seo:
   title: What does it take to be a web developer

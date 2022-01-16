@@ -338,3 +338,5 @@ Watch Star Wars via telnet
 
     $ telnet towel.blinkenlights.nl
 
+
+[command line one-liners]: http://arturoherrero.com/2013/11/29/command-line-one-liners/

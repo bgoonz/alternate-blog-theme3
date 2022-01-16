@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Command line one-liners
 subtitle: lorem-ipsum
 seo:
   title: ''

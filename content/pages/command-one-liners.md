@@ -12,9 +12,7 @@ layout: page
 
 ## Command line one-liners
 
-After my blog post about [command line one-liners],
-many people want to contribute with their own commands.
-This is the place to do it, pull requests are welcome!
+
 
 
 Run the last command

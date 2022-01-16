@@ -29,11 +29,6 @@
                 "no_follow": false
             },
             {
-                "label": "Advice",
-                "url": "/Industry-trends",
-                "style": "link"
-            },
-            {
                 "label": "Resume-Experience",
                 "url": "resume",
                 "style": "link",

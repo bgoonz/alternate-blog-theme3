@@ -1,6 +1,6 @@
 ---
 title: Command line one-liners
-subtitle: lorem-ipsum
+subtitle: Command line one-liners
 seo:
   title: ''
   description: ''

@@ -155,7 +155,7 @@ If you don’t want a formal college degree, online certifications like those of
 
 ### Types of Web Developers
 
-Web development is a highly specialized career. You’ll rarely find a person who describes themselves simply as a “web developer.” Depending on what you do, which part of the website you focus on, and what technologies you work with, you can choose from a wide array of job titles.
+Web development is a highly specialized career. You’ll rarely find a person who describes themselves simply as a “web developer." Depending on what you do, which part of the website you focus on, and what technologies you work with, you can choose from a wide array of job titles.
 
 -   **Frontend developer:** A widespread choice as the skills are easy to pick up, frontend/client-side developers work on the front-facing website. Languages of choice are [HTML](https://kinsta.com/blog/html-vs-html5/), CSS, and JavaScript. Bootstrap and jQuery are also popular technologies.
 

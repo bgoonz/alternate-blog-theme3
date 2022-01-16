@@ -28,9 +28,9 @@ For another example, [consider Git](https://kinsta.com/knowledgebase/git-vs-gith
 
 Overall, a web development tool could be practically anything that makes your project run efficiently and productively. You’ll notice this diversity in the list of the tools.
 
-[There’s something incredibly exciting about opening TextEdit or Notepad and typing “<HTML>” to kick off a new project 🤓 These 60 helpful web development tools will help you organize and optimize your experience ✅Click to Tweet](https://twitter.com/intent/tweet?url=https%3A%2F%2Fkinsta.com%2Fblog%2Fweb-development-tools%2F&via=kinsta&text=There%E2%80%99s+something+incredibly+exciting+about+opening+TextEdit+or+Notepad+and+typing+%E2%80%9C%26lt%3BHTML%26gt%3B%E2%80%9D+to+kick+off+a+new+project+%F0%9F%A4%93+These+60+helpful+web+development+tools+will+help+you+organize+and+optimize+your+experience+%E2%9C%85)
+[There’s something incredibly exciting about opening TextEdit or Notepad and typing “<HTML>" to kick off a new project 🤓 These 60 helpful web development tools will help you organize and optimize your experience ✅Click to Tweet](https://twitter.com/intent/tweet?url=https%3A%2F%2Fkinsta.com%2Fblog%2Fweb-development-tools%2F&via=kinsta&text=There%E2%80%99s+something+incredibly+exciting+about+opening+TextEdit+or+Notepad+and+typing+%E2%80%9C%26lt%3BHTML%26gt%3B%E2%80%9D+to+kick+off+a+new+project+%F0%9F%A4%93+These+60+helpful+web+development+tools+will+help+you+organize+and+optimize+your+experience+%E2%9C%85)
 
-We’re going to give you a trigger warning before the next couple of words: “[crunch time](https://kotaku.com/crunch-time-why-game-developers-work-such-insane-hours-1704744577).”
+We’re going to give you a trigger warning before the next couple of words: “[crunch time](https://kotaku.com/crunch-time-why-game-developers-work-such-insane-hours-1704744577)."
 
 Yes, this dreaded phrase screams out for time-saving web development tools to save the day. The statistics show that [more projects utilize crunch](https://insights.stackoverflow.com/survey/2020#work-overtime) as a standard, and many development industries still use it today.
 
@@ -101,7 +101,7 @@ Scratch that — we *are* biased, and we’re proud of what we’ve released!
 
 For the uninitiated, DevKinsta is a way to help you spin up [local WordPress installations](https://kinsta.com/blog/install-wordpress-locally/) in a flash. It’s a complete suite that lets you design, develop, and deploy a WordPress site for macOS and Windows machines (with a Linux version in the pipeline).
 
-You’re able to tailor your installation to your current project. For example, your “server” could use Nginx or Apache, your choice of PHP version, run [MariaDB or MySQL](https://kinsta.com/blog/mariadb-vs-mysql/), and much more:
+You’re able to tailor your installation to your current project. For example, your “server" could use Nginx or Apache, your choice of PHP version, run [MariaDB or MySQL](https://kinsta.com/blog/mariadb-vs-mysql/), and much more:
 
 ![DevKinsta’s setup options.](https://kinsta.com/wp-content/uploads/2021/05/devkinsta-php-options.png)
 
@@ -131,7 +131,7 @@ Typically, they combine an Operating System (OS) — Linux, macOS, or Windows �
 
 MAMP is the macOS-specific version of the tool. This approach sees you install a stack and work on design and deployment. While the process can be more long-winded than more modern setups, there’s still a similar level of flexibility under the hood — or at least, the potential is there.
 
-While in a tool such as DevKinsta, you’ll select from a slick Graphical User Interface (GUI), with a web service stack, you have to install the additions you need manually. For example, there’s no built-in way to spin up a WordPress site without “[rolling your own](https://kinsta.com/knowledgebase/what-is-localhost/).” It’s a similar situation with [testing email](https://documentation.mamp.info/en/MAMP-PRO-Windows/Servers-and-Services/Postfix/).
+While in a tool such as DevKinsta, you’ll select from a slick Graphical User Interface (GUI), with a web service stack, you have to install the additions you need manually. For example, there’s no built-in way to spin up a WordPress site without “[rolling your own](https://kinsta.com/knowledgebase/what-is-localhost/)." It’s a similar situation with [testing email](https://documentation.mamp.info/en/MAMP-PRO-Windows/Servers-and-Services/Postfix/).
 
 As with other local development environment tools, MAMP is entirely free. However, there’s also a [premium version of MAMP](https://www.mamp.info/en/mamp-pro/) for both Windows and Mac that ramps up the functionality and provides a comprehensive, robust web development tool.
 
@@ -149,7 +149,7 @@ Of course, Apache developers will use these stacks, too, as will MySQL and Pytho
 
 The XAMPP app.
 
-[XAMPP](https://www.apachefriends.org/download.html) is another web service stack that gets a lot of love from PHP developers, including those creating WordPress products. The “X” in the name represents the tool’s cross-platform nature. It offers installers for Windows, macOS, and Linux machines:
+[XAMPP](https://www.apachefriends.org/download.html) is another web service stack that gets a lot of love from PHP developers, including those creating WordPress products. The “X" in the name represents the tool’s cross-platform nature. It offers installers for Windows, macOS, and Linux machines:
 
 ![The XAMPP downloads page.](https://kinsta.com/wp-content/uploads/2021/05/xampp-downloads.png)
 
@@ -235,7 +235,7 @@ The Atom app.
 
 It’s a GitHub-developed app, which may explain why it’s been shoved down the pecking order at Microsoft. However, it’s updated regularly and can be considered an alternative version of Visual Studio Code.
 
-Text editing is functional, and like its bigger sibling, it has built-in GitHub integration. There are also many add-ons called “packages”:
+Text editing is functional, and like its bigger sibling, it has built-in GitHub integration. There are also many add-ons called “packages":
 
 ![Atom’s package installer.](https://kinsta.com/wp-content/uploads/2021/05/atom-package-manager.png)
 
@@ -255,11 +255,11 @@ Atom is a functional code editor that deserves a try. However, as Atom is [built
 
 The Notepad++ homepage.
 
-Right off the bat, it’s worth stating that [Notepad++](https://notepad-plus-plus.org/) might not replace any of the “big boy” code editors you already use, such as IntelliJ IDEA or Visual Studio Code. However, it will give you more power under the hood for simple scripts and general text editing applications.
+Right off the bat, it’s worth stating that [Notepad++](https://notepad-plus-plus.org/) might not replace any of the “big boy" code editors you already use, such as IntelliJ IDEA or Visual Studio Code. However, it will give you more power under the hood for simple scripts and general text editing applications.
 
 Depending on your projects, it might tempt you to switch. Despite its simplicity, Notepad++ is used across a wide variety of projects.
 
-It’s a Windows-only code editor, which explains the “plus-plus” element of its name. Of course, [Notepad](https://www.microsoft.com/en-us/p/windows-notepad/9msmlrh6lzf3?activetab=pivot:overviewtab) is a no-nonsense text editor found by default on Windows installations. Notepad++ looks like its sibling, but it also includes development-specific features such as:
+It’s a Windows-only code editor, which explains the “plus-plus" element of its name. Of course, [Notepad](https://www.microsoft.com/en-us/p/windows-notepad/9msmlrh6lzf3?activetab=pivot:overviewtab) is a no-nonsense text editor found by default on Windows installations. Notepad++ looks like its sibling, but it also includes development-specific features such as:
 
 -   Tabbed and split windows
 -   Support for nearly [80 programming languages](https://npp-user-manual.org/docs/programing-languages/)
@@ -272,7 +272,7 @@ We think Notepad++ is going to suit developers that want great functionality, wh
 
 #### 8\. The JetBrains Suite
 
-When it comes to development IDEs, the [JetBrains suite of solutions](http://jetbrains.com/) is going to be at (or very near) the top of your list. The business model is clever, as while there are lots of editors available from JetBrains, they’re all actually “subsets” of its marquee editor, [IntelliJ IDEA](https://www.jetbrains.com/idea/).
+When it comes to development IDEs, the [JetBrains suite of solutions](http://jetbrains.com/) is going to be at (or very near) the top of your list. The business model is clever, as while there are lots of editors available from JetBrains, they’re all actually “subsets" of its marquee editor, [IntelliJ IDEA](https://www.jetbrains.com/idea/).
 
 ![IntelliJ IDEA is a leading Java IDE.](https://kinsta.com/wp-content/uploads/2021/05/intellij-idea.png)
 
@@ -302,7 +302,7 @@ Price is also a factor, and IntelliJ is built upon a [subscription model](https:
 
 IntelliJ IDEAs pricing screen.
 
-Even so, there *are* some “community” editions of JetBrains products. However, they’re cut-down versions of the parent software; essentially, they’re open source solutions with the proprietary elements taken out.
+Even so, there *are* some “community" editions of JetBrains products. However, they’re cut-down versions of the parent software; essentially, they’re open source solutions with the proprietary elements taken out.
 
 What’s more, JetBrains offers competitive pricing for open source projects, startups, education facilities, Docker Captains, and lots more niche groups.
 
@@ -334,7 +334,7 @@ The Coolors color picker.
 
 While Figma has value for single-developer projects, it has more benefit for a team as it scales in size. Teams will like the collaborative aspects of Figma, such as the central asset repository and reusable components. Team leaders will also appreciate the comprehensive reporting options to see how the team members use the various design systems.
 
-As for pricing, Figma costs $12 per “editor” on the [standard tier](https://www.figma.com/pricing/), which rises to $45 per “editor” for enterprise-based teams (for “editor,” read “seat” — it’s the same concept). As such, the price could rise based on how many editors you’d like onboard.
+As for pricing, Figma costs $12 per “editor" on the [standard tier](https://www.figma.com/pricing/), which rises to $45 per “editor" for enterprise-based teams (for “editor," read “seat" — it’s the same concept). As such, the price could rise based on how many editors you’d like onboard.
 
 #### 10\. Sketch
 
@@ -358,7 +358,7 @@ Sketch differs from a tool such as Figma in that a freelancer or lone developer 
 
 #### 11\. InVision Studio
 
-[InVision Studio](https://www.invisionapp.com/) uniquely sells itself as a “screen design” app. It makes sense, and it’s clearer to understand too. InVision Studio provides all the standard features and functionality you’d expect, such as an intuitive layer-based editor and vector support.
+[InVision Studio](https://www.invisionapp.com/) uniquely sells itself as a “screen design" app. It makes sense, and it’s clearer to understand too. InVision Studio provides all the standard features and functionality you’d expect, such as an intuitive layer-based editor and vector support.
 
 ![The InVision Studio app.](https://kinsta.com/wp-content/uploads/2021/05/invision-studio.png)
 
@@ -406,15 +406,15 @@ For users of other code editors, a solution such as [CodePen](https://codepen.io
 
 The CodePen console.
 
-You can name your “Pen” or “Fiddle” depending on your platform, save it, and share it with others. It’s such a simple idea — one that can help you take your half-baked thoughts on an aspect of a project and realize them within seconds.
+You can name your “Pen" or “Fiddle" depending on your platform, save it, and share it with others. It’s such a simple idea — one that can help you take your half-baked thoughts on an aspect of a project and realize them within seconds.
 
-For developers who want to shine a light on a particular element within a file and show where changes are possible, an “online IDE” is invaluable. In addition, collaboration is also possible through chat or a “live mic”:
+For developers who want to shine a light on a particular element within a file and show where changes are possible, an “online IDE" is invaluable. In addition, collaboration is also possible through chat or a “live mic":
 
 ![The JSFiddle Collaboration screen.](https://kinsta.com/wp-content/uploads/2021/05/jsfiddle-chat.png)
 
 The JSFiddle Collaboration screen.
 
-Overall, an online IDE could be considered a “sleeper” web development tool in that it’s not mentioned too often but is used by many developers to create better code.
+Overall, an online IDE could be considered a “sleeper" web development tool in that it’s not mentioned too often but is used by many developers to create better code.
 
 ### Git Clients
 
@@ -424,13 +424,13 @@ Let’s discuss the VCS itself first.
 
 #### 14\. Git
 
-[Git](https://git-scm.com/) is essential for a modern developer, and as such, it’s one of the most crucial web development tools available. In a nutshell, it’s a way to document the changes you make to your project’s code and store them in “repositories”:
+[Git](https://git-scm.com/) is essential for a modern developer, and as such, it’s one of the most crucial web development tools available. In a nutshell, it’s a way to document the changes you make to your project’s code and store them in “repositories":
 
 ![A list of WordPress GitHub commits.](https://kinsta.com/wp-content/uploads/2021/05/wordpress-commits.png)
 
 A list of WordPress GitHub commits.
 
-Git was invented by [Linux](https://www.linux.org/) creator Linus Torvalds. and uses a series of commands to add file changes to a “staging area,” where you’ll then “commit” them to a repository. From there, you’ll “push” them to a remote repository hosted online.
+Git was invented by [Linux](https://www.linux.org/) creator Linus Torvalds. and uses a series of commands to add file changes to a “staging area," where you’ll then “commit" them to a repository. From there, you’ll “push" them to a remote repository hosted online.
 
 While it isn’t the only VCS available — the WordPress development team [still uses Trac](https://trac.edgewall.org/) for many projects — it’s the most prominent. A VCS such as Git or Trac helps teams work together by hosting code in a central location.
 
@@ -442,7 +442,7 @@ git add file.php
 
 This expression adds **file.php** to your staging area. In other words, it records the changes as something you’d like to store without putting the finishing touches on it. You can do this with one file or an entire project if you wish.
 
-To commit the file, you run `git commit`. From here, you can add a comment to tell others about your commits. After this, your changes are stored and pushed to the primary “branch.” Of course, that depends on whether you’re working on a remote “repo.”
+To commit the file, you run `git commit`. From here, you can add a comment to tell others about your commits. After this, your changes are stored and pushed to the primary “branch." Of course, that depends on whether you’re working on a remote “repo."
 
 If you’re new to Git and VCSs in general, GitLab has a [great beginner’s guide](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html) to using Git on the command line. We’ll also talk a little about GitLab itself later on.
 
@@ -482,9 +482,9 @@ The GitLab logo.
 
 We mentioned it earlier, but [GitLab](http://gitlab.com/) is a competitor to GitHub, with a similar goal. It’s essentially a host for Git repos but also offers a few other extras too.
 
-While GitHub calls itself a “development platform,” GitLab focuses on “DevOps.” On its free tier, GitLab offers every stage of the DevOps lifecycle, static application security testing, and around 400 minutes per month for Continuous Development (CD) and Continuous Integration (CI).
+While GitHub calls itself a “development platform," GitLab focuses on “DevOps." On its free tier, GitLab offers every stage of the DevOps lifecycle, static application security testing, and around 400 minutes per month for Continuous Development (CD) and Continuous Integration (CI).
 
-GitLab falls in its sense of community, which is the big difference when it comes to GitHub. It’s more about deployment and the whole cycle of a project. It isn’t a negative, but it does mean GitLab is more of an “insular” platform, arguably not as suited to open source projects as GitHub.
+GitLab falls in its sense of community, which is the big difference when it comes to GitHub. It’s more about deployment and the whole cycle of a project. It isn’t a negative, but it does mean GitLab is more of an “insular" platform, arguably not as suited to open source projects as GitHub.
 
 For most teams, GitLab’s free tier will be plenty. For [around $230](https://about.gitlab.com/pricing/) per year, per user, you get access to analytics for your code and productivity, about 10,000 CD/CI minutes, and more.
 
@@ -516,7 +516,7 @@ Most modern browsers include specific development tools to help you analyze back
 
 #### 18\. Chrome Developer Tools
 
-[Chrome’s “DevTools”](https://developers.google.com/web/tools/chrome-devtools/) are revered throughout communities for its stellar feature set and diagnostics.
+[Chrome’s “DevTools"](https://developers.google.com/web/tools/chrome-devtools/) are revered throughout communities for its stellar feature set and diagnostics.
 
 Given the [rise of Chromium-based browsers](https://kinsta.com/browser-market-share/), many have the same set of DevTools with similar shortcuts. You can check out [Microsoft Edge](https://microsoftedgewelcome.microsoft.com/en-us/), [Brave](https://kinsta.com/blog/brave-browser-review/), [Chromium](https://www.chromium.org/) itself, and many more clones and work with your projects within the browser.
 
@@ -586,7 +586,7 @@ The Bootstrap logo.
 
 It’s a toolkit that combines JavaScript plugins, [Sass variables](https://sass-lang.com/), some pre-built components, a quality [responsive grid system](https://kinsta.com/partners/wpgridbuilder/), and much more. There’s even a [marketplace of official themes](https://themes.getbootstrap.com/) that work with Bootstrap, and plenty of WordPress websites also use themes built on top of the design framework.
 
-Of course, whether or not you use Bootstrap will depend on what your project needs. However, it’s logical to assume that web development projects with tight budgets and quick turnarounds will turn to a “Bootstrapped” solution and adapt it to WordPress. Given that the framework and WordPress are free, your time becomes the only cost factor.
+Of course, whether or not you use Bootstrap will depend on what your project needs. However, it’s logical to assume that web development projects with tight budgets and quick turnarounds will turn to a “Bootstrapped" solution and adapt it to WordPress. Given that the framework and WordPress are free, your time becomes the only cost factor.
 
 #### 21\. Tailwind CSS
 
@@ -640,7 +640,7 @@ On the whole, the Foundation framework does what it says on the tin. It’s goin
 
 #### 24\. Material-UI
 
-We’ll discuss React in more detail later, but for now, know that [Material-UI](https://material-ui.com/) is based on this JavaScript framework’s component library. For the unaware, Material Design is Google’s “philosophy” on how to design a website’s frontend. It means lots of Roboto fonts and blocks of color:
+We’ll discuss React in more detail later, but for now, know that [Material-UI](https://material-ui.com/) is based on this JavaScript framework’s component library. For the unaware, Material Design is Google’s “philosophy" on how to design a website’s frontend. It means lots of Roboto fonts and blocks of color:
 
 ![Material-UI looks to meet Google’s design standards.](https://kinsta.com/wp-content/uploads/2021/05/material-ui.png)
 
@@ -672,7 +672,7 @@ If you’re a WordPress developer, you may have come across [Underscores](https:
 
 As such, it includes seven files spanning HTML, CSS, and JavaScript. They all contain only the most necessary files and code to render a page. Beyond that point, how your page turns out is up to you.
 
-HTML5 Boilerplate has many fans because it’s more of a timesaver utility than a full-fledged framework. Thus, there are no visuals out of the box to wow “passing trade,” but if you press HTML5 Boilerplate into service, you may find it speeds up your development the way Underscores does for WordPress developers.
+HTML5 Boilerplate has many fans because it’s more of a timesaver utility than a full-fledged framework. Thus, there are no visuals out of the box to wow “passing trade," but if you press HTML5 Boilerplate into service, you may find it speeds up your development the way Underscores does for WordPress developers.
 
 #### 26\. Materialize
 
@@ -694,7 +694,7 @@ Like many of these frameworks, there are [premium themes](https://materializecss
 
 ### Web Application Frameworks
 
-Simply put, a [JavaScript framework or library](https://kinsta.com/blog/javascript-libraries/) lets you work with the so-called “vanilla” code differently. In this instance, it’s to create specific web applications and sites. There are plenty of “flavors” too — let’s cover a few.
+Simply put, a [JavaScript framework or library](https://kinsta.com/blog/javascript-libraries/) lets you work with the so-called “vanilla" code differently. In this instance, it’s to create specific web applications and sites. There are plenty of “flavors" too — let’s cover a few.
 
 #### 27\. React.js
 
@@ -729,11 +729,11 @@ ReactDOM.render
 );
 ```
 
-The JavaScript variable within the JSX can be any valid expression, which lets you build complex arguments. That makes React a strong choice when it comes to frameworks. Because of its popularity, we think [React should be on your “must-learn” list](https://kinsta.com/blog/javascript-libraries/#reactjs), regardless of where you spend your development time.
+The JavaScript variable within the JSX can be any valid expression, which lets you build complex arguments. That makes React a strong choice when it comes to frameworks. Because of its popularity, we think [React should be on your “must-learn" list](https://kinsta.com/blog/javascript-libraries/#reactjs), regardless of where you spend your development time.
 
 #### 28\. Vue.js
 
-[Vue.js](https://vuejs.org/) is another JavaScript framework for building user interfaces. It’s based in the “view layer” and is great for integrating with other libraries and frameworks.
+[Vue.js](https://vuejs.org/) is another JavaScript framework for building user interfaces. It’s based in the “view layer" and is great for integrating with other libraries and frameworks.
 
 ![The Vue.js sandbox.](https://kinsta.com/wp-content/uploads/2021/05/vue-js.png)
 
@@ -743,7 +743,7 @@ On the HTML side, Vue couldn’t be more accessible. You give your tag an ID and
 
 In this way, Vue.js is a lot like some of the CSS frameworks we looked at earlier in the article. This framework is compelling, and we encourage you to look [through the documentation](https://vuejs.org/v2/guide/) to see what’s possible.
 
-While Vue.js supports JSX declarations, it’s better suited to using templates based on the “classic” web technologies. As such, it’s going to be ideal for developers who don’t want to work in JavaScript only.
+While Vue.js supports JSX declarations, it’s better suited to using templates based on the “classic" web technologies. As such, it’s going to be ideal for developers who don’t want to work in JavaScript only.
 
 #### 29\. Express.js
 
@@ -785,7 +785,7 @@ $('.hello').text("Hello svelte");
 
 There are under 40 functions within the Svelte API, so getting started will be straightforward. What’s more, you can add new functions with ease using `$.fn`.
 
-You’ll find “polyfills” for Internet Explorer 9 support, but this is almost the only concession. For hyper-modern browser support using a super-lean framework, Svelte.js could be the one for you.
+You’ll find “polyfills" for Internet Explorer 9 support, but this is almost the only concession. For hyper-modern browser support using a super-lean framework, Svelte.js could be the one for you.
 
 #### 31\. Laravel
 
@@ -813,13 +813,13 @@ The Gatsby homepage.
 
 There’s a [super-fast installation process](https://www.gatsbyjs.com/docs/quick-start/) involving the Node Package Manager (npm). We’ll have more on this later. Although it’s a JavaScript framework, Gatsby generates static HTML files at run time, so there’s no way to attack a site. What’s more, Gatsby automates performance to keep your site running in an optimal configuration.
 
-Between the automated performance, the dynamic scaling, and the static HTML building, Gatsby feels like a living organism. There’s a complex coding “makeup” involving JSX, Markdown, CSS, and much more based on your needs. Every [step of your workflow](https://www.gatsbyjs.com/docs/how-to/) and piece of your stack can be tailored to your requirements.
+Between the automated performance, the dynamic scaling, and the static HTML building, Gatsby feels like a living organism. There’s a complex coding “makeup" involving JSX, Markdown, CSS, and much more based on your needs. Every [step of your workflow](https://www.gatsbyjs.com/docs/how-to/) and piece of your stack can be tailored to your requirements.
 
 WordPress developers will also like how [Gatsby integrates with the platform](https://kinsta.com/blog/gatsby-wordpress/). It’s not going to be suitable in all cases, though. For example, if you need to manage a cloud-based CMS fully, this isn’t for you. Even so, Gatsby can adapt to your project in most cases, and it works great with WordPress.
 
 #### 33\. Django
 
-For all the talk of Python being a “beginner” or “learning” programming language, it serves as the backbone to many high-profile sites. Some of the [largest websites](https://learn.onemonth.com/10-famous-websites-built-using-python/) — Instagram, Uber, Reddit, Pinterest, and more — use Django. Often, you’ll find no mention of Python itself, [but only Django](https://djangoproject.com/).
+For all the talk of Python being a “beginner" or “learning" programming language, it serves as the backbone to many high-profile sites. Some of the [largest websites](https://learn.onemonth.com/10-famous-websites-built-using-python/) — Instagram, Uber, Reddit, Pinterest, and more — use Django. Often, you’ll find no mention of Python itself, [but only Django](https://djangoproject.com/).
 
 Django is a framework that uses Python to create server-side web applications. It’s as straightforward to use as Python itself, with an uber-readable format.
 
@@ -835,7 +835,7 @@ Of course, if you plan to use a CMS such as WordPress, or you’re creating solu
 
 #### 34\. Ruby on Rails
 
-The Ruby programming language was the “darling” of beginner languages and scripting alternatives to PHP a few years ago. It is often compared to Python.
+The Ruby programming language was the “darling" of beginner languages and scripting alternatives to PHP a few years ago. It is often compared to Python.
 
 And much like Django, [Ruby on Rails](https://rubyonrails.org/) was also a favorite of many developers.
 
@@ -859,13 +859,13 @@ Still, Ruby on Rails is one of the leading web server-side frameworks, and its u
 
 An example of TypeScript code.
 
-In a nutshell, [TypeScript](https://www.typescriptlang.org/) provides optional static “typechecking” to JavaScript. It’s a “superset” of the language, and it also supports lots of other JavaScript libraries. On the whole, TypeScript is JavaScript with a few extra features, and you can compile both languages alongside each other.
+In a nutshell, [TypeScript](https://www.typescriptlang.org/) provides optional static “typechecking" to JavaScript. It’s a “superset" of the language, and it also supports lots of other JavaScript libraries. On the whole, TypeScript is JavaScript with a few extra features, and you can compile both languages alongside each other.
 
 Many developers have turned to TypeScript to reduce the number of runtime errors they get. Type errors are [one of the most common](http://gria.org/programming-errors-three-common-types/), and reducing them could give you a lot of extra time back.
 
 For a very simple example of TypeScript, consider a string:
 
-let helloWorld = “Hello World”;
+let helloWorld = “Hello World";
 
 //  ^ = let helloWorld: string
 
@@ -909,7 +909,7 @@ For example, searching for React packages brings up over 155,000 results:
 
 A search performed in npm.
 
-As with an online IDE, npm is a web development tool that doesn’t get a lot of “airtime,” mainly because it’s ubiquitous. As such, practically every web developer is going to use this tool.
+As with an online IDE, npm is a web development tool that doesn’t get a lot of “airtime," mainly because it’s ubiquitous. As such, practically every web developer is going to use this tool.
 
 However, it’s incredible, and now that it’s under GitHub’s wing, more developers will use npm in 2021 than ever before.
 
@@ -923,7 +923,7 @@ The Yarn homepage.
 
 [Installation is simple](https://yarnpkg.com/getting-started/install), and initializing Yarn for a new project also takes a [minimum of effort](https://yarnpkg.com/getting-started/usage). It’s become a robust [open source solution](https://yarnpkg.com/getting-started/qa#is-yarn-operated-by-facebook) for installing packages and managing your project alongside.
 
-You’ll [use workspaces](https://yarnpkg.com/features/workspaces) to create “monorepos,” and multiple versions of your project both live in the same repo and can be cross-referenced. You can install plugins for anything Yarn can’t do (for which you want to add new fetchers and resolvers). To be more accurate, you *could* install plugins, but there [aren’t too many](https://yarnpkg.com/features/plugins#official-plugins), at least in the official lists. Instead, you’ll code your own if you’re desperate for the functionality. Still, the choice is there to customize Yarn to your project’s needs.
+You’ll [use workspaces](https://yarnpkg.com/features/workspaces) to create “monorepos," and multiple versions of your project both live in the same repo and can be cross-referenced. You can install plugins for anything Yarn can’t do (for which you want to add new fetchers and resolvers). To be more accurate, you *could* install plugins, but there [aren’t too many](https://yarnpkg.com/features/plugins#official-plugins), at least in the official lists. Instead, you’ll code your own if you’re desperate for the functionality. Still, the choice is there to customize Yarn to your project’s needs.
 
 Yarn makes a unique case to become your primary package manager. For a real-world project, you may lean on npm more, but Yarn will sneak into your workflow in ways that can only benefit you.
 
@@ -935,7 +935,7 @@ Given this, here are some API and testing tools you’ll have on hand for your p
 
 #### 39\. HoppScotch
 
-Powered by Netlify, [HoppScotch](https://hoppscotch.io/) is an open source API development tool. The developers call it an “ecosystem,” which belies the functionality under the hood.
+Powered by Netlify, [HoppScotch](https://hoppscotch.io/) is an open source API development tool. The developers call it an “ecosystem," which belies the functionality under the hood.
 
 ![The main HoppScotch page.](https://kinsta.com/wp-content/uploads/2021/05/hoppscotch.png)
 
@@ -949,7 +949,7 @@ There are many real-time connections (WebSocket, SSE, and more), and a GraphQL i
 
 The HoppScotch documentation creator screen.
 
-It works with your HoppScotch “collections” to create documentation on the fly, which is a welcome time-saver.
+It works with your HoppScotch “collections" to create documentation on the fly, which is a welcome time-saver.
 
 On the whole, HoppScotch is a functional tool that will be open a lot in your browser. It’s one of those solutions that you’ll always use without realizing it — we can’t give it higher praise than that!
 
@@ -959,7 +959,7 @@ On the whole, HoppScotch is a functional tool that will be open a lot in your br
 
 The Postman logo.
 
-Warning — we’re about to mention the dreaded “C” word: _collaboration_. [Postman](http://postman.com/) is a web development tool that helps you create an [Application Programming Interface (API)](https://kinsta.com/blog/wordpress-rest-api/) as a team through the Postman platform:
+Warning — we’re about to mention the dreaded “C" word: _collaboration_. [Postman](http://postman.com/) is a web development tool that helps you create an [Application Programming Interface (API)](https://kinsta.com/blog/wordpress-rest-api/) as a team through the Postman platform:
 
 ![The Postman dashboard.](https://kinsta.com/wp-content/uploads/2021/05/postman-dashboard.png)
 
@@ -1019,7 +1019,7 @@ If you’re a user of other collaboration tools such as Asana or Basecamp (more 
 
 The presentation types in Taskade.
 
-The “Mindmap” and “Org Chart” view types are stellar, and each gives you a different perspective on the information you’ve added.
+The “Mindmap" and “Org Chart" view types are stellar, and each gives you a different perspective on the information you’ve added.
 
 ![A mind map in Taskade.](https://kinsta.com/wp-content/uploads/2021/05/taskade-mindmap.png)
 
@@ -1091,7 +1091,7 @@ The Grunt homepage.
 
 [Grunt](https://gruntjs.com/) is a JavaScript-specific task runner that looks to automate some of the [mundane and repetitive tasks](https://gruntjs.com/configuring-tasks) you’ll encounter daily. Consider tasks you may typically consider ordinary: linting, [minification](https://kinsta.com/blog/enable-gzip-compression/), compilation, and many more.
 
-Grunt handles these for you through a [JSON-based configuration file](https://gruntjs.com/sample-gruntfile) (called a “Gruntfile”). Here’s an example:
+Grunt handles these for you through a [JSON-based configuration file](https://gruntjs.com/sample-gruntfile) (called a “Gruntfile"). Here’s an example:
 
 ```
 module.exports = function(grunt) {
@@ -1125,7 +1125,7 @@ The Gulp logo.
 
 When you compare task runners, it’s often a shootout between Gulp and Grunt. [Gulp](http://gulpjs.com/) is a JavaScript-based toolkit for automating your workflow and increasing your efficiency.
 
-You’ll use dedicated files and “streams” to act on your assets and code before it’s written to disk. Each task you create is an “asynchronous” function, and you can set it is as either private or public. The difference is one of the permissions: private tasks can’t be run by the end-user and are designed to work with other functions.
+You’ll use dedicated files and “streams" to act on your assets and code before it’s written to disk. Each task you create is an “asynchronous" function, and you can set it is as either private or public. The difference is one of the permissions: private tasks can’t be run by the end-user and are designed to work with other functions.
 
 Speaking of which, you can use the series() and parallel() functions to create tasks. It means you can take small tasks, make them one cog in a more extensive system, and then nest them.
 
@@ -1243,7 +1243,7 @@ You can also add the dedicated browser extensions for [Mozilla Firefox](https://
 
 The Responsively inspector.
 
-There are tons of other features, such as screenshot functionality, hot-loading support, and more to help you develop. It’s hard to argue with the tagline that Responsively is the “web developer’s browser.” It may end up being a core component of your workflow.
+There are tons of other features, such as screenshot functionality, hot-loading support, and more to help you develop. It’s hard to argue with the tagline that Responsively is the “web developer’s browser." It may end up being a core component of your workflow.
 
 #### 53\. Google Lighthouse
 
@@ -1299,7 +1299,7 @@ Given that [90% of surveyed users](https://insights.stackoverflow.com/survey/202
 
 ### Web Development References
 
-If you’re a developer who subscribes to the “RTFM” ethos, you won’t need any convincing over the following few entries. In contrast, if you like to wade into a problem and figure it out, know that there have been countless developers before you who have likely found an answer.
+If you’re a developer who subscribes to the “RTFM" ethos, you won’t need any convincing over the following few entries. In contrast, if you like to wade into a problem and figure it out, know that there have been countless developers before you who have likely found an answer.
 
 Given this, look at the following few web development tools, all based on web reference materials.
 
@@ -1313,7 +1313,7 @@ The MDN Web Docs homepage.
 
 It’s a collection of resources to help teach you programming for the web in some cases, and Mozilla-specific products in others. The content is divided into two broad categories: technologies and reference guides. You’re shown several tutorials based on your existing ability and experience, a dedicated reference guide, and some further resources for the former.
 
-The guides are all related to specific niches and industries within the development industry. For example, the [Web Development reference](https://developer.mozilla.org/en-US/docs/Web/Reference) acts as a “cornerstone” page for additional HTML, CSS, and JavaScript guides.
+The guides are all related to specific niches and industries within the development industry. For example, the [Web Development reference](https://developer.mozilla.org/en-US/docs/Web/Reference) acts as a “cornerstone" page for additional HTML, CSS, and JavaScript guides.
 
 ![MDN Web Docs JavaScript page.](https://kinsta.com/wp-content/uploads/2021/05/mdn-javascript.png)
 
@@ -1389,13 +1389,13 @@ The DEV Community timeline for the JavaScript tag.
 
 It’s a fair point to suggest that this is information that you can find everywhere — if you’re willing to find it. The plus point of the DEV Community is that it’s here, and it’s a directed collation of development subjects. Think of it as a developer convention track, rather than overhearing and butting into a related conversation at the bus stop.
 
-It’s another site that will do well within your RSS feed, or as a digest in your inbox. As such, it’s also a “sleeper” resource in that you’ll head here a lot without realizing it.
+It’s another site that will do well within your RSS feed, or as a digest in your inbox. As such, it’s also a “sleeper" resource in that you’ll head here a lot without realizing it.
 
 #### 60\. Can I use…
 
 You could argue [Jeeves started the trend](http://ask.com/) of asking the internet questions to find information. He was replaced fast by various search algorithms, though the question-based search is still a reliable way to find what you need.
 
-*[Can I use…](https://caniuse.com/)* is the frontend developer’s answer to “_Is there an Ask Jeeves for CSS?_”
+*[Can I use…](https://caniuse.com/)* is the frontend developer’s answer to “_Is there an Ask Jeeves for CSS?_"
 
 ![The Can I use… homepage.](https://kinsta.com/wp-content/uploads/2021/05/can-i-use.png)
 
@@ -1421,4 +1421,4 @@ If you look closer, you can also find statistics such as the release date for th
 
 Information for a specific element in Can I use…
 
-On the whole, _Can I use…_ might not get regular use. At certain stages of a project, though, it’s going to be open almost all the time. Once you’ve figured out what your target browsers will support, _Can I use…_ shuffles back into your bookmarks and waits for when it’s next needed. It’s a helpful service that can be a “water carrier” when it comes to your frontend code.
+On the whole, _Can I use…_ might not get regular use. At certain stages of a project, though, it’s going to be open almost all the time. Once you’ve figured out what your target browsers will support, _Can I use…_ shuffles back into your bookmarks and waits for when it’s next needed. It’s a helpful service that can be a “water carrier" when it comes to your frontend code.

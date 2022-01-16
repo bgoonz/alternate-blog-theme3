@@ -308,7 +308,7 @@ Or you can create a .env file with HTTPS=true set. [Learn more about enviro
 
 # Adding a Stylesheet.Button { padding: 20px;}_import_ React, { Component } _from_ 'react';_import_ './Button.css'; _// Tell webpack that Button.js uses these stylesclass_ Button _extends_ Component { render() { _// You can use them as regular CSS styles_ _return_ \<div className="Button" />; }}&#xA;&#xA;
 
-This project setup uses [webpack](https://webpack.js.org/) for handling all assets. webpack offers a custom way of “extending” the concept of import beyond JavaScript. To express that a JavaScript file depends on a CSS file, you need to **import the CSS from the JavaScript file**:
+This project setup uses [webpack](https://webpack.js.org/) for handling all assets. webpack offers a custom way of “extending" the concept of import beyond JavaScript. To express that a JavaScript file depends on a CSS file, you need to **import the CSS from the JavaScript file**:
 
 ## Button.css[#](https://create-react-app.dev/docs/adding-a-stylesheet#buttoncss)
 

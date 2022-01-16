@@ -4,7 +4,7 @@ subtitle: 300 problems
 date: '2021-11-24'
 thumb_img_alt: react
 excerpt: lorem-ipsum
-hide_header: false
+hide_header: true
 seo:
   title: ''
   description: ''

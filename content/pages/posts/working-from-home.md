@@ -1,43 +1,40 @@
 ---
 title: Job Search
-excerpt: >-
-    Work at home parent is an entrepreneur who works from home and integrates
-    parenting into his or her business activities. They are sometimes referred to
-    as a WAHM (work at home mom) or a WAHD (work at home dad).
+excerpt: Job Search Navigation
 date: '2016-08-22'
 thumb_img_path: images/9.jpg
 thumb_img_alt: job-search
 content_img_path: /images/WINWORD_ODpxi6srUP.png
 seo:
-    title: The Advantages and Disadvantages of Working from Home
-    extra:
-        - name: 'og:type'
-          value: article
-          keyName: property
-        - name: 'og:title'
-          value: The Advantages and Disadvantages of Working from Home
-          keyName: property
-        - name: 'og:description'
-          value: >-
-              Work at home parent is an entrepreneur who works from home and
-              integrates parenting into his or her business activities
-          keyName: property
-        - name: 'og:image'
-          value: images/9.jpg
-          keyName: property
-          relativeUrl: true
-        - name: 'twitter:card'
-          value: summary_large_image
-        - name: 'twitter:title'
-          value: The Advantages and Disadvantages of Working from Home
-        - name: 'twitter:description'
-          value: >-
-              Work at home parent is an entrepreneur who works from home and
-              integrates parenting into his or her business activities
-        - name: 'twitter:image'
-          value: images/9.jpg
-          relativeUrl: true
-    description: "If you store your technical specs, scripts, and other files in\_Drive\_or a\_shared drive, you can access them on any device, anytime. And, if something goes wrong with a file or a build isn’t ready for publishing, you can revert to a previous version."
+  title: The Advantages and Disadvantages of Working from Home
+  extra:
+    - name: 'og:type'
+      value: article
+      keyName: property
+    - name: 'og:title'
+      value: The Advantages and Disadvantages of Working from Home
+      keyName: property
+    - name: 'og:description'
+      value: >-
+        Work at home parent is an entrepreneur who works from home and
+        integrates parenting into his or her business activities
+      keyName: property
+    - name: 'og:image'
+      value: images/9.jpg
+      keyName: property
+      relativeUrl: true
+    - name: 'twitter:card'
+      value: summary_large_image
+    - name: 'twitter:title'
+      value: The Advantages and Disadvantages of Working from Home
+    - name: 'twitter:description'
+      value: >-
+        Work at home parent is an entrepreneur who works from home and
+        integrates parenting into his or her business activities
+    - name: 'twitter:image'
+      value: images/9.jpg
+      relativeUrl: true
+  description: "If you store your technical specs, scripts, and other files in\_Drive\_or a\_shared drive, you can access them on any device, anytime. And, if something goes wrong with a file or a build isn’t ready for publishing, you can revert to a previous version."
 layout: post
 ---
 

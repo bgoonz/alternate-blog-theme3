@@ -14,7 +14,7 @@
                 "label": "Home",
                 "url": "/",
                 "style": "icon",
-                "icon_class": "facebook"
+                "icon_class": "dev"
             },
             {
                 "label": "About",

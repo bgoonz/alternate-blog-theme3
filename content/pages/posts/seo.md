@@ -10,4 +10,5 @@ seo:
   extra: []
 layout: post
 subtitle: Tools of the trade
+thumb_img_path: /images/glossary.jpg
 ---

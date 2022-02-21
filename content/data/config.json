@@ -1,150 +1,150 @@
 {
-  "title": "Web-Dev-Portfolio-4",
-  "path_prefix": "/",
-  "palette": "green",
-  "header": {
-    "title": "Sidebar Blog",
-    "tagline": "Web Audio Applications",
-    "logo_img": "/images/FINAL.png",
-    "logo_img_alt": "bgoonz Logo",
-    "background_img": "/images/WINWORD_ODpxi6srUP.png",
-    "has_nav": true,
-    "nav_links": [
-      {
-        "label": "Home",
-        "url": "/",
-        "style": "icon",
-        "icon_class": "dev"
-      },
-      {
-        "label": "About",
-        "url": "/about",
-        "style": "link"
-      },
-      {
-        "label": "Archive",
-        "url": "archive",
-        "style": "link",
-        "icon_class": "dev",
-        "new_window": false,
-        "no_follow": false
-      },
-      {
-        "label": "Resume-Experience",
-        "url": "resume",
-        "style": "link",
-        "icon_class": "dev",
-        "new_window": false,
-        "no_follow": false
-      },
-      {
-        "label": "Interview-Prep",
-        "url": "posts/300-react-questions",
-        "style": "link",
-        "icon_class": "dev",
-        "new_window": false,
-        "no_follow": false
-      },
-      {
-        "label": "Contact",
-        "url": "/contact",
-        "style": "link"
-      },
-      {
-        "label": "Embeds",
-        "url": "embeds",
-        "style": "link",
-        "icon_class": "dev",
-        "new_window": false,
-        "no_follow": false
-      }
-    ],
-    "has_social": true,
-    "social_links": [
-      {
-        "label": "Twitter",
-        "url": "https://twitter.com/bgooonz",
-        "style": "icon",
-        "icon_class": "twitter",
-        "new_window": true
-      },
-      {
-        "label": "Instagram",
-        "url": "https://www.instagram.com/bgoonz/?hl=en",
-        "style": "icon",
-        "icon_class": "instagram",
-        "new_window": true
-      },
-      {
-        "label": "GitHub",
-        "url": "https://github.com/bgoonz",
-        "style": "icon",
-        "icon_class": "github",
-        "new_window": true
-      },
-      {
-        "label": "LinkedIn",
-        "url": "https://www.linkedin.com/in/bryan-guner-046199128/",
-        "style": "icon",
-        "icon_class": "linkedin",
-        "new_window": true
-      },
-      {
-        "label": "DEV",
-        "url": "https://dev.to/bgoonz",
-        "style": "icon",
-        "icon_class": "dev",
-        "new_window": true
-      },
-      {
-        "label": "Facebook",
-        "url": "https://www.facebook.com/bryan.guner/",
-        "style": "icon",
-        "icon_class": "facebook",
-        "new_window": true,
-        "no_follow": false
-      }
-    ]
-  },
-  "footer": {
-    "content": "My (now) Depreciated Blog: https://web-dev-resource-hub.netlify.app/",
-    "links": [
-      {
-        "label": "Git",
-        "url": "https://github.com/bgoonz",
-        "style": "icon",
-        "icon_class": "github",
-        "new_window": true,
-        "no_follow": false,
-        "type": "action"
-      },
-      {
-        "label": "tools",
-        "url": "https://bgoonz-blog.netlify.app/docs/tools",
-        "style": "icon",
-        "icon_class": "dev",
-        "new_window": true,
-        "no_follow": false,
-        "type": "action"
-      },
-      {
-        "label": "lorem-ipsum",
-        "url": "#",
-        "style": "link",
-        "icon_class": "vimeo",
-        "new_window": false,
-        "no_follow": false
-      },
-      {
-        "label": "lorem-ipsum",
-        "url": "#",
-        "style": "link",
-        "icon_class": "dev",
-        "new_window": false,
-        "no_follow": false
-      }
-    ]
-  },
-  "domain": "https://bgoonz-blog-v3-0.netlify.app/",
-  "favicon": "/images/album2.png"
+    "title": "Web-Dev-Portfolio-4",
+    "path_prefix": "/",
+    "palette": "green",
+    "header": {
+        "title": "Sidebar Blog",
+        "tagline": "Web Audio Applications",
+        "logo_img": "/images/FINAL.png",
+        "logo_img_alt": "bgoonz Logo",
+        "background_img": "/images/WINWORD_ODpxi6srUP.png",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "label": "Home",
+                "url": "/",
+                "style": "icon",
+                "icon_class": "dev"
+            },
+            {
+                "label": "About",
+                "url": "/about",
+                "style": "link"
+            },
+            {
+                "label": "Archive",
+                "url": "archive",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "label": "Resume-Experience",
+                "url": "resume",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "label": "Interview-Prep",
+                "url": "posts/300-react-questions",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "label": "Contact",
+                "url": "/contact",
+                "style": "link"
+            },
+            {
+                "label": "Embeds",
+                "url": "embeds",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false
+            }
+        ],
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/bgooonz",
+                "style": "icon",
+                "icon_class": "twitter",
+                "new_window": true
+            },
+            {
+                "label": "Instagram",
+                "url": "https://www.instagram.com/bgoonz/?hl=en",
+                "style": "icon",
+                "icon_class": "instagram",
+                "new_window": true
+            },
+            {
+                "label": "GitHub",
+                "url": "https://github.com/bgoonz",
+                "style": "icon",
+                "icon_class": "github",
+                "new_window": true
+            },
+            {
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/in/bryan-guner-046199128/",
+                "style": "icon",
+                "icon_class": "linkedin",
+                "new_window": true
+            },
+            {
+                "label": "DEV",
+                "url": "https://dev.to/bgoonz",
+                "style": "icon",
+                "icon_class": "dev",
+                "new_window": true
+            },
+            {
+                "label": "Facebook",
+                "url": "https://www.facebook.com/bryan.guner/",
+                "style": "icon",
+                "icon_class": "facebook",
+                "new_window": true,
+                "no_follow": false
+            }
+        ]
+    },
+    "footer": {
+        "content": "My (now) Depreciated Blog: https://web-dev-resource-hub.netlify.app/",
+        "links": [
+            {
+                "label": "Git",
+                "url": "https://github.com/bgoonz",
+                "style": "icon",
+                "icon_class": "github",
+                "new_window": true,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
+                "label": "tools",
+                "url": "https://bgoonz-blog.netlify.app/docs/tools",
+                "style": "icon",
+                "icon_class": "dev",
+                "new_window": true,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "icon_class": "vimeo",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false
+            }
+        ]
+    },
+    "domain": "https://bgoonz-blog-v3-0.netlify.app/",
+    "favicon": "/images/album2.png"
 }

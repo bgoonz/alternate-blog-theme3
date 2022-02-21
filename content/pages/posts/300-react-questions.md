@@ -7,7 +7,13 @@ excerpt: react
 hide_header: false
 seo:
   title: 300 Web Dev Ques
-  description: ''
+  description: >
+    undefined means a variable has not been declared, or has been declared but
+    has not yet been assigned a value
+
+    null is an assignment value that means "no value"
+
+    Javascript sets unassigned variables with a default value of undefined
   robots: []
   extra: []
 layout: post

@@ -3,7 +3,7 @@ title: ReactPrac
 subtitle: 300 problems
 date: '2022-02-21'
 thumb_img_alt: react
-excerpt: lorem-ipsum
+excerpt: react
 hide_header: false
 seo:
   title: ''

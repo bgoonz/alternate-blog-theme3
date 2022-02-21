@@ -13,7 +13,7 @@ seo:
       value: Archive
       keyName: property
     - name: 'og:description'
-      value: A page about me and my work
+      value: Archive of embedded projects
       keyName: property
     - name: 'og:image'
       value: /images/My Post-d9e2e75e.png

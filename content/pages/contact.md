@@ -18,6 +18,12 @@ form_fields:
     name: message
     label: Message
     default_value: Your message
+  - input_type: text
+    name: lorem-ipsum
+    label: lorem-ipsum
+    default_value: lorem-ipsum
+    options: []
+    is_required: false
 submit_label: Send Message
 seo:
   title: Get in Touch

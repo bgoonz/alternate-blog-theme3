@@ -20,6 +20,10 @@ seo:
       value: /images/important-tiger.png
       keyName: property
       relativeUrl: true
+    - name: 'og:title'
+      value: '300 Wev Dev Interview '
+      keyName: property
+      relativeUrl: false
 layout: post
 thumb_img_path: /images/react.jpg
 content_img_path: /images/sinwavverticle-f6c9ab06.jpg

@@ -15,7 +15,11 @@ seo:
 
     Javascript sets unassigned variables with a default value of undefined
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/important-tiger.png
+      keyName: property
+      relativeUrl: true
 layout: post
 thumb_img_path: /images/react.jpg
 content_img_path: /images/sinwavverticle-f6c9ab06.jpg

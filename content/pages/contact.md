@@ -22,7 +22,7 @@ form_fields:
       - lorem-ipsum
   - input_type: text
     name: file
-    label: lorem-ipsum
+    label: file
     default_value: file
     options: []
     is_required: false

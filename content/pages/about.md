@@ -3,7 +3,7 @@ title: About Me
 subtitle: This is a short page about me and my work
 img_path: /images/sine-wav-bak-ver.jpg
 seo:
-  title: About Me
+  title: Archive
   description: Project archive
   extra:
     - name: 'og:type'

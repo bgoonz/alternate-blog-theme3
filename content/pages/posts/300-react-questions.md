@@ -6,7 +6,7 @@ thumb_img_alt: react
 excerpt: react
 hide_header: false
 seo:
-  title: '300 Web Dev '
+  title: 300 Web Dev Ques
   description: ''
   robots: []
   extra: []

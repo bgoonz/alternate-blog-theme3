@@ -6,13 +6,13 @@ thumb_img_alt: react
 excerpt: lorem-ipsum
 hide_header: false
 seo:
-    title: ''
-    description: ''
-    robots: []
-    extra: []
+  title: ''
+  description: ''
+  robots: []
+  extra: []
 layout: post
 thumb_img_path: /images/react.jpg
-content_img_path: /images/My Post.png
+content_img_path: /images/sinwavverticle-f6c9ab06.jpg
 ---
 
 ## React Prac

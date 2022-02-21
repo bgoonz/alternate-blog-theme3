@@ -26,6 +26,7 @@ form_fields:
     default_value: file
     options:
       - lorem-ipsum
+      - lorem-ipsum
     is_required: false
 submit_label: Send Message
 seo:

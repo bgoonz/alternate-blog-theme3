@@ -18,6 +18,16 @@ form_fields:
     name: message
     label: Message
     default_value: Your message
+    options:
+      - lorem-ipsum
+  - input_type: text
+    name: file
+    label: file
+    default_value: file
+    options:
+      - lorem-ipsum
+      - lorem-ipsum
+    is_required: false
 submit_label: Send Message
 seo:
   title: Get in Touch

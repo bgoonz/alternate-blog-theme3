@@ -6,10 +6,24 @@ thumb_img_alt: react
 excerpt: react
 hide_header: false
 seo:
-  title: ''
-  description: ''
+  title: 300 Web Dev Ques
+  description: >
+    undefined means a variable has not been declared, or has been declared but
+    has not yet been assigned a value
+
+    null is an assignment value that means "no value"
+
+    Javascript sets unassigned variables with a default value of undefined
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/important-tiger.png
+      keyName: property
+      relativeUrl: true
+    - name: 'og:title'
+      value: '300 Wev Dev Interview '
+      keyName: property
+      relativeUrl: false
 layout: post
 thumb_img_path: /images/react.jpg
 content_img_path: /images/sinwavverticle-f6c9ab06.jpg

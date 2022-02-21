@@ -10,7 +10,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Me
+      value: Archive
       keyName: property
     - name: 'og:description'
       value: A page about me and my work

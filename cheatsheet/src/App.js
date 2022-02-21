@@ -1,20 +1,19 @@
-import React from 'react';
-import algoliasearch from 'algoliasearch/lite';
-import {
-  InstantSearch,
-  Hits,
-  SearchBox,
-  Configure,
-  DynamicWidgets,
-  Pagination,
-} from 'react-instantsearch-dom';
-import PropTypes from 'prop-types';
 import './App.css';
 
-const searchClient = algoliasearch(
-  'MNK1G6B3KK',
-  '6be0576ff61c053d5f9a3225e2a90f76'
-);
+import algoliasearch from 'algoliasearch/lite';
+import PropTypes from 'prop-types';
+import React from 'react';
+import {
+  Configure,
+  DynamicWidgets,
+  Hits,
+  InstantSearch,
+  Pagination,
+  SearchBox,
+} from 'react-instantsearch-dom';
+
+const searchClient =
+    algoliasearch('MNK1G6B3KK', '6be0576ff61c053d5f9a3225e2a90f76');
 
 function App() {
   return (
@@ -41,10 +40,9 @@ function App() {
 
             <div className="search-panel__results">
               <SearchBox
-                className="searchbox"
-                translations={{
-                  placeholder: '',
-                }}
+  className = "searchbox"
+                translations={
+    { placeholder: '', }}
               />
               <Hits hitComponent={Hit} />
 

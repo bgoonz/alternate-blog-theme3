@@ -16,14 +16,14 @@ img_path: /images/4-a88093c4.jpg
 
 <h1 id="span-stylealign-selfcentermarginauto-font-familypapyrus-font-size2emsitemapspan"><span style="align-self:center;margin:auto; font-family:Papyrus; font-size:2em;color:red;">Sitemap:</span></h1>
 
-    <hr>
-    <hr>
+<hr>
+<hr>
 <h3 id="-homehttpsbgoonz-blognetlifyapp"> 
 <iframe loading="lazy" height="800px" width="800px" src="https://bgoonz-blog.netlify.app/"></iframe>
       </h3><h2>HOME</h2>
     
 
-    <hr>
+<hr>
 <h3 id="-bloghttpsbgoonz-blognetlifyappblog"> 
 <iframe loading="lazy" height="800px" width="800px" src="https://bgoonz-blog.netlify.app/blog/"></iframe>
       </h3><h2>blog</h2>
@@ -49,7 +49,7 @@ img_path: /images/4-a88093c4.jpg
       </h3><h2>blog/python-resources</h2>
     
 
-    <hr>
+<hr>
 <h3 id="-docshttpsbgoonz-blognetlifyappdocs"> 
 <iframe loading="lazy" height="800px" width="800px" src="https://bgoonz-blog.netlify.app/docs/"></iframe>
       </h3><h2>docs</h2>
@@ -60,8 +60,8 @@ img_path: /images/4-a88093c4.jpg
       </h3><h2>docs/sitemap</h2>
     
 
-    <hr>
-    <hr>
+<hr>
+<hr>
 <h3 id="-docsabouthttpsbgoonz-blognetlifyappdocsabout"> 
 <iframe loading="lazy" height="800px" width="800px" src="https://bgoonz-blog.netlify.app/docs/about/"></iframe>
       </h3><h2>docs/about</h2>
@@ -107,7 +107,7 @@ img_path: /images/4-a88093c4.jpg
       </h3><h2>docs/about/resume</h2>
     
 
-    <hr>
+<hr>
 <h3 id="-docsarticleshttpsbgoonz-blognetlifyappdocsarticles"> 
 <iframe loading="lazy" height="800px" width="800px" src="https://bgoonz-blog.netlify.app/docs/articles/"></iframe>
       </h3><h2>docs/articles</h2>
@@ -168,7 +168,7 @@ img_path: /images/4-a88093c4.jpg
       </h3><h2>docs/articles/writing-files</h2>
     
 
-    <hr>
+<hr>
 <h3 id="-docsfaqhttpsbgoonz-blognetlifyappdocsfaq"> 
 <iframe loading="lazy" height="800px" width="800px" src="https://bgoonz-blog.netlify.app/docs/faq/"></iframe>
       </h3><h2>docs/faq</h2>
@@ -179,7 +179,7 @@ img_path: /images/4-a88093c4.jpg
       </h3><h2>docs/faq/contact</h2>
     
 
-    <hr>
+<hr>
 <h3 id="-docsinteracthttpsbgoonz-blognetlifyappdocsinteract"> 
 <iframe loading="lazy" height="800px" width="800px" src="https://bgoonz-blog.netlify.app/docs/interact/"></iframe>
       </h3><h2>docs/interact</h2>
@@ -195,7 +195,7 @@ img_path: /images/4-a88093c4.jpg
       </h3><h2>docs/interact/jupyter-notebooks</h2>
     
 
-    <hr>
+<hr>
 <h3 id="-docslinkssocialhttpsbgoonz-blognetlifyappdocslinkssocial"> 
 <iframe loading="lazy" height="800px" width="800px" src="https://bgoonz-blog.netlify.app/docs/links/Social/"></iframe>
       </h3><h2>docs/links/Social</h2>
@@ -216,7 +216,7 @@ img_path: /images/4-a88093c4.jpg
       </h3><h2>docs/links/my-websites</h2>
     
 
-    <hr>
+<hr>
 <h3 id="-docsquick-referenceemmethttpsbgoonz-blognetlifyappdocsquick-referenceemmet"> 
 <iframe loading="lazy" height="800px" width="800px" src="https://bgoonz-blog.netlify.app/docs/quick-reference/Emmet/"></iframe>
       </h3><h2>docs/quick-reference/Emmet</h2>
@@ -242,7 +242,7 @@ img_path: /images/4-a88093c4.jpg
       </h3><h2>docs/quick-reference/new-repo-instructions</h2>
     
 
-    <hr>
+<hr>
 <h3 id="-docsreacthttpsbgoonz-blognetlifyappdocsreact"> 
 <iframe loading="lazy" height="800px" width="800px" src="https://bgoonz-blog.netlify.app/docs/react/"></iframe>
       </h3><h2>docs/react</h2>
@@ -258,7 +258,7 @@ img_path: /images/4-a88093c4.jpg
       </h3><h2>docs/react/react2</h2>
     
 
-    <hr>
+<hr>
 <h3 id="-docstoolshttpsbgoonz-blognetlifyappdocstools"> 
 <iframe loading="lazy" height="800px" width="800px" src="https://bgoonz-blog.netlify.app/docs/tools/"></iframe>
       </h3><h2>docs/tools</h2>
@@ -284,7 +284,7 @@ img_path: /images/4-a88093c4.jpg
       </h3><h2>docs/tools/vscode</h2>
     
 
-    <hr>
+<hr>
 <h3 id="-notes-templatehttpsbgoonz-blognetlifyappnotes-template"> 
 <iframe loading="lazy" height="800px" width="800px" src="https://bgoonz-blog.netlify.app/notes-template/"></iframe>
       </h3><h2>notes-template</h2>

@@ -23,7 +23,7 @@
             },
             {
                 "label": "Blog-Posts",
-                "url": "blog",
+                "url": "blog-posts",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,

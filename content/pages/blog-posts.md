@@ -1,6 +1,6 @@
 ---
-title: Archive
-subtitle: Archive
+title: Blog-Posts
+subtitle: Blog-Posts
 seo:
     title: ''
     description: ''

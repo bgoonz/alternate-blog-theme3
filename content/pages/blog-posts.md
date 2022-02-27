@@ -13,7 +13,7 @@ img_path: /images/4-a88093c4.jpg
 
 
 
-<center>
+
     <h1 id="span-stylealign-selfcentermarginauto-font-familypapyrus-font-size2emsitemapspan"><span style="align-self:center;margin:auto; font-family:Papyrus; font-size:2em;color:red;">Sitemap:</span></h1>
 
     <hr>

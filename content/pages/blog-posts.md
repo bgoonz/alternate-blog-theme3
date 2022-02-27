@@ -57,19 +57,7 @@ img_path: /images/4-a88093c4.jpg
 
 <h3 id="-docssitemaphttpsbgoonz-blognetlifyappdocssitemap"> 
 <iframe loading="lazy" height="800px" width="800px" src="https://bgoonz-blog.netlify.app/docs/sitemap/"></iframe>
-</h3><h2>docs/sitemap</h2>
-    
-id="-docsaboutnodeinstallhttpsbgoonz-blognetlifyappdocsaboutnodeinstall"> 
-<iframe loading="lazy" height="800px" width="800px" src="https://bgoonz-blog.netlify.app/docs/about/node/install/"></iframe>
-</h3><h2>docs/about/node/install</h2>
-    
-
-<h3 id="-docsaboutnodeintrohttpsbgoonz-blognetlifyappdocsaboutnodeintro"> 
-<iframe loading="lazy" height="800px" width="800px" src="https://bgoonz-blog.netlify.app/docs/about/node/intro/"></iframe>
-</h3><h2>docs/about/node/intro</h2>
-    
-
-<h3 id="-docsaboutnodenodejshttpsbgoonz-blognetlifyappdocsaboutnodenodejs"> 
+</h3><h2>docs/sitemap</h2>id="-docsaboutnodenodejshttpsbgoonz-blognetlifyappdocsaboutnodenodejs"> 
 <iframe loading="lazy" height="800px" width="800px" src="https://bgoonz-blog.netlify.app/docs/about/node/nodejs/"></iframe>
 </h3><h2>docs/about/node/nodejs</h2>
     

@@ -64,15 +64,6 @@ img_path: /images/4-a88093c4.jpg
 
     
 
-<h3 id="-docsaboutnodewriting-fileshttpsbgoonz-blognetlifyappdocsaboutnodewriting-files">
-      <iframe loading="lazy" height="800px" width="800px" src="https://bgoonz-blog.netlify.app/docs/about/node/writing-files/"></iframe>
-</h3><h2>docs/about/node/writing-files</h2>
-    
-
-<h3 id="-docsaboutresumehttpsbgoonz-blognetlifyappdocsaboutresume"> 
-<iframe loading="lazy" height="800px" width="800px" src="https://bgoonz-blog.netlify.app/docs/about/resume/"></iframe>
-</h3><h2>docs/about/resume</h2>
-    
 
 <hr>
 <h3 id="-docsarticleshttpsbgoonz-blognetlifyappdocsarticles"> 

@@ -61,12 +61,7 @@ img_path: /images/4-a88093c4.jpg
 <iframe loading="lazy" height="800px" width="800px" src="https://bgoonz-blog.netlify.app/docs/about/node/nodejs/"></iframe>
 </h3><h2>docs/about/node/nodejs</h2>
     
->
-    
 
-<h3 id="-docsaboutnodereading-fileshttpsbgoonz-blognetlifyappdocsaboutnodereading-files">
-      <iframe loading="lazy" height="800px" width="800px" src="https://bgoonz-blog.netlify.app/docs/about/node/reading-files/"></iframe>
-</h3><h2>docs/about/node/reading-files</h2>
     
 
 <h3 id="-docsaboutnodewriting-fileshttpsbgoonz-blognetlifyappdocsaboutnodewriting-files">

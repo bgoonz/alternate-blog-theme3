@@ -44,9 +44,6 @@ img_path: /images/4-a88093c4.jpg
 </h3><h2>blog/python-for-js-dev</h2>
     
 
-<h3 
-    
-
 <h3 id="-docssitemaphttpsbgoonz-blognetlifyappdocssitemap"> 
 <iframe loading="lazy" height="800px" width="800px" src="https://bgoonz-blog.netlify.app/docs/sitemap/"></iframe>
 </h3><h2>docs/sitemap</h2>id="-docsaboutnodenodejshttpsbgoonz-blognetlifyappdocsaboutnodenodejs"> 

@@ -253,7 +253,7 @@ img_path: /images/4-a88093c4.jpg
 
 
 
-  </center>
+  
 
 
 

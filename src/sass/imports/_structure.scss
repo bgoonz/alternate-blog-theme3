@@ -15,11 +15,11 @@
 }
 
 .inner {
-    max-width: 1250px;
+    max-width: 1200px;
 }
 
 img {
-    border: 2px solid black;
+    border: 3px solid black;
 }
 
 .site-content {
@@ -36,12 +36,12 @@ img {
     padding: 2.5em 4vw 1.66667em;
 
     @media only screen and (min-width: 801px) {
-        margin-left: 20vw;
+        margin-left: 30vw;
     }
 
     @media only screen and (min-width: 1091px) {
-        padding-left: 4vw;
-        padding-right: 4vw;
+        padding-left: 6vw;
+        padding-right: 6vw;
     }
 
     @media only screen and (min-width: 1501px) {

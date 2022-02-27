@@ -26,7 +26,7 @@
         "react-html-parser": "2.0.2",
         "react-instantsearch-dom": "6.19.0",
         "react-script-tag": "1.1.2",
-        "sourcebit": "0.11.0",
+        "sourcebit": "0.11.1",
         "sourcebit-source-filesystem": "0.2.0",
         "sourcebit-target-next": "0.6.2",
         "webpack": "5.66.0"

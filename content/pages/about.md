@@ -3,20 +3,20 @@ title: About Me
 subtitle: This is a short page about me and my work
 img_path: /images/sine-wav-bak-ver.jpg
 seo:
-  title: About Me
-  description: A page about me and my work
+  title: Archive
+  description: Project archive
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Me
+      value: Archive
       keyName: property
     - name: 'og:description'
-      value: A page about me and my work
+      value: Archive of embedded projects
       keyName: property
     - name: 'og:image'
-      value: /images/101948313_3560363123980817_2358876238887518208_n-e831625c.jpg
+      value: /images/My Post-d9e2e75e.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'

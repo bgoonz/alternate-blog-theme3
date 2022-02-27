@@ -22,6 +22,14 @@
                 "style": "link"
             },
             {
+                "label": "Blog-Posts",
+                "url": "blog-posts",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
                 "label": "Archive",
                 "url": "archive",
                 "style": "link",

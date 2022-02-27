@@ -44,15 +44,7 @@ img_path: /images/4-a88093c4.jpg
 </h3><h2>blog/python-for-js-dev</h2>
     
 
-<h3 id="-blogpython-resourceshttpsbgoonz-blognetlifyappblogpython-resources"> 
-<iframe loading="lazy" height="800px" width="800px" src="https://bgoonz-blog.netlify.app/blog/python-resources/"></iframe>
-</h3><h2>blog/python-resources</h2>
-    
-
-<hr>
-<h3 id="-docshttpsbgoonz-blognetlifyappdocs"> 
-<iframe loading="lazy" height="800px" width="800px" src="https://bgoonz-blog.netlify.app/docs/"></iframe>
-</h3><h2>docs</h2>
+<h3 
     
 
 <h3 id="-docssitemaphttpsbgoonz-blognetlifyappdocssitemap"> 

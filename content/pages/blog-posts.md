@@ -59,20 +59,7 @@ img_path: /images/4-a88093c4.jpg
 <iframe loading="lazy" height="800px" width="800px" src="https://bgoonz-blog.netlify.app/docs/sitemap/"></iframe>
 </h3><h2>docs/sitemap</h2>
     
-
-<hr>
-<hr>
-<h3 id="-docsabouthttpsbgoonz-blognetlifyappdocsabout"> 
-<iframe loading="lazy" height="800px" width="800px" src="https://bgoonz-blog.netlify.app/docs/about/"></iframe>
-</h3><h2>docs/about</h2>
-    
-
-<h3 id="-docsaboutmehttpsbgoonz-blognetlifyappdocsaboutme"> 
-<iframe loading="lazy" height="800px" width="800px" src="https://bgoonz-blog.netlify.app/docs/about/me/"></iframe>
-</h3><h2>docs/about/me</h2>
-    
-
-<h3 id="-docsaboutnodeinstallhttpsbgoonz-blognetlifyappdocsaboutnodeinstall"> 
+id="-docsaboutnodeinstallhttpsbgoonz-blognetlifyappdocsaboutnodeinstall"> 
 <iframe loading="lazy" height="800px" width="800px" src="https://bgoonz-blog.netlify.app/docs/about/node/install/"></iframe>
 </h3><h2>docs/about/node/install</h2>
     

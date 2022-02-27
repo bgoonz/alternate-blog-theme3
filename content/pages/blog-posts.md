@@ -70,10 +70,6 @@ img_path: /images/4-a88093c4.jpg
 <iframe loading="lazy" height="800px" width="800px" src="https://bgoonz-blog.netlify.app/docs/articles/basic-web-dev/"></iframe>
 </h3><h2>docs/articles/basic-web-dev</h2>
     
-
-<h3 id="-docsarticlesgalleryhttpsbgoonz-blognetlifyappdocsarticlesgallery"> 
-<iframe loading="lazy" height="800px" width="800px" src="https://bgoonz-blog.netlify.app/docs/articles/gallery/"></iframe>
-</h3><h2>docs/articles/gallery</h2>
     
 
 <h3 id="-docsarticlesinstallhttpsbgoonz-blognetlifyappdocsarticlesinstall"> 

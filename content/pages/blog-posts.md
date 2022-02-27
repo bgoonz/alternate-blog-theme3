@@ -77,11 +77,6 @@ img_path: /images/4-a88093c4.jpg
 </h3><h2>docs/articles/install</h2>
     
 
-<h3 id="-docsarticlesintrohttpsbgoonz-blognetlifyappdocsarticlesintro"> 
-<iframe loading="lazy" height="800px" width="800px" src="https://bgoonz-blog.netlify.app/docs/articles/intro/"></iframe>
-</h3><h2>docs/articles/intro</h2>
-    
-
 <h3 id="-docsarticlespythonhttpsbgoonz-blognetlifyappdocsarticlespython"> 
 <iframe loading="lazy" height="800px" width="800px" src="https://bgoonz-blog.netlify.app/docs/articles/python/"></iframe>
 </h3><h2>docs/articles/python</h2>

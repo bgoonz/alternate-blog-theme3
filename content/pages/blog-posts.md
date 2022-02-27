@@ -9,8 +9,7 @@ seo:
 layout: page
 img_path: /images/4-a88093c4.jpg
 ---
-# Blog Posts
-
+#
 
 
 

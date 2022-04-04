@@ -1,5 +1,5 @@
 {
-    "title": "Web-Dev-Portfolio-4",
+    "title": "SidebarBlog",
     "path_prefix": "/",
     "palette": "green",
     "header": {
@@ -38,7 +38,7 @@
                 "no_follow": false
             },
             {
-                "label": "Resume-Experience",
+                "label": "Resume",
                 "url": "resume",
                 "style": "link",
                 "icon_class": "dev",
@@ -134,22 +134,6 @@
                 "new_window": true,
                 "no_follow": false,
                 "type": "action"
-            },
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "icon_class": "vimeo",
-                "new_window": false,
-                "no_follow": false
-            },
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false
             }
         ]
     },

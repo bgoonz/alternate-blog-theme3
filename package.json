@@ -11,7 +11,7 @@
         "start": "next start"
     },
     "dependencies": {
-        "algoliasearch": "4.12.0",
+        "algoliasearch": "4.13.1",
         "babel-runtime": "6.26.0",
         "classnames": "2.3.1",
         "lodash": "4.17.21",

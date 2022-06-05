@@ -28,7 +28,7 @@
         "react-script-tag": "1.1.2",
         "sourcebit": "0.11.0",
         "sourcebit-source-filesystem": "0.2.0",
-        "sourcebit-target-next": "0.6.2",
+        "sourcebit-target-next": "0.8.3",
         "webpack": "5.72.1"
     },
     "devDependencies": {
